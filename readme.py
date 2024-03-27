@@ -29,7 +29,7 @@ print("| me | catppuccin |", file=buf)
 print("| -- | ---------- |", file=buf)
 for u, c in zip(user, catppuccin):
     print(f"| {format_repo(u)} | {format_repo(c)} |", file=buf)
-print(REPLACE, file=buf)
+print(REPLACE, file=buf, end="")
 
 contents = README.read_text()
 result = REPLACE_PAT.sub(buf.getvalue(), contents)
