@@ -7,9 +7,9 @@ from gql.transport.httpx import HTTPXTransport
 from gql import Client, gql
 from httpx import Timeout
 
-TOKEN = os.getenv("GITHUB_TOKEN")
+TOKEN = os.getenv("GH_TOKEN")
 if not TOKEN:
-    print("error: GITHUB_TOKEN not present", file=sys.stderr)
+    print("error: GH_TOKEN not present", file=sys.stderr)
     sys.exit(1)
 
 transport = HTTPXTransport(
