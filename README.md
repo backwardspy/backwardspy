@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey check out [@catppuccin](https://github.com/catppuccin) it's pretty great
+# check out [@catppuccin](https://github.com/catppuccin) it's pretty great
 
 ### recent activity
 
