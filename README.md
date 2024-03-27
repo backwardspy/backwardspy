@@ -1,5 +1,48 @@
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/backwardspy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/backwardspy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/backwardspy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table> 
+<div align="center">
 
-hey check out [@catppuccin](https://github.com/catppuccin) it's pretty great
+# hey check out [@catppuccin](https://github.com/catppuccin) it's pretty great
 
-[![@backwardspy on holopin](https://holopin.me/backwardspy)](https://holopin.io/@backwardspy)
+### recent activity
+
+<!-- SCRIPT:REPLACE -->
+| me | catppuccin |
+| -- | ---------- |
+| [catppuccin/python](https://github.com/catppuccin/python) ([v2.2.0](https://github.com/catppuccin/python/releases/tag/v2.2.0)) | [catppuccin/website](https://github.com/catppuccin/website) |
+| [backwardspy/dots](https://github.com/backwardspy/dots) | [catppuccin/nvim](https://github.com/catppuccin/nvim) ([v1.6.0](https://github.com/catppuccin/nvim/releases/tag/v1.6.0)) |
+| [catppuccin/godot](https://github.com/catppuccin/godot) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) ([Ctp v0.2.0](https://github.com/catppuccin/catppuccin/releases/tag/v0.2.0)) |
+| [catppuccin/dwarf-fortress](https://github.com/catppuccin/dwarf-fortress) | [catppuccin/iterm](https://github.com/catppuccin/iterm) |
+| [catppuccin/rust](https://github.com/catppuccin/rust) ([v2.2.0](https://github.com/catppuccin/rust/releases/tag/v2.2.0)) | [catppuccin/egui](https://github.com/catppuccin/egui) ([v5.0.0](https://github.com/catppuccin/egui/releases/tag/v5.0.0)) |
+<!-- SCRIPT:REPLACE -->
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+<img src="pigeon.svg">
+
+<br>
+<br>
+
+![visitor count](https://profile-counter.glitch.me/backwardspy/count.svg)
+
+<table>
+    <thead>
+        <th colspan="3"><a href="https://octo-ring.com">🐙 octo ring 🐙</a></th>
+    </thead>
+    <tbody>
+        <td><a href="https://octo-ring.com/p/backwardspy/prev">⏮️</a></td>
+        <td><a href="https://octo-ring.com/p/backwardspy/random">🔀</a></td>
+        <td><a href="https://octo-ring.com/p/backwardspy/next">⏭️</a></td>
+    </tbody>
+</table>
+
+</div>

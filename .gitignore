@@ -1,0 +1,5 @@
+*.egg-info
+.env
+.venv
+catppuccin.json
+user.json
