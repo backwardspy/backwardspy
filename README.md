@@ -8,10 +8,10 @@
 | me | catppuccin |
 | -- | ---------- |
 | [backwardspy/backwardspy](https://github.com/backwardspy/backwardspy) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) ([Ctp v0.2.0](https://github.com/catppuccin/catppuccin/releases/tag/v0.2.0)) |
-| [catppuccin/python](https://github.com/catppuccin/python) ([v2.2.0](https://github.com/catppuccin/python/releases/tag/v2.2.0)) | [catppuccin/tmux](https://github.com/catppuccin/tmux) |
-| [backwardspy/dots](https://github.com/backwardspy/dots) | [catppuccin/vscode](https://github.com/catppuccin/vscode) ([@catppuccin/vscode: v3.13.0](https://github.com/catppuccin/vscode/releases/tag/%40catppuccin/vscode-v3.13.0)) |
-| [catppuccin/godot](https://github.com/catppuccin/godot) | [catppuccin/website](https://github.com/catppuccin/website) |
-| [catppuccin/dwarf-fortress](https://github.com/catppuccin/dwarf-fortress) | [catppuccin/nvim](https://github.com/catppuccin/nvim) ([v1.6.0](https://github.com/catppuccin/nvim/releases/tag/v1.6.0)) |
+| [backwardspy/dots](https://github.com/backwardspy/dots) | [catppuccin/tmux](https://github.com/catppuccin/tmux) |
+| [backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io) | [catppuccin/vscode](https://github.com/catppuccin/vscode) ([@catppuccin/vscode: v3.13.0](https://github.com/catppuccin/vscode/releases/tag/%40catppuccin/vscode-v3.13.0)) |
+| [NickSquiggles/Website](https://github.com/NickSquiggles/Website) | [catppuccin/website](https://github.com/catppuccin/website) |
+| [binkhq/python](https://github.com/binkhq/python) | [catppuccin/nvim](https://github.com/catppuccin/nvim) ([v1.6.0](https://github.com/catppuccin/nvim/releases/tag/v1.6.0)) |
 <!-- SCRIPT:REPLACE -->
 
 <br>
