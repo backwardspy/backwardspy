@@ -23,7 +23,7 @@ query = gql("""
   viewer {
     repositories(
       first: 100
-      orderBy: {field: UPDATED_AT, direction: DESC}
+      orderBy: {field: PUSHED_AT, direction: DESC}
       isArchived: false
       visibility: PUBLIC
     ) {
