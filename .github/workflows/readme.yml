@@ -17,7 +17,7 @@ jobs:
       - name: "Query GitHub API"
         run: "python query.py"
         env:
-          GH_TOKEN: "{{ secrets.GH_TOKEN }}"
+          GH_TOKEN: "${{ secrets.GH_TOKEN }}"
       - name: "Update table in README"
         run: "python readme.py"
       - uses: "stefanzweifel/git-auto-commit-action@v5"
