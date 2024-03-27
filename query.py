@@ -12,8 +12,6 @@ if not TOKEN:
     print("error: GH_TOKEN not present", file=sys.stderr)
     sys.exit(1)
 
-print(f"[DEBUG] using token {TOKEN}")
-
 transport = HTTPXTransport(
     url="https://api.github.com/graphql",
     headers={"Authorization": f"Bearer {TOKEN}"},
