@@ -7,11 +7,11 @@
 <!-- SCRIPT:REPLACE -->
 | me | catppuccin |
 | -- | ---------- |
-| [backwardspy/backwardspy](https://github.com/backwardspy/backwardspy) | [catppuccin/dark-reader](https://github.com/catppuccin/dark-reader) |
-| [backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io) | [catppuccin/musicbee](https://github.com/catppuccin/musicbee) ([v2.3.2](https://github.com/catppuccin/musicbee/releases/tag/v2.3.2)) |
-| [backwardspy/dots](https://github.com/backwardspy/dots) | [catppuccin/toolbox](https://github.com/catppuccin/toolbox) ([whiskers: v1.1.4](https://github.com/catppuccin/toolbox/releases/tag/whiskers-v1.1.4)) |
-| [NickSquiggles/Website](https://github.com/NickSquiggles/Website) | [catppuccin/website](https://github.com/catppuccin/website) |
-| [binkhq/python](https://github.com/binkhq/python) | [catppuccin/userstyles](https://github.com/catppuccin/userstyles) ([all-userstyles-export](https://github.com/catppuccin/userstyles/releases/tag/all-userstyles-export)) |
+| [backwardspy/backwardspy](https://github.com/backwardspy/backwardspy) | [catppuccin/helix](https://github.com/catppuccin/helix) |
+| [backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io) | [catppuccin/tmux](https://github.com/catppuccin/tmux) |
+| [backwardspy/dots](https://github.com/backwardspy/dots) | [catppuccin/vscode](https://github.com/catppuccin/vscode) ([@catppuccin/vscode: v3.13.0](https://github.com/catppuccin/vscode/releases/tag/%40catppuccin/vscode-v3.13.0)) |
+| [NickSquiggles/Website](https://github.com/NickSquiggles/Website) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) ([Ctp v0.2.0](https://github.com/catppuccin/catppuccin/releases/tag/v0.2.0)) |
+| [binkhq/python](https://github.com/binkhq/python) | [catppuccin/blockbench](https://github.com/catppuccin/blockbench) |
 <!-- SCRIPT:REPLACE -->
 
 <br>
