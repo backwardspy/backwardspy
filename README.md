@@ -7,11 +7,11 @@
 <!-- SCRIPT:REPLACE -->
 | me | catppuccin |
 | -- | ---------- |
-| [backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io) | [catppuccin/userstyles](https://github.com/catppuccin/userstyles) ([all-userstyles-export](https://github.com/catppuccin/userstyles/releases/tag/all-userstyles-export)) |
-| [backwardspy/backwardspy](https://github.com/backwardspy/backwardspy) | [catppuccin/website](https://github.com/catppuccin/website) |
-| [backwardspy/dots](https://github.com/backwardspy/dots) | [catppuccin/kakoune](https://github.com/catppuccin/kakoune) |
-| [NickSquiggles/Website](https://github.com/NickSquiggles/Website) | [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) |
-| [binkhq/python](https://github.com/binkhq/python) | [catppuccin/serenity-os](https://github.com/catppuccin/serenity-os) |
+| [backwardspy/backwardspy](https://github.com/backwardspy/backwardspy) | [catppuccin/dark-reader](https://github.com/catppuccin/dark-reader) |
+| [backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io) | [catppuccin/musicbee](https://github.com/catppuccin/musicbee) ([v2.3.2](https://github.com/catppuccin/musicbee/releases/tag/v2.3.2)) |
+| [backwardspy/dots](https://github.com/backwardspy/dots) | [catppuccin/toolbox](https://github.com/catppuccin/toolbox) ([whiskers: v1.1.4](https://github.com/catppuccin/toolbox/releases/tag/whiskers-v1.1.4)) |
+| [NickSquiggles/Website](https://github.com/NickSquiggles/Website) | [catppuccin/website](https://github.com/catppuccin/website) |
+| [binkhq/python](https://github.com/binkhq/python) | [catppuccin/userstyles](https://github.com/catppuccin/userstyles) ([all-userstyles-export](https://github.com/catppuccin/userstyles/releases/tag/all-userstyles-export)) |
 <!-- SCRIPT:REPLACE -->
 
 <br>
