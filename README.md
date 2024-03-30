@@ -16,7 +16,11 @@
 
 <br>
 
-<img src="pigeon.svg">
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="pigeon-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="pigeon-dark.svg">
+    <img alt="pigeon sitting on a wire" src="pigeon-light.svg">
+</picture>
 
 <br>
 <br>
