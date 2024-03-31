@@ -17,12 +17,8 @@ jobs:
           cache: "pip"
       - name: "Install dependencies"
         run: "pip install --requirement requirements.txt"
-      - name: "Query GitHub API"
-        run: "python query.py"
-        env:
-          GH_TOKEN: "${{ secrets.GH_TOKEN }}"
-      - name: "Update table in README"
-        run: "python readme.py"
+      - name: "Generate new README.md"
+        run: "python generate.py"
       - uses: "stefanzweifel/git-auto-commit-action@v5"
         with:
-          commit_message: "chore: update readme table"
+          commit_message: "chore: update readme"

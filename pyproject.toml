@@ -6,6 +6,4 @@ build-backend = "setuptools.build_meta"
 name = "readme"
 version = "1.0.0"
 requires-python = "~=3.12"
-dependencies = [
-    "gql[httpx]~=3.5"
-]
+dependencies = ["httpx", "pendulum"]
