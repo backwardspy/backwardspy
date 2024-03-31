@@ -2,7 +2,7 @@
 <table>
 <tbody>
 {% for (dt, entry, repo) in entries %}
-<tr width="600px">
+<tr>
 <td>{{ dt }}</td>
 <td>
 
