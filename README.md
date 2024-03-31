@@ -258,6 +258,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | album | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851062a3ec0a6feaddf860f3cda" width="48" height="48"> | [The Anomaly](https://open.spotify.com/track/0Bjyo7tRKigcNn29B1aCo2) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [The Unseen Empire](https://open.spotify.com/track/0Bjyo7tRKigcNn29B1aCo2) |
+| <img src="https://i.scdn.co/image/ab67616d000048516549db795138dc2b76258712" width="48" height="48"> | [Persona](https://open.spotify.com/track/3P4zqCCtJ57gt8EZZnDb5r) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [A View From The End Of The World](https://open.spotify.com/track/3P4zqCCtJ57gt8EZZnDb5r) |
 | <img src="https://i.scdn.co/image/ab67616d00004851086fd08b0a9e09401a634902" width="48" height="48"> | [Unlimited Sin](https://open.spotify.com/track/2AVFBfR4LukSzUD96dbT0z) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/track/2AVFBfR4LukSzUD96dbT0z) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Falling](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c880c3fce14935c405c7503e" width="48" height="48"> | [Twe27ySeven](https://open.spotify.com/track/2ZIR7ECno9Cv3BQq7fk7D8) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [Into the Night World](https://open.spotify.com/track/2ZIR7ECno9Cv3BQq7fk7D8) |
@@ -266,8 +268,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851e579f3fa0808911758621288" width="48" height="48"> | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d83d2da310c9a23b6d18ae75" width="48" height="48"> | [Cynics & Critics](https://open.spotify.com/track/2yQU8Kz10SPaDQ45alwRSI) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Icon for Hire](https://open.spotify.com/track/2yQU8Kz10SPaDQ45alwRSI) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Murky](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) |
-| <img src="https://i.scdn.co/image/ab67616d00004851aefd42cfcad1195cbcd770d5" width="48" height="48"> | [Bed Of Razors](https://open.spotify.com/track/5v55b9OYlV2QSvOuyy5yKF) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Hatebreeder](https://open.spotify.com/track/5v55b9OYlV2QSvOuyy5yKF) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f215b4cc52966e1c0399ecf1" width="48" height="48"> | [To Holmgard and Beyond](https://open.spotify.com/track/0xDlzSpwgLuOrCbh3pOmLS) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [The Varangian Way](https://open.spotify.com/track/0xDlzSpwgLuOrCbh3pOmLS) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
