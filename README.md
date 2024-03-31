@@ -256,7 +256,7 @@
 ## 🎵 recently played
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
-| album | track | artist | album |
+| | track | artist | album |
 | - | - | - | - |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Bye Bye Babylon](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) |
 | <img src="https://i.scdn.co/image/ab67616d00004851eae389f411e0a8d740d03561" width="48" height="48"> | [End Of The World](https://open.spotify.com/track/6LtjVoJQ1uTk69wxWuCYHy) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Berserker](https://open.spotify.com/track/6LtjVoJQ1uTk69wxWuCYHy) |
