@@ -6,17 +6,18 @@
 ## recent github activity
 | date | event | repo |
 | - | - | - |
+| <span title='2024-03-31T13:35:55+00:00'>12 seconds ago</span> | 🚢 pushed 1 commits to `refs/heads/main` | [backwardspy/backwardspy](https://github.com/backwardspy/backwardspy) |
 | <span title='2024-03-31T10:27:30+00:00'>3 hours ago</span> | 💬 commented on issue [#2197: MobaXterm](https://github.com/catppuccin/catppuccin/issues/2197) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 | <span title='2024-03-31T10:23:35+00:00'>3 hours ago</span> | 🔍 reviewed pull request [#153: chore: remove puccinier](https://github.com/catppuccin/toolbox/pull/153) | [catppuccin/toolbox](https://github.com/catppuccin/toolbox) |
 | <span title='2024-03-31T01:20:49+00:00'>12 hours ago</span> | 💬 commented on issue [#2343: docs: add catppuccin/github-file-explorer-icons](https://github.com/catppuccin/catppuccin/pull/2343) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 | <span title='2024-03-31T01:20:46+00:00'>12 hours ago</span> | ✅ closed issue [#2290: GitHub File Explorer Icons](https://github.com/catppuccin/catppuccin/issues/2290) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
-| <span title='2024-03-31T01:20:47+00:00'>12 hours ago</span> | 🚢 pushed 1 commits to `refs/heads/main` | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 
 <details>
 <summary>show more...</summary>
 
 | date | event | repo |
 | - | - | - |
+| <span title='2024-03-31T01:20:47+00:00'>12 hours ago</span> | 🚢 pushed 1 commits to `refs/heads/main` | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 | <span title='2024-03-31T01:20:46+00:00'>12 hours ago</span> | 🎉 closed pull request [#2343: docs: add catppuccin/github-file-explorer-icons](https://github.com/catppuccin/catppuccin/pull/2343) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 | <span title='2024-03-31T01:18:16+00:00'>12 hours ago</span> | 💬 commented on issue [#2104: Asciinema](https://github.com/catppuccin/catppuccin/issues/2104) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 | <span title='2024-03-31T01:14:14+00:00'>12 hours ago</span> | 💬 commented on issue [#2040: Blender](https://github.com/catppuccin/catppuccin/issues/2040) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
@@ -41,7 +42,6 @@
 | <span title='2024-03-30T22:58:19+00:00'>14 hours ago</span> | 💬 commented on issue [#1749: ggplot2](https://github.com/catppuccin/catppuccin/issues/1749) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 | <span title='2024-03-30T22:58:18+00:00'>14 hours ago</span> | ✅ closed issue [#1749: ggplot2](https://github.com/catppuccin/catppuccin/issues/1749) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 | <span title='2024-03-30T22:51:06+00:00'>14 hours ago</span> | 💬 commented on issue [#2019: Archcraft OS](https://github.com/catppuccin/catppuccin/issues/2019) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
-| <span title='2024-03-30T22:50:15+00:00'>14 hours ago</span> | ✅ closed issue [#2019: Archcraft OS](https://github.com/catppuccin/catppuccin/issues/2019) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 
 </details>
 <!-- SCRIPT:REPLACE:GITHUB -->
