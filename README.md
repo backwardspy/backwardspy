@@ -7,6 +7,78 @@
 <table>
 <tbody>
 <tr width="600px">
+<td><span title='2024-03-31T13:59:59+00:00'>Mar 31st 13:59</span></td>
+<td>
+
+💬 commented on [#2197: MobaXterm](https://github.com/catppuccin/catppuccin/issues/2197)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr width="600px">
+<td><span title='2024-03-31T13:59:42+00:00'>Mar 31st 13:59</span></td>
+<td>
+
+🚢 pushed 1 commits to `refs/heads/main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr width="600px">
+<td><span title='2024-03-31T13:59:42+00:00'>Mar 31st 13:59</span></td>
+<td>
+
+✅ closed [#2197: MobaXterm](https://github.com/catppuccin/catppuccin/issues/2197)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr width="600px">
+<td><span title='2024-03-31T13:59:41+00:00'>Mar 31st 13:59</span></td>
+<td>
+
+🎉 closed [#2345: docs: add catppuccin/mobaxterm](https://github.com/catppuccin/catppuccin/pull/2345)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr width="600px">
+<td><span title='2024-03-31T13:59:19+00:00'>Mar 31st 13:59</span></td>
+<td>
+
+🚀 opened [#2345: docs: add catppuccin/mobaxterm](https://github.com/catppuccin/catppuccin/pull/2345)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr width="600px">
 <td><span title='2024-03-31T10:27:30+00:00'>Mar 31st 10:27</span></td>
 <td>
 
@@ -71,13 +143,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr width="600px">
 <td><span title='2024-03-31T01:20:46+00:00'>Mar 31st 01:20</span></td>
 <td>
@@ -239,162 +304,6 @@
 <td>
 
 💬 commented on [#2141: Trilium Notes](https://github.com/catppuccin/catppuccin/issues/2141)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-31T00:10:23+00:00'>Mar 31st 00:10</span></td>
-<td>
-
-💬 commented on [#2123: Missing a pink-ish color](https://github.com/catppuccin/catppuccin/issues/2123)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-31T00:10:23+00:00'>Mar 31st 00:10</span></td>
-<td>
-
-✅ closed [#2123: Missing a pink-ish color](https://github.com/catppuccin/catppuccin/issues/2123)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-31T00:04:08+00:00'>Mar 31st 00:04</span></td>
-<td>
-
-💬 commented on [#2167: SQL Server Management Studio](https://github.com/catppuccin/catppuccin/issues/2167)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-30T23:56:54+00:00'>Mar 30th 23:56</span></td>
-<td>
-
-💬 commented on [#2104: Asciinema](https://github.com/catppuccin/catppuccin/issues/2104)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-30T23:24:46+00:00'>Mar 30th 23:24</span></td>
-<td>
-
-💬 commented on [#2003: Squirrel](https://github.com/catppuccin/catppuccin/issues/2003)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-30T23:08:03+00:00'>Mar 30th 23:08</span></td>
-<td>
-
-💬 commented on [#227: Lavender is too subtly different from Text](https://github.com/catppuccin/catppuccin/issues/227)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-30T23:08:02+00:00'>Mar 30th 23:08</span></td>
-<td>
-
-✅ closed [#227: Lavender is too subtly different from Text](https://github.com/catppuccin/catppuccin/issues/227)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-30T23:01:09+00:00'>Mar 30th 23:01</span></td>
-<td>
-
-💬 commented on [#2115: Moosync](https://github.com/catppuccin/catppuccin/issues/2115)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-30T22:58:19+00:00'>Mar 30th 22:58</span></td>
-<td>
-
-💬 commented on [#1749: ggplot2](https://github.com/catppuccin/catppuccin/issues/1749)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-30T22:58:18+00:00'>Mar 30th 22:58</span></td>
-<td>
-
-✅ closed [#1749: ggplot2](https://github.com/catppuccin/catppuccin/issues/1749)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-30T22:51:06+00:00'>Mar 30th 22:51</span></td>
-<td>
-
-💬 commented on [#2019: Archcraft OS](https://github.com/catppuccin/catppuccin/issues/2019)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr width="600px">
-<td><span title='2024-03-30T22:50:15+00:00'>Mar 30th 22:50</span></td>
-<td>
-
-✅ closed [#2019: Archcraft OS](https://github.com/catppuccin/catppuccin/issues/2019)
 
 </td>
 <td>
