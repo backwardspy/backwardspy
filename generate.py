@@ -3,6 +3,7 @@ from pathlib import Path
 from typing import Any
 
 import httpx
+import jinja2
 import pendulum
 
 DATA_PATH = Path("data")
@@ -10,17 +11,21 @@ GITHUB_DATA = DATA_PATH / "github.json"
 README = Path("README.md")
 
 
-def write(data: dict[str, Any], path: Path):
-    if path.exists():
-        print(f"skipping {path} - already exists")
-        return
+TEMPLATE_ENV = jinja2.Environment(
+    loader=jinja2.FileSystemLoader("templates"),
+    autoescape=False,
+    trim_blocks=True,
+    lstrip_blocks=True,
+)
 
+
+def write(data: dict[str, Any], path: Path):
     if DATA_PATH not in path.parents:
         raise ValueError(f"invalid path: {path} - must be a child of {DATA_PATH}")
 
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data))
-    print(f"wrote {path}")
+    print(f" - wrote {path}")
 
 
 def github_public_events(username: str) -> list[dict[str, Any]]:
@@ -34,7 +39,10 @@ def github_public_events(username: str) -> list[dict[str, Any]]:
 
 
 def fetch_all():
-    write(github_public_events("backwardspy"), GITHUB_DATA)
+    if not GITHUB_DATA.exists():
+        write(github_public_events("backwardspy"), GITHUB_DATA)
+    else:
+        print(f" - skipping {GITHUB_DATA} - already exists")
 
 
 def replace_readme_section(key: str, contents: str):
@@ -78,7 +86,7 @@ def generate_github_section() -> str:
             continue
 
         def enter(entry: str):
-            entries.append((event["created_at"], entry, repo))
+            entries.append((dateify(event["created_at"]), entry, repo_linkify(repo)))
 
         match event["type"]:
             case "CreateEvent":  # a git branch or tag is created
@@ -110,39 +118,15 @@ def generate_github_section() -> str:
             case "WatchEvent":  # when someone stars a repository
                 enter("⭐ starred a repository")
 
-    def format_entries(entries: list[tuple[str, str, dict[str, Any]]]) -> str:
-        return "\n".join(
-            f"| {dateify(dt)} | {entry} | {repo_linkify(repo)} |"
-            for (dt, entry, repo) in entries
-        )
-
-    heading = "## recent github activity"
-
-    thead = "| date | event | repo |"
-    sep = "|" + "|".join(" - " for _ in entries[0]) + "|"
-
-    first = format_entries(entries[:5])
-    more_open = """<details>
-<summary>show more...</summary>"""
-    remaining = format_entries(entries[5:])
-    more_close = "</details>"
-
-    table = "\n".join([heading, thead, sep, first])
-    if remaining:
-        table += "\n".join(
-            ["", "", more_open, "", thead, sep, remaining, "", more_close]
-        )
-
-    return table
+    template = TEMPLATE_ENV.get_template("activity_table.md")
+    return template.render(entries=entries)
 
 
 if __name__ == "__main__":
     print("fetch...")
     fetch_all()
-    print()
 
     print("generate...")
     replace_readme_section("GITHUB", generate_github_section())
-    print()
 
     print("done!")
