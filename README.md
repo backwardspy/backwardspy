@@ -40,8 +40,6 @@
 | <span title='2024-03-30T23:01:09+00:00'>Mar 30th 23:01</span> | 💬 commented on [#2115: Moosync](https://github.com/catppuccin/catppuccin/issues/2115) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 | <span title='2024-03-30T22:58:19+00:00'>Mar 30th 22:58</span> | 💬 commented on [#1749: ggplot2](https://github.com/catppuccin/catppuccin/issues/1749) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 | <span title='2024-03-30T22:58:18+00:00'>Mar 30th 22:58</span> | ✅ closed [#1749: ggplot2](https://github.com/catppuccin/catppuccin/issues/1749) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
-| <span title='2024-03-30T22:51:06+00:00'>Mar 30th 22:51</span> | 💬 commented on [#2019: Archcraft OS](https://github.com/catppuccin/catppuccin/issues/2019) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
-| <span title='2024-03-30T22:50:15+00:00'>Mar 30th 22:50</span> | ✅ closed [#2019: Archcraft OS](https://github.com/catppuccin/catppuccin/issues/2019) | [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) |
 
 </details>
 <!-- SCRIPT:REPLACE:GITHUB -->
