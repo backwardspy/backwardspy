@@ -1,9 +1,8 @@
 # check out [@catppuccin](https://github.com/catppuccin) it's pretty great
 
+## 📅 recent activity
+
 <!-- SCRIPT:REPLACE:GITHUB -->
-
-## recent activity
-
 <table>
 <tbody>
 <tr>
@@ -316,6 +315,26 @@
 </table>
 </details>
 <!-- SCRIPT:REPLACE:GITHUB -->
+
+<br>
+
+## 🎵 recently played
+
+<!-- SCRIPT:REPLACE:SPOTIFY -->
+| album | track | artist | album |
+| - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851dbfe9a51b813ddc881d21dce" width="48" height="48"> | [Last Ride of the Day](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e579f3fa0808911758621288" width="48" height="48"> | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) |
+| <img src="https://i.scdn.co/image/ab67616d00004851d83d2da310c9a23b6d18ae75" width="48" height="48"> | [Cynics & Critics](https://open.spotify.com/track/2yQU8Kz10SPaDQ45alwRSI) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Icon for Hire](https://open.spotify.com/track/2yQU8Kz10SPaDQ45alwRSI) |
+| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Murky](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) |
+| <img src="https://i.scdn.co/image/ab67616d00004851aefd42cfcad1195cbcd770d5" width="48" height="48"> | [Bed Of Razors](https://open.spotify.com/track/5v55b9OYlV2QSvOuyy5yKF) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Hatebreeder](https://open.spotify.com/track/5v55b9OYlV2QSvOuyy5yKF) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f215b4cc52966e1c0399ecf1" width="48" height="48"> | [To Holmgard and Beyond](https://open.spotify.com/track/0xDlzSpwgLuOrCbh3pOmLS) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [The Varangian Way](https://open.spotify.com/track/0xDlzSpwgLuOrCbh3pOmLS) |
+| <img src="https://i.scdn.co/image/ab67616d0000485160102ef852b2a5de320ffc1f" width="48" height="48"> | [The Fourth World](https://open.spotify.com/track/4PsbRfzwoQSsbLV91d69jR) | [Sinergy](https://open.spotify.com/artist/4rh9OYS6oUILiTsDgzIboL) | [Beware the Heavens (Deluxe Edition)](https://open.spotify.com/track/4PsbRfzwoQSsbLV91d69jR) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f7f4e3f482a05f3a4eaf82ef" width="48" height="48"> | [Moria](https://open.spotify.com/track/5CtKdgmm86gjAETNUqDJHQ) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Unholy Cross](https://open.spotify.com/track/5CtKdgmm86gjAETNUqDJHQ) |
+| <img src="https://i.scdn.co/image/ab67616d000048517715f05108e3b11e8c3997fe" width="48" height="48"> | [Odin Owns Ye All](https://open.spotify.com/track/3IpxyygGowTmVP1Y5JjC1P) | [Månegarm](https://open.spotify.com/artist/6jQgWQKirZ7IKDGN8fRtdA) | [Månegarm](https://open.spotify.com/track/3IpxyygGowTmVP1Y5JjC1P) |
+| <img src="https://i.scdn.co/image/ab67616d00004851ffe6955b65d9425f0cce4472" width="48" height="48"> | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) |
+
+<!-- SCRIPT:REPLACE:SPOTIFY -->
 
 <br>
 

@@ -19,9 +19,6 @@
 </tbody>
 </table>
 {%- endmacro %}
-
-## recent activity
-
 {{ table(entries[:5]) }}
 
 <details>

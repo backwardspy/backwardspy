@@ -1,13 +1,17 @@
 import json
+import os
 from pathlib import Path
 from typing import Any
 
 import httpx
 import jinja2
 import pendulum
+import spotipy
+from spotipy.oauth2 import SpotifyOAuth
 
 DATA_PATH = Path("data")
 GITHUB_DATA = DATA_PATH / "github.json"
+SPOTIFY_DATA = DATA_PATH / "spotify.json"
 README = Path("README.md")
 
 
@@ -38,11 +42,30 @@ def github_public_events(username: str) -> list[dict[str, Any]]:
     return events[:25]
 
 
+def spotify_recently_played() -> list[Any]:
+    if cache_value := os.getenv("SPOTIPY_CACHE"):
+        print(" - using preset cache data for spotify client")
+        Path(".cache").write_text(cache_value)
+    sp = spotipy.Spotify(
+        auth_manager=SpotifyOAuth(
+            client_id="71dc5b9ac29444dcae88b8a5ccb4b8ab",
+            scope="user-read-recently-played",
+            redirect_uri="http://localhost:6502",
+        ),
+    )
+    return sp.current_user_recently_played(limit=10)
+
+
 def fetch_all():
     if not GITHUB_DATA.exists():
         write(github_public_events("backwardspy"), GITHUB_DATA)
     else:
         print(f" - skipping {GITHUB_DATA} - already exists")
+
+    if not SPOTIFY_DATA.exists():
+        write(spotify_recently_played(), SPOTIFY_DATA)
+    else:
+        print(f" - skipping {SPOTIFY_DATA} - already exists")
 
 
 def replace_readme_section(key: str, contents: str):
@@ -122,11 +145,19 @@ def generate_github_section() -> str:
     return template.render(entries=entries)
 
 
+def generate_spotify_section() -> str:
+    with (DATA_PATH / "spotify.json").open() as f:
+        data = json.load(f)
+    template = TEMPLATE_ENV.get_template("recently_played.md")
+    return template.render(entries=[item["track"] for item in data["items"]])
+
+
 if __name__ == "__main__":
     print("fetch...")
     fetch_all()
 
     print("generate...")
     replace_readme_section("GITHUB", generate_github_section())
+    replace_readme_section("SPOTIFY", generate_spotify_section())
 
     print("done!")

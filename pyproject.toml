@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "readme"
 version = "1.0.0"
 requires-python = "~=3.12"
-dependencies = ["httpx", "pendulum", "Jinja2"]
+dependencies = ["httpx", "Jinja2", "pendulum", "spotipy"]
 
 [tool.setuptools.packages.find]
 include = ["generate.py"]
