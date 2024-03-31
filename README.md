@@ -1,5 +1,3 @@
-<div align="center">
-
 # check out [@catppuccin](https://github.com/catppuccin) it's pretty great
 
 <!-- SCRIPT:REPLACE:GITHUB -->
@@ -42,6 +40,8 @@
 <!-- SCRIPT:REPLACE:GITHUB -->
 
 <br>
+
+<div align="center">
 
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/pigeon-light.svg">
