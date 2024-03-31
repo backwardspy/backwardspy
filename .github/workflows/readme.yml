@@ -19,6 +19,9 @@ jobs:
         run: "pip install --requirement requirements.txt"
       - name: "Generate new README.md"
         run: "python generate.py"
+        env:
+          SPOTIPY_CLIENT_SECRET: "${{ secrets.SPOTIPY_CLIENT_SECRET }}"
+          SPOTIPY_CACHE: "${{ secrets.SPOTIPY_CACHE }}"
       - uses: "stefanzweifel/git-auto-commit-action@v5"
         with:
           commit_message: "chore: update readme"
