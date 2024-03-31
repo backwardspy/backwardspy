@@ -56,7 +56,7 @@ def issue_linkify(issue: dict[str, Any]) -> str:
 
 def dateify(date: str) -> str:
     dt = pendulum.parse(date)
-    return f"<span title='{dt.to_rfc3339_string()}'>{dt.diff_for_humans()}</span>"
+    return f"<span title='{dt.to_rfc3339_string()}'>{dt.format('MMM Do HH:mm')}</span>"
 
 
 def generate_github_section() -> str:
@@ -70,6 +70,9 @@ def generate_github_section() -> str:
         repo = event["repo"]
         payload = event["payload"]
 
+        if repo["name"] == "backwardspy/backwardspy":
+            continue
+
         def enter(entry: str):
             entries.append((event["created_at"], entry, repo))
 
@@ -80,22 +83,22 @@ def generate_github_section() -> str:
             case "IssueCommentEvent":  # activity related to an issue or pull request comment
                 link = issue_linkify(payload["issue"])
                 if payload["action"] == "created":
-                    enter(f"💬 commented on issue {link}")
+                    enter(f"💬 commented on {link}")
             case "IssuesEvent":  # activity related to an issue
                 link = issue_linkify(payload["issue"])
                 if payload["action"] == "opened":
-                    enter(f"📢 opened issue {link}")
+                    enter(f"📢 opened {link}")
                 elif payload["action"] == "closed":
-                    enter(f"✅ closed issue {link}")
+                    enter(f"✅ closed {link}")
             case "PullRequestEvent":  # activity related to pull requests
                 link = issue_linkify(payload["pull_request"])
                 if payload["action"] == "opened":
-                    enter(f"🚀 opened pull request {link}")
+                    enter(f"🚀 opened {link}")
                 elif payload["action"] == "closed":
-                    enter(f"🎉 closed pull request {link}")
+                    enter(f"🎉 closed {link}")
             case "PullRequestReviewEvent":  # activity related to pull request reviews
                 link = issue_linkify(payload["pull_request"])
-                enter(f"🔍 reviewed pull request {link}")
+                enter(f"🔍 reviewed {link}")
             case "PushEvent":  # one or more commits are pushed to a repository branch or tag.
                 enter(f"🚢 pushed {payload['size']} commits to `{payload['ref']}`")
             case "ReleaseEvent":  # activity related to a release
@@ -122,7 +125,9 @@ def generate_github_section() -> str:
 
     table = "\n".join([heading, thead, sep, first])
     if remaining:
-        table += "\n".join(["", "", more_open, "", thead, sep, remaining, "", more_close])
+        table += "\n".join(
+            ["", "", more_open, "", thead, sep, remaining, "", more_close]
+        )
 
     return table
 
