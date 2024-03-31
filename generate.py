@@ -23,10 +23,14 @@ def write(data: dict[str, Any], path: Path):
     print(f"wrote {path}")
 
 
-def github_public_events(username: str) -> dict[str, Any]:
-    resp = httpx.get(f"https://api.github.com/users/{username}/events/public")
+def github_public_events(username: str) -> list[dict[str, Any]]:
+    resp = httpx.get(
+        f"https://api.github.com/users/{username}/events/public",
+        params={"per_page": 100},
+    )
     resp.raise_for_status()
-    return resp.json()
+    events = [e for e in resp.json() if e["repo"]["name"] != "backwardspy/backwardspy"]
+    return events[:25]
 
 
 def fetch_all():
