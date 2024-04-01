@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-01T13:46:56+00:00'>Apr 1st 13:46</span></td>
+<td>
+
+🚢 pushed 1 commit to `bump-whiskers-2.0.1`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T13:40:24+00:00'>Apr 1st 13:40</span></td>
+<td>
+
+🚀 opened [#13: whiskers 2.0.1](https://github.com/catppuccin/homebrew-tap/pull/13)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T13:08:02+00:00'>Apr 1st 13:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T13:08:01+00:00'>Apr 1st 13:08</span></td>
+<td>
+
+🎉 closed [#167: docs(whiskers): add naming convention section](https://github.com/catppuccin/toolbox/pull/167)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-01T12:56:20+00:00'>Apr 1st 12:56</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-01T11:36:32+00:00'>Apr 1st 11:36</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T10:48:17+00:00'>Apr 1st 10:48</span></td>
 <td>
@@ -191,97 +243,6 @@
 <td>
 
 [edwardpayton/github95](https://github.com/edwardpayton/github95)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:00:39+00:00'>Apr 1st 10:00</span></td>
-<td>
-
-💬 commented on [#2003: Squirrel](https://github.com/catppuccin/catppuccin/issues/2003)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T09:39:41+00:00'>Apr 1st 09:39</span></td>
-<td>
-
-🚢 pushed 3 commits to `fix/frontmatter-line-endings`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T09:38:43+00:00'>Apr 1st 09:38</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/tera-builtins`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T09:34:46+00:00'>Apr 1st 09:34</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/tera-builtins`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T09:32:15+00:00'>Apr 1st 09:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/frontmatter-line-endings`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T09:31:16+00:00'>Apr 1st 09:31</span></td>
-<td>
-
-🚀 opened [#161: fix: remove hardcoded line ending in frontmatter parser](https://github.com/catppuccin/toolbox/pull/161)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T09:30:31+00:00'>Apr 1st 09:30</span></td>
-<td>
-
-💬 commented on [#10: feat: use whiskers for generation](https://github.com/catppuccin/go/pull/10)
-
-</td>
-<td>
-
-[catppuccin/go](https://github.com/catppuccin/go)
 
 </td>
 </tr>
