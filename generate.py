@@ -135,7 +135,9 @@ def generate_github_section() -> str:
                 link = issue_linkify(payload["pull_request"])
                 enter(f"🔍 reviewed {link}")
             case "PushEvent":  # one or more commits are pushed to a repository branch or tag.
-                enter(f"🚢 pushed {payload['size']} commits to `{payload['ref']}`")
+                size: int = payload["size"]
+                commits = "commits" if size > 1 else "commit"
+                enter(f"🚢 pushed {size} {commits} `{payload['ref']}`")
             case "ReleaseEvent":  # activity related to a release
                 enter(f"📦 released {payload['release']['tag_name']}")
             case "WatchEvent":  # when someone stars a repository
