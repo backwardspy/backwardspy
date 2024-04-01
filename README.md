@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-01T17:12:50+00:00'>Apr 1st 17:12</span></td>
+<td>
+
+✅ closed [#12: catwalk cannot be installed via home-brew](https://github.com/catppuccin/homebrew-tap/issues/12)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T17:12:51+00:00'>Apr 1st 17:12</span></td>
+<td>
+
+💬 commented on [#12: catwalk cannot be installed via home-brew](https://github.com/catppuccin/homebrew-tap/issues/12)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-01T16:08:19+00:00'>Apr 1st 16:08</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-01T13:46:56+00:00'>Apr 1st 13:46</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T13:08:02+00:00'>Apr 1st 13:08</span></td>
 <td>
@@ -222,32 +248,6 @@
 </tr>
 <tr>
 <td><span title='2024-04-01T10:40:33+00:00'>Apr 1st 10:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:40:33+00:00'>Apr 1st 10:40</span></td>
-<td>
-
-🎉 closed [#161: remove hardcoded line ending in frontmatter parser](https://github.com/catppuccin/toolbox/pull/161)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:40:26+00:00'>Apr 1st 10:40</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
