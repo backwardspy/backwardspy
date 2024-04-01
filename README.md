@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-01T15:13:23+00:00'>Apr 1st 15:13</span></td>
+<td>
+
+📢 opened [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-01T14:58:09+00:00'>Apr 1st 14:58</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-01T13:08:01+00:00'>Apr 1st 13:08</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T12:56:20+00:00'>Apr 1st 12:56</span></td>
 <td>
