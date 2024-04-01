@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-01T16:08:19+00:00'>Apr 1st 16:08</span></td>
+<td>
+
+💬 commented on [#164: add hex formatting options to frontmatter](https://github.com/catppuccin/toolbox/issues/164)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-01T15:13:23+00:00'>Apr 1st 15:13</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-01T13:08:02+00:00'>Apr 1st 13:08</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T13:08:01+00:00'>Apr 1st 13:08</span></td>
 <td>
@@ -238,19 +251,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:40:25+00:00'>Apr 1st 10:40</span></td>
-<td>
-
-🎉 closed [#160: mention tera builtins in readme](https://github.com/catppuccin/toolbox/pull/160)
 
 </td>
 <td>
