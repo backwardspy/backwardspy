@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-01T12:56:20+00:00'>Apr 1st 12:56</span></td>
+<td>
+
+🚀 opened [#167: docs(whiskers): add naming convention section](https://github.com/catppuccin/toolbox/pull/167)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-01T11:36:32+00:00'>Apr 1st 11:36</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-01T10:48:17+00:00'>Apr 1st 10:48</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T10:48:16+00:00'>Apr 1st 10:48</span></td>
 <td>
@@ -269,19 +282,6 @@
 <td>
 
 [catppuccin/go](https://github.com/catppuccin/go)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T09:27:28+00:00'>Apr 1st 09:27</span></td>
-<td>
-
-🚀 opened [#160: docs(whiskers): mention tera builtins](https://github.com/catppuccin/toolbox/pull/160)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
