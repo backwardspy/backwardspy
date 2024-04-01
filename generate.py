@@ -137,7 +137,8 @@ def generate_github_section() -> str:
             case "PushEvent":  # one or more commits are pushed to a repository branch or tag.
                 size: int = payload["size"]
                 commits = "commits" if size > 1 else "commit"
-                enter(f"🚢 pushed {size} {commits} to `{payload['ref']}`")
+                ref = payload["ref"].removeprefix("refs/heads/")
+                enter(f"🚢 pushed {size} {commits} to `{ref}`")
             case "ReleaseEvent":  # activity related to a release
                 enter(f"📦 released {payload['release']['tag_name']}")
             case "WatchEvent":  # when someone stars a repository
