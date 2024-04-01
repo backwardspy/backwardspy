@@ -6,6 +6,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-01T11:00:52+00:00'>Apr 1st 11:00</span></td>
+<td>
+
+📢 opened [#164: add hex formatting options to frontmatter](https://github.com/catppuccin/toolbox/issues/164)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T10:51:09+00:00'>Apr 1st 10:51</span></td>
+<td>
+
+📢 opened [#163: run rust tests on all supported platforms instead of just linux](https://github.com/catppuccin/toolbox/issues/163)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T10:48:17+00:00'>Apr 1st 10:48</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T10:48:16+00:00'>Apr 1st 10:48</span></td>
+<td>
+
+🎉 closed [#162: chore: release main](https://github.com/catppuccin/toolbox/pull/162)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T10:48:09+00:00'>Apr 1st 10:48</span></td>
+<td>
+
+🔍 reviewed [#162: chore: release main](https://github.com/catppuccin/toolbox/pull/162)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-04-01T10:40:33+00:00'>Apr 1st 10:40</span></td>
+<td>
+
+✅ closed [#159: Fix CLI tests on Windows](https://github.com/catppuccin/toolbox/issues/159)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T10:40:33+00:00'>Apr 1st 10:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T10:40:33+00:00'>Apr 1st 10:40</span></td>
+<td>
+
+🎉 closed [#161: remove hardcoded line ending in frontmatter parser](https://github.com/catppuccin/toolbox/pull/161)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T10:40:26+00:00'>Apr 1st 10:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T10:40:25+00:00'>Apr 1st 10:40</span></td>
+<td>
+
+🎉 closed [#160: mention tera builtins in readme](https://github.com/catppuccin/toolbox/pull/160)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T10:34:09+00:00'>Apr 1st 10:34</span></td>
+<td>
+
+📢 opened [#130: potential XSS vulnerability](https://github.com/edwardpayton/github95/issues/130)
+
+</td>
+<td>
+
+[edwardpayton/github95](https://github.com/edwardpayton/github95)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-01T10:00:39+00:00'>Apr 1st 10:00</span></td>
 <td>
 
@@ -70,13 +220,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T09:31:16+00:00'>Apr 1st 09:31</span></td>
 <td>
@@ -126,149 +269,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T18:36:51+00:00'>Mar 31st 18:36</span></td>
-<td>
-
-🎉 closed [#2346: docs: update shiki port metadata](https://github.com/catppuccin/catppuccin/pull/2346)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:57:18+00:00'>Mar 31st 15:57</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:57:17+00:00'>Mar 31st 15:57</span></td>
-<td>
-
-🎉 closed [#146: fix(deps): update rust crate catppuccin to 2.2](https://github.com/catppuccin/toolbox/pull/146)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:57:13+00:00'>Mar 31st 15:57</span></td>
-<td>
-
-🔍 reviewed [#146: fix(deps): update rust crate catppuccin to 2.2](https://github.com/catppuccin/toolbox/pull/146)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:53:07+00:00'>Mar 31st 15:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:53:06+00:00'>Mar 31st 15:53</span></td>
-<td>
-
-🎉 closed [#157: docs(whiskers): update filter/function examples](https://github.com/catppuccin/toolbox/pull/157)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:47:42+00:00'>Mar 31st 15:47</span></td>
-<td>
-
-🚢 pushed 2 commits to `docs/examples`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:36:34+00:00'>Mar 31st 15:36</span></td>
-<td>
-
-🔍 reviewed [#156: ci(lint): fix errors](https://github.com/catppuccin/toolbox/pull/156)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:26:46+00:00'>Mar 31st 15:26</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/examples`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:26:22+00:00'>Mar 31st 15:26</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/examples`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-03-31T15:22:02+00:00'>Mar 31st 15:22</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/examples`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
