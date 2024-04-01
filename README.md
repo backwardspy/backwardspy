@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-01T18:44:58+00:00'>Apr 1st 18:44</span></td>
+<td>
+
+💬 commented on [#2347: docs: add catppuccin/fr33zmenu (#2276)](https://github.com/catppuccin/catppuccin/pull/2347)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T18:44:55+00:00'>Apr 1st 18:44</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T18:44:55+00:00'>Apr 1st 18:44</span></td>
+<td>
+
+✅ closed [#2276: fr33zmenu](https://github.com/catppuccin/catppuccin/issues/2276)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-01T18:44:54+00:00'>Apr 1st 18:44</span></td>
+<td>
+
+🎉 closed [#2347: docs: add catppuccin/fr33zmenu (#2276)](https://github.com/catppuccin/catppuccin/pull/2347)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-01T17:12:50+00:00'>Apr 1st 17:12</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-01T17:12:51+00:00'>Apr 1st 17:12</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T13:46:56+00:00'>Apr 1st 13:46</span></td>
 <td>
@@ -212,45 +264,6 @@
 <td>
 
 🎉 closed [#162: chore: release main](https://github.com/catppuccin/toolbox/pull/162)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:48:09+00:00'>Apr 1st 10:48</span></td>
-<td>
-
-🔍 reviewed [#162: chore: release main](https://github.com/catppuccin/toolbox/pull/162)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:40:33+00:00'>Apr 1st 10:40</span></td>
-<td>
-
-✅ closed [#159: Fix CLI tests on Windows](https://github.com/catppuccin/toolbox/issues/159)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:40:33+00:00'>Apr 1st 10:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
