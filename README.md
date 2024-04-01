@@ -251,8 +251,6 @@
 </details>
 <!-- SCRIPT:REPLACE:GITHUB -->
 
-<br>
-
 ## 🎵 recently played
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
