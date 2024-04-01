@@ -9,7 +9,7 @@
 <td><span title='2024-04-01T09:39:41+00:00'>Apr 1st 09:39</span></td>
 <td>
 
-🚢 pushed 3 commits to `refs/heads/fix/frontmatter-line-endings`
+🚢 pushed 3 commits to `fix/frontmatter-line-endings`
 
 </td>
 <td>
@@ -22,7 +22,7 @@
 <td><span title='2024-04-01T09:38:43+00:00'>Apr 1st 09:38</span></td>
 <td>
 
-🚢 pushed 1 commit to `refs/heads/docs/tera-builtins`
+🚢 pushed 1 commit to `docs/tera-builtins`
 
 </td>
 <td>
@@ -35,7 +35,7 @@
 <td><span title='2024-04-01T09:34:46+00:00'>Apr 1st 09:34</span></td>
 <td>
 
-🚢 pushed 1 commit to `refs/heads/docs/tera-builtins`
+🚢 pushed 1 commit to `docs/tera-builtins`
 
 </td>
 <td>
@@ -48,7 +48,7 @@
 <td><span title='2024-04-01T09:32:15+00:00'>Apr 1st 09:32</span></td>
 <td>
 
-🚢 pushed 1 commit to `refs/heads/fix/frontmatter-line-endings`
+🚢 pushed 1 commit to `fix/frontmatter-line-endings`
 
 </td>
 <td>
@@ -107,7 +107,7 @@
 <td><span title='2024-03-31T18:36:52+00:00'>Mar 31st 18:36</span></td>
 <td>
 
-🚢 pushed 1 commit to `refs/heads/main`
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
@@ -133,7 +133,7 @@
 <td><span title='2024-03-31T15:57:18+00:00'>Mar 31st 15:57</span></td>
 <td>
 
-🚢 pushed 1 commit to `refs/heads/main`
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
@@ -172,7 +172,7 @@
 <td><span title='2024-03-31T15:53:07+00:00'>Mar 31st 15:53</span></td>
 <td>
 
-🚢 pushed 1 commit to `refs/heads/main`
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
@@ -198,7 +198,7 @@
 <td><span title='2024-03-31T15:47:42+00:00'>Mar 31st 15:47</span></td>
 <td>
 
-🚢 pushed 2 commits to `refs/heads/docs/examples`
+🚢 pushed 2 commits to `docs/examples`
 
 </td>
 <td>
@@ -224,7 +224,7 @@
 <td><span title='2024-03-31T15:26:46+00:00'>Mar 31st 15:26</span></td>
 <td>
 
-🚢 pushed 1 commit to `refs/heads/docs/examples`
+🚢 pushed 1 commit to `docs/examples`
 
 </td>
 <td>
@@ -237,7 +237,7 @@
 <td><span title='2024-03-31T15:26:22+00:00'>Mar 31st 15:26</span></td>
 <td>
 
-🚢 pushed 1 commit to `refs/heads/docs/examples`
+🚢 pushed 1 commit to `docs/examples`
 
 </td>
 <td>
@@ -250,7 +250,7 @@
 <td><span title='2024-03-31T15:22:02+00:00'>Mar 31st 15:22</span></td>
 <td>
 
-🚢 pushed 1 commit to `refs/heads/docs/examples`
+🚢 pushed 1 commit to `docs/examples`
 
 </td>
 <td>
