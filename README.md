@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-02T08:25:48+00:00'>Apr 2nd 08:25</span></td>
+<td>
+
+💬 commented on [#2092: Lite XL](https://github.com/catppuccin/catppuccin/issues/2092)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-02T08:25:47+00:00'>Apr 2nd 08:25</span></td>
+<td>
+
+✅ closed [#2092: Lite XL](https://github.com/catppuccin/catppuccin/issues/2092)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-01T18:44:58+00:00'>Apr 1st 18:44</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-01T18:44:54+00:00'>Apr 1st 18:44</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T17:12:51+00:00'>Apr 1st 17:12</span></td>
 <td>
@@ -238,32 +264,6 @@
 <td>
 
 📢 opened [#163: run rust tests on all supported platforms instead of just linux](https://github.com/catppuccin/toolbox/issues/163)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:48:17+00:00'>Apr 1st 10:48</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:48:16+00:00'>Apr 1st 10:48</span></td>
-<td>
-
-🎉 closed [#162: chore: release main](https://github.com/catppuccin/toolbox/pull/162)
 
 </td>
 <td>
