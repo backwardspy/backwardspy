@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-02T18:59:39+00:00'>Apr 2nd 18:59</span></td>
+<td>
+
+🚀 opened [#169: fix: put flavors/flavor into context even when matrix is used](https://github.com/catppuccin/toolbox/pull/169)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-02T08:25:48+00:00'>Apr 2nd 08:25</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-01T18:44:55+00:00'>Apr 1st 18:44</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T18:44:54+00:00'>Apr 1st 18:44</span></td>
 <td>
@@ -238,32 +251,6 @@
 <td>
 
 📢 opened [#165: improve cargo-binstall compatibility](https://github.com/catppuccin/toolbox/issues/165)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T11:00:52+00:00'>Apr 1st 11:00</span></td>
-<td>
-
-📢 opened [#164: add hex formatting options to frontmatter](https://github.com/catppuccin/toolbox/issues/164)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T10:51:09+00:00'>Apr 1st 10:51</span></td>
-<td>
-
-📢 opened [#163: run rust tests on all supported platforms instead of just linux](https://github.com/catppuccin/toolbox/issues/163)
 
 </td>
 <td>
