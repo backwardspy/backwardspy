@@ -6,6 +6,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-02T19:12:45+00:00'>Apr 2nd 19:12</span></td>
+<td>
+
+🚀 opened [#15: whiskers 2.0.2](https://github.com/catppuccin/homebrew-tap/pull/15)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-02T19:10:04+00:00'>Apr 2nd 19:10</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-02T19:10:03+00:00'>Apr 2nd 19:10</span></td>
+<td>
+
+🎉 closed [#170: chore: release main](https://github.com/catppuccin/toolbox/pull/170)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-02T19:09:06+00:00'>Apr 2nd 19:09</span></td>
+<td>
+
+✅ closed [#168: Support multi-flavour mode with matrix generation](https://github.com/catppuccin/toolbox/issues/168)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-02T19:09:06+00:00'>Apr 2nd 19:09</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-04-02T19:09:05+00:00'>Apr 2nd 19:09</span></td>
+<td>
+
+🎉 closed [#169: fix: put flavors/flavor into context even when matrix is used](https://github.com/catppuccin/toolbox/pull/169)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-02T18:59:39+00:00'>Apr 2nd 18:59</span></td>
 <td>
 
@@ -70,13 +155,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-01T18:44:55+00:00'>Apr 1st 18:44</span></td>
 <td>
@@ -191,71 +269,6 @@
 <td>
 
 [catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T13:08:02+00:00'>Apr 1st 13:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T13:08:01+00:00'>Apr 1st 13:08</span></td>
-<td>
-
-🎉 closed [#167: docs(whiskers): add naming convention section](https://github.com/catppuccin/toolbox/pull/167)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T12:56:20+00:00'>Apr 1st 12:56</span></td>
-<td>
-
-🚀 opened [#167: docs(whiskers): add naming convention section](https://github.com/catppuccin/toolbox/pull/167)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T11:36:32+00:00'>Apr 1st 11:36</span></td>
-<td>
-
-💬 commented on [#164: add hex formatting options to frontmatter](https://github.com/catppuccin/toolbox/issues/164)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T11:10:12+00:00'>Apr 1st 11:10</span></td>
-<td>
-
-📢 opened [#165: improve cargo-binstall compatibility](https://github.com/catppuccin/toolbox/issues/165)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
