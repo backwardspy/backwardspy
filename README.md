@@ -282,6 +282,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851c880c3fce14935c405c7503e" width="48" height="48"> | [Space Boat](https://open.spotify.com/track/4HwdUJ6EDyDK8Z0bj9bLfe) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [Into the Night World](https://open.spotify.com/track/4HwdUJ6EDyDK8Z0bj9bLfe) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Bye Bye Babylon](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) |
 | <img src="https://i.scdn.co/image/ab67616d00004851eae389f411e0a8d740d03561" width="48" height="48"> | [End Of The World](https://open.spotify.com/track/6LtjVoJQ1uTk69wxWuCYHy) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Berserker](https://open.spotify.com/track/6LtjVoJQ1uTk69wxWuCYHy) |
 | <img src="https://i.scdn.co/image/ab67616d00004851e684361883b699ad7d7fc805" width="48" height="48"> | [Karma](https://open.spotify.com/track/5XtlGOuEI9uINetJeAorx8) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Letters To Myself](https://open.spotify.com/track/5XtlGOuEI9uINetJeAorx8) |
@@ -291,7 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Come to My Heaven](https://open.spotify.com/track/0ocj3UXRmoFDcHuQxwLptv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/0ocj3UXRmoFDcHuQxwLptv) |
 | <img src="https://i.scdn.co/image/ab67616d00004851086fd08b0a9e09401a634902" width="48" height="48"> | [Heart Of Steel](https://open.spotify.com/track/5uVhwu6ZexzKtxFWipUGcf) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/track/5uVhwu6ZexzKtxFWipUGcf) |
 | <img src="https://i.scdn.co/image/ab67616d000048518c88a251fa147359fcce93a1" width="48" height="48"> | [Control](https://open.spotify.com/track/6wRnCFOePoaifD2SmZ7K7B) | [The Birthday Massacre](https://open.spotify.com/artist/16AVsBqzmIZTNHd0eX8VbK) | [Pins And Needles](https://open.spotify.com/track/6wRnCFOePoaifD2SmZ7K7B) |
-| <img src="https://i.scdn.co/image/ab67616d00004851fe3235cb6153f5c979d5399d" width="48" height="48"> | [The Pioneer](https://open.spotify.com/track/5wHPm6ts3XV70Kn2jKtLhc) | [Follow The Cipher](https://open.spotify.com/artist/0r6IrOHMBaKiiZPV1zeIu2) | [The Pioneer](https://open.spotify.com/track/5wHPm6ts3XV70Kn2jKtLhc) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
