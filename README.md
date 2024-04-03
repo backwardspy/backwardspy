@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-03T08:33:53+00:00'>Apr 3rd 08:33</span></td>
+<td>
+
+💬 commented on [#2003: Squirrel](https://github.com/catppuccin/catppuccin/issues/2003)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-02T21:43:52+00:00'>Apr 2nd 21:43</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-02T19:10:03+00:00'>Apr 2nd 19:10</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-02T19:09:06+00:00'>Apr 2nd 19:09</span></td>
 <td>
@@ -251,19 +264,6 @@
 <td>
 
 📢 opened [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T14:58:09+00:00'>Apr 1st 14:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `bump-whiskers-2.0.1`
 
 </td>
 <td>
