@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-03T15:10:19+00:00'>Apr 3rd 15:10</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-03T11:09:12+00:00'>Apr 3rd 11:09</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-02T21:43:52+00:00'>Apr 2nd 21:43</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-02T21:43:25+00:00'>Apr 2nd 21:43</span></td>
 <td>
@@ -256,19 +269,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T17:12:50+00:00'>Apr 1st 17:12</span></td>
-<td>
-
-✅ closed [#12: catwalk cannot be installed via home-brew](https://github.com/catppuccin/homebrew-tap/issues/12)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
 
 </td>
 </tr>
