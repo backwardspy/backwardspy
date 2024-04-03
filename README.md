@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-03T11:09:12+00:00'>Apr 3rd 11:09</span></td>
+<td>
+
+✅ closed [#165: improve cargo-binstall compatibility](https://github.com/catppuccin/toolbox/issues/165)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-03T11:09:12+00:00'>Apr 3rd 11:09</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-03T11:09:11+00:00'>Apr 3rd 11:09</span></td>
+<td>
+
+🎉 closed [#173: feat: binstall support](https://github.com/catppuccin/toolbox/pull/173)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-03T08:33:53+00:00'>Apr 3rd 08:33</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-02T21:43:25+00:00'>Apr 2nd 21:43</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-02T19:10:03+00:00'>Apr 2nd 19:10</span></td>
 <td>
@@ -233,45 +272,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-01T17:12:51+00:00'>Apr 1st 17:12</span></td>
-<td>
-
-💬 commented on [#12: catwalk cannot be installed via home-brew](https://github.com/catppuccin/homebrew-tap/issues/12)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T16:08:19+00:00'>Apr 1st 16:08</span></td>
-<td>
-
-💬 commented on [#164: add hex formatting options to frontmatter](https://github.com/catppuccin/toolbox/issues/164)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T15:13:23+00:00'>Apr 1st 15:13</span></td>
-<td>
-
-📢 opened [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -282,6 +282,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851f215b4cc52966e1c0399ecf1" width="48" height="48"> | [Fields of Gold](https://open.spotify.com/track/0Exsl8btBwV5s2Js2jwdEq) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [The Varangian Way](https://open.spotify.com/track/0Exsl8btBwV5s2Js2jwdEq) |
+| <img src="https://i.scdn.co/image/ab67616d000048514cb6d0d5956730aa347ea397" width="48" height="48"> | [Mighty Polish Tank](https://open.spotify.com/track/2plihDAfGT5w8vCxcXjztO) | [Sabadu](https://open.spotify.com/artist/607n9JAE5u7CeBNqgW2LEx) | [Mighty Polish Tank](https://open.spotify.com/track/2plihDAfGT5w8vCxcXjztO) |
 | <img src="https://i.scdn.co/image/ab67616d00004851048651764cd67529e29d93fd" width="48" height="48"> | [Take Control](https://open.spotify.com/track/0uYPsl955ngOyNBzfp0EYg) | [Old Gods of Asgard](https://open.spotify.com/artist/4BMtxSIHPpG1WM2TbvNjiR) | [Take Control](https://open.spotify.com/track/0uYPsl955ngOyNBzfp0EYg) |
 | <img src="https://i.scdn.co/image/ab67616d000048516321abc8e5d6df7b5a5cfdbd" width="48" height="48"> | [The Tale of Cu Chulainn](https://open.spotify.com/track/7iIuUkFgmHYxYDEBuPlLml) | [Miracle Of Sound](https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq) | [The Tale of Cu Chulainn](https://open.spotify.com/track/7iIuUkFgmHYxYDEBuPlLml) |
 | <img src="https://i.scdn.co/image/ab67616d000048517988cb5b6506529454590ece" width="48" height="48"> | [Amaranth](https://open.spotify.com/track/0RsOUnm1wNpbXxZ8a4abOP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/track/0RsOUnm1wNpbXxZ8a4abOP) |
@@ -290,8 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851eae389f411e0a8d740d03561" width="48" height="48"> | [End Of The World](https://open.spotify.com/track/6LtjVoJQ1uTk69wxWuCYHy) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Berserker](https://open.spotify.com/track/6LtjVoJQ1uTk69wxWuCYHy) |
 | <img src="https://i.scdn.co/image/ab67616d00004851e684361883b699ad7d7fc805" width="48" height="48"> | [Karma](https://open.spotify.com/track/5XtlGOuEI9uINetJeAorx8) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Letters To Myself](https://open.spotify.com/track/5XtlGOuEI9uINetJeAorx8) |
 | <img src="https://i.scdn.co/image/ab67616d000048519fe0dc945b67c6e96a949755" width="48" height="48"> | [My Soldier](https://open.spotify.com/track/5VyYA8OKIFIrRImjRoArLO) | [Follow The Cipher](https://open.spotify.com/artist/0r6IrOHMBaKiiZPV1zeIu2) | [Follow the Cipher](https://open.spotify.com/track/5VyYA8OKIFIrRImjRoArLO) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f1cb5ebc7735d60fa10b593b" width="48" height="48"> | [Summer Son](https://open.spotify.com/track/3tQfcn1Z3Q079ChW4D2hH4) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Phoenix](https://open.spotify.com/track/3tQfcn1Z3Q079ChW4D2hH4) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c880c3fce14935c405c7503e" width="48" height="48"> | [The Last March of the Undead](https://open.spotify.com/track/2MDtkZJVRWiVXwK4t2ASyJ) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [Into the Night World](https://open.spotify.com/track/2MDtkZJVRWiVXwK4t2ASyJ) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
