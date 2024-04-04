@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-04T19:13:42+00:00'>Apr 4th 19:13</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[nkanaev/yarr](https://github.com/nkanaev/yarr)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-04T14:45:54+00:00'>Apr 4th 14:45</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-03T11:09:11+00:00'>Apr 3rd 11:09</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-03T08:33:53+00:00'>Apr 3rd 08:33</span></td>
 <td>
@@ -251,19 +264,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T18:44:55+00:00'>Apr 1st 18:44</span></td>
-<td>
-
-✅ closed [#2276: fr33zmenu](https://github.com/catppuccin/catppuccin/issues/2276)
 
 </td>
 <td>
