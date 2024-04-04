@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-04T14:45:54+00:00'>Apr 4th 14:45</span></td>
+<td>
+
+🚢 pushed 2 commits to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-03T15:10:19+00:00'>Apr 3rd 15:10</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-03T08:33:53+00:00'>Apr 3rd 08:33</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-02T21:43:52+00:00'>Apr 2nd 21:43</span></td>
 <td>
@@ -251,19 +264,6 @@
 <td>
 
 ✅ closed [#2276: fr33zmenu](https://github.com/catppuccin/catppuccin/issues/2276)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T18:44:54+00:00'>Apr 1st 18:44</span></td>
-<td>
-
-🎉 closed [#2347: docs: add catppuccin/fr33zmenu (#2276)](https://github.com/catppuccin/catppuccin/pull/2347)
 
 </td>
 <td>
