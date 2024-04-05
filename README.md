@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-05T13:24:03+00:00'>Apr 5th 13:24</span></td>
+<td>
+
+💬 commented on [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-04T19:13:42+00:00'>Apr 4th 19:13</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-03T11:09:12+00:00'>Apr 3rd 11:09</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-03T11:09:11+00:00'>Apr 3rd 11:09</span></td>
 <td>
@@ -259,19 +272,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-01T18:44:55+00:00'>Apr 1st 18:44</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -282,16 +282,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d0000485168ac02f7df0441c5668efa8d" width="48" height="48"> | [Slasher](https://open.spotify.com/track/7dymcvih8UqY7abQRqOMUm) | [Cassetter](https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE) | [Entropy (Deluxe Edition)](https://open.spotify.com/track/7dymcvih8UqY7abQRqOMUm) |
-| <img src="https://i.scdn.co/image/ab67616d00004851380d60cfe2f13f2b4db90868" width="48" height="48"> | [Virtual Sexuality](https://open.spotify.com/track/73Yt8Avqdp8iIWcLKJl2GZ) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Streetwalker](https://open.spotify.com/track/73Yt8Avqdp8iIWcLKJl2GZ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851e044a98de5e63ed0023af9d9" width="48" height="48"> | [Irq 2 Cascade](https://open.spotify.com/track/5sEOvcm6eMI6C4Wx8Cx6yk) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Interrupt Request](https://open.spotify.com/track/5sEOvcm6eMI6C4Wx8Cx6yk) |
-| <img src="https://i.scdn.co/image/ab67616d000048513c0c47d0b2528cb302dd574b" width="48" height="48"> | [Reclaimer](https://open.spotify.com/track/1E7C3OWH7JwjaTmFVqw5cY) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq) | [Reclaimer](https://open.spotify.com/track/1E7C3OWH7JwjaTmFVqw5cY) |
-| <img src="https://i.scdn.co/image/ab67616d000048511ae1f9dc8ac35dfe373bb080" width="48" height="48"> | [Don't Call Me Hero](https://open.spotify.com/track/6KIRN39yddy7wiJ2VtqbRH) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/track/6KIRN39yddy7wiJ2VtqbRH) |
-| <img src="https://i.scdn.co/image/ab67616d000048518f5710294333709714f71808" width="48" height="48"> | [Feel New - Instrumental](https://open.spotify.com/track/0BA27C5INk5QPhpOueyv2T) | [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t), [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N) | [Feel New](https://open.spotify.com/track/0BA27C5INk5QPhpOueyv2T) |
-| <img src="https://i.scdn.co/image/ab67616d000048512c02d9bf7b58ed0ba8f1aadb" width="48" height="48"> | [Resolution](https://open.spotify.com/track/7AaM3qK1PnqW2JkQxq6TeQ) | [Kick Puncher](https://open.spotify.com/artist/1WvDvicIZrQVB2gFXZHIBN) | [Magnatron](https://open.spotify.com/track/7AaM3qK1PnqW2JkQxq6TeQ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851767f835310c690beea1a99bc" width="48" height="48"> | [VirtuaVerse](https://open.spotify.com/track/5s9tIhWUh4174AbnstxlVo) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [VIRTUAVERSE.OST](https://open.spotify.com/track/5s9tIhWUh4174AbnstxlVo) |
-| <img src="https://i.scdn.co/image/ab67616d0000485190c8d376503e5913cfeac39e" width="48" height="48"> | [Mirage IV](https://open.spotify.com/track/72SuOMtGR2MNAgNh5mn6JX) | [Dubmood](https://open.spotify.com/artist/4D2G48IdJKhcdZ5c1dqp5Z) | [Force De Frappe](https://open.spotify.com/track/72SuOMtGR2MNAgNh5mn6JX) |
-| <img src="https://i.scdn.co/image/ab67616d00004851254c50b1986b376135c33bb4" width="48" height="48"> | [Refuse to Lose](https://open.spotify.com/track/3fGIoMNHrJal43DaZqAJp1) | [Zombie Hyperdrive](https://open.spotify.com/artist/72naL8vQVNsx85zPLuTSWf) | [Imperium](https://open.spotify.com/track/3fGIoMNHrJal43DaZqAJp1) |
+| <img src="https://i.scdn.co/image/ab67616d000048511942f0dddfa48cf555ea3521" width="48" height="48"> | [Miami Fever](https://open.spotify.com/track/68LHOqE56Zwd1baD2RqBEp) | [Jeremiah Kane](https://open.spotify.com/artist/4wKbEwlRYNLlwUu9OCgLBr) | [All or Nothing](https://open.spotify.com/track/68LHOqE56Zwd1baD2RqBEp) |
+| <img src="https://i.scdn.co/image/ab67616d0000485130a606745fedebc06188ee14" width="48" height="48"> | [We Have Accidentally Borrowed Your Votedisk (MASTER BOOT RECORD Remix)](https://open.spotify.com/track/6MEMWyShB8rKuIY9CxosR7) | [Dubmood](https://open.spotify.com/artist/4D2G48IdJKhcdZ5c1dqp5Z), [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Votedisk // Scene Is Dead](https://open.spotify.com/track/6MEMWyShB8rKuIY9CxosR7) |
+| <img src="https://i.scdn.co/image/ab67616d00004851767f835310c690beea1a99bc" width="48" height="48"> | [Cracktro](https://open.spotify.com/track/6ksJ01RR9SA5Y20sHQWaTM) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [VIRTUAVERSE.OST](https://open.spotify.com/track/6ksJ01RR9SA5Y20sHQWaTM) |
+| <img src="https://i.scdn.co/image/ab67616d000048511ae1f9dc8ac35dfe373bb080" width="48" height="48"> | [Atomic Shogun](https://open.spotify.com/track/2B9eUQhLBASnkv1qMD99nW) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/track/2B9eUQhLBASnkv1qMD99nW) |
+| <img src="https://i.scdn.co/image/ab67616d000048512641bd9ddd535d1689701e74" width="48" height="48"> | [Protocols](https://open.spotify.com/track/7H8H1rMrwYfad8PjGTJDdg) | [The Algorithm](https://open.spotify.com/artist/14u4KXVp0iXQil79EpxXGc) | [Protocols](https://open.spotify.com/track/7H8H1rMrwYfad8PjGTJDdg) |
+| <img src="https://i.scdn.co/image/ab67616d00004851380d60cfe2f13f2b4db90868" width="48" height="48"> | [Streetwalker](https://open.spotify.com/track/17unhA5Gnc1nLFdg3dKmuO) | [Nightstop](https://open.spotify.com/artist/291Vz2qC5SVLJSKA5mrYij) | [Streetwalker](https://open.spotify.com/track/17unhA5Gnc1nLFdg3dKmuO) |
+| <img src="https://i.scdn.co/image/ab67616d000048519ab84cdf4fa3f991708f7001" width="48" height="48"> | [Time to Wake Up](https://open.spotify.com/track/1566sa7tQN3XaET8oWpHB7) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Furi (Original Game Soundtrack)](https://open.spotify.com/track/1566sa7tQN3XaET8oWpHB7) |
+| <img src="https://i.scdn.co/image/ab67616d000048518a0b60f9bae56b38c6aed1c9" width="48" height="48"> | [Brutal Moves](https://open.spotify.com/track/64F5mJlarFVOWQqCwJZSaV) | [Neoslave](https://open.spotify.com/artist/5iaVOli0HEhe5paNpfBnO6) | [Autoviolator](https://open.spotify.com/track/64F5mJlarFVOWQqCwJZSaV) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e044a98de5e63ed0023af9d9" width="48" height="48"> | [Irq 0 System Clock](https://open.spotify.com/track/65D79dyluzNUi1eq3lHdAM) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Interrupt Request](https://open.spotify.com/track/65D79dyluzNUi1eq3lHdAM) |
+| <img src="https://i.scdn.co/image/ab67616d000048511ae1f9dc8ac35dfe373bb080" width="48" height="48"> | [Droid Rage](https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
