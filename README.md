@@ -282,6 +282,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851dd3ab92b627e13c53e7b577d" width="48" height="48"> | [ANSI.SYS](https://open.spotify.com/track/0h1z7UKHfCAr74Cfm1vOmU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Floppy Disk Overdrive](https://open.spotify.com/track/0h1z7UKHfCAr74Cfm1vOmU) |
+| <img src="https://i.scdn.co/image/ab67616d00004851dbfe9a51b813ddc881d21dce" width="48" height="48"> | [Last Ride of the Day](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) |
 | <img src="https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432" width="48" height="48"> | [Imaginary](https://open.spotify.com/track/7q6CybWAg3uYLgS5tDWqmd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/track/7q6CybWAg3uYLgS5tDWqmd) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c7018d8997d7fdda09777c90" width="48" height="48"> | [The Pallbearer Walks Alone](https://open.spotify.com/track/1aYnLo1tfVAgw6kfksoz7S) | [The Dark Element](https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f) | [Songs the Night Sings](https://open.spotify.com/track/1aYnLo1tfVAgw6kfksoz7S) |
 | <img src="https://i.scdn.co/image/ab67616d0000485187283ca08f2d4c2926d87f88" width="48" height="48"> | [The Most Mysterious Song on the Internet](https://open.spotify.com/track/53kRFipzPmLV6RRW0omVOH) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Most Mysterious Song on the Internet](https://open.spotify.com/track/53kRFipzPmLV6RRW0omVOH) |
@@ -290,8 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485138430038d66010355177db8e" width="48" height="48"> | [Pharao](https://open.spotify.com/track/4xHffq5S3WgoMepz76aFFJ) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Crystal Empire](https://open.spotify.com/track/4xHffq5S3WgoMepz76aFFJ) |
 | <img src="https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd" width="48" height="48"> | [Ignorance](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) |
 | <img src="https://i.scdn.co/image/ab67616d0000485101702543aa6a780aa2698955" width="48" height="48"> | [Burn in Hell](https://open.spotify.com/track/6gdYrUjvp8oa8G9TlxbyRf) | [SpitFire](https://open.spotify.com/artist/0aG9IlDRxMn7weGTmbvWoH) | [Devil's Dance](https://open.spotify.com/track/6gdYrUjvp8oa8G9TlxbyRf) |
-| <img src="https://i.scdn.co/image/ab67616d00004851e579f3fa0808911758621288" width="48" height="48"> | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) |
-| <img src="https://i.scdn.co/image/ab67616d00004851e684361883b699ad7d7fc805" width="48" height="48"> | [Heartrage](https://open.spotify.com/track/0RPYTS5711Jl9MuGvzUE9s) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Letters To Myself](https://open.spotify.com/track/0RPYTS5711Jl9MuGvzUE9s) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
