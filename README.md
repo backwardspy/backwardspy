@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-07T14:59:47+00:00'>Apr 7th 14:59</span></td>
+<td>
+
+💬 commented on [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T14:59:47+00:00'>Apr 7th 14:59</span></td>
+<td>
+
+✅ closed [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T14:45:45+00:00'>Apr 7th 14:45</span></td>
+<td>
+
+💬 commented on [#2103: Nix](https://github.com/catppuccin/catppuccin/issues/2103)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-07T13:30:14+00:00'>Apr 7th 13:30</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-07T12:32:16+00:00'>Apr 7th 12:32</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-07T12:07:51+00:00'>Apr 7th 12:07</span></td>
 <td>
@@ -230,32 +269,6 @@
 <td>
 
 [catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T19:10:04+00:00'>Apr 2nd 19:10</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T19:10:03+00:00'>Apr 2nd 19:10</span></td>
-<td>
-
-🎉 closed [#170: chore: release main](https://github.com/catppuccin/toolbox/pull/170)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
