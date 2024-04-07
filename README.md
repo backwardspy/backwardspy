@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-07T12:32:16+00:00'>Apr 7th 12:32</span></td>
+<td>
+
+💬 commented on [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T12:08:33+00:00'>Apr 7th 12:08</span></td>
+<td>
+
+🚢 pushed 2 commits to `fix/multi-file-single-other`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T12:08:09+00:00'>Apr 7th 12:08</span></td>
+<td>
+
+🔍 reviewed [#171: feat(whiskers): allow overrides of any matrix iterable](https://github.com/catppuccin/toolbox/pull/171)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T12:07:51+00:00'>Apr 7th 12:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `fix/multi-file-single-other`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-05T13:24:03+00:00'>Apr 5th 13:24</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-04T19:13:42+00:00'>Apr 4th 19:13</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-03T11:09:12+00:00'>Apr 3rd 11:09</span></td>
 <td>
@@ -217,58 +269,6 @@
 <td>
 
 [catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T18:59:39+00:00'>Apr 2nd 18:59</span></td>
-<td>
-
-🚀 opened [#169: fix: put flavors/flavor into context even when matrix is used](https://github.com/catppuccin/toolbox/pull/169)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T08:25:48+00:00'>Apr 2nd 08:25</span></td>
-<td>
-
-💬 commented on [#2092: Lite XL](https://github.com/catppuccin/catppuccin/issues/2092)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T08:25:47+00:00'>Apr 2nd 08:25</span></td>
-<td>
-
-✅ closed [#2092: Lite XL](https://github.com/catppuccin/catppuccin/issues/2092)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-01T18:44:58+00:00'>Apr 1st 18:44</span></td>
-<td>
-
-💬 commented on [#2347: docs: add catppuccin/fr33zmenu (#2276)](https://github.com/catppuccin/catppuccin/pull/2347)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
