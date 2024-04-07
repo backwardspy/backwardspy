@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-07T13:30:14+00:00'>Apr 7th 13:30</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T13:30:13+00:00'>Apr 7th 13:30</span></td>
+<td>
+
+🎉 closed [#171: feat(whiskers): allow overrides of any matrix iterable](https://github.com/catppuccin/toolbox/pull/171)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-07T12:32:16+00:00'>Apr 7th 12:32</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-07T12:07:51+00:00'>Apr 7th 12:07</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-04T19:13:42+00:00'>Apr 4th 19:13</span></td>
 <td>
@@ -225,45 +251,6 @@
 <td>
 
 🎉 closed [#170: chore: release main](https://github.com/catppuccin/toolbox/pull/170)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T19:09:06+00:00'>Apr 2nd 19:09</span></td>
-<td>
-
-✅ closed [#168: Support multi-flavour mode with matrix generation](https://github.com/catppuccin/toolbox/issues/168)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T19:09:06+00:00'>Apr 2nd 19:09</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T19:09:05+00:00'>Apr 2nd 19:09</span></td>
-<td>
-
-🎉 closed [#169: fix: put flavors/flavor into context even when matrix is used](https://github.com/catppuccin/toolbox/pull/169)
 
 </td>
 <td>
