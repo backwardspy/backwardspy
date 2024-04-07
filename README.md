@@ -6,6 +6,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-07T15:07:17+00:00'>Apr 7th 15:07</span></td>
+<td>
+
+💬 commented on [#2103: Nix](https://github.com/catppuccin/catppuccin/issues/2103)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T15:07:16+00:00'>Apr 7th 15:07</span></td>
+<td>
+
+✅ closed [#2103: Nix](https://github.com/catppuccin/catppuccin/issues/2103)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T15:06:56+00:00'>Apr 7th 15:06</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T15:06:55+00:00'>Apr 7th 15:06</span></td>
+<td>
+
+🎉 closed [#2354: docs: add catppuccin/nix](https://github.com/catppuccin/catppuccin/pull/2354)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-07T15:06:45+00:00'>Apr 7th 15:06</span></td>
+<td>
+
+💬 commented on [#2354: docs: add catppuccin/nix](https://github.com/catppuccin/catppuccin/pull/2354)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2024-04-07T14:59:47+00:00'>Apr 7th 14:59</span></td>
 <td>
 
@@ -70,13 +142,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-07T12:32:16+00:00'>Apr 7th 12:32</span></td>
 <td>
@@ -243,32 +308,6 @@
 <td>
 
 [catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T21:43:25+00:00'>Apr 2nd 21:43</span></td>
-<td>
-
-🚀 opened [#171: feat: allow overrides of any matrix iterable](https://github.com/catppuccin/toolbox/pull/171)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-02T19:12:45+00:00'>Apr 2nd 19:12</span></td>
-<td>
-
-🚀 opened [#15: whiskers 2.0.2](https://github.com/catppuccin/homebrew-tap/pull/15)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
 
 </td>
 </tr>
