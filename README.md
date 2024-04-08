@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-08T22:04:38+00:00'>Apr 8th 22:04</span></td>
+<td>
+
+💬 commented on [#2315: feat: explicitly track current/past maintainers](https://github.com/catppuccin/catppuccin/pull/2315)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-08T22:01:53+00:00'>Apr 8th 22:01</span></td>
+<td>
+
+🔍 reviewed [#2315: feat: explicitly track current/past maintainers](https://github.com/catppuccin/catppuccin/pull/2315)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-08T16:30:31+00:00'>Apr 8th 16:30</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-07T15:07:16+00:00'>Apr 7th 15:07</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-07T15:06:55+00:00'>Apr 7th 15:06</span></td>
 <td>
@@ -269,32 +295,6 @@
 <td>
 
 [backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-03T11:09:12+00:00'>Apr 3rd 11:09</span></td>
-<td>
-
-✅ closed [#165: improve cargo-binstall compatibility](https://github.com/catppuccin/toolbox/issues/165)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-03T11:09:12+00:00'>Apr 3rd 11:09</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
