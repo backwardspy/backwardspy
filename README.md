@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-08T16:30:31+00:00'>Apr 8th 16:30</span></td>
+<td>
+
+🔍 reviewed [#2315: feat: explicitly track current/past maintainers](https://github.com/catppuccin/catppuccin/pull/2315)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-08T07:51:25+00:00'>Apr 8th 07:51</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-07T15:06:55+00:00'>Apr 7th 15:06</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-07T15:06:45+00:00'>Apr 7th 15:06</span></td>
 <td>
@@ -277,19 +290,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-03T11:09:11+00:00'>Apr 3rd 11:09</span></td>
-<td>
-
-🎉 closed [#173: feat: binstall support](https://github.com/catppuccin/toolbox/pull/173)
 
 </td>
 <td>
