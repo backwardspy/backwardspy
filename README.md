@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-09T11:50:25+00:00'>Apr 9th 11:50</span></td>
+<td>
+
+🔍 reviewed [#2: build: use whiskers](https://github.com/catppuccin/zsh-fsh/pull/2)
+
+</td>
+<td>
+
+[catppuccin/zsh-fsh](https://github.com/catppuccin/zsh-fsh)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-09T11:48:47+00:00'>Apr 9th 11:48</span></td>
+<td>
+
+📢 opened [#177: include flavour's colours at top level when rendering single-flavor matrix templates](https://github.com/catppuccin/toolbox/issues/177)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-08T22:04:38+00:00'>Apr 8th 22:04</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-08T07:51:25+00:00'>Apr 8th 07:51</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-07T15:07:16+00:00'>Apr 7th 15:07</span></td>
 <td>
@@ -256,45 +282,6 @@
 <td>
 
 [catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-04T19:13:42+00:00'>Apr 4th 19:13</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[nkanaev/yarr](https://github.com/nkanaev/yarr)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-04T14:45:54+00:00'>Apr 4th 14:45</span></td>
-<td>
-
-🚢 pushed 2 commits to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-03T15:10:19+00:00'>Apr 3rd 15:10</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
 
 </td>
 </tr>
