@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-10T19:39:29+00:00'>Apr 10th 19:39</span></td>
+<td>
+
+💬 commented on [#147: feat(webp): use ril with rust-native image-webp feature](https://github.com/catppuccin/toolbox/pull/147)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-10T18:49:48+00:00'>Apr 10th 18:49</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-09T11:50:25+00:00'>Apr 9th 11:50</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-09T11:48:47+00:00'>Apr 9th 11:48</span></td>
 <td>
@@ -285,19 +298,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-07T12:08:33+00:00'>Apr 7th 12:08</span></td>
-<td>
-
-🚢 pushed 2 commits to `fix/multi-file-single-other`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -308,16 +308,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d000048518ea6c4a7d83410772c0e5a0f" width="48" height="48"> | [Ode to Fury](https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc) | [Miracle Of Sound](https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq) | [Level 9](https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b37a2bb117c7ae30ee77b6bd" width="48" height="48"> | [Fields of Verdun](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) |
-| <img src="https://i.scdn.co/image/ab67616d000048517dc7ccc9efe21a79a25b0bc9" width="48" height="48"> | [End Of All Hope](https://open.spotify.com/track/5wO7hTEOnwLt4NX1nbA16k) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/track/5wO7hTEOnwLt4NX1nbA16k) |
-| <img src="https://i.scdn.co/image/ab67616d000048510c100c40bdedea776770e7aa" width="48" height="48"> | [The Last Battle](https://open.spotify.com/track/7hrW22GLqFLwQOfQYLEw6q) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Last Stand](https://open.spotify.com/track/7hrW22GLqFLwQOfQYLEw6q) |
-| <img src="https://i.scdn.co/image/ab67616d0000485152baa273bca6ce277f79f4b1" width="48" height="48"> | [The March of the Varangian Guard](https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Stand Up and Fight](https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs) |
-| <img src="https://i.scdn.co/image/ab67616d0000485135be533f25174e1c0bb3f1f2" width="48" height="48"> | [The Last Dragonborn](https://open.spotify.com/track/1ZuW7M8hNaeRZ3UzDrxjPx) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Extreme Power Metal](https://open.spotify.com/track/1ZuW7M8hNaeRZ3UzDrxjPx) |
-| <img src="https://i.scdn.co/image/ab67616d0000485183123a77a7d7e51299940f3d" width="48" height="48"> | [Necromancin Dancin](https://open.spotify.com/track/4VoSYq3aTp57jgrdNswzrd) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/track/4VoSYq3aTp57jgrdNswzrd) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c4a4a8f9190656455b6bf8c3" width="48" height="48"> | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) |
-| <img src="https://i.scdn.co/image/ab67616d00004851052d58444fff15346b74f242" width="48" height="48"> | [Ghost Division](https://open.spotify.com/track/1MoEyYsa9Y0FvApwLskO1l) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Art of War (Re-Armed)](https://open.spotify.com/track/1MoEyYsa9Y0FvApwLskO1l) |
-| <img src="https://i.scdn.co/image/ab67616d000048513559c601a004b21fd74c0e23" width="48" height="48"> | [Nightfall - Remastered 2007](https://open.spotify.com/track/7s0fJ0s9A5eRh4NXaMkfgS) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Nightfall in Middle Earth (Remastered 2007)](https://open.spotify.com/track/7s0fJ0s9A5eRh4NXaMkfgS) |
+| <img src="https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd" width="48" height="48"> | [Ignorance](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) |
+| <img src="https://i.scdn.co/image/ab67616d00004851501f914acb62f292143a8bdc" width="48" height="48"> | [Rowing with One Hand](https://open.spotify.com/track/6qt5ATBB3YT22YbhE9ZgfZ) | [Ye Banished Privateers](https://open.spotify.com/artist/16f8bHHqNwQWgqWMYyS9ij) | [Hostis Humani Generis](https://open.spotify.com/track/6qt5ATBB3YT22YbhE9ZgfZ) |
+| <img src="https://i.scdn.co/image/ab67616d00004851181bc1a9db5f4984cda9e915" width="48" height="48"> | [Blut im Auge](https://open.spotify.com/track/6zo1bJD6CRb4ggVmvGzaBB) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Sagas](https://open.spotify.com/track/6zo1bJD6CRb4ggVmvGzaBB) |
+| <img src="https://i.scdn.co/image/ab67616d0000485143e2234dfc55479ad25aef59" width="48" height="48"> | [Rex Regi Rebellis (finnish vocal version)](https://open.spotify.com/track/7MYuBuvdgoCUYCJAyTczvW) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [To Holmgard And Beyond - Single](https://open.spotify.com/track/7MYuBuvdgoCUYCJAyTczvW) |
+| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Closer to the Truth](https://open.spotify.com/track/1Ax7HKJ0dAoZUKvcm2Njcc) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/1Ax7HKJ0dAoZUKvcm2Njcc) |
+| <img src="https://i.scdn.co/image/ab67616d000048511b1d6c550aaaae5acf220e84" width="48" height="48"> | [Roller Mobster](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) |
+| <img src="https://i.scdn.co/image/ab67616d000048517ecef0b3549b9c7d84be8edb" width="48" height="48"> | [Dreams Gone Wrong](https://open.spotify.com/track/3kOCMifMe0odStyKDG8Og1) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [No Halos in Hell](https://open.spotify.com/track/3kOCMifMe0odStyKDG8Og1) |
+| <img src="https://i.scdn.co/image/ab67616d000048519c460bfd8d3d6304f1d1092a" width="48" height="48"> | [Heir of Grief](https://open.spotify.com/track/7s4kRdplZ4iX4Y5HvFEiHT) | [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx) | [Heir of Grief](https://open.spotify.com/track/7s4kRdplZ4iX4Y5HvFEiHT) |
+| <img src="https://i.scdn.co/image/ab67616d000048519c460bfd8d3d6304f1d1092a" width="48" height="48"> | [Heir of Grief](https://open.spotify.com/track/7s4kRdplZ4iX4Y5HvFEiHT) | [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx) | [Heir of Grief](https://open.spotify.com/track/7s4kRdplZ4iX4Y5HvFEiHT) |
+| <img src="https://i.scdn.co/image/ab67616d00004851b06a11d425e30f86344afb68" width="48" height="48"> | [Battle in the Sky](https://open.spotify.com/track/3KkPHbFi3Rf7BRcRpjLskE) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [War of Dragons](https://open.spotify.com/track/3KkPHbFi3Rf7BRcRpjLskE) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
