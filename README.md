@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-10T20:45:21+00:00'>Apr 10th 20:45</span></td>
+<td>
+
+💬 commented on [#179: support alternative template file encodings](https://github.com/catppuccin/toolbox/pull/179)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-10T20:32:02+00:00'>Apr 10th 20:32</span></td>
+<td>
+
+💬 commented on [#179: support alternative template file encodings](https://github.com/catppuccin/toolbox/pull/179)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-10T20:19:38+00:00'>Apr 10th 20:19</span></td>
+<td>
+
+🚀 opened [#179: feat(whiskers): support alternative template file encodings](https://github.com/catppuccin/toolbox/pull/179)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-10T19:39:29+00:00'>Apr 10th 19:39</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-10T18:48:06+00:00'>Apr 10th 18:48</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-09T11:50:25+00:00'>Apr 9th 11:50</span></td>
 <td>
@@ -259,45 +298,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-07T13:30:14+00:00'>Apr 7th 13:30</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-07T13:30:13+00:00'>Apr 7th 13:30</span></td>
-<td>
-
-🎉 closed [#171: feat(whiskers): allow overrides of any matrix iterable](https://github.com/catppuccin/toolbox/pull/171)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-07T12:32:16+00:00'>Apr 7th 12:32</span></td>
-<td>
-
-💬 commented on [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -308,16 +308,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd" width="48" height="48"> | [Ignorance](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) |
-| <img src="https://i.scdn.co/image/ab67616d00004851501f914acb62f292143a8bdc" width="48" height="48"> | [Rowing with One Hand](https://open.spotify.com/track/6qt5ATBB3YT22YbhE9ZgfZ) | [Ye Banished Privateers](https://open.spotify.com/artist/16f8bHHqNwQWgqWMYyS9ij) | [Hostis Humani Generis](https://open.spotify.com/track/6qt5ATBB3YT22YbhE9ZgfZ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851181bc1a9db5f4984cda9e915" width="48" height="48"> | [Blut im Auge](https://open.spotify.com/track/6zo1bJD6CRb4ggVmvGzaBB) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Sagas](https://open.spotify.com/track/6zo1bJD6CRb4ggVmvGzaBB) |
-| <img src="https://i.scdn.co/image/ab67616d0000485143e2234dfc55479ad25aef59" width="48" height="48"> | [Rex Regi Rebellis (finnish vocal version)](https://open.spotify.com/track/7MYuBuvdgoCUYCJAyTczvW) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [To Holmgard And Beyond - Single](https://open.spotify.com/track/7MYuBuvdgoCUYCJAyTczvW) |
-| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Closer to the Truth](https://open.spotify.com/track/1Ax7HKJ0dAoZUKvcm2Njcc) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/1Ax7HKJ0dAoZUKvcm2Njcc) |
-| <img src="https://i.scdn.co/image/ab67616d000048511b1d6c550aaaae5acf220e84" width="48" height="48"> | [Roller Mobster](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) |
-| <img src="https://i.scdn.co/image/ab67616d000048517ecef0b3549b9c7d84be8edb" width="48" height="48"> | [Dreams Gone Wrong](https://open.spotify.com/track/3kOCMifMe0odStyKDG8Og1) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [No Halos in Hell](https://open.spotify.com/track/3kOCMifMe0odStyKDG8Og1) |
-| <img src="https://i.scdn.co/image/ab67616d000048519c460bfd8d3d6304f1d1092a" width="48" height="48"> | [Heir of Grief](https://open.spotify.com/track/7s4kRdplZ4iX4Y5HvFEiHT) | [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx) | [Heir of Grief](https://open.spotify.com/track/7s4kRdplZ4iX4Y5HvFEiHT) |
-| <img src="https://i.scdn.co/image/ab67616d000048519c460bfd8d3d6304f1d1092a" width="48" height="48"> | [Heir of Grief](https://open.spotify.com/track/7s4kRdplZ4iX4Y5HvFEiHT) | [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx) | [Heir of Grief](https://open.spotify.com/track/7s4kRdplZ4iX4Y5HvFEiHT) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b06a11d425e30f86344afb68" width="48" height="48"> | [Battle in the Sky](https://open.spotify.com/track/3KkPHbFi3Rf7BRcRpjLskE) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [War of Dragons](https://open.spotify.com/track/3KkPHbFi3Rf7BRcRpjLskE) |
+| <img src="https://i.scdn.co/image/ab67616d00004851bd92d2e8f66f88864ce5e01e" width="48" height="48"> | [I Like the Way](https://open.spotify.com/track/5fH69xcVMUgnhgXOd1V7bY) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Past Lives](https://open.spotify.com/track/5fH69xcVMUgnhgXOd1V7bY) |
+| <img src="https://i.scdn.co/image/ab67616d00004851186660bbf3b0dd9a5195e182" width="48" height="48"> | [again&again](https://open.spotify.com/track/4hDXe9C6UbApzZhw5AXbC7) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [fever](https://open.spotify.com/track/4hDXe9C6UbApzZhw5AXbC7) |
+| <img src="https://i.scdn.co/image/ab67616d00004851eaa10fffa60de320846c28be" width="48" height="48"> | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) |
+| <img src="https://i.scdn.co/image/ab67616d00004851bec451fd00e8f788ff67e6b6" width="48" height="48"> | [Ms. Crumby](https://open.spotify.com/track/2rK5tV7bKl1AIlQrkToxcd) | [The Audition](https://open.spotify.com/artist/7EE9Xq8yiJyO5FIVho6ibI) | [Great Danger](https://open.spotify.com/track/2rK5tV7bKl1AIlQrkToxcd) |
+| <img src="https://i.scdn.co/image/ab67616d00004851d0c4b14b57f31b349fe36d1c" width="48" height="48"> | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) |
+| <img src="https://i.scdn.co/image/ab67616d000048510317c9c849180ba99c600491" width="48" height="48"> | [Back To You](https://open.spotify.com/track/5cA5uzhbAQ3P8ZRnyeCnGV) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw), [Micki Sobral](https://open.spotify.com/artist/4uCjcfjmj0x612hXzUOzcE), [Henrique Baptista](https://open.spotify.com/artist/3r68W4hVfVDExynh5SZndg), [Tom Verstappen](https://open.spotify.com/artist/5zm9EEu3tRT0dH3qP3D3bY) | [Back To You](https://open.spotify.com/track/5cA5uzhbAQ3P8ZRnyeCnGV) |
+| <img src="https://i.scdn.co/image/ab67616d00004851d2a8ad60c497e7f365f3b8a2" width="48" height="48"> | [Still Waiting](https://open.spotify.com/track/4yZexjpbKCRfK4jcXSUZfp) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/track/4yZexjpbKCRfK4jcXSUZfp) |
+| <img src="https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149" width="48" height="48"> | [The Diary of Jane - Single Version](https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia (Clean Version)](https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ) |
+| <img src="https://i.scdn.co/image/ab67616d000048519d92c1661f5a7784808fabdb" width="48" height="48"> | [Running with the Wild Things](https://open.spotify.com/track/30vl7nX9kTYZRfr7kTi0jU) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [In Our Bones](https://open.spotify.com/track/30vl7nX9kTYZRfr7kTi0jU) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e519b3e2bcaab7cd74d1f66e" width="48" height="48"> | [Lonely Girl](https://open.spotify.com/track/5whbAX7oZ7MDlgBplPDkJb) | [Tonight Alive](https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh) | [The Other Side](https://open.spotify.com/track/5whbAX7oZ7MDlgBplPDkJb) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
