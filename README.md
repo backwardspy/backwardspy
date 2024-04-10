@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-10T18:49:48+00:00'>Apr 10th 18:49</span></td>
+<td>
+
+💬 commented on [#178: Whiskers doesn't read frontmatter in files encoded as UTF-8 with BOM](https://github.com/catppuccin/toolbox/issues/178)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-10T18:48:06+00:00'>Apr 10th 18:48</span></td>
+<td>
+
+💬 commented on [#176: build(nix): add overlay](https://github.com/catppuccin/toolbox/pull/176)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-10T18:47:41+00:00'>Apr 10th 18:47</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-10T18:47:39+00:00'>Apr 10th 18:47</span></td>
+<td>
+
+🎉 closed [#176: build(nix): add overlay](https://github.com/catppuccin/toolbox/pull/176)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-09T11:50:25+00:00'>Apr 9th 11:50</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-09T11:48:47+00:00'>Apr 9th 11:48</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-08T07:51:25+00:00'>Apr 8th 07:51</span></td>
 <td>
@@ -243,45 +295,6 @@
 <td>
 
 [catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-07T12:08:09+00:00'>Apr 7th 12:08</span></td>
-<td>
-
-🔍 reviewed [#171: feat(whiskers): allow overrides of any matrix iterable](https://github.com/catppuccin/toolbox/pull/171)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-07T12:07:51+00:00'>Apr 7th 12:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/multi-file-single-other`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-05T13:24:03+00:00'>Apr 5th 13:24</span></td>
-<td>
-
-💬 commented on [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
 
 </td>
 </tr>
