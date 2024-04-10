@@ -295,6 +295,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048518ea6c4a7d83410772c0e5a0f" width="48" height="48"> | [Ode to Fury](https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc) | [Miracle Of Sound](https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq) | [Level 9](https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc) |
+| <img src="https://i.scdn.co/image/ab67616d00004851b37a2bb117c7ae30ee77b6bd" width="48" height="48"> | [Fields of Verdun](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) |
 | <img src="https://i.scdn.co/image/ab67616d000048517dc7ccc9efe21a79a25b0bc9" width="48" height="48"> | [End Of All Hope](https://open.spotify.com/track/5wO7hTEOnwLt4NX1nbA16k) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/track/5wO7hTEOnwLt4NX1nbA16k) |
 | <img src="https://i.scdn.co/image/ab67616d000048510c100c40bdedea776770e7aa" width="48" height="48"> | [The Last Battle](https://open.spotify.com/track/7hrW22GLqFLwQOfQYLEw6q) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Last Stand](https://open.spotify.com/track/7hrW22GLqFLwQOfQYLEw6q) |
 | <img src="https://i.scdn.co/image/ab67616d0000485152baa273bca6ce277f79f4b1" width="48" height="48"> | [The March of the Varangian Guard](https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Stand Up and Fight](https://open.spotify.com/track/6TG5ZHmSqMqLqLVXeg71cs) |
@@ -303,8 +305,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851c4a4a8f9190656455b6bf8c3" width="48" height="48"> | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) |
 | <img src="https://i.scdn.co/image/ab67616d00004851052d58444fff15346b74f242" width="48" height="48"> | [Ghost Division](https://open.spotify.com/track/1MoEyYsa9Y0FvApwLskO1l) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Art of War (Re-Armed)](https://open.spotify.com/track/1MoEyYsa9Y0FvApwLskO1l) |
 | <img src="https://i.scdn.co/image/ab67616d000048513559c601a004b21fd74c0e23" width="48" height="48"> | [Nightfall - Remastered 2007](https://open.spotify.com/track/7s0fJ0s9A5eRh4NXaMkfgS) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Nightfall in Middle Earth (Remastered 2007)](https://open.spotify.com/track/7s0fJ0s9A5eRh4NXaMkfgS) |
-| <img src="https://i.scdn.co/image/ab67616d000048518f885ec0edbc7b14261b6eae" width="48" height="48"> | [Gunman](https://open.spotify.com/track/3Mz5lXbMBK2tUmKAwAJwi1) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Gunmen](https://open.spotify.com/track/3Mz5lXbMBK2tUmKAwAJwi1) |
-| <img src="https://i.scdn.co/image/ab67616d0000485125ae6724fbf73d1a2877a220" width="48" height="48"> | [The Call of the Mountains](https://open.spotify.com/track/0vTEksNDRuJxDMLOOgn0fA) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Origins](https://open.spotify.com/track/0vTEksNDRuJxDMLOOgn0fA) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
