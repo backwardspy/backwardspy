@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-11T09:01:32+00:00'>Apr 11th 09:01</span></td>
+<td>
+
+💬 commented on [#147: feat(catwalk): use ril with pure rust webp feature](https://github.com/catppuccin/toolbox/pull/147)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-10T20:45:21+00:00'>Apr 10th 20:45</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-10T18:49:48+00:00'>Apr 10th 18:49</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-10T18:48:06+00:00'>Apr 10th 18:48</span></td>
 <td>
@@ -282,19 +295,6 @@
 <td>
 
 [catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-07T14:45:45+00:00'>Apr 7th 14:45</span></td>
-<td>
-
-💬 commented on [#2103: Nix](https://github.com/catppuccin/catppuccin/issues/2103)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
