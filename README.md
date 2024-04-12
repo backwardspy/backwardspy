@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-12T07:55:57+00:00'>Apr 12th 07:55</span></td>
+<td>
+
+💬 commented on [#9: Introduce Whiskers to the template](https://github.com/catppuccin/template/pull/9)
+
+</td>
+<td>
+
+[catppuccin/template](https://github.com/catppuccin/template)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-11T22:28:18+00:00'>Apr 11th 22:28</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-10T20:19:38+00:00'>Apr 10th 20:19</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-10T19:39:29+00:00'>Apr 10th 19:39</span></td>
 <td>
@@ -282,19 +295,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-07T14:59:47+00:00'>Apr 7th 14:59</span></td>
-<td>
-
-💬 commented on [#14: update to work with latest upload-artifact action](https://github.com/catppuccin/homebrew-tap/issues/14)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
 
 </td>
 </tr>
