@@ -308,6 +308,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048514aa85ed00d8b32fd901da413" width="48" height="48"> | [I Remember](https://open.spotify.com/track/5kc94sZMpuzSZdbfiCr0gh) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [I Remember](https://open.spotify.com/track/5kc94sZMpuzSZdbfiCr0gh) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Creeping in My Soul](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) |
 | <img src="https://i.scdn.co/image/ab67616d00004851815288fabbc7cc8546a94606" width="48" height="48"> | [Highscore](https://open.spotify.com/track/7FADpmBJVWay6aHy8q34oa) | [Panda Eyes](https://open.spotify.com/artist/3K0GDmmiRwn1Zc7RZzTeAz), [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF) | [KIKO](https://open.spotify.com/track/7FADpmBJVWay6aHy8q34oa) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d266a2fe87f6aa131de3b3e9" width="48" height="48"> | [Chroma](https://open.spotify.com/track/0oJkB8jrA25MQdBq5z2pMK) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [EMELINE](https://open.spotify.com/artist/0nK3nCo3DFpn9TmYP0yMyK) | [Chroma](https://open.spotify.com/track/0oJkB8jrA25MQdBq5z2pMK) |
@@ -317,7 +318,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048512c02d9bf7b58ed0ba8f1aadb" width="48" height="48"> | [Resolution](https://open.spotify.com/track/7AaM3qK1PnqW2JkQxq6TeQ) | [Kick Puncher](https://open.spotify.com/artist/1WvDvicIZrQVB2gFXZHIBN) | [Magnatron](https://open.spotify.com/track/7AaM3qK1PnqW2JkQxq6TeQ) |
 | <img src="https://i.scdn.co/image/ab67616d000048518f40718549807f20ef1e14dd" width="48" height="48"> | [The Maze of Mayonnaise](https://open.spotify.com/track/1O4i0qUQvlLCuHbGmC9jig) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Caps On, Hats Off](https://open.spotify.com/track/1O4i0qUQvlLCuHbGmC9jig) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f0f3a191d7dcaf2b6a8ac86c" width="48" height="48"> | [Monody (feat. Laura Brehm)](https://open.spotify.com/track/3VvBPkc24zC7x05mgJTyGO) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Monody (feat. Laura Brehm)](https://open.spotify.com/track/3VvBPkc24zC7x05mgJTyGO) |
-| <img src="https://i.scdn.co/image/ab67616d00004851ba7e2eb03e63e600d85a4bc6" width="48" height="48"> | [Dance To It](https://open.spotify.com/track/1P9Ey10ONaLsSjmHlbvOWE) | [Tut Tut Child](https://open.spotify.com/artist/6EmSzH0r12lNsYQCFzCFS3) | [Dance To It](https://open.spotify.com/track/1P9Ey10ONaLsSjmHlbvOWE) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
