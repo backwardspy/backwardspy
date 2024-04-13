@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-13T09:40:52+00:00'>Apr 13th 09:40</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-12T15:37:20+00:00'>Apr 12th 15:37</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-10T20:45:21+00:00'>Apr 10th 20:45</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-10T20:32:02+00:00'>Apr 10th 20:32</span></td>
 <td>
@@ -277,19 +290,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-07T15:06:55+00:00'>Apr 7th 15:06</span></td>
-<td>
-
-🎉 closed [#2354: docs: add catppuccin/nix](https://github.com/catppuccin/catppuccin/pull/2354)
 
 </td>
 <td>
