@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-15T12:56:21+00:00'>Apr 15th 12:56</span></td>
+<td>
+
+🔍 reviewed [#5: Run as a Kubernetes Deployment, instead of CronJob](https://github.com/cpressland/rq-autoscaler/pull/5)
+
+</td>
+<td>
+
+[cpressland/rq-autoscaler](https://github.com/cpressland/rq-autoscaler)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-15T08:18:40+00:00'>Apr 15th 08:18</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-13T09:40:52+00:00'>Apr 13th 09:40</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-12T15:37:20+00:00'>Apr 12th 15:37</span></td>
 <td>
@@ -243,32 +256,6 @@
 <td>
 
 [catppuccin/zsh-fsh](https://github.com/catppuccin/zsh-fsh)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-09T11:48:47+00:00'>Apr 9th 11:48</span></td>
-<td>
-
-📢 opened [#177: include flavour's colours at top level when rendering single-flavor matrix templates](https://github.com/catppuccin/toolbox/issues/177)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-08T22:04:38+00:00'>Apr 8th 22:04</span></td>
-<td>
-
-💬 commented on [#2315: feat: explicitly track current/past maintainers](https://github.com/catppuccin/catppuccin/pull/2315)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
