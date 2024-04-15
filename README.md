@@ -282,6 +282,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149" width="48" height="48"> | [The Diary of Jane - Single Version](https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia (Clean Version)](https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6" width="48" height="48"> | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
 | <img src="https://i.scdn.co/image/ab67616d000048513d49fa9efbba5f8ecc35b0df" width="48" height="48"> | [Prayer Of The Refugee](https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ) |
 | <img src="https://i.scdn.co/image/ab67616d000048519a482180e6a306229bff49dc" width="48" height="48"> | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) |
@@ -291,7 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851bec451fd00e8f788ff67e6b6" width="48" height="48"> | [Ms. Crumby](https://open.spotify.com/track/2rK5tV7bKl1AIlQrkToxcd) | [The Audition](https://open.spotify.com/artist/7EE9Xq8yiJyO5FIVho6ibI) | [Great Danger](https://open.spotify.com/track/2rK5tV7bKl1AIlQrkToxcd) |
 | <img src="https://i.scdn.co/image/ab67616d00004851186660bbf3b0dd9a5195e182" width="48" height="48"> | [that won't save us](https://open.spotify.com/track/6MlQJCjsxksoruwsgKfLMe) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/track/6MlQJCjsxksoruwsgKfLMe) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d0c4b14b57f31b349fe36d1c" width="48" height="48"> | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) |
-| <img src="https://i.scdn.co/image/ab67616d00004851cb7523307aac3e10b66bef40" width="48" height="48"> | [Paralyzed](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Gravity](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
