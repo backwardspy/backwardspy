@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-15T08:18:40+00:00'>Apr 15th 08:18</span></td>
+<td>
+
+🚢 pushed 1 commit to `master`
+
+</td>
+<td>
+
+[binkhq/api-reflector](https://github.com/binkhq/api-reflector)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-15T08:18:40+00:00'>Apr 15th 08:18</span></td>
+<td>
+
+🎉 closed [#81: Bump idna from 3.4 to 3.7](https://github.com/binkhq/api-reflector/pull/81)
+
+</td>
+<td>
+
+[binkhq/api-reflector](https://github.com/binkhq/api-reflector)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-14T14:00:27+00:00'>Apr 14th 14:00</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-12T15:37:20+00:00'>Apr 12th 15:37</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-11T22:28:18+00:00'>Apr 11th 22:28</span></td>
 <td>
@@ -243,45 +269,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-08T22:01:53+00:00'>Apr 8th 22:01</span></td>
-<td>
-
-🔍 reviewed [#2315: feat: explicitly track current/past maintainers](https://github.com/catppuccin/catppuccin/pull/2315)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-08T16:30:31+00:00'>Apr 8th 16:30</span></td>
-<td>
-
-🔍 reviewed [#2315: feat: explicitly track current/past maintainers](https://github.com/catppuccin/catppuccin/pull/2315)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-08T07:51:25+00:00'>Apr 8th 07:51</span></td>
-<td>
-
-🚀 opened [#16: chore: temporarily remove ctp cli formula](https://github.com/catppuccin/homebrew-tap/pull/16)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
 
 </td>
 </tr>
