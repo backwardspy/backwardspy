@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-16T16:11:51+00:00'>Apr 16th 16:11</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-16T16:11:50+00:00'>Apr 16th 16:11</span></td>
+<td>
+
+🎉 closed [#180: fix(deps): update rust crate rmp-serde to 1.2](https://github.com/catppuccin/toolbox/pull/180)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-15T12:56:21+00:00'>Apr 15th 12:56</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-14T14:00:27+00:00'>Apr 14th 14:00</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-13T09:40:52+00:00'>Apr 13th 09:40</span></td>
 <td>
@@ -233,32 +259,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-10T18:47:39+00:00'>Apr 10th 18:47</span></td>
-<td>
-
-🎉 closed [#176: build(nix): add overlay](https://github.com/catppuccin/toolbox/pull/176)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-09T11:50:25+00:00'>Apr 9th 11:50</span></td>
-<td>
-
-🔍 reviewed [#2: build: use whiskers](https://github.com/catppuccin/zsh-fsh/pull/2)
-
-</td>
-<td>
-
-[catppuccin/zsh-fsh](https://github.com/catppuccin/zsh-fsh)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -269,16 +269,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d000048515aa75a47afe2804e280bd149" width="48" height="48"> | [The Diary of Jane - Single Version](https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Phobia (Clean Version)](https://open.spotify.com/track/0faXHILILebCGnJBPU6KJJ) |
 | <img src="https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6" width="48" height="48"> | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
-| <img src="https://i.scdn.co/image/ab67616d000048513d49fa9efbba5f8ecc35b0df" width="48" height="48"> | [Prayer Of The Refugee](https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ) |
-| <img src="https://i.scdn.co/image/ab67616d000048519a482180e6a306229bff49dc" width="48" height="48"> | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f9b3ece3271d3a5fa73d3759" width="48" height="48"> | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851da071ae7564949fbbfc6904d" width="48" height="48"> | [This Ain't A Scene, It's An Arms Race](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b048f1c35393209592b515c0" width="48" height="48"> | [Talk to a Friend](https://open.spotify.com/track/6nqCVzh5uUc85E0Kctky9r) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [To Better Days](https://open.spotify.com/track/6nqCVzh5uUc85E0Kctky9r) |
-| <img src="https://i.scdn.co/image/ab67616d00004851bec451fd00e8f788ff67e6b6" width="48" height="48"> | [Ms. Crumby](https://open.spotify.com/track/2rK5tV7bKl1AIlQrkToxcd) | [The Audition](https://open.spotify.com/artist/7EE9Xq8yiJyO5FIVho6ibI) | [Great Danger](https://open.spotify.com/track/2rK5tV7bKl1AIlQrkToxcd) |
-| <img src="https://i.scdn.co/image/ab67616d00004851186660bbf3b0dd9a5195e182" width="48" height="48"> | [that won't save us](https://open.spotify.com/track/6MlQJCjsxksoruwsgKfLMe) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/track/6MlQJCjsxksoruwsgKfLMe) |
-| <img src="https://i.scdn.co/image/ab67616d00004851d0c4b14b57f31b349fe36d1c" width="48" height="48"> | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) |
+| <img src="https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b" width="48" height="48"> | [Jesus of Suburbia](https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr) |
+| <img src="https://i.scdn.co/image/ab67616d00004851da071ae7564949fbbfc6904d" width="48" height="48"> | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) |
+| <img src="https://i.scdn.co/image/ab67616d0000485108a2b8e9210f518f6f4fbb8a" width="48" height="48"> | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) |
+| <img src="https://i.scdn.co/image/ab67616d0000485152b670b8f1f796fb52767e9f" width="48" height="48"> | [Hollywood](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) | [After Midnight Project](https://open.spotify.com/artist/1CCtRpOlg6EL0HP9DdEtk4) | [Let's Build Something To Break](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) |
+| <img src="https://i.scdn.co/image/ab67616d0000485169966efa45b125ed6711b43c" width="48" height="48"> | [crushcrushcrush](https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/track/4m9NfjevXsDVaLtM1kj0Sx) |
+| <img src="https://i.scdn.co/image/ab67616d00004851734dbf67d585a457a8d2b676" width="48" height="48"> | [Any Other Way](https://open.spotify.com/track/5FYlc7iKGQTlXjIKdBSgWB) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Somewhere Somehow](https://open.spotify.com/track/5FYlc7iKGQTlXjIKdBSgWB) |
+| <img src="https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1" width="48" height="48"> | [This Is How I Disappear](https://open.spotify.com/track/0rUNZQuYQvOz6A6zwyT6tM) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/track/0rUNZQuYQvOz6A6zwyT6tM) |
+| <img src="https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52" width="48" height="48"> | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) |
+| <img src="https://i.scdn.co/image/ab67616d000048513d49fa9efbba5f8ecc35b0df" width="48" height="48"> | [Behind Closed Doors](https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
