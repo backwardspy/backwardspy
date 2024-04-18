@@ -256,6 +256,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048513d49fa9efbba5f8ecc35b0df" width="48" height="48"> | [Behind Closed Doors](https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe) |
 | <img src="https://i.scdn.co/image/ab67616d00004851283177f0bb90830a72303227" width="48" height="48"> | [For You, And Your Denial](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [When You're Through Thinking, Say Yes](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c8913cd7b91bb7f6bbbec305" width="48" height="48"> | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c8913cd7b91bb7f6bbbec305" width="48" height="48"> | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) |
@@ -265,7 +266,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485168c5f05dac183fec658371d8" width="48" height="48"> | [Running My Head](https://open.spotify.com/track/6gpWuoLHATB54DKgHgWsQQ) | [Shirobon](https://open.spotify.com/artist/2OgP0RGmDrXN9kOWRNfEuE), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [22: 22](https://open.spotify.com/track/6gpWuoLHATB54DKgHgWsQQ) |
 | <img src="https://i.scdn.co/image/ab67616d000048515ad675670c98926128fa05ff" width="48" height="48"> | [Kirby](https://open.spotify.com/track/5gYUB3rWmRwXqmggOVDLiV) | [Powerglove](https://open.spotify.com/artist/6J0DfXSDiMxIHVrnRcDn7M), [Reece Miller](https://open.spotify.com/artist/4WGJkLUI7nU4LI7ny0hRzY) | [Continue?](https://open.spotify.com/track/5gYUB3rWmRwXqmggOVDLiV) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d83d2da310c9a23b6d18ae75" width="48" height="48"> | [Hope of Morning](https://open.spotify.com/track/6REggZ9bXP4wLfnQPgE69z) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Icon for Hire](https://open.spotify.com/track/6REggZ9bXP4wLfnQPgE69z) |
-| <img src="https://i.scdn.co/image/ab67616d00004851ba142e514f30ec2c89ddf482" width="48" height="48"> | [Against The Sun](https://open.spotify.com/track/5MAM4PXb95MPl2JWSlMI6L) | [Rootkit](https://open.spotify.com/artist/01olvHW7uzIInQx9VTNuJm), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [Against The Sun](https://open.spotify.com/track/5MAM4PXb95MPl2JWSlMI6L) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
