@@ -256,6 +256,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048517d80e26b06c19ea155052923" width="48" height="48"> | [Flowering Night](https://open.spotify.com/track/5raiixLk0NHkrnBFC8RiT4) | [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx) | [Bullet Hell](https://open.spotify.com/track/5raiixLk0NHkrnBFC8RiT4) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a" width="48" height="48"> | [I Don't Wanna Go](https://open.spotify.com/track/7kVDkZkZc8qBUBsF6klUoY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Different World](https://open.spotify.com/track/7kVDkZkZc8qBUBsF6klUoY) |
 | <img src="https://i.scdn.co/image/ab67616d0000485183123a77a7d7e51299940f3d" width="48" height="48"> | [Necromancin Dancin](https://open.spotify.com/track/4VoSYq3aTp57jgrdNswzrd) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/track/4VoSYq3aTp57jgrdNswzrd) |
 | <img src="https://i.scdn.co/image/ab67616d0000485115eaf936ffd29d7aed111ba0" width="48" height="48"> | [Brain Power - Long Version](https://open.spotify.com/track/227AlkDHWM5G2tejvX5EKZ) | [NOMA](https://open.spotify.com/artist/7gissmIvS8WFUpEZnpSPMF) | [Chronikle](https://open.spotify.com/track/227AlkDHWM5G2tejvX5EKZ) |
@@ -265,7 +266,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851ddc2d0b7f5c8697c2ca04ba8" width="48" height="48"> | [Night of Nights](https://open.spotify.com/track/2OgHBcWrsQUwnZi5atxPFF) | [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx) | [Night of Nights](https://open.spotify.com/track/2OgHBcWrsQUwnZi5atxPFF) |
 | <img src="https://i.scdn.co/image/ab67616d0000485190c8d376503e5913cfeac39e" width="48" height="48"> | [Mirage IV](https://open.spotify.com/track/72SuOMtGR2MNAgNh5mn6JX) | [Dubmood](https://open.spotify.com/artist/4D2G48IdJKhcdZ5c1dqp5Z) | [Force De Frappe](https://open.spotify.com/track/72SuOMtGR2MNAgNh5mn6JX) |
 | <img src="https://i.scdn.co/image/ab67616d000048513c6dabf0350d1933d01542d4" width="48" height="48"> | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) |
-| <img src="https://i.scdn.co/image/ab67616d000048511578debc0e6bb047dd20a02b" width="48" height="48"> | [Legends Never Die - (Remix)](https://open.spotify.com/track/66YtIqT0kN4958EXnCnAmE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Legends Never Die (Remix)](https://open.spotify.com/track/66YtIqT0kN4958EXnCnAmE) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
