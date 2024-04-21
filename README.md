@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-21T18:46:18+00:00'>Apr 21st 18:46</span></td>
+<td>
+
+💬 commented on [#1: zooming all the way in causes excessive resource usage](https://github.com/tinyworldmap/tiny-world-map/issues/1)
+
+</td>
+<td>
+
+[tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-21T13:01:44+00:00'>Apr 21st 13:01</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-16T16:11:51+00:00'>Apr 16th 16:11</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-16T16:11:50+00:00'>Apr 16th 16:11</span></td>
 <td>
@@ -246,19 +259,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-10T20:19:38+00:00'>Apr 10th 20:19</span></td>
-<td>
-
-🚀 opened [#179: feat(whiskers): support alternative template file encodings](https://github.com/catppuccin/toolbox/pull/179)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -269,16 +269,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851a6a151ed88a170ae3a81eff5" width="48" height="48"> | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Spectre](https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ) |
+| <img src="https://i.scdn.co/image/ab67616d0000485107673f1b3156fd37b59a0c78" width="48" height="48"> | [80386](https://open.spotify.com/track/0qI8SA8nRvRDYv2krkrJOU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80386](https://open.spotify.com/track/0qI8SA8nRvRDYv2krkrJOU) |
+| <img src="https://i.scdn.co/image/ab67616d00004851be45897cfda06fbdf1b6e05f" width="48" height="48"> | [Save You](https://open.spotify.com/track/48kKk4EjDykCqgUqUytCIL) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Save You](https://open.spotify.com/track/48kKk4EjDykCqgUqUytCIL) |
+| <img src="https://i.scdn.co/image/ab67616d000048518f40718549807f20ef1e14dd" width="48" height="48"> | [Milky Ways](https://open.spotify.com/track/4Lh9y6lykMrLL3MBhx0CeO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Caps On, Hats Off](https://open.spotify.com/track/4Lh9y6lykMrLL3MBhx0CeO) |
+| <img src="https://i.scdn.co/image/ab67616d000048518f40718549807f20ef1e14dd" width="48" height="48"> | [Milky Ways](https://open.spotify.com/track/4Lh9y6lykMrLL3MBhx0CeO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Caps On, Hats Off](https://open.spotify.com/track/4Lh9y6lykMrLL3MBhx0CeO) |
 | <img src="https://i.scdn.co/image/ab67616d0000485197ea027ac78c05d10422b588" width="48" height="48"> | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) |
 | <img src="https://i.scdn.co/image/ab67616d0000485130a606745fedebc06188ee14" width="48" height="48"> | [We Have Accidentally Borrowed Your Votedisk (MASTER BOOT RECORD Remix)](https://open.spotify.com/track/6MEMWyShB8rKuIY9CxosR7) | [Dubmood](https://open.spotify.com/artist/4D2G48IdJKhcdZ5c1dqp5Z), [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Votedisk // Scene Is Dead](https://open.spotify.com/track/6MEMWyShB8rKuIY9CxosR7) |
 | <img src="https://i.scdn.co/image/ab67616d00004851625379075358dbb93c11a2f6" width="48" height="48"> | [The Veldt - Radio Edit](https://open.spotify.com/track/1vQ92830bxiBcIhpUj4qrn) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [The Veldt](https://open.spotify.com/track/1vQ92830bxiBcIhpUj4qrn) |
 | <img src="https://i.scdn.co/image/ab67616d00004851eef2f969585ecd89a33564c6" width="48" height="48"> | [Wolf in Sheep's Clothing](https://open.spotify.com/track/55Fpeuuc2sbQiy74eA1gTt) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k), [William Beckett](https://open.spotify.com/artist/7CtuVv4AQbupHTsr3E4d9p) | [Duality](https://open.spotify.com/track/55Fpeuuc2sbQiy74eA1gTt) |
 | <img src="https://i.scdn.co/image/ab67616d000048519d8487ecb691594f606b2ac2" width="48" height="48"> | [Virdem](https://open.spotify.com/track/2Siu6od8M6gbjRlNbQkRVM) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Virus.Dos](https://open.spotify.com/track/2Siu6od8M6gbjRlNbQkRVM) |
-| <img src="https://i.scdn.co/image/ab67616d000048511942f0dddfa48cf555ea3521" width="48" height="48"> | [Miami Fever](https://open.spotify.com/track/68LHOqE56Zwd1baD2RqBEp) | [Jeremiah Kane](https://open.spotify.com/artist/4wKbEwlRYNLlwUu9OCgLBr) | [All or Nothing](https://open.spotify.com/track/68LHOqE56Zwd1baD2RqBEp) |
-| <img src="https://i.scdn.co/image/ab67616d00004851d81c37762e368e5eb4c13e8a" width="48" height="48"> | [The Storm](https://open.spotify.com/track/5Uh1uXAwxHdzeENqcBVZIH) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Maisy Kay](https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT) | [The Storm](https://open.spotify.com/track/5Uh1uXAwxHdzeENqcBVZIH) |
-| <img src="https://i.scdn.co/image/ab67616d000048511ae1f9dc8ac35dfe373bb080" width="48" height="48"> | [Job For A Cowboy](https://open.spotify.com/track/1NGTqQJs0JzojfFn09i3kO) | [OGRE Sound](https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj) | [195](https://open.spotify.com/track/1NGTqQJs0JzojfFn09i3kO) |
-| <img src="https://i.scdn.co/image/ab67616d00004851ed368e9a55374f9b703f79e3" width="48" height="48"> | [Perpetual Motion](https://open.spotify.com/track/4rlOSalyOrLZt4b5mmOr1R) | [LukHash](https://open.spotify.com/artist/3hvgLXeDFNiqDOVXl0xTge) | [Better Than Reality](https://open.spotify.com/track/4rlOSalyOrLZt4b5mmOr1R) |
-| <img src="https://i.scdn.co/image/ab67616d000048515d16ee109d3ce0495300536b" width="48" height="48"> | [The Fine Print](https://open.spotify.com/track/73MWNenV7mQGUdXB8npY4H) | [The Stupendium](https://open.spotify.com/artist/5bkJvRo8OeDzWKpiY4GK0O) | [The Fine Print (The Outer Worlds Song)](https://open.spotify.com/track/73MWNenV7mQGUdXB8npY4H) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
