@@ -269,6 +269,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048513d2fedd8fae46b28c7a80410" width="48" height="48"> | [Slipping](https://open.spotify.com/track/7piKVALJFj1tIGKI1E47FP) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Slipping](https://open.spotify.com/track/7piKVALJFj1tIGKI1E47FP) |
 | <img src="https://i.scdn.co/image/ab67616d000048515f34e0d2e52e30edf4019ba5" width="48" height="48"> | [Discovery](https://open.spotify.com/track/0Tff8OURf4ZLo8InfiJZl3) | [meganeko](https://open.spotify.com/artist/5tXUIbGjW1uqXoy8cPW8MB) | [Technokinesis](https://open.spotify.com/track/0Tff8OURf4ZLo8InfiJZl3) |
 | <img src="https://i.scdn.co/image/ab67616d0000485110995aa5e1ed355e1883c18c" width="48" height="48"> | [Falling](https://open.spotify.com/track/3u8FxZuhSk5MXAgHy1Z2Ac) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Creeping In My Soul](https://open.spotify.com/track/3u8FxZuhSk5MXAgHy1Z2Ac) |
 | <img src="https://i.scdn.co/image/ab67616d000048513c6dabf0350d1933d01542d4" width="48" height="48"> | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) |
@@ -278,7 +279,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048512d6e965c6341545ceb6c4d0e" width="48" height="48"> | [Go The Distance](https://open.spotify.com/track/3JQouT85hCgNy3zDZaWBww) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3), [Lindsey Marie](https://open.spotify.com/artist/3CNClHbvGoliUd7kzcNzGl) | [Go The Distance](https://open.spotify.com/track/3JQouT85hCgNy3zDZaWBww) |
 | <img src="https://i.scdn.co/image/ab67616d000048513db8b1614960e5f9dfa2953e" width="48" height="48"> | [CHOMP](https://open.spotify.com/track/6iMEeVi0Z2eeZVMDs1tGWi) | [CHOMPO](https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [CHOMPO I](https://open.spotify.com/track/6iMEeVi0Z2eeZVMDs1tGWi) |
 | <img src="https://i.scdn.co/image/ab67616d00004851bdcdaebaf352a35dd5de01f0" width="48" height="48"> | [Chiptune](https://open.spotify.com/track/4EuPMzVjFBkGdbyKJHFoeg) | [Dubmood](https://open.spotify.com/artist/4D2G48IdJKhcdZ5c1dqp5Z) | [Lost Floppies Vol 2](https://open.spotify.com/track/4EuPMzVjFBkGdbyKJHFoeg) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c95b55a7bb1145909c8e5b88" width="48" height="48"> | [Apollo - Electro Mix](https://open.spotify.com/track/0SAHscm15Og8IU8JAZUb9x) | [Astronaut](https://open.spotify.com/artist/7lcbOlKjk4gLsCxd481hik) | [Apollo](https://open.spotify.com/track/0SAHscm15Og8IU8JAZUb9x) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
