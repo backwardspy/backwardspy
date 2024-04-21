@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-21T13:01:44+00:00'>Apr 21st 13:01</span></td>
+<td>
+
+📢 opened [#1: zooming all the way in causes excessive resource usage](https://github.com/tinyworldmap/tiny-world-map/issues/1)
+
+</td>
+<td>
+
+[tinyworldmap/tiny-world-map](https://github.com/tinyworldmap/tiny-world-map)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-17T08:12:42+00:00'>Apr 17th 08:12</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-16T16:11:50+00:00'>Apr 16th 16:11</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-15T12:56:21+00:00'>Apr 15th 12:56</span></td>
 <td>
