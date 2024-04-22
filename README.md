@@ -269,6 +269,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1" width="48" height="48"> | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52" width="48" height="48"> | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f9b3ece3271d3a5fa73d3759" width="48" height="48"> | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) |
 | <img src="https://i.scdn.co/image/ab67616d000048516bbd5c58e7be013e8e83dcb3" width="48" height="48"> | [Drowned in Emotion](https://open.spotify.com/track/5nxcR7W60CU3cvmGX1jBzQ) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Lost Souls](https://open.spotify.com/track/5nxcR7W60CU3cvmGX1jBzQ) |
@@ -278,7 +279,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048514978eed9f147170024b9a65b" width="48" height="48"> | [Little Lion Man](https://open.spotify.com/track/6oyJip5XQHRqcsy6hOTqw3) | [Tonight Alive](https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh), [Dave Petrovic](https://open.spotify.com/artist/3jqy0lRa0e09KPyUhMELsC) | [Punk Goes Pop, Vol. 4](https://open.spotify.com/track/6oyJip5XQHRqcsy6hOTqw3) |
 | <img src="https://i.scdn.co/image/ab67616d00004851eaa10fffa60de320846c28be" width="48" height="48"> | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) |
 | <img src="https://i.scdn.co/image/ab67616d000048516e996745f2c7b8036abef213" width="48" height="48"> | [Bleed It Out](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) |
-| <img src="https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6" width="48" height="48"> | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
