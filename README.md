@@ -269,6 +269,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048517504abde2a0ccdc54738ba9f" width="48" height="48"> | [pineapple spaceship](https://open.spotify.com/track/4yTlbTfXsBLoK8EQp88rET) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [ウィーアブー・トラッシュ](https://open.spotify.com/track/4yTlbTfXsBLoK8EQp88rET) |
 | <img src="https://i.scdn.co/image/ab67616d000048518f40718549807f20ef1e14dd" width="48" height="48"> | [The Maze of Mayonnaise](https://open.spotify.com/track/1O4i0qUQvlLCuHbGmC9jig) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Caps On, Hats Off](https://open.spotify.com/track/1O4i0qUQvlLCuHbGmC9jig) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dfb70a64b76623022497a2db" width="48" height="48"> | [Never Be Alone](https://open.spotify.com/track/6RSIVvksolVFbjyJypupki) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Never Be Alone](https://open.spotify.com/track/6RSIVvksolVFbjyJypupki) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a" width="48" height="48"> | [I Don't Wanna Go](https://open.spotify.com/track/7kVDkZkZc8qBUBsF6klUoY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Different World](https://open.spotify.com/track/7kVDkZkZc8qBUBsF6klUoY) |
@@ -278,7 +279,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [Ignite Defense](https://open.spotify.com/track/7plXxGZhdE3OgGvDAdwlr2) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/7plXxGZhdE3OgGvDAdwlr2) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d9c8c6ab1d88f832a59fd608" width="48" height="48"> | [Anime Bae](https://open.spotify.com/track/5I9EcKCsBS9F8wuvy0XZzP) | [Kevin Villecco](https://open.spotify.com/artist/1wWsl04Vg99LLLKrEHYAhY), [Sushi Killer](https://open.spotify.com/artist/4dljuICglLYdFmk4dXtfUa) | [Anime Bae](https://open.spotify.com/track/5I9EcKCsBS9F8wuvy0XZzP) |
 | <img src="https://i.scdn.co/image/ab67616d000048510583618ae0ef3c3589d8c48a" width="48" height="48"> | [Build The Cities (Empire of Sound)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) | [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Build The Cities (Reconstructions)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a48bde6cf45881944dd611a5" width="48" height="48"> | [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
