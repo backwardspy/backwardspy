@@ -269,6 +269,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851595afb4b5e3de06382ee3ef1" width="48" height="48"> | [Genius](https://open.spotify.com/track/0QZPWvrAR4mDtDcLBu1Krv) | [Written by Wolves](https://open.spotify.com/artist/1j55zNwCQ3jhbNsnmrOrwr) | [Genius](https://open.spotify.com/track/0QZPWvrAR4mDtDcLBu1Krv) |
 | <img src="https://i.scdn.co/image/ab67616d000048510583618ae0ef3c3589d8c48a" width="48" height="48"> | [Build The Cities (Empire of Sound)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) | [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Build The Cities (Reconstructions)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a48bde6cf45881944dd611a5" width="48" height="48"> | [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) |
 | <img src="https://i.scdn.co/image/ab67616d00004851eef2f969585ecd89a33564c6" width="48" height="48"> | [Why Worry](https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Duality](https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF) |
@@ -278,7 +279,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851520e5e24b197940bf82c5d6b" width="48" height="48"> | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a" width="48" height="48"> | [Darkside](https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Different World](https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X) |
 | <img src="https://i.scdn.co/image/ab67616d00004851004c428682ce50fc4256c8fd" width="48" height="48"> | [Solitude](https://open.spotify.com/track/7H7RtxRYHIwfhOy8vLxpAw) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Slaydit](https://open.spotify.com/artist/0vC48gyflgfcrP6f50V9R8) | [Solitude](https://open.spotify.com/track/7H7RtxRYHIwfhOy8vLxpAw) |
-| <img src="https://i.scdn.co/image/ab67616d00004851ed368e9a55374f9b703f79e3" width="48" height="48"> | [Perpetual Motion](https://open.spotify.com/track/4rlOSalyOrLZt4b5mmOr1R) | [LukHash](https://open.spotify.com/artist/3hvgLXeDFNiqDOVXl0xTge) | [Better Than Reality](https://open.spotify.com/track/4rlOSalyOrLZt4b5mmOr1R) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
