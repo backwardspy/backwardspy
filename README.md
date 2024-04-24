@@ -269,6 +269,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048516e573ccd18148b0770a67b64" width="48" height="48"> | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) |
 | <img src="https://i.scdn.co/image/ab67616d0000485193ecfd08195855f768b09379" width="48" height="48"> | [Another You (Another Way)](https://open.spotify.com/track/6RQy8j94xIPJX8IC1QLF8j) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Infinity (The Acoustic Sessions)](https://open.spotify.com/track/6RQy8j94xIPJX8IC1QLF8j) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dded8986c67a22d8d741b25a" width="48" height="48"> | [Runaway](https://open.spotify.com/track/1Y7pwjf7fbHSNmWvVJURWo) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Runaway](https://open.spotify.com/track/1Y7pwjf7fbHSNmWvVJURWo) |
 | <img src="https://i.scdn.co/image/ab67616d00004851045d2d2ffe41c3e557f2cad8" width="48" height="48"> | [Almost Forgot - Will Ferri Remix](https://open.spotify.com/track/5DXmS4kma8Ad9MDdxEwQ3G) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Will Ferri](https://open.spotify.com/artist/1CbeFazN41vsXfP6QLtjh6) | [Almost Forgot (Will Ferri Remix)](https://open.spotify.com/track/5DXmS4kma8Ad9MDdxEwQ3G) |
@@ -278,7 +279,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851cbb5aebf323058ff06224338" width="48" height="48"> | [The River](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) |
 | <img src="https://i.scdn.co/image/ab67616d00004851186660bbf3b0dd9a5195e182" width="48" height="48"> | [again&again](https://open.spotify.com/track/4hDXe9C6UbApzZhw5AXbC7) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [fever](https://open.spotify.com/track/4hDXe9C6UbApzZhw5AXbC7) |
 | <img src="https://i.scdn.co/image/ab67616d00004851e519b3e2bcaab7cd74d1f66e" width="48" height="48"> | [Lonely Girl](https://open.spotify.com/track/5whbAX7oZ7MDlgBplPDkJb) | [Tonight Alive](https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh) | [The Other Side](https://open.spotify.com/track/5whbAX7oZ7MDlgBplPDkJb) |
-| <img src="https://i.scdn.co/image/ab67616d000048513c6b064abe936e3b6e4df951" width="48" height="48"> | [Wasting Away](https://open.spotify.com/track/1LMcMOoAxJ7Pa9FO2Ke5ym) | [Tonight Alive](https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh) | [All Shapes & Disguises](https://open.spotify.com/track/1LMcMOoAxJ7Pa9FO2Ke5ym) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
