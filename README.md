@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-25T10:23:11+00:00'>Apr 25th 10:23</span></td>
+<td>
+
+🚢 pushed 0 commit to `dependabot/pip/pydantic-1.10.13`
+
+</td>
+<td>
+
+[binkhq/api-reflector](https://github.com/binkhq/api-reflector)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-25T10:23:10+00:00'>Apr 25th 10:23</span></td>
+<td>
+
+🚢 pushed 1 commit to `master`
+
+</td>
+<td>
+
+[binkhq/api-reflector](https://github.com/binkhq/api-reflector)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-25T10:23:09+00:00'>Apr 25th 10:23</span></td>
+<td>
+
+🎉 closed [#84: Bump pydantic from 1.10.11 to 1.10.13](https://github.com/binkhq/api-reflector/pull/84)
+
+</td>
+<td>
+
+[binkhq/api-reflector](https://github.com/binkhq/api-reflector)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-22T13:13:57+00:00'>Apr 22nd 13:13</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-21T13:01:44+00:00'>Apr 21st 13:01</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-17T08:12:39+00:00'>Apr 17th 08:12</span></td>
 <td>
@@ -204,58 +243,6 @@
 <td>
 
 [isabelroses/izrss](https://github.com/isabelroses/izrss)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-12T07:55:57+00:00'>Apr 12th 07:55</span></td>
-<td>
-
-💬 commented on [#9: Introduce Whiskers to the template](https://github.com/catppuccin/template/pull/9)
-
-</td>
-<td>
-
-[catppuccin/template](https://github.com/catppuccin/template)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-11T22:28:18+00:00'>Apr 11th 22:28</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[ineffyble/genders.wtf](https://github.com/ineffyble/genders.wtf)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-11T09:01:32+00:00'>Apr 11th 09:01</span></td>
-<td>
-
-💬 commented on [#147: feat(catwalk): use ril with pure rust webp feature](https://github.com/catppuccin/toolbox/pull/147)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-10T20:45:21+00:00'>Apr 10th 20:45</span></td>
-<td>
-
-💬 commented on [#179: support alternative template file encodings](https://github.com/catppuccin/toolbox/pull/179)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
