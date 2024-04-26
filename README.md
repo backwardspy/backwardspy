@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-26T09:04:06+00:00'>Apr 26th 09:04</span></td>
+<td>
+
+💬 commented on [#2170: Gitkraken](https://github.com/catppuccin/catppuccin/issues/2170)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-25T10:23:11+00:00'>Apr 25th 10:23</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-21T18:46:18+00:00'>Apr 21st 18:46</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-21T13:01:44+00:00'>Apr 21st 13:01</span></td>
 <td>
@@ -230,19 +243,6 @@
 <td>
 
 [itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-12T15:37:20+00:00'>Apr 12th 15:37</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[isabelroses/izrss](https://github.com/isabelroses/izrss)
 
 </td>
 </tr>
