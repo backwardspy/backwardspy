@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-27T11:07:21+00:00'>Apr 27th 11:07</span></td>
+<td>
+
+🚢 pushed 0 commit to `release-please--branches--main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-27T11:07:20+00:00'>Apr 27th 11:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-04-27T11:07:19+00:00'>Apr 27th 11:07</span></td>
+<td>
+
+🎉 closed [#174: chore: release main](https://github.com/catppuccin/toolbox/pull/174)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-27T11:01:31+00:00'>Apr 27th 11:01</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-27T11:01:10+00:00'>Apr 27th 11:01</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-27T10:51:19+00:00'>Apr 27th 10:51</span></td>
 <td>
@@ -212,32 +251,6 @@
 <td>
 
 🚢 pushed 309 commits to `feat/create-parents`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T09:39:35+00:00'>Apr 27th 09:39</span></td>
-<td>
-
-💬 commented on [#178: Whiskers doesn't read frontmatter in files encoded as UTF-8 with BOM](https://github.com/catppuccin/toolbox/issues/178)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T09:38:00+00:00'>Apr 27th 09:38</span></td>
-<td>
-
-🚢 pushed 0 commit to `feat/character-encoding`
 
 </td>
 <td>
