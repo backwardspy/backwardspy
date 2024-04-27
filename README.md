@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-27T08:43:06+00:00'>Apr 27th 08:43</span></td>
+<td>
+
+💬 commented on [#172: feat: implement hex formatting support](https://github.com/catppuccin/toolbox/pull/172)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-26T09:04:06+00:00'>Apr 26th 09:04</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-22T13:13:57+00:00'>Apr 22nd 13:13</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-21T18:46:18+00:00'>Apr 21st 18:46</span></td>
 <td>
@@ -230,19 +243,6 @@
 <td>
 
 [backwardspy/nixos-wsl-starter](https://github.com/backwardspy/nixos-wsl-starter)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-13T09:40:52+00:00'>Apr 13th 09:40</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[itsmattkc/dotnet9x](https://github.com/itsmattkc/dotnet9x)
 
 </td>
 </tr>
