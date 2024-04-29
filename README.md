@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-04-29T08:50:26+00:00'>Apr 29th 08:50</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-04-27T11:07:21+00:00'>Apr 27th 11:07</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-04-27T11:01:29+00:00'>Apr 27th 11:01</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-27T11:01:10+00:00'>Apr 27th 11:01</span></td>
 <td>
@@ -238,19 +251,6 @@
 <td>
 
 🚀 opened [#182: add --create-parent-dirs option](https://github.com/catppuccin/toolbox/pull/182)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T09:56:54+00:00'>Apr 27th 09:56</span></td>
-<td>
-
-🚢 pushed 309 commits to `feat/create-parents`
 
 </td>
 <td>
