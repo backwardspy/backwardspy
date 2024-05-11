@@ -246,19 +246,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-27T09:57:16+00:00'>Apr 27th 09:57</span></td>
-<td>
-
-🚀 opened [#182: add --create-parent-dirs option](https://github.com/catppuccin/toolbox/pull/182)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
