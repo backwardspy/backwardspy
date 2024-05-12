@@ -6,6 +6,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-12T13:48:53+00:00'>May 12th 13:48</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-12T13:48:53+00:00'>May 12th 13:48</span></td>
+<td>
+
+🎉 closed [#3: feat: add hindi translations](https://github.com/backwardspy/backwardspy.github.io/pull/3)
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-12T13:11:20+00:00'>May 12th 13:11</span></td>
+<td>
+
+🎉 closed [#80: fix typo on python api description in readme](https://github.com/bbc/software-engineering-technical-assessments/pull/80)
+
+</td>
+<td>
+
+[bbc/software-engineering-technical-assessments](https://github.com/bbc/software-engineering-technical-assessments)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-12T13:05:01+00:00'>May 12th 13:05</span></td>
+<td>
+
+🚀 opened [#12: add pigeon.life](https://github.com/isabelroses/catppuccin-webring/pull/12)
+
+</td>
+<td>
+
+[isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-12T13:04:14+00:00'>May 12th 13:04</span></td>
+<td>
+
+🚢 pushed 2 commits to `main`
+
+</td>
+<td>
+
+[backwardspy/catppuccin-webring](https://github.com/backwardspy/catppuccin-webring)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2024-05-12T13:00:23+00:00'>May 12th 13:00</span></td>
 <td>
 
@@ -70,13 +142,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-04-27T11:01:31+00:00'>Apr 27th 11:01</span></td>
 <td>
@@ -194,45 +259,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-27T10:20:20+00:00'>Apr 27th 10:20</span></td>
-<td>
-
-🚀 opened [#1: docs: fix shadow on catwalk preview](https://github.com/catppuccin/gh-dash/pull/1)
-
-</td>
-<td>
-
-[catppuccin/gh-dash](https://github.com/catppuccin/gh-dash)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T10:18:59+00:00'>Apr 27th 10:18</span></td>
-<td>
-
-🚢 pushed 4 commits to `fix/preview-shadow`
-
-</td>
-<td>
-
-[backwardspy/gh-dash](https://github.com/backwardspy/gh-dash)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T10:01:45+00:00'>Apr 27th 10:01</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -243,16 +269,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d000048514bc9546da80facf6a57cf326" width="48" height="48"> | [Children of the Sky](https://open.spotify.com/track/2L3lYfrnZdm13IgvwR6HTW) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Children of the Sky](https://open.spotify.com/track/2L3lYfrnZdm13IgvwR6HTW) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f054228b2de7b9621aabac11" width="48" height="48"> | [Title Theme](https://open.spotify.com/track/0VeCooPK1t4NfPFt68DTrU) | [monomer](https://open.spotify.com/artist/4bSHri2JUOPBJvMG9UvFe8) | [The Mummy Demastered (Original Video Game Soundtrack)](https://open.spotify.com/track/0VeCooPK1t4NfPFt68DTrU) |
-| <img src="https://i.scdn.co/image/ab67616d00004851dfb70a64b76623022497a2db" width="48" height="48"> | [Never Be Alone](https://open.spotify.com/track/6RSIVvksolVFbjyJypupki) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Never Be Alone](https://open.spotify.com/track/6RSIVvksolVFbjyJypupki) |
-| <img src="https://i.scdn.co/image/ab67616d000048512d6e965c6341545ceb6c4d0e" width="48" height="48"> | [Go The Distance](https://open.spotify.com/track/3JQouT85hCgNy3zDZaWBww) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3), [Lindsey Marie](https://open.spotify.com/artist/3CNClHbvGoliUd7kzcNzGl) | [Go The Distance](https://open.spotify.com/track/3JQouT85hCgNy3zDZaWBww) |
-| <img src="https://i.scdn.co/image/ab67616d000048518f40718549807f20ef1e14dd" width="48" height="48"> | [The Maze of Mayonnaise](https://open.spotify.com/track/1O4i0qUQvlLCuHbGmC9jig) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Caps On, Hats Off](https://open.spotify.com/track/1O4i0qUQvlLCuHbGmC9jig) |
-| <img src="https://i.scdn.co/image/ab67616d000048510583618ae0ef3c3589d8c48a" width="48" height="48"> | [Build The Cities (Empire of Sound)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) | [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Build The Cities (Reconstructions)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) |
-| <img src="https://i.scdn.co/image/ab67616d00004851be45897cfda06fbdf1b6e05f" width="48" height="48"> | [Save You](https://open.spotify.com/track/48kKk4EjDykCqgUqUytCIL) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Save You](https://open.spotify.com/track/48kKk4EjDykCqgUqUytCIL) |
-| <img src="https://i.scdn.co/image/ab67616d0000485105d6b49c83f01104fa15a9aa" width="48" height="48"> | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) |
-| <img src="https://i.scdn.co/image/ab67616d00004851520e5e24b197940bf82c5d6b" width="48" height="48"> | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f849bcee6a688d9d8ed1a608" width="48" height="48"> | [Way Back](https://open.spotify.com/track/5yId5vztDqFdpYIMkDs4XV) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Way Back](https://open.spotify.com/track/5yId5vztDqFdpYIMkDs4XV) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e6d5e561ec775a66eebcc8a0" width="48" height="48"> | [FAUX](https://open.spotify.com/track/6wbZ9uDMpllwygIBlzI9MO) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [FAUX](https://open.spotify.com/track/6wbZ9uDMpllwygIBlzI9MO) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e6d5e561ec775a66eebcc8a0" width="48" height="48"> | [FAUX](https://open.spotify.com/track/6wbZ9uDMpllwygIBlzI9MO) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [FAUX](https://open.spotify.com/track/6wbZ9uDMpllwygIBlzI9MO) |
+| <img src="https://i.scdn.co/image/ab67616d0000485130d9420d9ce0ff330a23d644" width="48" height="48"> | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f22accdfcf008be55b063aae" width="48" height="48"> | [The World Is Yours](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Will To Power](https://open.spotify.com/track/6tGyLydK5lNXz8Aw44wRj8) |
+| <img src="https://i.scdn.co/image/ab67616d000048512c28297e361f002f5806f779" width="48" height="48"> | [Gravity Hurts](https://open.spotify.com/track/0SzpHYpygOqZfoDGsDPl5K) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu), [Tine Midtgaard](https://open.spotify.com/artist/4784DroNJRakBx57XoRaGd) | [Gravity Hurts](https://open.spotify.com/track/0SzpHYpygOqZfoDGsDPl5K) |
+| <img src="https://i.scdn.co/image/ab67616d00004851dbfe9a51b813ddc881d21dce" width="48" height="48"> | [Last Ride of the Day](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e684361883b699ad7d7fc805" width="48" height="48"> | [Heartrage](https://open.spotify.com/track/0RPYTS5711Jl9MuGvzUE9s) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Letters To Myself](https://open.spotify.com/track/0RPYTS5711Jl9MuGvzUE9s) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c880c3fce14935c405c7503e" width="48" height="48"> | [Twe27ySeven](https://open.spotify.com/track/2ZIR7ECno9Cv3BQq7fk7D8) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [Into the Night World](https://open.spotify.com/track/2ZIR7ECno9Cv3BQq7fk7D8) |
+| <img src="https://i.scdn.co/image/ab67616d00004851cefcebc1270d7e0912f9e514" width="48" height="48"> | [We Are The Ones Who Will Change The World](https://open.spotify.com/track/6Kmz5WFxZSvgFWlpNvYAS2) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [We Are The Ones Who Will Change The World](https://open.spotify.com/track/6Kmz5WFxZSvgFWlpNvYAS2) |
+| <img src="https://i.scdn.co/image/ab67616d000048517dc7ccc9efe21a79a25b0bc9" width="48" height="48"> | [End Of All Hope](https://open.spotify.com/track/5wO7hTEOnwLt4NX1nbA16k) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/track/5wO7hTEOnwLt4NX1nbA16k) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
