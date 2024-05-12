@@ -282,6 +282,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432" width="48" height="48"> | [Imaginary](https://open.spotify.com/track/7q6CybWAg3uYLgS5tDWqmd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/track/7q6CybWAg3uYLgS5tDWqmd) |
+| <img src="https://i.scdn.co/image/ab67616d000048517c4222c8db996a95b64f5690" width="48" height="48"> | [I Miss the Misery](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fde219f06e4d1186aaf07310" width="48" height="48"> | [Holy Homicide](https://open.spotify.com/track/3IIyTdTmKfL4b3U1qOrBTo) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/track/3IIyTdTmKfL4b3U1qOrBTo) |
 | <img src="https://i.scdn.co/image/ab67616d00004851aefd42cfcad1195cbcd770d5" width="48" height="48"> | [Bed Of Razors](https://open.spotify.com/track/5v55b9OYlV2QSvOuyy5yKF) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Hatebreeder](https://open.spotify.com/track/5v55b9OYlV2QSvOuyy5yKF) |
 | <img src="https://i.scdn.co/image/ab67616d0000485160102ef852b2a5de320ffc1f" width="48" height="48"> | [The Fourth World](https://open.spotify.com/track/4PsbRfzwoQSsbLV91d69jR) | [Sinergy](https://open.spotify.com/artist/4rh9OYS6oUILiTsDgzIboL) | [Beware the Heavens (Deluxe Edition)](https://open.spotify.com/track/4PsbRfzwoQSsbLV91d69jR) |
@@ -290,8 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851f7f4e3f482a05f3a4eaf82ef" width="48" height="48"> | [Moria](https://open.spotify.com/track/5CtKdgmm86gjAETNUqDJHQ) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Unholy Cross](https://open.spotify.com/track/5CtKdgmm86gjAETNUqDJHQ) |
 | <img src="https://i.scdn.co/image/ab67616d0000485120d06426954869610e4a052f" width="48" height="48"> | [The Fall](https://open.spotify.com/track/6roRQM5LLinr2ScyOh1ZHw) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [The Devil (Deluxe Edition)](https://open.spotify.com/track/6roRQM5LLinr2ScyOh1ZHw) |
 | <img src="https://i.scdn.co/image/ab67616d00004851e579f3fa0808911758621288" width="48" height="48"> | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c7190a75bf05ad902f52c7a2" width="48" height="48"> | [Dark Chest of Wonders](https://open.spotify.com/track/4QCGfqoCLZ3x9iMgtzUMD9) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/track/4QCGfqoCLZ3x9iMgtzUMD9) |
-| <img src="https://i.scdn.co/image/ab67616d000048518f885ec0edbc7b14261b6eae" width="48" height="48"> | [Come with Me to the Other Side](https://open.spotify.com/track/0H799tJ2Y3ZFBabhmKTXWf) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM), [Liv Kristine](https://open.spotify.com/artist/4PZdzBdbnsBMjHipzJlWoA) | [Gunmen](https://open.spotify.com/track/0H799tJ2Y3ZFBabhmKTXWf) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
