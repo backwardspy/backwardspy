@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-13T20:24:58+00:00'>May 13th 20:24</span></td>
+<td>
+
+🚀 opened [#4: feat: update to work without chromium](https://github.com/ghostymun/otterbot/pull/4)
+
+</td>
+<td>
+
+[ghostymun/otterbot](https://github.com/ghostymun/otterbot)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-13T20:24:45+00:00'>May 13th 20:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `master`
+
+</td>
+<td>
+
+[backwardspy/otterbot](https://github.com/backwardspy/otterbot)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-12T20:40:29+00:00'>May 12th 20:40</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-12T15:02:09+00:00'>May 12th 15:02</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-12T13:48:53+00:00'>May 12th 13:48</span></td>
 <td>
@@ -238,32 +264,6 @@
 <td>
 
 🎉 closed [#182: feat(whiskers): add --create-parent-dirs option](https://github.com/catppuccin/toolbox/pull/182)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T10:58:33+00:00'>Apr 27th 10:58</span></td>
-<td>
-
-🔍 reviewed [#182: feat(whiskers): add --create-parent-dirs option](https://github.com/catppuccin/toolbox/pull/182)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T10:51:19+00:00'>Apr 27th 10:51</span></td>
-<td>
-
-💬 commented on [#182: feat(whiskers): add --create-parent-dirs option](https://github.com/catppuccin/toolbox/pull/182)
 
 </td>
 <td>
