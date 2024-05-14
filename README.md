@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-14T09:19:32+00:00'>May 14th 09:19</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[Maaack/Godot-Game-Template](https://github.com/Maaack/Godot-Game-Template)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-13T21:32:52+00:00'>May 13th 21:32</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-12T15:15:33+00:00'>May 12th 15:15</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-12T15:07:52+00:00'>May 12th 15:07</span></td>
 <td>
@@ -251,19 +264,6 @@
 <td>
 
 🚢 pushed 0 commit to `feat/create-parents`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T11:01:10+00:00'>Apr 27th 11:01</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
