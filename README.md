@@ -282,6 +282,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851564c6d95b8f23071682dcd54" width="48" height="48"> | [Cider Road](https://open.spotify.com/track/5hUcu37aE0cQpsBjvi7382) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Polka's Not Dead](https://open.spotify.com/track/5hUcu37aE0cQpsBjvi7382) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f215b4cc52966e1c0399ecf1" width="48" height="48"> | [Miklagard Overture](https://open.spotify.com/track/5zVMSQFL4cp2beOv9zedH1) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [The Varangian Way](https://open.spotify.com/track/5zVMSQFL4cp2beOv9zedH1) |
 | <img src="https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432" width="48" height="48"> | [Imaginary](https://open.spotify.com/track/7q6CybWAg3uYLgS5tDWqmd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/track/7q6CybWAg3uYLgS5tDWqmd) |
 | <img src="https://i.scdn.co/image/ab67616d000048517c4222c8db996a95b64f5690" width="48" height="48"> | [I Miss the Misery](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of...](https://open.spotify.com/track/60rHc4AkLlP4XVSATvBb6K) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fde219f06e4d1186aaf07310" width="48" height="48"> | [Holy Homicide](https://open.spotify.com/track/3IIyTdTmKfL4b3U1qOrBTo) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/track/3IIyTdTmKfL4b3U1qOrBTo) |
@@ -290,8 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Closer to the Truth](https://open.spotify.com/track/1Ax7HKJ0dAoZUKvcm2Njcc) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/1Ax7HKJ0dAoZUKvcm2Njcc) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Murky](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f7f4e3f482a05f3a4eaf82ef" width="48" height="48"> | [Moria](https://open.spotify.com/track/5CtKdgmm86gjAETNUqDJHQ) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Unholy Cross](https://open.spotify.com/track/5CtKdgmm86gjAETNUqDJHQ) |
-| <img src="https://i.scdn.co/image/ab67616d0000485120d06426954869610e4a052f" width="48" height="48"> | [The Fall](https://open.spotify.com/track/6roRQM5LLinr2ScyOh1ZHw) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [The Devil (Deluxe Edition)](https://open.spotify.com/track/6roRQM5LLinr2ScyOh1ZHw) |
-| <img src="https://i.scdn.co/image/ab67616d00004851e579f3fa0808911758621288" width="48" height="48"> | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [As Above, So Below](https://open.spotify.com/track/3bMuu33UceuBtTdfK4k1uk) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
