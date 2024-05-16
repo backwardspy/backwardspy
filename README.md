@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-16T08:23:54+00:00'>May 16th 08:23</span></td>
+<td>
+
+🚀 opened [#20: feat(pigeon): make them work for it](https://github.com/isabelroses/catppuccin-webring/pull/20)
+
+</td>
+<td>
+
+[isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-16T08:23:43+00:00'>May 16th 08:23</span></td>
+<td>
+
+🚢 pushed 1 commit to `patch-1`
+
+</td>
+<td>
+
+[backwardspy/catppuccin-webring](https://github.com/backwardspy/catppuccin-webring)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-14T09:19:32+00:00'>May 14th 09:19</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-13T20:24:45+00:00'>May 13th 20:24</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-12T15:15:33+00:00'>May 12th 15:15</span></td>
 <td>
@@ -251,19 +277,6 @@
 <td>
 
 💬 commented on [#182: feat(whiskers): add --create-parent-dirs option](https://github.com/catppuccin/toolbox/pull/182)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T11:01:29+00:00'>Apr 27th 11:01</span></td>
-<td>
-
-🚢 pushed 0 commit to `feat/create-parents`
 
 </td>
 <td>
