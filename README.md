@@ -272,19 +272,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-27T11:01:31+00:00'>Apr 27th 11:01</span></td>
-<td>
-
-💬 commented on [#182: feat(whiskers): add --create-parent-dirs option](https://github.com/catppuccin/toolbox/pull/182)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -295,16 +282,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684" width="48" height="48"> | [Kingslayer (feat. BABYMETAL)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) |
-| <img src="https://i.scdn.co/image/ab67616d00004851583e6cd70fb94b41ab907421" width="48" height="48"> | [Headbangeeeeerrrrr!!!!!](https://open.spotify.com/track/6K8XYc5aDwaHevNifv8K3F) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BABYMETAL](https://open.spotify.com/track/6K8XYc5aDwaHevNifv8K3F) |
-| <img src="https://i.scdn.co/image/ab67616d000048516549cbec29a0c28ce2478a55" width="48" height="48"> | [エレクトリック・パブリック](https://open.spotify.com/track/6zXYVRa4oyQ84hAmk0wAhk) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [大正義](https://open.spotify.com/track/6zXYVRa4oyQ84hAmk0wAhk) |
-| <img src="https://i.scdn.co/image/ab67616d0000485162d7093f078a3a8b138f4eab" width="48" height="48"> | [Dancing Zombiez](https://open.spotify.com/track/5WhdlqJXwmzxYOI5yK0AF5) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [I'M FREE](https://open.spotify.com/track/5WhdlqJXwmzxYOI5yK0AF5) |
-| <img src="https://i.scdn.co/image/ab67616d00004851885b39da17336cbd0c128d24" width="48" height="48"> | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851cedc760d8afaab554df568a9" width="48" height="48"> | [ハレルヤ](https://open.spotify.com/track/6J9ONbcdSVs9VNuopFIvY7) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/track/6J9ONbcdSVs9VNuopFIvY7) |
-| <img src="https://i.scdn.co/image/ab67616d000048511b404d6f95fb8e49ced58791" width="48" height="48"> | [Ashi no kinniku no otoroeyabai](https://open.spotify.com/track/2vIUQfPQYGtok5NE2yLYlO) | [GOKUMON(UchikubiGokumonDoukoukai)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [2020](https://open.spotify.com/track/2vIUQfPQYGtok5NE2yLYlO) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b16e47caf10c01a9ddaef06c" width="48" height="48"> | [世界一キレイなもの](https://open.spotify.com/track/64pnnJ9ZqyjGv6iO2SA6ID) | [The Mirraz](https://open.spotify.com/artist/79HYgPQhrRdcGWDwZO2fhV) | [OPPORTUNITY](https://open.spotify.com/track/64pnnJ9ZqyjGv6iO2SA6ID) |
-| <img src="https://i.scdn.co/image/ab67616d00004851e7d1f35e0a0bf690cbb62cb2" width="48" height="48"> | [ヒメサマスピリッツ](https://open.spotify.com/track/5hH49spUf3lx932aLV2XCx) | [Mahousyoujoninaritai](https://open.spotify.com/artist/1RyaEHmNw5yy6GrUsqnvz8) | [魔法少女になり隊〜まだ知らぬ勇者たちへ〜](https://open.spotify.com/track/5hH49spUf3lx932aLV2XCx) |
-| <img src="https://i.scdn.co/image/ab67616d000048518ee3eda1d88371ce2efd47dd" width="48" height="48"> | [夏のトカゲ](https://open.spotify.com/track/6pncBDjB4BbwxYaZOodHs0) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [夏のトカゲ](https://open.spotify.com/track/6pncBDjB4BbwxYaZOodHs0) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f1d34b2909cc5437d27217e6" width="48" height="48"> | [23 -twenty three-](https://open.spotify.com/track/15oR6th1nu9DknoCTOjJwJ) | [IRONBUNNY](https://open.spotify.com/artist/1kVNfPldPmayOiGzfmeL3j) | [IRONBUNNY ~Iron Hummer Alternative~](https://open.spotify.com/track/15oR6th1nu9DknoCTOjJwJ) |
+| <img src="https://i.scdn.co/image/ab67616d00004851583e6cd70fb94b41ab907421" width="48" height="48"> | [Gimme Chocolate!!](https://open.spotify.com/track/6DJ6Va1jpFcErKtQi7BAJv) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [BABYMETAL](https://open.spotify.com/track/6DJ6Va1jpFcErKtQi7BAJv) |
+| <img src="https://i.scdn.co/image/ab67616d000048512e9df9b0289846a8c2781e73" width="48" height="48"> | [Devil Trigger](https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Ali Edwards](https://open.spotify.com/artist/5biLuWkauLRAlX5O5VX5oi) | [Devil Trigger](https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn) |
+| <img src="https://i.scdn.co/image/ab67616d0000485126990743b32477cef10d6988" width="48" height="48"> | [Everything will freeze -Guitar Instrumental-](https://open.spotify.com/track/5P1BZpdmaVFm0OwPbWe5Dz) | [UNDEAD CORPORATION DOUJIN WORKS](https://open.spotify.com/artist/5NETkMPykaG8ngC1VcubSX) | [暴君](https://open.spotify.com/track/5P1BZpdmaVFm0OwPbWe5Dz) |
+| <img src="https://i.scdn.co/image/ab67616d00004851d67feb28d4f481dac9ae1a8d" width="48" height="48"> | [AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e44b2bf933961907bdc5a66f" width="48" height="48"> | [Craving](https://open.spotify.com/track/1IvLlm3bE1bikpEEuIk3Yt) | [KAQRIYOTERROR](https://open.spotify.com/artist/7CJ5prpDDWaHikGuB97LwG) | [Ensemble Berserk](https://open.spotify.com/track/1IvLlm3bE1bikpEEuIk3Yt) |
+| <img src="https://i.scdn.co/image/ab67616d000048518c3afe2bf32236c033a95f3c" width="48" height="48"> | [315.3](https://open.spotify.com/track/3NI3m0Af3Wo5sSUqhqyz10) | [zenbukiminoseida.](https://open.spotify.com/artist/5gfATgktAUsKbaCwifP3h5) | [FlashBack NightMare](https://open.spotify.com/track/3NI3m0Af3Wo5sSUqhqyz10) |
+| <img src="https://i.scdn.co/image/ab67616d00004851659ce29456e5406bf4363196" width="48" height="48"> | [PA PA YA!!](https://open.spotify.com/track/0hnTPdm3w4MzlBKc6ViOIP) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ) | [Metal Galaxy](https://open.spotify.com/track/0hnTPdm3w4MzlBKc6ViOIP) |
+| <img src="https://i.scdn.co/image/ab67616d0000485144b081f98c71aee61979b312" width="48" height="48"> | [Street Strider](https://open.spotify.com/track/4mzDtI3BqugYNYFUKTJ0Mq) | [IRONBUNNY](https://open.spotify.com/artist/1kVNfPldPmayOiGzfmeL3j) | [Street Strider](https://open.spotify.com/track/4mzDtI3BqugYNYFUKTJ0Mq) |
+| <img src="https://i.scdn.co/image/ab67616d000048510b0226269888b8c057370fa8" width="48" height="48"> | [Leviathan](https://open.spotify.com/track/5NelmNm45Yz1uKXAVTlPqf) | [Esprit D'Air](https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD) | [Oceans (Special Edition)](https://open.spotify.com/track/5NelmNm45Yz1uKXAVTlPqf) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
