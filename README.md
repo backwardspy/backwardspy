@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-17T10:56:01+00:00'>May 17th 10:56</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-16T08:23:54+00:00'>May 16th 08:23</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-13T20:24:58+00:00'>May 13th 20:24</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-13T20:24:45+00:00'>May 13th 20:24</span></td>
 <td>
@@ -259,19 +272,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-04-27T11:07:19+00:00'>Apr 27th 11:07</span></td>
-<td>
-
-🎉 closed [#174: chore: release main](https://github.com/catppuccin/toolbox/pull/174)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -282,16 +282,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048513e782d96dc4cbe7950a274a9" width="48" height="48"> | [Fiesta Pagana](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Finisterra](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) |
+| <img src="https://i.scdn.co/image/ab67616d000048518ea6c4a7d83410772c0e5a0f" width="48" height="48"> | [Ode to Fury](https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc) | [Miracle Of Sound](https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq) | [Level 9](https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a78f7fb5e346891bc205fc50" width="48" height="48"> | [Gladiator](https://open.spotify.com/track/7aQm0ItroFWJn3OLSYVAFV) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Reborn](https://open.spotify.com/track/7aQm0ItroFWJn3OLSYVAFV) |
+| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Bye Bye Babylon](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) |
+| <img src="https://i.scdn.co/image/ab67616d00004851b37a2bb117c7ae30ee77b6bd" width="48" height="48"> | [Fields of Verdun](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Great War](https://open.spotify.com/track/2VS1jveuhfU7Latlgfh62T) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c4a4a8f9190656455b6bf8c3" width="48" height="48"> | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) |
+| <img src="https://i.scdn.co/image/ab67616d0000485138430038d66010355177db8e" width="48" height="48"> | [Pharao](https://open.spotify.com/track/4xHffq5S3WgoMepz76aFFJ) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Crystal Empire](https://open.spotify.com/track/4xHffq5S3WgoMepz76aFFJ) |
+| <img src="https://i.scdn.co/image/ab67616d000048512a02bd7c265aa5555b2e19c1" width="48" height="48"> | [Beer Beer - Scotland](https://open.spotify.com/track/7F3hFD8rVJ7algUV1JCRBQ) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Christopher Bowes](https://open.spotify.com/artist/4y799dqXuznTaUJ7tKhS4X) | [Beer Beer (Scotland)](https://open.spotify.com/track/7F3hFD8rVJ7algUV1JCRBQ) |
+| <img src="https://i.scdn.co/image/ab67616d000048518e4a98577f4c9a9e7f47dacb" width="48" height="48"> | [Dismantled](https://open.spotify.com/track/5s7G6RCzmHTXqzjJCcZNac) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/track/5s7G6RCzmHTXqzjJCcZNac) |
 | <img src="https://i.scdn.co/image/ab67616d0000485135be533f25174e1c0bb3f1f2" width="48" height="48"> | [Highway to Oblivion](https://open.spotify.com/track/2qqPOFjYjwGuJhCj3tnIkx) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Extreme Power Metal](https://open.spotify.com/track/2qqPOFjYjwGuJhCj3tnIkx) |
-| <img src="https://i.scdn.co/image/ab67616d00004851fefc2490b47310442cfdd135" width="48" height="48"> | [Cowboys of the Sea](https://open.spotify.com/track/4YV0G7ak8djqs6pvqYuV1c) | [Rumahoy](https://open.spotify.com/artist/52aKFP2BnAa28POINNExhE) | [Time II: Party](https://open.spotify.com/track/4YV0G7ak8djqs6pvqYuV1c) |
-| <img src="https://i.scdn.co/image/ab67616d000048511208d90b7117ae7762892455" width="48" height="48"> | [Inis Mona](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Slania](https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt) |
-| <img src="https://i.scdn.co/image/ab67616d000048516549db795138dc2b76258712" width="48" height="48"> | [Persona](https://open.spotify.com/track/3P4zqCCtJ57gt8EZZnDb5r) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [A View From The End Of The World](https://open.spotify.com/track/3P4zqCCtJ57gt8EZZnDb5r) |
-| <img src="https://i.scdn.co/image/ab67616d00004851efe55e4449fe3cc1b1c9fd03" width="48" height="48"> | [I Will Build You a Rome](https://open.spotify.com/track/6cg6nZ836vKGEa4Or59oXe) | [Cain's Offering](https://open.spotify.com/artist/09EwLsoJmivFrBl0yisGDE) | [Stormcrow](https://open.spotify.com/track/6cg6nZ836vKGEa4Or59oXe) |
-| <img src="https://i.scdn.co/image/ab67616d00004851536fe3e46003fb3ebe2ebf05" width="48" height="48"> | [Out of Control](https://open.spotify.com/track/02A6THLfQXvqrx9IEMkQfJ) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Battle Beast](https://open.spotify.com/track/02A6THLfQXvqrx9IEMkQfJ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Murky](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) |
-| <img src="https://i.scdn.co/image/ab67616d000048517ecef0b3549b9c7d84be8edb" width="48" height="48"> | [Dreams Gone Wrong](https://open.spotify.com/track/3kOCMifMe0odStyKDG8Og1) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [No Halos in Hell](https://open.spotify.com/track/3kOCMifMe0odStyKDG8Og1) |
-| <img src="https://i.scdn.co/image/ab67616d0000485160102ef852b2a5de320ffc1f" width="48" height="48"> | [The Fourth World](https://open.spotify.com/track/4PsbRfzwoQSsbLV91d69jR) | [Sinergy](https://open.spotify.com/artist/4rh9OYS6oUILiTsDgzIboL) | [Beware the Heavens (Deluxe Edition)](https://open.spotify.com/track/4PsbRfzwoQSsbLV91d69jR) |
-| <img src="https://i.scdn.co/image/ab67616d00004851aefd42cfcad1195cbcd770d5" width="48" height="48"> | [Bed Of Razors](https://open.spotify.com/track/5v55b9OYlV2QSvOuyy5yKF) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Hatebreeder](https://open.spotify.com/track/5v55b9OYlV2QSvOuyy5yKF) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
