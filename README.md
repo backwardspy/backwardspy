@@ -282,6 +282,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851a78f7fb5e346891bc205fc50" width="48" height="48"> | [Hephaistos](https://open.spotify.com/track/0Wvq34MjCPA1ldMIavqmXA) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Reborn](https://open.spotify.com/track/0Wvq34MjCPA1ldMIavqmXA) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a78f7fb5e346891bc205fc50" width="48" height="48"> | [Hephaistos](https://open.spotify.com/track/0Wvq34MjCPA1ldMIavqmXA) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Reborn](https://open.spotify.com/track/0Wvq34MjCPA1ldMIavqmXA) |
 | <img src="https://i.scdn.co/image/ab67616d000048513e782d96dc4cbe7950a274a9" width="48" height="48"> | [Fiesta Pagana](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Finisterra](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) |
 | <img src="https://i.scdn.co/image/ab67616d000048518ea6c4a7d83410772c0e5a0f" width="48" height="48"> | [Ode to Fury](https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc) | [Miracle Of Sound](https://open.spotify.com/artist/4FmJD0mpgQ70SNt2EKK8tq) | [Level 9](https://open.spotify.com/track/2Nfl9Z37KVuVtao3utRNjc) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a78f7fb5e346891bc205fc50" width="48" height="48"> | [Gladiator](https://open.spotify.com/track/7aQm0ItroFWJn3OLSYVAFV) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Reborn](https://open.spotify.com/track/7aQm0ItroFWJn3OLSYVAFV) |
@@ -290,8 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851c4a4a8f9190656455b6bf8c3" width="48" height="48"> | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) |
 | <img src="https://i.scdn.co/image/ab67616d0000485138430038d66010355177db8e" width="48" height="48"> | [Pharao](https://open.spotify.com/track/4xHffq5S3WgoMepz76aFFJ) | [Freedom Call](https://open.spotify.com/artist/55RDuy7cQW2Dqrcz3Jjl6F) | [Crystal Empire](https://open.spotify.com/track/4xHffq5S3WgoMepz76aFFJ) |
 | <img src="https://i.scdn.co/image/ab67616d000048512a02bd7c265aa5555b2e19c1" width="48" height="48"> | [Beer Beer - Scotland](https://open.spotify.com/track/7F3hFD8rVJ7algUV1JCRBQ) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Christopher Bowes](https://open.spotify.com/artist/4y799dqXuznTaUJ7tKhS4X) | [Beer Beer (Scotland)](https://open.spotify.com/track/7F3hFD8rVJ7algUV1JCRBQ) |
-| <img src="https://i.scdn.co/image/ab67616d000048518e4a98577f4c9a9e7f47dacb" width="48" height="48"> | [Dismantled](https://open.spotify.com/track/5s7G6RCzmHTXqzjJCcZNac) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/track/5s7G6RCzmHTXqzjJCcZNac) |
-| <img src="https://i.scdn.co/image/ab67616d0000485135be533f25174e1c0bb3f1f2" width="48" height="48"> | [Highway to Oblivion](https://open.spotify.com/track/2qqPOFjYjwGuJhCj3tnIkx) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Extreme Power Metal](https://open.spotify.com/track/2qqPOFjYjwGuJhCj3tnIkx) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
