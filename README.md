@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-22T16:28:18+00:00'>May 22nd 16:28</span></td>
+<td>
+
+💬 commented on [#2402: chore(maintainers): remove @nekowinston](https://github.com/catppuccin/catppuccin/pull/2402)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-17T10:56:01+00:00'>May 17th 10:56</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-13T21:32:52+00:00'>May 13th 21:32</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-13T20:24:58+00:00'>May 13th 20:24</span></td>
 <td>
@@ -251,19 +264,6 @@
 <td>
 
 🚢 pushed 0 commit to `release-please--branches--main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T11:07:20+00:00'>Apr 27th 11:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
