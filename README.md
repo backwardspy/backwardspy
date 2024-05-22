@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-22T20:51:56+00:00'>May 22nd 20:51</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[rolandshacks/vs64](https://github.com/rolandshacks/vs64)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-22T17:58:01+00:00'>May 22nd 17:58</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-16T08:23:43+00:00'>May 16th 08:23</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-14T09:19:32+00:00'>May 14th 09:19</span></td>
 <td>
@@ -269,19 +282,6 @@
 <td>
 
 [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-27T11:07:21+00:00'>Apr 27th 11:07</span></td>
-<td>
-
-🚢 pushed 0 commit to `release-please--branches--main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
