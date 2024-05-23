@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-23T14:25:21+00:00'>May 23rd 14:25</span></td>
+<td>
+
+💬 commented on [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
+
+</td>
+<td>
+
+[godot-rust/gdext](https://github.com/godot-rust/gdext)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-23T10:52:49+00:00'>May 23rd 10:52</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-17T10:56:01+00:00'>May 17th 10:56</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-16T08:23:54+00:00'>May 16th 08:23</span></td>
 <td>
