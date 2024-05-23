@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-23T20:24:15+00:00'>May 23rd 20:24</span></td>
+<td>
+
+💬 commented on [#228: chore: fully specify dependency versions](https://github.com/catppuccin/toolbox/pull/228)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-23T20:08:45+00:00'>May 23rd 20:08</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-23T17:28:33+00:00'>May 23rd 17:28</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-23T17:28:32+00:00'>May 23rd 17:28</span></td>
 <td>
