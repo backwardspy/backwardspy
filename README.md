@@ -6,6 +6,104 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-23T17:32:02+00:00'>May 23rd 17:32</span></td>
+<td>
+
+💬 commented on [#225: fix(deps): update rust crate catppuccin to v2.3.0](https://github.com/catppuccin/toolbox/pull/225)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T17:31:16+00:00'>May 23rd 17:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T17:31:14+00:00'>May 23rd 17:31</span></td>
+<td>
+
+🎉 closed [#226: fix(deps): update rust crate catppuccin to v2.4.0](https://github.com/catppuccin/toolbox/pull/226)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T17:28:33+00:00'>May 23rd 17:28</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T17:28:32+00:00'>May 23rd 17:28</span></td>
+<td>
+
+🎉 closed [#212: fix(deps): update rust crate anyhow to v1.0.86](https://github.com/catppuccin/toolbox/pull/212)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-05-23T17:25:29+00:00'>May 23rd 17:25</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T17:25:28+00:00'>May 23rd 17:25</span></td>
+<td>
+
+🎉 closed [#225: fix(deps): update rust crate catppuccin to v2.3.0](https://github.com/catppuccin/toolbox/pull/225)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-23T16:51:41+00:00'>May 23rd 16:51</span></td>
 <td>
 
@@ -70,13 +168,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-23T16:48:43+00:00'>May 23rd 16:48</span></td>
 <td>
@@ -134,84 +225,6 @@
 <td>
 
 🎉 closed [#24: chore(deps): update rust crate itertools to 0.13.0](https://github.com/catppuccin/rust/pull/24)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:46:35+00:00'>May 23rd 16:46</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:46:35+00:00'>May 23rd 16:46</span></td>
-<td>
-
-🎉 closed [#22: feat: expose `order` for flavors and colors](https://github.com/catppuccin/rust/pull/22)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:40:48+00:00'>May 23rd 16:40</span></td>
-<td>
-
-💬 commented on [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
-
-</td>
-<td>
-
-[godot-rust/gdext](https://github.com/godot-rust/gdext)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T15:25:37+00:00'>May 23rd 15:25</span></td>
-<td>
-
-📦 released v2.3.0
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T15:23:41+00:00'>May 23rd 15:23</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T15:22:07+00:00'>May 23rd 15:22</span></td>
-<td>
-
-📦 released v2.3.0
 
 </td>
 <td>
