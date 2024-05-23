@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-23T20:08:45+00:00'>May 23rd 20:08</span></td>
+<td>
+
+🚀 opened [#228: chore: fully specify dependency versions](https://github.com/catppuccin/toolbox/pull/228)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-23T17:32:02+00:00'>May 23rd 17:32</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-23T17:28:32+00:00'>May 23rd 17:28</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-23T17:25:29+00:00'>May 23rd 17:25</span></td>
 <td>
@@ -199,32 +212,6 @@
 <td>
 
 🎉 closed [#25: fix(deps): update rust crate ratatui to 0.26](https://github.com/catppuccin/rust/pull/25)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:47:22+00:00'>May 23rd 16:47</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:47:21+00:00'>May 23rd 16:47</span></td>
-<td>
-
-🎉 closed [#24: chore(deps): update rust crate itertools to 0.13.0](https://github.com/catppuccin/rust/pull/24)
 
 </td>
 <td>
