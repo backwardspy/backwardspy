@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-23T10:52:49+00:00'>May 23rd 10:52</span></td>
+<td>
+
+📢 opened [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
+
+</td>
+<td>
+
+[godot-rust/gdext](https://github.com/godot-rust/gdext)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-22T20:51:56+00:00'>May 22nd 20:51</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-16T08:23:54+00:00'>May 16th 08:23</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-16T08:23:43+00:00'>May 16th 08:23</span></td>
 <td>
@@ -269,19 +282,6 @@
 <td>
 
 [backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-04-29T08:50:26+00:00'>Apr 29th 08:50</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard)
 
 </td>
 </tr>
