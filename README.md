@@ -6,6 +6,182 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-23T16:51:41+00:00'>May 23rd 16:51</span></td>
+<td>
+
+📦 released v2.4.0
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:51:25+00:00'>May 23rd 16:51</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:49:01+00:00'>May 23rd 16:49</span></td>
+<td>
+
+🎉 closed [#28: chore(deps): update peter-evans/create-pull-request action to v6](https://github.com/catppuccin/rust/pull/28)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:49:02+00:00'>May 23rd 16:49</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:48:44+00:00'>May 23rd 16:48</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-05-23T16:48:43+00:00'>May 23rd 16:48</span></td>
+<td>
+
+🎉 closed [#27: chore(deps): update actions/checkout action to v4](https://github.com/catppuccin/rust/pull/27)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:47:41+00:00'>May 23rd 16:47</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:47:40+00:00'>May 23rd 16:47</span></td>
+<td>
+
+🎉 closed [#25: fix(deps): update rust crate ratatui to 0.26](https://github.com/catppuccin/rust/pull/25)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:47:22+00:00'>May 23rd 16:47</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:47:21+00:00'>May 23rd 16:47</span></td>
+<td>
+
+🎉 closed [#24: chore(deps): update rust crate itertools to 0.13.0](https://github.com/catppuccin/rust/pull/24)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:46:35+00:00'>May 23rd 16:46</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:46:35+00:00'>May 23rd 16:46</span></td>
+<td>
+
+🎉 closed [#22: feat: expose `order` for flavors and colors](https://github.com/catppuccin/rust/pull/22)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T16:40:48+00:00'>May 23rd 16:40</span></td>
+<td>
+
+💬 commented on [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
+
+</td>
+<td>
+
+[godot-rust/gdext](https://github.com/godot-rust/gdext)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-23T15:25:37+00:00'>May 23rd 15:25</span></td>
 <td>
 
@@ -41,208 +217,6 @@
 <td>
 
 [catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T15:21:46+00:00'>May 23rd 15:21</span></td>
-<td>
-
-💬 commented on [#21: feat: add support for emojis](https://github.com/catppuccin/rust/pull/21)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T15:21:44+00:00'>May 23rd 15:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2024-05-23T15:21:43+00:00'>May 23rd 15:21</span></td>
-<td>
-
-🎉 closed [#21: feat: add support for emojis](https://github.com/catppuccin/rust/pull/21)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T15:06:13+00:00'>May 23rd 15:06</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T15:06:12+00:00'>May 23rd 15:06</span></td>
-<td>
-
-🎉 closed [#19: feat: auto-sync upstream palettes](https://github.com/catppuccin/rust/pull/19)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T15:06:04+00:00'>May 23rd 15:06</span></td>
-<td>
-
-💬 commented on [#19: feat: auto-sync upstream palettes](https://github.com/catppuccin/rust/pull/19)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T14:46:01+00:00'>May 23rd 14:46</span></td>
-<td>
-
-💬 commented on [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
-
-</td>
-<td>
-
-[godot-rust/gdext](https://github.com/godot-rust/gdext)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T14:46:00+00:00'>May 23rd 14:46</span></td>
-<td>
-
-✅ closed [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
-
-</td>
-<td>
-
-[godot-rust/gdext](https://github.com/godot-rust/gdext)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T14:25:21+00:00'>May 23rd 14:25</span></td>
-<td>
-
-💬 commented on [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
-
-</td>
-<td>
-
-[godot-rust/gdext](https://github.com/godot-rust/gdext)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T10:52:49+00:00'>May 23rd 10:52</span></td>
-<td>
-
-📢 opened [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
-
-</td>
-<td>
-
-[godot-rust/gdext](https://github.com/godot-rust/gdext)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-22T20:51:56+00:00'>May 22nd 20:51</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[rolandshacks/vs64](https://github.com/rolandshacks/vs64)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-22T17:58:01+00:00'>May 22nd 17:58</span></td>
-<td>
-
-🔍 reviewed [#218: feat(whiskers): write results to `filename` in single file mode](https://github.com/catppuccin/toolbox/pull/218)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-22T16:28:18+00:00'>May 22nd 16:28</span></td>
-<td>
-
-💬 commented on [#2402: chore(maintainers): remove @nekowinston](https://github.com/catppuccin/catppuccin/pull/2402)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-17T10:56:01+00:00'>May 17th 10:56</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-16T08:23:54+00:00'>May 16th 08:23</span></td>
-<td>
-
-🚀 opened [#20: feat(pigeon): make them work for it](https://github.com/isabelroses/catppuccin-webring/pull/20)
-
-</td>
-<td>
-
-[isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring)
 
 </td>
 </tr>
