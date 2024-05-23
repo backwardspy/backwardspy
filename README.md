@@ -6,6 +6,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-23T15:06:13+00:00'>May 23rd 15:06</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T15:06:12+00:00'>May 23rd 15:06</span></td>
+<td>
+
+🎉 closed [#19: feat: auto-sync upstream palettes](https://github.com/catppuccin/rust/pull/19)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T15:06:04+00:00'>May 23rd 15:06</span></td>
+<td>
+
+💬 commented on [#19: feat: auto-sync upstream palettes](https://github.com/catppuccin/rust/pull/19)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T14:46:01+00:00'>May 23rd 14:46</span></td>
+<td>
+
+💬 commented on [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
+
+</td>
+<td>
+
+[godot-rust/gdext](https://github.com/godot-rust/gdext)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T14:46:00+00:00'>May 23rd 14:46</span></td>
+<td>
+
+✅ closed [#722: godot endlessly prompting to restart](https://github.com/godot-rust/gdext/issues/722)
+
+</td>
+<td>
+
+[godot-rust/gdext](https://github.com/godot-rust/gdext)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2024-05-23T14:25:21+00:00'>May 23rd 14:25</span></td>
 <td>
 
@@ -70,13 +142,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-17T10:56:01+00:00'>May 17th 10:56</span></td>
 <td>
@@ -222,71 +287,6 @@
 </tr>
 <tr>
 <td><span title='2024-05-12T13:48:53+00:00'>May 12th 13:48</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T13:48:53+00:00'>May 12th 13:48</span></td>
-<td>
-
-🎉 closed [#3: feat: add hindi translations](https://github.com/backwardspy/backwardspy.github.io/pull/3)
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T13:11:20+00:00'>May 12th 13:11</span></td>
-<td>
-
-🎉 closed [#80: fix typo on python api description in readme](https://github.com/bbc/software-engineering-technical-assessments/pull/80)
-
-</td>
-<td>
-
-[bbc/software-engineering-technical-assessments](https://github.com/bbc/software-engineering-technical-assessments)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T13:05:01+00:00'>May 12th 13:05</span></td>
-<td>
-
-🚀 opened [#12: add pigeon.life](https://github.com/isabelroses/catppuccin-webring/pull/12)
-
-</td>
-<td>
-
-[isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T13:04:14+00:00'>May 12th 13:04</span></td>
-<td>
-
-🚢 pushed 2 commits to `main`
-
-</td>
-<td>
-
-[backwardspy/catppuccin-webring](https://github.com/backwardspy/catppuccin-webring)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T13:00:23+00:00'>May 12th 13:00</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
