@@ -6,6 +6,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-23T15:25:37+00:00'>May 23rd 15:25</span></td>
+<td>
+
+📦 released v2.3.0
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T15:23:41+00:00'>May 23rd 15:23</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T15:22:07+00:00'>May 23rd 15:22</span></td>
+<td>
+
+📦 released v2.3.0
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T15:21:46+00:00'>May 23rd 15:21</span></td>
+<td>
+
+💬 commented on [#21: feat: add support for emojis](https://github.com/catppuccin/rust/pull/21)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-23T15:21:44+00:00'>May 23rd 15:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-05-23T15:21:43+00:00'>May 23rd 15:21</span></td>
+<td>
+
+🎉 closed [#21: feat: add support for emojis](https://github.com/catppuccin/rust/pull/21)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-23T15:06:13+00:00'>May 23rd 15:06</span></td>
 <td>
 
@@ -70,13 +155,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-23T14:25:21+00:00'>May 23rd 14:25</span></td>
 <td>
@@ -165,136 +243,6 @@
 <td>
 
 [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-16T08:23:43+00:00'>May 16th 08:23</span></td>
-<td>
-
-🚢 pushed 1 commit to `patch-1`
-
-</td>
-<td>
-
-[backwardspy/catppuccin-webring](https://github.com/backwardspy/catppuccin-webring)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-14T09:19:32+00:00'>May 14th 09:19</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[Maaack/Godot-Game-Template](https://github.com/Maaack/Godot-Game-Template)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-13T21:32:52+00:00'>May 13th 21:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-13T20:24:58+00:00'>May 13th 20:24</span></td>
-<td>
-
-🚀 opened [#4: feat: update to work without chromium](https://github.com/ghostymun/otterbot/pull/4)
-
-</td>
-<td>
-
-[ghostymun/otterbot](https://github.com/ghostymun/otterbot)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-13T20:24:45+00:00'>May 13th 20:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `master`
-
-</td>
-<td>
-
-[backwardspy/otterbot](https://github.com/backwardspy/otterbot)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T20:40:29+00:00'>May 12th 20:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T15:15:33+00:00'>May 12th 15:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T15:07:52+00:00'>May 12th 15:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T15:02:09+00:00'>May 12th 15:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-12T13:48:53+00:00'>May 12th 13:48</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
 
 </td>
 </tr>
