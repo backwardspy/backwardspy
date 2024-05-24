@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-24T11:41:19+00:00'>May 24th 11:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-24T11:41:18+00:00'>May 24th 11:41</span></td>
+<td>
+
+🎉 closed [#227: feat(whiskers): support `emoji` and `order` properties](https://github.com/catppuccin/toolbox/pull/227)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-24T10:36:20+00:00'>May 24th 10:36</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-24T08:55:45+00:00'>May 24th 08:55</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-24T08:55:44+00:00'>May 24th 08:55</span></td>
 <td>
@@ -222,32 +248,6 @@
 </tr>
 <tr>
 <td><span title='2024-05-23T16:51:25+00:00'>May 23rd 16:51</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:49:01+00:00'>May 23rd 16:49</span></td>
-<td>
-
-🎉 closed [#28: chore(deps): update peter-evans/create-pull-request action to v6](https://github.com/catppuccin/rust/pull/28)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:49:02+00:00'>May 23rd 16:49</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
