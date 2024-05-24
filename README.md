@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-24T10:36:20+00:00'>May 24th 10:36</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-24T08:56:54+00:00'>May 24th 08:56</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-24T08:55:44+00:00'>May 24th 08:55</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-23T20:24:15+00:00'>May 23rd 20:24</span></td>
 <td>
