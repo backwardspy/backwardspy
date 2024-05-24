@@ -6,6 +6,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-24T08:56:54+00:00'>May 24th 08:56</span></td>
+<td>
+
+💬 commented on [#227: feat(whiskers): support `emoji` and `order` properties](https://github.com/catppuccin/toolbox/pull/227)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-24T08:55:50+00:00'>May 24th 08:55</span></td>
+<td>
+
+💬 commented on [#223: feat(whiskers): add colors to context in single-flavor matrix](https://github.com/catppuccin/toolbox/pull/223)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-24T08:55:45+00:00'>May 24th 08:55</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-24T08:55:45+00:00'>May 24th 08:55</span></td>
+<td>
+
+✅ closed [#177: include flavour's colours at top level when rendering single-flavor matrix templates](https://github.com/catppuccin/toolbox/issues/177)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-24T08:55:44+00:00'>May 24th 08:55</span></td>
+<td>
+
+🎉 closed [#223: feat(whiskers): add colors to context in single-flavor matrix](https://github.com/catppuccin/toolbox/pull/223)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2024-05-23T20:24:15+00:00'>May 23rd 20:24</span></td>
 <td>
 
@@ -70,13 +142,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-23T17:28:33+00:00'>May 23rd 17:28</span></td>
 <td>
@@ -173,58 +238,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:48:44+00:00'>May 23rd 16:48</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:48:43+00:00'>May 23rd 16:48</span></td>
-<td>
-
-🎉 closed [#27: chore(deps): update actions/checkout action to v4](https://github.com/catppuccin/rust/pull/27)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:47:41+00:00'>May 23rd 16:47</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T16:47:40+00:00'>May 23rd 16:47</span></td>
-<td>
-
-🎉 closed [#25: fix(deps): update rust crate ratatui to 0.26](https://github.com/catppuccin/rust/pull/25)
 
 </td>
 <td>
