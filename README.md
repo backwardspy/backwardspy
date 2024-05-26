@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-26T19:47:47+00:00'>May 26th 19:47</span></td>
+<td>
+
+💬 commented on [#23: Whiskers](https://github.com/catppuccin/sublime-text/pull/23)
+
+</td>
+<td>
+
+[catppuccin/sublime-text](https://github.com/catppuccin/sublime-text)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-26T19:37:17+00:00'>May 26th 19:37</span></td>
+<td>
+
+🚀 opened [#25: whiskers 2.2.0](https://github.com/catppuccin/homebrew-tap/pull/25)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-26T19:12:36+00:00'>May 26th 19:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-26T19:12:35+00:00'>May 26th 19:12</span></td>
+<td>
+
+🎉 closed [#224: chore: release main](https://github.com/catppuccin/toolbox/pull/224)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-26T19:03:32+00:00'>May 26th 19:03</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-26T19:03:32+00:00'>May 26th 19:03</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-25T00:17:02+00:00'>May 25th 00:17</span></td>
 <td>
@@ -212,71 +264,6 @@
 <td>
 
 🚀 opened [#228: chore: fully specify dependency versions](https://github.com/catppuccin/toolbox/pull/228)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T17:32:02+00:00'>May 23rd 17:32</span></td>
-<td>
-
-💬 commented on [#225: fix(deps): update rust crate catppuccin to v2.3.0](https://github.com/catppuccin/toolbox/pull/225)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T17:31:16+00:00'>May 23rd 17:31</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T17:31:14+00:00'>May 23rd 17:31</span></td>
-<td>
-
-🎉 closed [#226: fix(deps): update rust crate catppuccin to v2.4.0](https://github.com/catppuccin/toolbox/pull/226)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T17:28:33+00:00'>May 23rd 17:28</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T17:28:32+00:00'>May 23rd 17:28</span></td>
-<td>
-
-🎉 closed [#212: fix(deps): update rust crate anyhow to v1.0.86](https://github.com/catppuccin/toolbox/pull/212)
 
 </td>
 <td>
