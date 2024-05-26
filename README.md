@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-26T19:03:32+00:00'>May 26th 19:03</span></td>
+<td>
+
+🎉 closed [#229: fix(deps): update rust crate serde to v1.0.203](https://github.com/catppuccin/toolbox/pull/229)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-26T19:03:32+00:00'>May 26th 19:03</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-25T10:51:29+00:00'>May 25th 10:51</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-25T00:17:02+00:00'>May 25th 00:17</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-24T11:41:18+00:00'>May 24th 11:41</span></td>
 <td>
@@ -251,32 +277,6 @@
 <td>
 
 🎉 closed [#212: fix(deps): update rust crate anyhow to v1.0.86](https://github.com/catppuccin/toolbox/pull/212)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T17:25:29+00:00'>May 23rd 17:25</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T17:25:28+00:00'>May 23rd 17:25</span></td>
-<td>
-
-🎉 closed [#225: fix(deps): update rust crate catppuccin to v2.3.0](https://github.com/catppuccin/toolbox/pull/225)
 
 </td>
 <td>
