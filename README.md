@@ -6,6 +6,182 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-27T16:45:36+00:00'>May 27th 16:45</span></td>
+<td>
+
+🚀 opened [#26: whiskers 2.3.0](https://github.com/catppuccin/homebrew-tap/pull/26)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:40:41+00:00'>May 27th 16:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:40:40+00:00'>May 27th 16:40</span></td>
+<td>
+
+🎉 closed [#231: chore: release main](https://github.com/catppuccin/toolbox/pull/231)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:40:22+00:00'>May 27th 16:40</span></td>
+<td>
+
+📢 opened [#232: update release-please action](https://github.com/catppuccin/toolbox/issues/232)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:34:23+00:00'>May 27th 16:34</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-05-27T16:34:22+00:00'>May 27th 16:34</span></td>
+<td>
+
+🎉 closed [#184: chore(deps): update dependency ajv to v8.14.0](https://github.com/catppuccin/toolbox/pull/184)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:31:50+00:00'>May 27th 16:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:31:50+00:00'>May 27th 16:31</span></td>
+<td>
+
+✅ closed [#210: Add `--list-flavors` and `--list-accents`](https://github.com/catppuccin/toolbox/issues/210)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:31:49+00:00'>May 27th 16:31</span></td>
+<td>
+
+🎉 closed [#219: feat(whiskers): add --list-flavors and --list-accents](https://github.com/catppuccin/toolbox/pull/219)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:31:30+00:00'>May 27th 16:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:31:29+00:00'>May 27th 16:31</span></td>
+<td>
+
+🎉 closed [#183: chore(deps): update dependency https://deno.land/std to v0.224.0](https://github.com/catppuccin/toolbox/pull/183)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:24:29+00:00'>May 27th 16:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/list-flavors`
+
+</td>
+<td>
+
+[uncenter/ctp-toolbox](https://github.com/uncenter/ctp-toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T16:23:14+00:00'>May 27th 16:23</span></td>
+<td>
+
+🚢 pushed 2 commits to `feat/list-flavors`
+
+</td>
+<td>
+
+[uncenter/ctp-toolbox](https://github.com/uncenter/ctp-toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-27T15:48:44+00:00'>May 27th 15:48</span></td>
 <td>
 
@@ -70,13 +246,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-27T15:29:26+00:00'>May 27th 15:29</span></td>
 <td>
@@ -100,175 +269,6 @@
 <td>
 
 [catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T14:14:53+00:00'>May 27th 14:14</span></td>
-<td>
-
-🎉 closed [#230: feat(whiskers): add css_* functions as filters](https://github.com/catppuccin/toolbox/pull/230)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T14:14:54+00:00'>May 27th 14:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T14:10:24+00:00'>May 27th 14:10</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/add-css-funcs-as-filters`
-
-</td>
-<td>
-
-[uncenter/ctp-toolbox](https://github.com/uncenter/ctp-toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-26T19:47:47+00:00'>May 26th 19:47</span></td>
-<td>
-
-💬 commented on [#23: Whiskers](https://github.com/catppuccin/sublime-text/pull/23)
-
-</td>
-<td>
-
-[catppuccin/sublime-text](https://github.com/catppuccin/sublime-text)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-26T19:37:17+00:00'>May 26th 19:37</span></td>
-<td>
-
-🚀 opened [#25: whiskers 2.2.0](https://github.com/catppuccin/homebrew-tap/pull/25)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-26T19:12:36+00:00'>May 26th 19:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-26T19:12:35+00:00'>May 26th 19:12</span></td>
-<td>
-
-🎉 closed [#224: chore: release main](https://github.com/catppuccin/toolbox/pull/224)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-26T19:03:32+00:00'>May 26th 19:03</span></td>
-<td>
-
-🎉 closed [#229: fix(deps): update rust crate serde to v1.0.203](https://github.com/catppuccin/toolbox/pull/229)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-26T19:03:32+00:00'>May 26th 19:03</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-25T10:51:29+00:00'>May 25th 10:51</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-25T10:18:52+00:00'>May 25th 10:18</span></td>
-<td>
-
-🚢 pushed 2 commits to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-25T09:14:25+00:00'>May 25th 09:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-25T00:17:02+00:00'>May 25th 00:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
 
 </td>
 </tr>
