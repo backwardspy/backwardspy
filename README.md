@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-27T14:14:56+00:00'>May 27th 14:14</span></td>
+<td>
+
+💬 commented on [#230: feat(whiskers): add css_* functions as filters](https://github.com/catppuccin/toolbox/pull/230)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T14:14:53+00:00'>May 27th 14:14</span></td>
+<td>
+
+🎉 closed [#230: feat(whiskers): add css_* functions as filters](https://github.com/catppuccin/toolbox/pull/230)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T14:14:54+00:00'>May 27th 14:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-27T14:10:24+00:00'>May 27th 14:10</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/add-css-funcs-as-filters`
+
+</td>
+<td>
+
+[uncenter/ctp-toolbox](https://github.com/uncenter/ctp-toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-26T19:47:47+00:00'>May 26th 19:47</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-26T19:37:17+00:00'>May 26th 19:37</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-26T19:03:32+00:00'>May 26th 19:03</span></td>
 <td>
@@ -225,45 +277,6 @@
 <td>
 
 ✅ closed [#177: include flavour's colours at top level when rendering single-flavor matrix templates](https://github.com/catppuccin/toolbox/issues/177)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-24T08:55:44+00:00'>May 24th 08:55</span></td>
-<td>
-
-🎉 closed [#223: feat(whiskers): add colors to context in single-flavor matrix](https://github.com/catppuccin/toolbox/pull/223)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T20:24:15+00:00'>May 23rd 20:24</span></td>
-<td>
-
-💬 commented on [#228: chore: fully specify dependency versions](https://github.com/catppuccin/toolbox/pull/228)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-23T20:08:45+00:00'>May 23rd 20:08</span></td>
-<td>
-
-🚀 opened [#228: chore: fully specify dependency versions](https://github.com/catppuccin/toolbox/pull/228)
 
 </td>
 <td>
