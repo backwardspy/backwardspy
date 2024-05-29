@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-29T09:22:41+00:00'>May 29th 09:22</span></td>
+<td>
+
+💬 commented on [#234: ci(release-please): use action from `googleapis`](https://github.com/catppuccin/toolbox/pull/234)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-29T09:22:32+00:00'>May 29th 09:22</span></td>
+<td>
+
+✅ closed [#232: update release-please action](https://github.com/catppuccin/toolbox/issues/232)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-29T09:22:32+00:00'>May 29th 09:22</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-29T09:22:31+00:00'>May 29th 09:22</span></td>
+<td>
+
+🎉 closed [#234: ci(release-please): use action from `googleapis`](https://github.com/catppuccin/toolbox/pull/234)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-28T15:22:01+00:00'>May 28th 15:22</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-28T15:20:42+00:00'>May 28th 15:20</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-27T20:40:10+00:00'>May 27th 20:40</span></td>
 <td>
@@ -207,58 +259,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-05-27T16:31:49+00:00'>May 27th 16:31</span></td>
-<td>
-
-🎉 closed [#219: feat(whiskers): add --list-flavors and --list-accents](https://github.com/catppuccin/toolbox/pull/219)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T16:31:30+00:00'>May 27th 16:31</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T16:31:29+00:00'>May 27th 16:31</span></td>
-<td>
-
-🎉 closed [#183: chore(deps): update dependency https://deno.land/std to v0.224.0](https://github.com/catppuccin/toolbox/pull/183)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T16:24:29+00:00'>May 27th 16:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/list-flavors`
-
-</td>
-<td>
-
-[uncenter/ctp-toolbox](https://github.com/uncenter/ctp-toolbox)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -269,6 +269,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851e130d1576c55aa9b9d166442" width="48" height="48"> | [Waterfall](https://open.spotify.com/track/4vdcD3AH3bhRN5nJVYZVsF) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [The Dark Delight](https://open.spotify.com/track/4vdcD3AH3bhRN5nJVYZVsF) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fde219f06e4d1186aaf07310" width="48" height="48"> | [Colossvs](https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t) | [Rave The Reqviem](https://open.spotify.com/artist/1NcsVSxFdXsnwvE64zV9xX) | [Stigmata Itch](https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t) |
 | <img src="https://i.scdn.co/image/ab67616d00004851e684361883b699ad7d7fc805" width="48" height="48"> | [Rescue Ride](https://open.spotify.com/track/3oa8W9WUUx2cMtOyFDbTUb) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Letters To Myself](https://open.spotify.com/track/3oa8W9WUUx2cMtOyFDbTUb) |
 | <img src="https://i.scdn.co/image/ab67616d00004851eae389f411e0a8d740d03561" width="48" height="48"> | [Born Again](https://open.spotify.com/track/4Z44GYuMNFRHzoGowlp4ww) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Berserker](https://open.spotify.com/track/4Z44GYuMNFRHzoGowlp4ww) |
@@ -278,7 +279,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048513dbcf3c664ff6be4204a32b4" width="48" height="48"> | [Alesia](https://open.spotify.com/track/0NTaI7K5DXAJgjFNvYEH6k) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Helvetios](https://open.spotify.com/track/0NTaI7K5DXAJgjFNvYEH6k) |
 | <img src="https://i.scdn.co/image/ab67616d000048514aff8b466385464da447eac6" width="48" height="48"> | [Killing My Dreams](https://open.spotify.com/track/6NvjefGOBXHhY8iCv8NiEN) | [Elysion](https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v) | [Silent Scream](https://open.spotify.com/track/6NvjefGOBXHhY8iCv8NiEN) |
 | <img src="https://i.scdn.co/image/ab67616d000048517ecef0b3549b9c7d84be8edb" width="48" height="48"> | [Dreams Gone Wrong](https://open.spotify.com/track/3kOCMifMe0odStyKDG8Og1) | [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [No Halos in Hell](https://open.spotify.com/track/3kOCMifMe0odStyKDG8Og1) |
-| <img src="https://i.scdn.co/image/ab67616d00004851913a6d7587d853e1dd4c1580" width="48" height="48"> | [Bella Donna](https://open.spotify.com/track/2RBmZvz4VWQdUrgGPBmzjL) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/track/2RBmZvz4VWQdUrgGPBmzjL) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
