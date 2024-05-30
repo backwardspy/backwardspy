@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-29T22:00:49+00:00'>May 29th 22:00</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-29T22:00:48+00:00'>May 29th 22:00</span></td>
+<td>
+
+🎉 closed [#235: feat(whiskers): tidy up output formats, general clean up](https://github.com/catppuccin/toolbox/pull/235)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-29T16:55:12+00:00'>May 29th 16:55</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-29T09:22:32+00:00'>May 29th 09:22</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-28T15:22:01+00:00'>May 28th 15:22</span></td>
 <td>
@@ -199,45 +225,6 @@
 <td>
 
 🎉 closed [#231: chore: release main](https://github.com/catppuccin/toolbox/pull/231)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T16:40:22+00:00'>May 27th 16:40</span></td>
-<td>
-
-📢 opened [#232: update release-please action](https://github.com/catppuccin/toolbox/issues/232)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T16:34:23+00:00'>May 27th 16:34</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T16:34:22+00:00'>May 27th 16:34</span></td>
-<td>
-
-🎉 closed [#184: chore(deps): update dependency ajv to v8.14.0](https://github.com/catppuccin/toolbox/pull/184)
 
 </td>
 <td>
