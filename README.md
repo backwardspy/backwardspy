@@ -6,6 +6,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-05-31T08:55:59+00:00'>May 31st 08:55</span></td>
+<td>
+
+🚀 opened [#9: refactor: simplify boolean logic in whiskers prop check](https://github.com/uncenter/purr/pull/9)
+
+</td>
+<td>
+
+[uncenter/purr](https://github.com/uncenter/purr)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-31T08:12:04+00:00'>May 31st 08:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whoogle](https://github.com/catppuccin/whoogle)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-31T08:12:03+00:00'>May 31st 08:12</span></td>
+<td>
+
+🎉 closed [#1: build: use whiskers](https://github.com/catppuccin/whoogle/pull/1)
+
+</td>
+<td>
+
+[catppuccin/whoogle](https://github.com/catppuccin/whoogle)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-31T08:10:18+00:00'>May 31st 08:10</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/geany](https://github.com/catppuccin/geany)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-31T08:10:17+00:00'>May 31st 08:10</span></td>
+<td>
+
+🎉 closed [#5: refactor: use whiskers](https://github.com/catppuccin/geany/pull/5)
+
+</td>
+<td>
+
+[catppuccin/geany](https://github.com/catppuccin/geany)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-05-31T08:09:09+00:00'>May 31st 08:09</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/warp](https://github.com/catppuccin/warp)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-31T08:09:08+00:00'>May 31st 08:09</span></td>
+<td>
+
+🎉 closed [#8: build: use whiskers](https://github.com/catppuccin/warp/pull/8)
+
+</td>
+<td>
+
+[catppuccin/warp](https://github.com/catppuccin/warp)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-31T08:08:58+00:00'>May 31st 08:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/k9s](https://github.com/catppuccin/k9s)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-31T08:08:57+00:00'>May 31st 08:08</span></td>
+<td>
+
+🎉 closed [#9: refactor: use whiskers](https://github.com/catppuccin/k9s/pull/9)
+
+</td>
+<td>
+
+[catppuccin/k9s](https://github.com/catppuccin/k9s)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-31T08:08:37+00:00'>May 31st 08:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/monkeytype](https://github.com/catppuccin/monkeytype)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-05-31T08:08:36+00:00'>May 31st 08:08</span></td>
+<td>
+
+🎉 closed [#4: refactor: use whiskers](https://github.com/catppuccin/monkeytype/pull/4)
+
+</td>
+<td>
+
+[catppuccin/monkeytype](https://github.com/catppuccin/monkeytype)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-05-30T10:57:44+00:00'>May 30th 10:57</span></td>
 <td>
 
@@ -70,13 +220,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-29T16:55:12+00:00'>May 29th 16:55</span></td>
 <td>
@@ -103,136 +246,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-05-29T09:22:32+00:00'>May 29th 09:22</span></td>
-<td>
-
-✅ closed [#232: update release-please action](https://github.com/catppuccin/toolbox/issues/232)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-29T09:22:32+00:00'>May 29th 09:22</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-29T09:22:31+00:00'>May 29th 09:22</span></td>
-<td>
-
-🎉 closed [#234: ci(release-please): use action from `googleapis`](https://github.com/catppuccin/toolbox/pull/234)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-28T15:22:01+00:00'>May 28th 15:22</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-28T15:20:42+00:00'>May 28th 15:20</span></td>
-<td>
-
-🎉 closed [#233: fix(deps): update rust crate tera to v1.20.0](https://github.com/catppuccin/toolbox/pull/233)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-28T14:52:10+00:00'>May 28th 14:52</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/godot](https://github.com/catppuccin/godot)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-28T14:51:18+00:00'>May 28th 14:51</span></td>
-<td>
-
-💬 commented on [#1: refactor: use whiskers](https://github.com/catppuccin/godot/pull/1)
-
-</td>
-<td>
-
-[catppuccin/godot](https://github.com/catppuccin/godot)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-28T14:50:28+00:00'>May 28th 14:50</span></td>
-<td>
-
-🎉 closed [#1: refactor: use whiskers](https://github.com/catppuccin/godot/pull/1)
-
-</td>
-<td>
-
-[catppuccin/godot](https://github.com/catppuccin/godot)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T20:40:10+00:00'>May 27th 20:40</span></td>
-<td>
-
-📢 opened [#2406: Windows 9x](https://github.com/catppuccin/catppuccin/issues/2406)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-27T20:38:33+00:00'>May 27th 20:38</span></td>
-<td>
-
-🪄 created repository
-
-</td>
-<td>
-
-[backwardspy/ctp-windows9x](https://github.com/backwardspy/ctp-windows9x)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -243,6 +256,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851a91375258dc7d5a509379cc3" width="48" height="48"> | [No Fate](https://open.spotify.com/track/4FRRTbB2tIkbTOKQ19Bjyw) | [Kick Puncher](https://open.spotify.com/artist/1WvDvicIZrQVB2gFXZHIBN), [Hunter Norton](https://open.spotify.com/artist/6Ub4RvEkF8z2sIpI03Ktsx) | [Beyond](https://open.spotify.com/track/4FRRTbB2tIkbTOKQ19Bjyw) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d452732763b07186c51c0df4" width="48" height="48"> | [Epocha](https://open.spotify.com/track/2GlELxHC9OOS2LNZ744x5V) | [DreamReaper](https://open.spotify.com/artist/3ymwdUUHPaNIVeWoACbiIg) | [Liminality](https://open.spotify.com/track/2GlELxHC9OOS2LNZ744x5V) |
 | <img src="https://i.scdn.co/image/ab67616d000048518ba859ccf236bc88c7272d7b" width="48" height="48"> | [Aether - Void Stare Remix](https://open.spotify.com/track/0xqXXyPIb9r1K9llsOz9ZL) | [Neoslave](https://open.spotify.com/artist/5iaVOli0HEhe5paNpfBnO6), [Void Stare](https://open.spotify.com/artist/3mY59hXbxn6FdObPv3t0bf) | [Aether (Void Stare Remix)](https://open.spotify.com/track/0xqXXyPIb9r1K9llsOz9ZL) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80486DX](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) |
@@ -252,7 +266,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851920e394973de3775219fcc14" width="48" height="48"> | [Cursed to Repeat (Postlude)](https://open.spotify.com/track/4TZhkDK2RPKvJkGSVFVxP8) | [Raydar](https://open.spotify.com/artist/42cxe5wNs7fE5nRbEt00Xe) | [Evil Squad II](https://open.spotify.com/track/4TZhkDK2RPKvJkGSVFVxP8) |
 | <img src="https://i.scdn.co/image/ab67616d0000485119ca2da1fcec44b49417a717" width="48" height="48"> | [BAYAREA.BMP](https://open.spotify.com/track/2yLa3vTYm9y5CUjdKMOZgC) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [C​:\​​>CHKDSK /F](https://open.spotify.com/track/2yLa3vTYm9y5CUjdKMOZgC) |
 | <img src="https://i.scdn.co/image/ab67616d0000485112d6c4442a944e713513d3b5" width="48" height="48"> | [Active Aggression](https://open.spotify.com/track/3P8mwZU88jpUip89PaCeHA) | [Straplocked](https://open.spotify.com/artist/0B5VpPE6AnClqge7VjjaPg) | [Active Aggression](https://open.spotify.com/track/3P8mwZU88jpUip89PaCeHA) |
-| <img src="https://i.scdn.co/image/ab67616d00004851fe3ce172d394272d39d6c7d2" width="48" height="48"> | [Android Insurgency](https://open.spotify.com/track/3plB6Cs2zrXGQYrdNGKJW6) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq) | [The Uprising](https://open.spotify.com/track/3plB6Cs2zrXGQYrdNGKJW6) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
