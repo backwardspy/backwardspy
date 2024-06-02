@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-02T18:41:02+00:00'>Jun 2nd 18:41</span></td>
+<td>
+
+🔍 reviewed [#72: fix(ports): incorrect link resolution](https://github.com/catppuccin/website/pull/72)
+
+</td>
+<td>
+
+[catppuccin/website](https://github.com/catppuccin/website)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-02T18:40:02+00:00'>Jun 2nd 18:40</span></td>
+<td>
+
+🔍 reviewed [#72: fix(ports): incorrect link resolution](https://github.com/catppuccin/website/pull/72)
+
+</td>
+<td>
+
+[catppuccin/website](https://github.com/catppuccin/website)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-02T16:37:18+00:00'>Jun 2nd 16:37</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-02T12:36:17+00:00'>Jun 2nd 12:36</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-02T12:24:58+00:00'>Jun 2nd 12:24</span></td>
 <td>
@@ -217,45 +243,6 @@
 <td>
 
 [catppuccin/warp](https://github.com/catppuccin/warp)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-31T08:09:08+00:00'>May 31st 08:09</span></td>
-<td>
-
-🎉 closed [#8: build: use whiskers](https://github.com/catppuccin/warp/pull/8)
-
-</td>
-<td>
-
-[catppuccin/warp](https://github.com/catppuccin/warp)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-31T08:08:58+00:00'>May 31st 08:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/k9s](https://github.com/catppuccin/k9s)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-31T08:08:57+00:00'>May 31st 08:08</span></td>
-<td>
-
-🎉 closed [#9: refactor: use whiskers](https://github.com/catppuccin/k9s/pull/9)
-
-</td>
-<td>
-
-[catppuccin/k9s](https://github.com/catppuccin/k9s)
 
 </td>
 </tr>
