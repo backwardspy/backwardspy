@@ -6,6 +6,104 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-02T12:59:07+00:00'>Jun 2nd 12:59</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-02T12:59:07+00:00'>Jun 2nd 12:59</span></td>
+<td>
+
+🎉 closed [#21: chore(deps): update actions/upload-artifact action to v4](https://github.com/catppuccin/homebrew-tap/pull/21)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-02T12:36:17+00:00'>Jun 2nd 12:36</span></td>
+<td>
+
+🚢 pushed 1 commit to `renovate/major-github-artifact-actions`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-02T12:25:33+00:00'>Jun 2nd 12:25</span></td>
+<td>
+
+🚢 pushed 2 commits to `bump-catwalk-1.3.1`
+
+</td>
+<td>
+
+[backwardspy/homebrew-tap](https://github.com/backwardspy/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-02T12:24:58+00:00'>Jun 2nd 12:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-02T12:16:25+00:00'>Jun 2nd 12:16</span></td>
+<td>
+
+🚀 opened [#27: catwalk 1.3.1](https://github.com/catppuccin/homebrew-tap/pull/27)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-02T12:11:43+00:00'>Jun 2nd 12:11</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-02T11:56:12+00:00'>Jun 2nd 11:56</span></td>
 <td>
 
@@ -70,13 +168,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-31T08:10:18+00:00'>May 31st 08:10</span></td>
 <td>
@@ -165,97 +256,6 @@
 <td>
 
 [catppuccin/monkeytype](https://github.com/catppuccin/monkeytype)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-31T08:08:36+00:00'>May 31st 08:08</span></td>
-<td>
-
-🎉 closed [#4: refactor: use whiskers](https://github.com/catppuccin/monkeytype/pull/4)
-
-</td>
-<td>
-
-[catppuccin/monkeytype](https://github.com/catppuccin/monkeytype)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-30T10:57:44+00:00'>May 30th 10:57</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-30T10:57:44+00:00'>May 30th 10:57</span></td>
-<td>
-
-🎉 closed [#29: feat(codegen): replace code strings with tokenstreams](https://github.com/catppuccin/rust/pull/29)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-30T10:56:41+00:00'>May 30th 10:56</span></td>
-<td>
-
-🚀 opened [#29: feat(codegen): replace code strings with tokenstreams](https://github.com/catppuccin/rust/pull/29)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-29T22:00:49+00:00'>May 29th 22:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-29T22:00:48+00:00'>May 29th 22:00</span></td>
-<td>
-
-🎉 closed [#235: feat(whiskers): tidy up output formats, general clean up](https://github.com/catppuccin/toolbox/pull/235)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-29T16:55:12+00:00'>May 29th 16:55</span></td>
-<td>
-
-🚀 opened [#235: feat(whiskers): tidy up output formats, general clean up](https://github.com/catppuccin/toolbox/pull/235)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
