@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-02T16:37:18+00:00'>Jun 2nd 16:37</span></td>
+<td>
+
+🔍 reviewed [#266: docs: add archive notice](https://github.com/catppuccin/gtk/pull/266)
+
+</td>
+<td>
+
+[catppuccin/gtk](https://github.com/catppuccin/gtk)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-02T12:59:07+00:00'>Jun 2nd 12:59</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-02T12:24:58+00:00'>Jun 2nd 12:24</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-02T12:16:25+00:00'>Jun 2nd 12:16</span></td>
 <td>
@@ -243,19 +256,6 @@
 <td>
 
 [catppuccin/k9s](https://github.com/catppuccin/k9s)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-31T08:08:37+00:00'>May 31st 08:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/monkeytype](https://github.com/catppuccin/monkeytype)
 
 </td>
 </tr>
