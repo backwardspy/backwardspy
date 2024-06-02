@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-02T11:56:12+00:00'>Jun 2nd 11:56</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-01T21:18:52+00:00'>Jun 1st 21:18</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-05-31T08:10:18+00:00'>May 31st 08:10</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-05-31T08:10:17+00:00'>May 31st 08:10</span></td>
 <td>
@@ -246,19 +259,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-05-29T09:22:41+00:00'>May 29th 09:22</span></td>
-<td>
-
-💬 commented on [#234: ci(release-please): use action from `googleapis`](https://github.com/catppuccin/toolbox/pull/234)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -269,16 +269,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d00004851559b603e5fd3c134733538f2" width="48" height="48"> | [Those Who Fight (from FINAL FANTASY VII) - Metal Remix](https://open.spotify.com/track/77Qlo9hpdw2LbJc3cgn0l1) | [ToxicxEternity](https://open.spotify.com/artist/0UdXuDV03tv6hh1WSbQlrG) | [Those Who Fight (from FINAL FANTASY VII) [Metal Remix]](https://open.spotify.com/track/77Qlo9hpdw2LbJc3cgn0l1) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b42b9938b6312b67bda0ade0" width="48" height="48"> | [Werewolf of Steel](https://open.spotify.com/track/4JK8P5rAoMWV06rShc1sXG) | [Carnal Agony](https://open.spotify.com/artist/22yafqEVMCi4yU9bOYx6SD) | [Back from the Grave](https://open.spotify.com/track/4JK8P5rAoMWV06rShc1sXG) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c30d88cd6619dd786ef583c9" width="48" height="48"> | [Maniac](https://open.spotify.com/track/65jxOQ7xDzlqe2DWCQJlXQ) | [Bella and the Switchblades](https://open.spotify.com/artist/2L4m4kJhd8NbRkCcPwD407), [Raney Shockne](https://open.spotify.com/artist/1pWehbtV6KJ3G77M3G3Hed) | [Wanted: Dead (Original Soundtrack)](https://open.spotify.com/track/65jxOQ7xDzlqe2DWCQJlXQ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a91375258dc7d5a509379cc3" width="48" height="48"> | [No Fate](https://open.spotify.com/track/4FRRTbB2tIkbTOKQ19Bjyw) | [Kick Puncher](https://open.spotify.com/artist/1WvDvicIZrQVB2gFXZHIBN), [Hunter Norton](https://open.spotify.com/artist/6Ub4RvEkF8z2sIpI03Ktsx) | [Beyond](https://open.spotify.com/track/4FRRTbB2tIkbTOKQ19Bjyw) |
-| <img src="https://i.scdn.co/image/ab67616d00004851d452732763b07186c51c0df4" width="48" height="48"> | [Epocha](https://open.spotify.com/track/2GlELxHC9OOS2LNZ744x5V) | [DreamReaper](https://open.spotify.com/artist/3ymwdUUHPaNIVeWoACbiIg) | [Liminality](https://open.spotify.com/track/2GlELxHC9OOS2LNZ744x5V) |
-| <img src="https://i.scdn.co/image/ab67616d000048518ba859ccf236bc88c7272d7b" width="48" height="48"> | [Aether - Void Stare Remix](https://open.spotify.com/track/0xqXXyPIb9r1K9llsOz9ZL) | [Neoslave](https://open.spotify.com/artist/5iaVOli0HEhe5paNpfBnO6), [Void Stare](https://open.spotify.com/artist/3mY59hXbxn6FdObPv3t0bf) | [Aether (Void Stare Remix)](https://open.spotify.com/track/0xqXXyPIb9r1K9llsOz9ZL) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80486DX](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f35000e298be1a3b81fe976f" width="48" height="48"> | [The Hunt](https://open.spotify.com/track/0AqX9t0pxuSXiGcWrrj71B) | [Ray Gun Hero](https://open.spotify.com/artist/75QDtvSbmuKHyb0GXCiUZh) | [Sectors](https://open.spotify.com/track/0AqX9t0pxuSXiGcWrrj71B) |
-| <img src="https://i.scdn.co/image/ab67616d00004851ed368e9a55374f9b703f79e3" width="48" height="48"> | [Cyberninja](https://open.spotify.com/track/1t4HDUOno12uGisZ19cwK3) | [LukHash](https://open.spotify.com/artist/3hvgLXeDFNiqDOVXl0xTge) | [Better Than Reality](https://open.spotify.com/track/1t4HDUOno12uGisZ19cwK3) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a91375258dc7d5a509379cc3" width="48" height="48"> | [Gods and Men](https://open.spotify.com/track/1vLNidhusflbzhyvwIeGsx) | [Kick Puncher](https://open.spotify.com/artist/1WvDvicIZrQVB2gFXZHIBN) | [Beyond](https://open.spotify.com/track/1vLNidhusflbzhyvwIeGsx) |
+| <img src="https://i.scdn.co/image/ab67616d000048513e07e97e2f48912393a64268" width="48" height="48"> | [Broken Dreams](https://open.spotify.com/track/0Q3Rs36yTFPHCItzgKSYrV) | [Fallen Sanctuary](https://open.spotify.com/artist/271v3QDZQPWL1htp4LieqS) | [Terranova](https://open.spotify.com/track/0Q3Rs36yTFPHCItzgKSYrV) |
+| <img src="https://i.scdn.co/image/ab67616d000048514054f3f58f4a638b09d72665" width="48" height="48"> | [Rainy Day](https://open.spotify.com/track/4BKauR3MkJzoL8sqDlecqr) | [Apricot](https://open.spotify.com/artist/6NRq9Jjl3tWeMHYI2XFlEc), [Zentreya](https://open.spotify.com/artist/76TO57vydFh7R4BuYjr0FC) | [Rainy Day](https://open.spotify.com/track/4BKauR3MkJzoL8sqDlecqr) |
+| <img src="https://i.scdn.co/image/ab67616d000048514f0c03c3439f0dbd240257ba" width="48" height="48"> | [The Crimson Bow and Arrow](https://open.spotify.com/track/3Up4dkjXHpM0alQA3xVvLQ) | [Alive in the Dark](https://open.spotify.com/artist/64XLhHWZuyZrGInPx3QOZl) | [The Crimson Bow and Arrow](https://open.spotify.com/track/3Up4dkjXHpM0alQA3xVvLQ) |
+| <img src="https://i.scdn.co/image/ab67616d00004851acea212a1c4840978c2de6e3" width="48" height="48"> | [Pirate Bay](https://open.spotify.com/track/4g7vvZHhFDmqgC9UCjVbUC) | [Terra Atlantica](https://open.spotify.com/artist/2jjCMNei7oJGKMal41tAZE) | [Beyond The Borders](https://open.spotify.com/track/4g7vvZHhFDmqgC9UCjVbUC) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e1f1b54edede5d4f9ba2315e" width="48" height="48"> | [Chasing the Dragon](https://open.spotify.com/track/1aVQzYOOqpwnssCHTWrvPA) | [Getsix](https://open.spotify.com/artist/4IeW6F11KCYzci40UXdJm8) | [Chasing the Dragon](https://open.spotify.com/track/1aVQzYOOqpwnssCHTWrvPA) |
+| <img src="https://i.scdn.co/image/ab67616d000048517c965419b9dbf77fde310a99" width="48" height="48"> | [Sake](https://open.spotify.com/track/4yNCujzEEtxUVj2lf7vio7) | [Japanese Folk Metal](https://open.spotify.com/artist/6YOGTdWfD1lSLhDia7Z9xW) | [Sake](https://open.spotify.com/track/4yNCujzEEtxUVj2lf7vio7) |
+| <img src="https://i.scdn.co/image/ab67616d00004851355d6257b469c1a51e4de8f5" width="48" height="48"> | [Ritual (feat. Battlejuice)](https://open.spotify.com/track/0a8ezUkdc2gudSx2MrWWfV) | [House Of Serpents](https://open.spotify.com/artist/2OEyrT84yZKublGo1Ct8UI), [Battlejuice](https://open.spotify.com/artist/43mQHOuf0HLB5wIdZ3cgNp) | [Ritual (feat. Battlejuice)](https://open.spotify.com/track/0a8ezUkdc2gudSx2MrWWfV) |
+| <img src="https://i.scdn.co/image/ab67616d00004851913a6d7587d853e1dd4c1580" width="48" height="48"> | [One Night In Tokyo](https://open.spotify.com/track/2TZtQt10Ajm3wB4MoqluZj) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/track/2TZtQt10Ajm3wB4MoqluZj) |
+| <img src="https://i.scdn.co/image/ab67616d00004851078770c793dbef383ba81edd" width="48" height="48"> | [Wake Them Up](https://open.spotify.com/track/3wDHKcnL4pAsbpJMxJ5hJW) | [Krashkarma](https://open.spotify.com/artist/7egjqIYeAxBmnkYvF1eL33) | [Morph](https://open.spotify.com/track/3wDHKcnL4pAsbpJMxJ5hJW) |
+| <img src="https://i.scdn.co/image/ab67616d000048513741995b43df50be24dbb7eb" width="48" height="48"> | [Dark Messenger of the Funk](https://open.spotify.com/track/5HhjmicUKMukc2GVWuEGBT) | [Pete Frogs](https://open.spotify.com/artist/1Pd1tovnVCRIhp66cjzKpV), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Frogged & Loaded](https://open.spotify.com/track/5HhjmicUKMukc2GVWuEGBT) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
