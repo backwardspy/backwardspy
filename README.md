@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-03T13:17:20+00:00'>Jun 3rd 13:17</span></td>
+<td>
+
+💬 commented on [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-03T10:41:59+00:00'>Jun 3rd 10:41</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-02T12:59:07+00:00'>Jun 2nd 12:59</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-02T12:59:07+00:00'>Jun 2nd 12:59</span></td>
 <td>
@@ -225,19 +238,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/geany](https://github.com/catppuccin/geany)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-31T08:10:17+00:00'>May 31st 08:10</span></td>
-<td>
-
-🎉 closed [#5: refactor: use whiskers](https://github.com/catppuccin/geany/pull/5)
 
 </td>
 <td>
