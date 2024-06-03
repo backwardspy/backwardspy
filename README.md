@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-03T10:41:59+00:00'>Jun 3rd 10:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/palette-version`
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-02T18:41:02+00:00'>Jun 2nd 18:41</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-02T12:59:07+00:00'>Jun 2nd 12:59</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-02T12:36:17+00:00'>Jun 2nd 12:36</span></td>
 <td>
@@ -233,19 +246,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-05-31T08:09:09+00:00'>May 31st 08:09</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/warp](https://github.com/catppuccin/warp)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -256,16 +256,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851dfe4bfe695c4192e547e72c7" width="48" height="48"> | [Ring of Fire](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ring Of Fire: The Best Of Johnny Cash](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) |
+| <img src="https://i.scdn.co/image/ab67616d00004851084051346f432cc68a1279cd" width="48" height="48"> | [Running Gun](https://open.spotify.com/track/1DvLnmJqQYtWD29uB6S8z3) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/track/1DvLnmJqQYtWD29uB6S8z3) |
+| <img src="https://i.scdn.co/image/ab67616d000048516c955079f53ae636e7bef0ee" width="48" height="48"> | [Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn) |
+| <img src="https://i.scdn.co/image/ab67616d000048516e186edfb8fe3710fdc1f7c2" width="48" height="48"> | [Run Through The Jungle](https://open.spotify.com/track/5VfgDw3oOzcNoszDwkLQhH) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory](https://open.spotify.com/track/5VfgDw3oOzcNoszDwkLQhH) |
 | <img src="https://i.scdn.co/image/ab67616d00004851bad7062c3fd2f2d037989694" width="48" height="48"> | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) |
 | <img src="https://i.scdn.co/image/ab67616d00004851deac5adf07affb5fec422701" width="48" height="48"> | [Orange Colored Sky](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) |
 | <img src="https://i.scdn.co/image/ab67616d00004851084051346f432cc68a1279cd" width="48" height="48"> | [The Master's Call](https://open.spotify.com/track/62rmfpQuieSgCITPX819sR) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/track/62rmfpQuieSgCITPX819sR) |
 | <img src="https://i.scdn.co/image/ab67616d00004851339e0338643501b977b4dca6" width="48" height="48"> | [Chattahoochee](https://open.spotify.com/track/0zguOtmQBHtdzIG35vZilH) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' (And A Little 'Bout Love)](https://open.spotify.com/track/0zguOtmQBHtdzIG35vZilH) |
 | <img src="https://i.scdn.co/image/ab67616d000048518ca625f53442bb840409f846" width="48" height="48"> | [Bones in the Ocean](https://open.spotify.com/track/3axCgesL3rsjGzCX9ZJCTo) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Bones in the Ocean](https://open.spotify.com/track/3axCgesL3rsjGzCX9ZJCTo) |
 | <img src="https://i.scdn.co/image/ab67616d000048513efcd243aaa5638f55318f91" width="48" height="48"> | [Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River (Expanded Edition)](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW) |
-| <img src="https://i.scdn.co/image/ab67616d00004851bac6da7d9dff1fe75e493a7b" width="48" height="48"> | [Atom Bomb Baby](https://open.spotify.com/track/417c6vlCzP6ZpGm224tkXh) | [The Five Stars](https://open.spotify.com/artist/3BVB86CLvIonQmoQX8kj6e) | [Presenting The Five Stars](https://open.spotify.com/track/417c6vlCzP6ZpGm224tkXh) |
-| <img src="https://i.scdn.co/image/ab67616d00004851664369d876deb40cedc5cffa" width="48" height="48"> | [Sleeping on the Blacktop](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/track/6fhgO6p9DsTyHqPctyzDkV) |
-| <img src="https://i.scdn.co/image/ab67616d0000485129fc151a03bc32dc22fd8ae6" width="48" height="48"> | [Doggone Cowboy](https://open.spotify.com/track/62qiyZxpfg6wEIV6S5PE9y) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Return of the Gunfighter](https://open.spotify.com/track/62qiyZxpfg6wEIV6S5PE9y) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b2439940aedd2801c9ae2e5b" width="48" height="48"> | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) | [Blue Swede](https://open.spotify.com/artist/0UpuH5U4nZ3UGGUJi0Zfbp), [Björn Skifs](https://open.spotify.com/artist/1Ek3VdZ8EPmcvgRIqnHlrF) | [Hooked On A Feeling](https://open.spotify.com/track/6Ac4NVYYl2U73QiTt11ZKd) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
