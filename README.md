@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-04T15:20:01+00:00'>Jun 4th 15:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/truckers](https://github.com/backwardspy/truckers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-04T15:17:15+00:00'>Jun 4th 15:17</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/truckers](https://github.com/backwardspy/truckers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-04T10:08:57+00:00'>Jun 4th 10:08</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-04T04:12:10+00:00'>Jun 4th 04:12</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-03T13:17:20+00:00'>Jun 3rd 13:17</span></td>
 <td>
@@ -230,32 +256,6 @@
 <td>
 
 [catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-02T11:56:12+00:00'>Jun 2nd 11:56</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-01T21:18:52+00:00'>Jun 1st 21:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
 
 </td>
 </tr>
