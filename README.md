@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-04T10:08:57+00:00'>Jun 4th 10:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/truckers](https://github.com/backwardspy/truckers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-04T10:07:55+00:00'>Jun 4th 10:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/truckers](https://github.com/backwardspy/truckers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-04T10:07:09+00:00'>Jun 4th 10:07</span></td>
+<td>
+
+🪄 created repository
+
+</td>
+<td>
+
+[backwardspy/truckers](https://github.com/backwardspy/truckers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-04T04:12:10+00:00'>Jun 4th 04:12</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-03T13:17:20+00:00'>Jun 3rd 13:17</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-02T18:40:02+00:00'>Jun 2nd 18:40</span></td>
 <td>
@@ -220,32 +259,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-05-31T08:55:59+00:00'>May 31st 08:55</span></td>
-<td>
-
-🚀 opened [#9: refactor: simplify boolean logic in whiskers prop check](https://github.com/uncenter/purr/pull/9)
-
-</td>
-<td>
-
-[uncenter/purr](https://github.com/uncenter/purr)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-31T08:12:04+00:00'>May 31st 08:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whoogle](https://github.com/catppuccin/whoogle)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -256,6 +269,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851b7578013decfa174e30dc298" width="48" height="48"> | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dfe4bfe695c4192e547e72c7" width="48" height="48"> | [Ring of Fire](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ring Of Fire: The Best Of Johnny Cash](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) |
 | <img src="https://i.scdn.co/image/ab67616d00004851084051346f432cc68a1279cd" width="48" height="48"> | [Running Gun](https://open.spotify.com/track/1DvLnmJqQYtWD29uB6S8z3) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/track/1DvLnmJqQYtWD29uB6S8z3) |
 | <img src="https://i.scdn.co/image/ab67616d000048516c955079f53ae636e7bef0ee" width="48" height="48"> | [Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn) |
@@ -265,7 +279,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851084051346f432cc68a1279cd" width="48" height="48"> | [The Master's Call](https://open.spotify.com/track/62rmfpQuieSgCITPX819sR) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/track/62rmfpQuieSgCITPX819sR) |
 | <img src="https://i.scdn.co/image/ab67616d00004851339e0338643501b977b4dca6" width="48" height="48"> | [Chattahoochee](https://open.spotify.com/track/0zguOtmQBHtdzIG35vZilH) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' (And A Little 'Bout Love)](https://open.spotify.com/track/0zguOtmQBHtdzIG35vZilH) |
 | <img src="https://i.scdn.co/image/ab67616d000048518ca625f53442bb840409f846" width="48" height="48"> | [Bones in the Ocean](https://open.spotify.com/track/3axCgesL3rsjGzCX9ZJCTo) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Bones in the Ocean](https://open.spotify.com/track/3axCgesL3rsjGzCX9ZJCTo) |
-| <img src="https://i.scdn.co/image/ab67616d000048513efcd243aaa5638f55318f91" width="48" height="48"> | [Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River (Expanded Edition)](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
