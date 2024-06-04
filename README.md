@@ -269,6 +269,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048516549db795138dc2b76258712" width="48" height="48"> | [Nova Prospekt](https://open.spotify.com/track/7ibtlIOpL831U5RSCC9s3r) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [A View From The End Of The World](https://open.spotify.com/track/7ibtlIOpL831U5RSCC9s3r) |
 | <img src="https://i.scdn.co/image/ab67616d00004851b7578013decfa174e30dc298" width="48" height="48"> | [When It Rains It Pours](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dfe4bfe695c4192e547e72c7" width="48" height="48"> | [Ring of Fire](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ring Of Fire: The Best Of Johnny Cash](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) |
 | <img src="https://i.scdn.co/image/ab67616d00004851084051346f432cc68a1279cd" width="48" height="48"> | [Running Gun](https://open.spotify.com/track/1DvLnmJqQYtWD29uB6S8z3) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/track/1DvLnmJqQYtWD29uB6S8z3) |
@@ -278,7 +279,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851deac5adf07affb5fec422701" width="48" height="48"> | [Orange Colored Sky](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) |
 | <img src="https://i.scdn.co/image/ab67616d00004851084051346f432cc68a1279cd" width="48" height="48"> | [The Master's Call](https://open.spotify.com/track/62rmfpQuieSgCITPX819sR) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/track/62rmfpQuieSgCITPX819sR) |
 | <img src="https://i.scdn.co/image/ab67616d00004851339e0338643501b977b4dca6" width="48" height="48"> | [Chattahoochee](https://open.spotify.com/track/0zguOtmQBHtdzIG35vZilH) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' (And A Little 'Bout Love)](https://open.spotify.com/track/0zguOtmQBHtdzIG35vZilH) |
-| <img src="https://i.scdn.co/image/ab67616d000048518ca625f53442bb840409f846" width="48" height="48"> | [Bones in the Ocean](https://open.spotify.com/track/3axCgesL3rsjGzCX9ZJCTo) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Bones in the Ocean](https://open.spotify.com/track/3axCgesL3rsjGzCX9ZJCTo) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
