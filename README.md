@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-04T04:12:10+00:00'>Jun 4th 04:12</span></td>
+<td>
+
+📢 opened [#8: add hex formatting options to frontmatter](https://github.com/catppuccin/whiskers/issues/8)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-04T04:11:28+00:00'>Jun 4th 04:11</span></td>
+<td>
+
+📢 opened [#7: set output encoding in frontmatter](https://github.com/catppuccin/whiskers/issues/7)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-03T13:17:20+00:00'>Jun 3rd 13:17</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-02T18:40:02+00:00'>Jun 2nd 18:40</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-02T12:59:07+00:00'>Jun 2nd 12:59</span></td>
 <td>
@@ -217,32 +243,6 @@
 <td>
 
 [catppuccin/whoogle](https://github.com/catppuccin/whoogle)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-31T08:12:03+00:00'>May 31st 08:12</span></td>
-<td>
-
-🎉 closed [#1: build: use whiskers](https://github.com/catppuccin/whoogle/pull/1)
-
-</td>
-<td>
-
-[catppuccin/whoogle](https://github.com/catppuccin/whoogle)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-05-31T08:10:18+00:00'>May 31st 08:10</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/geany](https://github.com/catppuccin/geany)
 
 </td>
 </tr>
