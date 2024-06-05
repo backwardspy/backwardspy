@@ -6,6 +6,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-05T08:57:42+00:00'>Jun 5th 08:57</span></td>
+<td>
+
+💬 commented on [#398: Godot scene `.tscn` icon not working in light mode](https://github.com/catppuccin/vscode/issues/398)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-05T08:48:35+00:00'>Jun 5th 08:48</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-05T08:48:34+00:00'>Jun 5th 08:48</span></td>
+<td>
+
+🎉 closed [#238: chore(deps): update dependency ajv to v8.16.0](https://github.com/catppuccin/toolbox/pull/238)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-05T08:47:08+00:00'>Jun 5th 08:47</span></td>
+<td>
+
+🔍 reviewed [#2418: feat: track archived ports](https://github.com/catppuccin/catppuccin/pull/2418)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-05T08:45:07+00:00'>Jun 5th 08:45</span></td>
+<td>
+
+🔍 reviewed [#2418: feat: track archived ports](https://github.com/catppuccin/catppuccin/pull/2418)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-05T08:45:07+00:00'>Jun 5th 08:45</span></td>
+<td>
+
+🔍 reviewed [#2418: feat: track archived ports](https://github.com/catppuccin/catppuccin/pull/2418)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-04T15:20:01+00:00'>Jun 4th 15:20</span></td>
 <td>
 
@@ -70,13 +155,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-04T04:12:10+00:00'>Jun 4th 04:12</span></td>
 <td>
@@ -186,71 +264,6 @@
 <td>
 
 🎉 closed [#21: chore(deps): update actions/upload-artifact action to v4](https://github.com/catppuccin/homebrew-tap/pull/21)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-02T12:36:17+00:00'>Jun 2nd 12:36</span></td>
-<td>
-
-🚢 pushed 1 commit to `renovate/major-github-artifact-actions`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-02T12:25:33+00:00'>Jun 2nd 12:25</span></td>
-<td>
-
-🚢 pushed 2 commits to `bump-catwalk-1.3.1`
-
-</td>
-<td>
-
-[backwardspy/homebrew-tap](https://github.com/backwardspy/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-02T12:24:58+00:00'>Jun 2nd 12:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-02T12:16:25+00:00'>Jun 2nd 12:16</span></td>
-<td>
-
-🚀 opened [#27: catwalk 1.3.1](https://github.com/catppuccin/homebrew-tap/pull/27)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-02T12:11:43+00:00'>Jun 2nd 12:11</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
