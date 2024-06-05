@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-05T12:15:43+00:00'>Jun 5th 12:15</span></td>
+<td>
+
+💬 commented on [#398: Godot scene `.tscn` icon not working in light mode](https://github.com/catppuccin/vscode/issues/398)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-05T08:57:42+00:00'>Jun 5th 08:57</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-05T08:45:07+00:00'>Jun 5th 08:45</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-05T08:45:07+00:00'>Jun 5th 08:45</span></td>
 <td>
@@ -251,19 +264,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-02T12:59:07+00:00'>Jun 2nd 12:59</span></td>
-<td>
-
-🎉 closed [#21: chore(deps): update actions/upload-artifact action to v4](https://github.com/catppuccin/homebrew-tap/pull/21)
 
 </td>
 <td>
