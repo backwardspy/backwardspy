@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-06T09:17:57+00:00'>Jun 6th 09:17</span></td>
+<td>
+
+💬 commented on [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-05T16:44:08+00:00'>Jun 5th 16:44</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-05T08:57:42+00:00'>Jun 5th 08:57</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-05T08:48:35+00:00'>Jun 5th 08:48</span></td>
 <td>
@@ -256,19 +269,6 @@
 <td>
 
 [catppuccin/palette](https://github.com/catppuccin/palette)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-02T18:41:02+00:00'>Jun 2nd 18:41</span></td>
-<td>
-
-🔍 reviewed [#72: fix(ports): incorrect link resolution](https://github.com/catppuccin/website/pull/72)
-
-</td>
-<td>
-
-[catppuccin/website](https://github.com/catppuccin/website)
 
 </td>
 </tr>
