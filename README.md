@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-06T16:52:30+00:00'>Jun 6th 16:52</span></td>
+<td>
+
+💬 commented on [#240: docs: add screenshot](https://github.com/catppuccin/toolbox/pull/240)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-06T16:52:29+00:00'>Jun 6th 16:52</span></td>
+<td>
+
+🎉 closed [#240: docs: add screenshot](https://github.com/catppuccin/toolbox/pull/240)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-06T14:06:25+00:00'>Jun 6th 14:06</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-05T16:44:08+00:00'>Jun 5th 16:44</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-05T16:38:15+00:00'>Jun 5th 16:38</span></td>
 <td>
@@ -256,32 +282,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-04T04:11:28+00:00'>Jun 4th 04:11</span></td>
-<td>
-
-📢 opened [#7: set output encoding in frontmatter](https://github.com/catppuccin/whiskers/issues/7)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-03T13:17:20+00:00'>Jun 3rd 13:17</span></td>
-<td>
-
-💬 commented on [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
