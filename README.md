@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-06T14:06:25+00:00'>Jun 6th 14:06</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/truckers](https://github.com/backwardspy/truckers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-06T14:05:39+00:00'>Jun 6th 14:05</span></td>
+<td>
+
+🚢 pushed 2 commits to `main`
+
+</td>
+<td>
+
+[backwardspy/truckers](https://github.com/backwardspy/truckers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-06T09:17:57+00:00'>Jun 6th 09:17</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-05T16:38:15+00:00'>Jun 5th 16:38</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-05T08:57:42+00:00'>Jun 5th 08:57</span></td>
 <td>
@@ -256,19 +282,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-03T10:41:59+00:00'>Jun 3rd 10:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/palette-version`
-
-</td>
-<td>
-
-[catppuccin/palette](https://github.com/catppuccin/palette)
 
 </td>
 </tr>
