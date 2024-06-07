@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-07T13:45:05+00:00'>Jun 7th 13:45</span></td>
+<td>
+
+💬 commented on [#11: Theme broken](https://github.com/catppuccin/fleet/issues/11)
+
+</td>
+<td>
+
+[catppuccin/fleet](https://github.com/catppuccin/fleet)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-07T09:29:31+00:00'>Jun 7th 09:29</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-06T22:15:31+00:00'>Jun 6th 22:15</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-06T22:15:30+00:00'>Jun 6th 22:15</span></td>
 <td>
@@ -251,19 +264,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T08:48:34+00:00'>Jun 5th 08:48</span></td>
-<td>
-
-🎉 closed [#238: chore(deps): update dependency ajv to v8.16.0](https://github.com/catppuccin/toolbox/pull/238)
 
 </td>
 <td>
