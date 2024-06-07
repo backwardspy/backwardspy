@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-06T22:15:31+00:00'>Jun 6th 22:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-06T22:15:30+00:00'>Jun 6th 22:15</span></td>
+<td>
+
+🎉 closed [#242: fix(deps): update rust crate clap_complete to v4.5.3](https://github.com/catppuccin/toolbox/pull/242)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-06T22:15:24+00:00'>Jun 6th 22:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-06T22:15:23+00:00'>Jun 6th 22:15</span></td>
+<td>
+
+🎉 closed [#241: fix(deps): update rust crate clap to v4.5.5](https://github.com/catppuccin/toolbox/pull/241)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-06T16:52:30+00:00'>Jun 6th 16:52</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-06T16:52:29+00:00'>Jun 6th 16:52</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-05T16:44:08+00:00'>Jun 5th 16:44</span></td>
 <td>
@@ -230,58 +282,6 @@
 <td>
 
 [backwardspy/truckers](https://github.com/backwardspy/truckers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-04T10:08:57+00:00'>Jun 4th 10:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/truckers](https://github.com/backwardspy/truckers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-04T10:07:55+00:00'>Jun 4th 10:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/truckers](https://github.com/backwardspy/truckers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-04T10:07:09+00:00'>Jun 4th 10:07</span></td>
-<td>
-
-🪄 created repository
-
-</td>
-<td>
-
-[backwardspy/truckers](https://github.com/backwardspy/truckers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-04T04:12:10+00:00'>Jun 4th 04:12</span></td>
-<td>
-
-📢 opened [#8: add hex formatting options to frontmatter](https://github.com/catppuccin/whiskers/issues/8)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
