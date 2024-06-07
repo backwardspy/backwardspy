@@ -6,6 +6,195 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-07T19:23:07+00:00'>Jun 7th 19:23</span></td>
+<td>
+
+💬 commented on [#45: docs: update previews](https://github.com/catppuccin/helix/pull/45)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T19:14:32+00:00'>Jun 7th 19:14</span></td>
+<td>
+
+💬 commented on [#16: Bat theme looks different than same theme in Helix?](https://github.com/catppuccin/bat/issues/16)
+
+</td>
+<td>
+
+[catppuccin/bat](https://github.com/catppuccin/bat)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T19:12:15+00:00'>Jun 7th 19:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T19:12:14+00:00'>Jun 7th 19:12</span></td>
+<td>
+
+🎉 closed [#45: docs: update previews](https://github.com/catppuccin/helix/pull/45)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T19:12:11+00:00'>Jun 7th 19:12</span></td>
+<td>
+
+💬 commented on [#45: docs: update previews](https://github.com/catppuccin/helix/pull/45)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-07T19:10:24+00:00'>Jun 7th 19:10</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T19:10:24+00:00'>Jun 7th 19:10</span></td>
+<td>
+
+🎉 closed [#46: feat: use blue html/xml tags](https://github.com/catppuccin/helix/pull/46)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T19:10:14+00:00'>Jun 7th 19:10</span></td>
+<td>
+
+🚀 opened [#46: feat: use blue html/xml tags](https://github.com/catppuccin/helix/pull/46)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T18:59:27+00:00'>Jun 7th 18:59</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T18:59:27+00:00'>Jun 7th 18:59</span></td>
+<td>
+
+🎉 closed [#44: docs: update readme with whiskers instructions](https://github.com/catppuccin/helix/pull/44)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T18:57:57+00:00'>Jun 7th 18:57</span></td>
+<td>
+
+🚀 opened [#44: docs: update readme with whiskers instructions](https://github.com/catppuccin/helix/pull/44)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T18:54:27+00:00'>Jun 7th 18:54</span></td>
+<td>
+
+💬 commented on [#43: refactor: use whiskers](https://github.com/catppuccin/helix/pull/43)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T18:54:24+00:00'>Jun 7th 18:54</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T18:54:23+00:00'>Jun 7th 18:54</span></td>
+<td>
+
+🎉 closed [#43: refactor: use whiskers](https://github.com/catppuccin/helix/pull/43)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-07T13:45:05+00:00'>Jun 7th 13:45</span></td>
 <td>
 
@@ -67,208 +256,6 @@
 <td>
 
 [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2024-06-06T22:15:31+00:00'>Jun 6th 22:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-06T22:15:30+00:00'>Jun 6th 22:15</span></td>
-<td>
-
-🎉 closed [#242: fix(deps): update rust crate clap_complete to v4.5.3](https://github.com/catppuccin/toolbox/pull/242)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-06T22:15:24+00:00'>Jun 6th 22:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-06T22:15:23+00:00'>Jun 6th 22:15</span></td>
-<td>
-
-🎉 closed [#241: fix(deps): update rust crate clap to v4.5.5](https://github.com/catppuccin/toolbox/pull/241)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-06T16:52:30+00:00'>Jun 6th 16:52</span></td>
-<td>
-
-💬 commented on [#240: docs: add screenshot](https://github.com/catppuccin/toolbox/pull/240)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-06T16:52:29+00:00'>Jun 6th 16:52</span></td>
-<td>
-
-🎉 closed [#240: docs: add screenshot](https://github.com/catppuccin/toolbox/pull/240)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-06T14:06:25+00:00'>Jun 6th 14:06</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/truckers](https://github.com/backwardspy/truckers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-06T14:05:39+00:00'>Jun 6th 14:05</span></td>
-<td>
-
-🚢 pushed 2 commits to `main`
-
-</td>
-<td>
-
-[backwardspy/truckers](https://github.com/backwardspy/truckers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-06T09:17:57+00:00'>Jun 6th 09:17</span></td>
-<td>
-
-💬 commented on [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T16:44:08+00:00'>Jun 5th 16:44</span></td>
-<td>
-
-💬 commented on [#398: Godot scene `.tscn` icon not working in light mode](https://github.com/catppuccin/vscode/issues/398)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T16:39:15+00:00'>Jun 5th 16:39</span></td>
-<td>
-
-💬 commented on [#398: Godot scene `.tscn` icon not working in light mode](https://github.com/catppuccin/vscode/issues/398)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T16:38:15+00:00'>Jun 5th 16:38</span></td>
-<td>
-
-🚀 opened [#399: feat: support `autoDetectColorScheme` in icon sync](https://github.com/catppuccin/vscode/pull/399)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T12:15:43+00:00'>Jun 5th 12:15</span></td>
-<td>
-
-💬 commented on [#398: Godot scene `.tscn` icon not working in light mode](https://github.com/catppuccin/vscode/issues/398)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T08:57:42+00:00'>Jun 5th 08:57</span></td>
-<td>
-
-💬 commented on [#398: Godot scene `.tscn` icon not working in light mode](https://github.com/catppuccin/vscode/issues/398)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T08:48:35+00:00'>Jun 5th 08:48</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
