@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-07T09:29:31+00:00'>Jun 7th 09:29</span></td>
+<td>
+
+💬 commented on [#2: Welcome/examples page completely black ](https://github.com/catppuccin/qtcreator/issues/2)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T09:24:35+00:00'>Jun 7th 09:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T09:24:35+00:00'>Jun 7th 09:24</span></td>
+<td>
+
+🎉 closed [#11: fix(deps): update rust crate clap to v4.5.6](https://github.com/catppuccin/whiskers/pull/11)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-07T09:23:40+00:00'>Jun 7th 09:23</span></td>
+<td>
+
+🔍 reviewed [#20: Refactored Code + Features](https://github.com/catppuccin/tailwindcss/pull/20)
+
+</td>
+<td>
+
+[catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-06T22:15:31+00:00'>Jun 6th 22:15</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-06T22:15:30+00:00'>Jun 6th 22:15</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-06T16:52:29+00:00'>Jun 6th 16:52</span></td>
 <td>
@@ -217,71 +269,6 @@
 <td>
 
 [catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T08:47:08+00:00'>Jun 5th 08:47</span></td>
-<td>
-
-🔍 reviewed [#2418: feat: track archived ports](https://github.com/catppuccin/catppuccin/pull/2418)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T08:45:07+00:00'>Jun 5th 08:45</span></td>
-<td>
-
-🔍 reviewed [#2418: feat: track archived ports](https://github.com/catppuccin/catppuccin/pull/2418)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-05T08:45:07+00:00'>Jun 5th 08:45</span></td>
-<td>
-
-🔍 reviewed [#2418: feat: track archived ports](https://github.com/catppuccin/catppuccin/pull/2418)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-04T15:20:01+00:00'>Jun 4th 15:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/truckers](https://github.com/backwardspy/truckers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-04T15:17:15+00:00'>Jun 4th 15:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/truckers](https://github.com/backwardspy/truckers)
 
 </td>
 </tr>
