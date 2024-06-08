@@ -6,6 +6,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-08T19:03:31+00:00'>Jun 8th 19:03</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-08T19:03:30+00:00'>Jun 8th 19:03</span></td>
+<td>
+
+🎉 closed [#7: docs: fix preview display](https://github.com/catppuccin/st/pull/7)
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-08T18:25:48+00:00'>Jun 8th 18:25</span></td>
+<td>
+
+💬 commented on [#6: chore: preview images](https://github.com/catppuccin/st/pull/6)
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-08T18:25:09+00:00'>Jun 8th 18:25</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-08T18:25:08+00:00'>Jun 8th 18:25</span></td>
+<td>
+
+🎉 closed [#6: chore: preview images](https://github.com/catppuccin/st/pull/6)
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-08T18:24:57+00:00'>Jun 8th 18:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `chore/previews`
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-08T15:39:49+00:00'>Jun 8th 15:39</span></td>
 <td>
 
@@ -70,13 +155,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-07T22:18:46+00:00'>Jun 7th 22:18</span></td>
 <td>
@@ -194,84 +272,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-06-07T18:59:27+00:00'>Jun 7th 18:59</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T18:59:27+00:00'>Jun 7th 18:59</span></td>
-<td>
-
-🎉 closed [#44: docs: update readme with whiskers instructions](https://github.com/catppuccin/helix/pull/44)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T18:57:57+00:00'>Jun 7th 18:57</span></td>
-<td>
-
-🚀 opened [#44: docs: update readme with whiskers instructions](https://github.com/catppuccin/helix/pull/44)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T18:54:27+00:00'>Jun 7th 18:54</span></td>
-<td>
-
-💬 commented on [#43: refactor: use whiskers](https://github.com/catppuccin/helix/pull/43)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T18:54:24+00:00'>Jun 7th 18:54</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T18:54:23+00:00'>Jun 7th 18:54</span></td>
-<td>
-
-🎉 closed [#43: refactor: use whiskers](https://github.com/catppuccin/helix/pull/43)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -282,16 +282,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d00004851a9509557a1a0b0c61a2bbbbe" width="48" height="48"> | [My Quiet Forest Home](https://open.spotify.com/track/7leSzVoqC7jn063arNWF5M) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/track/7leSzVoqC7jn063arNWF5M) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c20c278a68424850767e4d9e" width="48" height="48"> | [Main Theme](https://open.spotify.com/track/0BqVTj3PfExdgXUu4vq7tb) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Ori and the Will of the Wisps (Original Soundtrack Recording)](https://open.spotify.com/track/0BqVTj3PfExdgXUu4vq7tb) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b75eff74c777e8ca8afdf363" width="48" height="48"> | [Owlboy (Main Title)](https://open.spotify.com/track/4GaiNWFqfSPO6Cur87SEyL) | [Jonathan Geer](https://open.spotify.com/artist/6fyUMxz3J2qb6Nq6HhCCGt) | [Owlboy (Original Soundtrack)](https://open.spotify.com/track/4GaiNWFqfSPO6Cur87SEyL) |
-| <img src="https://i.scdn.co/image/ab67616d00004851cf14c6f152666450ea9007c6" width="48" height="48"> | [Main Theme (From Xenoblade Chronicles)](https://open.spotify.com/track/14kc7PSDy0leGPpwLSQvJY) | [Delldongo](https://open.spotify.com/artist/17w9Ep8TUtG2H6CU1d2KqT) | [Video Game Music for Piano](https://open.spotify.com/track/14kc7PSDy0leGPpwLSQvJY) |
-| <img src="https://i.scdn.co/image/ab67616d00004851e46325c725a9225daa344634" width="48" height="48"> | [Weiyang Palace](https://open.spotify.com/track/0spHIesgfeSjgKsNQdamWI) | [Neal Acree](https://open.spotify.com/artist/5mocQZIZJJsA389LmLpCkk) | [Revelation (Original Motion Picture Soundtrack)](https://open.spotify.com/track/0spHIesgfeSjgKsNQdamWI) |
-| <img src="https://i.scdn.co/image/ab67616d0000485108ef8f213c161fa5b8d5b4f6" width="48" height="48"> | [Redemption and Forgiveness](https://open.spotify.com/track/5ywMkKq4ShehR8i3h3dIlU) | [Tomoki Miyoshi](https://open.spotify.com/artist/2OAgpK4uA8zE1zSoqhuiim) | [Winter's End (I Am Setsuna) [Original Soundtrack Collection]](https://open.spotify.com/track/5ywMkKq4ShehR8i3h3dIlU) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a9509557a1a0b0c61a2bbbbe" width="48" height="48"> | [Cyrus, the Scholar](https://open.spotify.com/track/7s9kNkigXIvtZgoEzxUgwQ) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/track/7s9kNkigXIvtZgoEzxUgwQ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a781482f8ecfa47f38cddded" width="48" height="48"> | [Auric Wilds](https://open.spotify.com/track/2rRN0DrF3McDNVsSA84IEh) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Guild Wars 2: Heart of Thorns (Original Game Soundtrack)](https://open.spotify.com/track/2rRN0DrF3McDNVsSA84IEh) |
-| <img src="https://i.scdn.co/image/ab67616d0000485171b1b5d2f76b80661d4e01c8" width="48" height="48"> | [The Waters Cleansed (feat. Tom Boyd)](https://open.spotify.com/track/3fTZxAOa8fwEVqGkrRy6NK) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B), [Tom Boyd](https://open.spotify.com/artist/4mkGdmbcZa6WHxinVVmeYs) | [Ori and the Blind Forest (Original Soundtrack)](https://open.spotify.com/track/3fTZxAOa8fwEVqGkrRy6NK) |
-| <img src="https://i.scdn.co/image/ab67616d00004851acdaadb5591995360305b8a5" width="48" height="48"> | [The Drifting Village](https://open.spotify.com/track/6xq0vpuPZf6JsbZWAoPgEk) | [Falcom Sound Team jdk](https://open.spotify.com/artist/5WFofzgRxpVNkpwg9XRSdg) | [Ys VIII -Lacrimosa of DANA- Original Soundtrack Complete Vol.1](https://open.spotify.com/track/6xq0vpuPZf6JsbZWAoPgEk) |
+| <img src="https://i.scdn.co/image/ab67616d000048511a089a8c538eedec4cc083ca" width="48" height="48"> | [The Crows](https://open.spotify.com/track/28GhGAIVvtfNXM7Smc7o3Z) | [David Fenn](https://open.spotify.com/artist/6DqoR5Q50A9bY4wbkfdMwa) | [Death's Door (Original Soundtrack)](https://open.spotify.com/track/28GhGAIVvtfNXM7Smc7o3Z) |
+| <img src="https://i.scdn.co/image/ab67616d0000485108ef8f213c161fa5b8d5b4f6" width="48" height="48"> | [An End to the Journey](https://open.spotify.com/track/4Zd6RstRjyN4v63X5g5MEw) | [Tomoki Miyoshi](https://open.spotify.com/artist/2OAgpK4uA8zE1zSoqhuiim) | [Winter's End (I Am Setsuna) [Original Soundtrack Collection]](https://open.spotify.com/track/4Zd6RstRjyN4v63X5g5MEw) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a9509557a1a0b0c61a2bbbbe" width="48" height="48"> | [The Frostlands](https://open.spotify.com/track/4N4D8Pzrwp1eH75r3FbPHc) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/track/4N4D8Pzrwp1eH75r3FbPHc) |
+| <img src="https://i.scdn.co/image/ab67616d0000485171b1b5d2f76b80661d4e01c8" width="48" height="48"> | [Escaping the Ruins](https://open.spotify.com/track/3gQ5dJgLXy2vMY61PPKEIV) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Ori and the Blind Forest (Original Soundtrack)](https://open.spotify.com/track/3gQ5dJgLXy2vMY61PPKEIV) |
+| <img src="https://i.scdn.co/image/ab67616d0000485119394be1b5c9da06e6fe6787" width="48" height="48"> | [Welcome to Fort Joy](https://open.spotify.com/track/3e7ZdTMXLHm3MLhgsAdHVG) | [Borislav Slavov](https://open.spotify.com/artist/7Fl4F5eJRtPMEl3jTYMUQt) | [Divinity: Original Sin 2 (Original Soundtrack)](https://open.spotify.com/track/3e7ZdTMXLHm3MLhgsAdHVG) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c40ec070f7282fe2cd19ae93" width="48" height="48"> | [Everlasting Instant](https://open.spotify.com/track/2bUxR1UkzbvASv2kXxKW6H) | [Revo](https://open.spotify.com/artist/6ieBzPQ3hxPBLfzZrwBQ53) | [BRAVELY DEFAULT FLYING FAIRY Original Soundtrack](https://open.spotify.com/track/2bUxR1UkzbvASv2kXxKW6H) |
+| <img src="https://i.scdn.co/image/ab67616d00004851dcbca161a7787a3fe0cb429c" width="48" height="48"> | [Queen's Gardens](https://open.spotify.com/track/1lJySpoTdGHcTV4OTaluls) | [Christopher Larkin](https://open.spotify.com/artist/13kMpt8IdcHcdxPLcJrgU2) | [Hollow Knight (Original Soundtrack)](https://open.spotify.com/track/1lJySpoTdGHcTV4OTaluls) |
+| <img src="https://i.scdn.co/image/ab67616d0000485108ef8f213c161fa5b8d5b4f6" width="48" height="48"> | [Stories of Old](https://open.spotify.com/track/2N4OmYZYU5Lv8grDy7sP8c) | [Tomoki Miyoshi](https://open.spotify.com/artist/2OAgpK4uA8zE1zSoqhuiim) | [Winter's End (I Am Setsuna) [Original Soundtrack Collection]](https://open.spotify.com/track/2N4OmYZYU5Lv8grDy7sP8c) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a9509557a1a0b0c61a2bbbbe" width="48" height="48"> | [Determination](https://open.spotify.com/track/4EmNTrzr7QzRMLB2rlB0Xp) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/track/4EmNTrzr7QzRMLB2rlB0Xp) |
+| <img src="https://i.scdn.co/image/ab67616d0000485171b1b5d2f76b80661d4e01c8" width="48" height="48"> | [The Spirit Tree (feat. Aeralie Brighton)](https://open.spotify.com/track/2RUAvlJsPhZe3w6P0i7Zsi) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B), [Aeralie Brighton](https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM) | [Ori and the Blind Forest (Original Soundtrack)](https://open.spotify.com/track/2RUAvlJsPhZe3w6P0i7Zsi) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
