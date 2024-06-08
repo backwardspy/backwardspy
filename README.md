@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-08T15:39:49+00:00'>Jun 8th 15:39</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-08T15:39:48+00:00'>Jun 8th 15:39</span></td>
+<td>
+
+🎉 closed [#5: refactor: use whiskers](https://github.com/catppuccin/st/pull/5)
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-08T15:39:25+00:00'>Jun 8th 15:39</span></td>
+<td>
+
+🔍 reviewed [#5: refactor: use whiskers](https://github.com/catppuccin/st/pull/5)
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-08T09:10:16+00:00'>Jun 8th 09:10</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-07T22:18:46+00:00'>Jun 7th 22:18</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-07T19:12:15+00:00'>Jun 7th 19:12</span></td>
 <td>
@@ -233,32 +272,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-06-07T13:45:05+00:00'>Jun 7th 13:45</span></td>
-<td>
-
-💬 commented on [#11: Theme broken](https://github.com/catppuccin/fleet/issues/11)
-
-</td>
-<td>
-
-[catppuccin/fleet](https://github.com/catppuccin/fleet)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T09:29:31+00:00'>Jun 7th 09:29</span></td>
-<td>
-
-💬 commented on [#2: Welcome/examples page completely black ](https://github.com/catppuccin/qtcreator/issues/2)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -269,16 +282,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d00004851a68a2e30989384d65d2b0ca5" width="48" height="48"> | [Archangel](https://open.spotify.com/track/6hdlL6Jx3AHjdW6a6htloj) | [Leah](https://open.spotify.com/artist/5JrVokmullzV1zq8M8iP69) | [The Glory and the Fallen](https://open.spotify.com/track/6hdlL6Jx3AHjdW6a6htloj) |
-| <img src="https://i.scdn.co/image/ab67616d000048514d33c3499d6fc9d7502d1841" width="48" height="48"> | [Kingdom of One](https://open.spotify.com/track/1m1DdfhunK9WGqQsz1w6Ci) | [Shogun Taira](https://open.spotify.com/artist/0T500eqUxzgFZ4r8c6yL1b) | [Kingdom of One](https://open.spotify.com/track/1m1DdfhunK9WGqQsz1w6Ci) |
-| <img src="https://i.scdn.co/image/ab67616d000048514d6bdf4406b403e7eebe0f3e" width="48" height="48"> | [Cosmic Rays and Flipped Bits](https://open.spotify.com/track/1lzggsJgRLSaORYYXpJpyM) | [Berkan Cesur](https://open.spotify.com/artist/5dUOfxMZOkCnJVwhbZm5ta) | [Cosmic Rays and Flipped Bits](https://open.spotify.com/track/1lzggsJgRLSaORYYXpJpyM) |
-| <img src="https://i.scdn.co/image/ab67616d000048515477b1fad9b08e188eb4fb54" width="48" height="48"> | [Lost in Time](https://open.spotify.com/track/4g2N7Ji8zMOFRnGVoqH9sj) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [M.A.S.K.](https://open.spotify.com/artist/4BbXWPIfy8mGhcdzvNQV3f) | [Lost in Time](https://open.spotify.com/track/4g2N7Ji8zMOFRnGVoqH9sj) |
-| <img src="https://i.scdn.co/image/ab67616d00004851ea8412687e66aac33c4f9a7a" width="48" height="48"> | [Apocrypha I: Warrior's Vigil](https://open.spotify.com/track/7l5tu6XnJuPFFYK7SKtXjI) | [Satellite Empire](https://open.spotify.com/artist/1DGpuIJ6KAI5bcaFGbJZJs), [DREAMOIR](https://open.spotify.com/artist/0ey5wIjpwfYNKVr10IL4op) | [Apocrypha I: Warrior's Vigil](https://open.spotify.com/track/7l5tu6XnJuPFFYK7SKtXjI) |
-| <img src="https://i.scdn.co/image/ab67616d00004851bf4526de8c42ea92ab6c980b" width="48" height="48"> | [Almost Heaven](https://open.spotify.com/track/5vZuUkn6S38LMPszQDTvcU) | [Black Out The Sun](https://open.spotify.com/artist/0OxEYB4F31W95nJxNOkPpt) | [Vol. 2](https://open.spotify.com/track/5vZuUkn6S38LMPszQDTvcU) |
-| <img src="https://i.scdn.co/image/ab67616d00004851aba3ca0cbea4de02ffa73c5b" width="48" height="48"> | [Forever](https://open.spotify.com/track/3Gaxjgv63zqkBj5LeoTLBG) | [55 Escape](https://open.spotify.com/artist/1wRtqtLpJErmk9fZmZrrE5) | [Closing In](https://open.spotify.com/track/3Gaxjgv63zqkBj5LeoTLBG) |
-| <img src="https://i.scdn.co/image/ab67616d000048512861ec0b662ccbe959703961" width="48" height="48"> | [Cruise Control](https://open.spotify.com/track/2y14hu7xtsMN4DREAw9w4e) | [Max Cruise](https://open.spotify.com/artist/5qy7shkCBvtMY1NLS9BREl) | [Cruise Control](https://open.spotify.com/track/2y14hu7xtsMN4DREAw9w4e) |
-| <img src="https://i.scdn.co/image/ab67616d000048514f8ceea51870d684ab6f41bf" width="48" height="48"> | [Big Bad Wolf](https://open.spotify.com/track/4KMaU6ZpAs168WMBp4xb1R) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Big Bad Wolf](https://open.spotify.com/track/4KMaU6ZpAs168WMBp4xb1R) |
-| <img src="https://i.scdn.co/image/ab67616d000048516549db795138dc2b76258712" width="48" height="48"> | [Nova Prospekt](https://open.spotify.com/track/7ibtlIOpL831U5RSCC9s3r) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [A View From The End Of The World](https://open.spotify.com/track/7ibtlIOpL831U5RSCC9s3r) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c20c278a68424850767e4d9e" width="48" height="48"> | [We Named Her Ku](https://open.spotify.com/track/0Lw2KPwXMK2zP96WVpcFYu) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Ori and the Will of the Wisps (Original Soundtrack Recording)](https://open.spotify.com/track/0Lw2KPwXMK2zP96WVpcFYu) |
+| <img src="https://i.scdn.co/image/ab67616d0000485124451f3b9672338f2b6f0aa6" width="48" height="48"> | [Legend of Zelda - Skyward Sword - Romance in the Air](https://open.spotify.com/track/11RGaLRaPh7mo5LyvoMYPs) | [Triforce Quartet](https://open.spotify.com/artist/094Eb3gQkbFFT4seoZoMaS) | [Ultima Phantasia](https://open.spotify.com/track/11RGaLRaPh7mo5LyvoMYPs) |
+| <img src="https://i.scdn.co/image/ab67616d0000485119394be1b5c9da06e6fe6787" width="48" height="48"> | [Rivellon](https://open.spotify.com/track/7EVmjwaUVwhepnIpSUZMKh) | [Borislav Slavov](https://open.spotify.com/artist/7Fl4F5eJRtPMEl3jTYMUQt) | [Divinity: Original Sin 2 (Original Soundtrack)](https://open.spotify.com/track/7EVmjwaUVwhepnIpSUZMKh) |
+| <img src="https://i.scdn.co/image/ab67616d0000485108ef8f213c161fa5b8d5b4f6" width="48" height="48"> | [Rounds of the Fates](https://open.spotify.com/track/6DxZID6t2f6ODzijWNd2g1) | [Tomoki Miyoshi](https://open.spotify.com/artist/2OAgpK4uA8zE1zSoqhuiim) | [Winter's End (I Am Setsuna) [Original Soundtrack Collection]](https://open.spotify.com/track/6DxZID6t2f6ODzijWNd2g1) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a9509557a1a0b0c61a2bbbbe" width="48" height="48"> | [Primrose, the Dancer](https://open.spotify.com/track/2fuYp1ANBbAjVA2sgx9npb) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/track/2fuYp1ANBbAjVA2sgx9npb) |
+| <img src="https://i.scdn.co/image/ab67616d000048518364180fe688c54b47a895c9" width="48" height="48"> | [N's Farewell (From "Pokémon Black/White")](https://open.spotify.com/track/152LfpO2t7VhF2NfuJEsH4) | [HoopsandHipHop](https://open.spotify.com/artist/6doBPcAt2vxQmvbcmNxMmc) | [Pokémixes](https://open.spotify.com/track/152LfpO2t7VhF2NfuJEsH4) |
+| <img src="https://i.scdn.co/image/ab67616d0000485172a15f5ce99b6ba4aa68b9f8" width="48" height="48"> | [Ecruteak City](https://open.spotify.com/track/4Q28DqNxUjuZ5s3AH1xA1R) | [Braxton Burks](https://open.spotify.com/artist/1U2GH2NLt30RW9bnJEvcgM) | [Pokémon Reorchestrated: Double Team!](https://open.spotify.com/track/4Q28DqNxUjuZ5s3AH1xA1R) |
+| <img src="https://i.scdn.co/image/ab67616d00004851dd8b4524d928f403c7042940" width="48" height="48"> | [A Short Flight](https://open.spotify.com/track/4Tdy3IcxqAjii4zav9e8AJ) | [Mark Sparling](https://open.spotify.com/artist/512N8AirvONRHLLZg5cjC0) | [A Short Hike](https://open.spotify.com/track/4Tdy3IcxqAjii4zav9e8AJ) |
+| <img src="https://i.scdn.co/image/ab67616d00004851826bb8027b667ca05e120261" width="48" height="48"> | [Kass's Theme](https://open.spotify.com/track/5XZcXfoS6IAiErcvGT2qhx) | [ROZEN](https://open.spotify.com/artist/1uca08INg3Te4jR7g1khYN) | [Ballads of Hyrule](https://open.spotify.com/track/5XZcXfoS6IAiErcvGT2qhx) |
+| <img src="https://i.scdn.co/image/ab67616d000048512160d9fb846846ccf59c6f8a" width="48" height="48"> | [Rosalina's Comet Observatory (From "Super Mario Galaxy")](https://open.spotify.com/track/3SslDSgYzrf7PzSF6zeB5e) | [insaneintherainmusic](https://open.spotify.com/artist/62GoYifV4njTdvS8lD2yYT), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Year 6](https://open.spotify.com/track/3SslDSgYzrf7PzSF6zeB5e) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
