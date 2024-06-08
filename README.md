@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-07T22:18:46+00:00'>Jun 7th 22:18</span></td>
+<td>
+
+💬 commented on [#16: Bat theme looks different than same theme in Helix?](https://github.com/catppuccin/bat/issues/16)
+
+</td>
+<td>
+
+[catppuccin/bat](https://github.com/catppuccin/bat)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-07T19:23:07+00:00'>Jun 7th 19:23</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-07T19:12:11+00:00'>Jun 7th 19:12</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-07T19:10:24+00:00'>Jun 7th 19:10</span></td>
 <td>
@@ -243,19 +256,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T09:23:40+00:00'>Jun 7th 09:23</span></td>
-<td>
-
-🔍 reviewed [#20: Refactored Code + Features](https://github.com/catppuccin/tailwindcss/pull/20)
-
-</td>
-<td>
-
-[catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss)
 
 </td>
 </tr>
