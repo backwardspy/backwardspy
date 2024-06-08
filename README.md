@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-08T09:10:16+00:00'>Jun 8th 09:10</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-08T09:10:16+00:00'>Jun 8th 09:10</span></td>
+<td>
+
+🎉 closed [#12: build(cargo): remove incorrect tag](https://github.com/catppuccin/whiskers/pull/12)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-07T22:18:46+00:00'>Jun 7th 22:18</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-07T19:12:15+00:00'>Jun 7th 19:12</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-07T19:12:11+00:00'>Jun 7th 19:12</span></td>
 <td>
@@ -230,32 +256,6 @@
 <td>
 
 [catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T09:24:35+00:00'>Jun 7th 09:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T09:24:35+00:00'>Jun 7th 09:24</span></td>
-<td>
-
-🎉 closed [#11: fix(deps): update rust crate clap to v4.5.6](https://github.com/catppuccin/whiskers/pull/11)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
