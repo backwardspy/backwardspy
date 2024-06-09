@@ -6,7 +6,7 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2024-06-09T16:03:35+00:00'>Jun 9th 16:03</span></td>
+<td><span title='2024-06-09T16:44:31+00:00'>Jun 9th 16:44</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -19,10 +19,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:03:34+00:00'>Jun 9th 16:03</span></td>
+<td><span title='2024-06-09T16:44:30+00:00'>Jun 9th 16:44</span></td>
 <td>
 
-🎉 closed [#38: chore: Configure Renovate](https://github.com/catppuccin/python/pull/38)
+🎉 closed [#47: chore(deps): update dependency pytest-cov to v5](https://github.com/catppuccin/python/pull/47)
 
 </td>
 <td>
@@ -32,7 +32,7 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T15:23:31+00:00'>Jun 9th 15:23</span></td>
+<td><span title='2024-06-09T16:43:46+00:00'>Jun 9th 16:43</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -40,33 +40,33 @@
 </td>
 <td>
 
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T15:23:27+00:00'>Jun 9th 15:23</span></td>
+<td><span title='2024-06-09T16:43:45+00:00'>Jun 9th 16:43</span></td>
 <td>
 
-🎉 closed [#10: docs(readme): add a short summary line](https://github.com/catppuccin/catwalk/pull/10)
+🎉 closed [#44: fix(deps): update dependency pygments to v2.18.0](https://github.com/catppuccin/python/pull/44)
 
 </td>
 <td>
 
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T15:23:25+00:00'>Jun 9th 15:23</span></td>
+<td><span title='2024-06-09T16:43:32+00:00'>Jun 9th 16:43</span></td>
 <td>
 
-💬 commented on [#10: docs(readme): add a short summary line](https://github.com/catppuccin/catwalk/pull/10)
+🎉 closed [#42: chore(deps): update dependency pytest to v8.2.2](https://github.com/catppuccin/python/pull/42)
 
 </td>
 <td>
 
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
@@ -78,33 +78,7 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2024-06-09T15:22:36+00:00'>Jun 9th 15:22</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/readme-summary`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T15:19:32+00:00'>Jun 9th 15:19</span></td>
-<td>
-
-🚀 opened [#10: docs(readme): add a short summary line](https://github.com/catppuccin/catwalk/pull/10)
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T15:08:33+00:00'>Jun 9th 15:08</span></td>
+<td><span title='2024-06-09T16:43:33+00:00'>Jun 9th 16:43</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -112,64 +86,12 @@
 </td>
 <td>
 
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T15:08:32+00:00'>Jun 9th 15:08</span></td>
-<td>
-
-🎉 closed [#15: docs(readme): move summary to top of readme](https://github.com/catppuccin/whiskers/pull/15)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T15:08:27+00:00'>Jun 9th 15:08</span></td>
-<td>
-
-🚀 opened [#15: docs(readme): move summary to top of readme](https://github.com/catppuccin/whiskers/pull/15)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T11:36:40+00:00'>Jun 9th 11:36</span></td>
-<td>
-
-🚢 pushed 1 commit to `ci/sarif`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T11:30:05+00:00'>Jun 9th 11:30</span></td>
-<td>
-
-🚀 opened [#14: ci: add clippy-sarif to lint workflow](https://github.com/catppuccin/whiskers/pull/14)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T08:26:35+00:00'>Jun 9th 08:26</span></td>
+<td><span title='2024-06-09T16:43:21+00:00'>Jun 9th 16:43</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -177,38 +99,25 @@
 </td>
 <td>
 
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T08:26:34+00:00'>Jun 9th 08:26</span></td>
+<td><span title='2024-06-09T16:43:20+00:00'>Jun 9th 16:43</span></td>
 <td>
 
-🎉 closed [#3: fix(deps): update rust crate clap_complete to v4.5.5](https://github.com/catppuccin/catwalk/pull/3)
+🎉 closed [#45: fix(deps): update dependency tinycss2 to v1.3.0](https://github.com/catppuccin/python/pull/45)
 
 </td>
 <td>
 
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T08:25:42+00:00'>Jun 9th 08:25</span></td>
-<td>
-
-💬 commented on [#172: feat: implement hex formatting support](https://github.com/catppuccin/toolbox/pull/172)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-08T19:03:31+00:00'>Jun 8th 19:03</span></td>
+<td><span title='2024-06-09T16:43:06+00:00'>Jun 9th 16:43</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -216,33 +125,98 @@
 </td>
 <td>
 
-[catppuccin/st](https://github.com/catppuccin/st)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-08T19:03:30+00:00'>Jun 8th 19:03</span></td>
+<td><span title='2024-06-09T16:43:05+00:00'>Jun 9th 16:43</span></td>
 <td>
 
-🎉 closed [#7: docs: fix preview display](https://github.com/catppuccin/st/pull/7)
+🎉 closed [#43: chore(deps): update dependency ruff to ^0.4.0](https://github.com/catppuccin/python/pull/43)
 
 </td>
 <td>
 
-[catppuccin/st](https://github.com/catppuccin/st)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-08T18:25:48+00:00'>Jun 8th 18:25</span></td>
+<td><span title='2024-06-09T16:42:52+00:00'>Jun 9th 16:42</span></td>
 <td>
 
-💬 commented on [#6: chore: preview images](https://github.com/catppuccin/st/pull/6)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
 
-[catppuccin/st](https://github.com/catppuccin/st)
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T16:42:51+00:00'>Jun 9th 16:42</span></td>
+<td>
+
+🎉 closed [#46: chore(deps): update abatilo/actions-poetry action to v3](https://github.com/catppuccin/python/pull/46)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T16:42:41+00:00'>Jun 9th 16:42</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T16:42:40+00:00'>Jun 9th 16:42</span></td>
+<td>
+
+🎉 closed [#48: chore(deps): update peaceiris/actions-gh-pages action to v4](https://github.com/catppuccin/python/pull/48)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T16:33:02+00:00'>Jun 9th 16:33</span></td>
+<td>
+
+🎉 closed [#39: fix(deps): update dependency rich to v13.7.1](https://github.com/catppuccin/python/pull/39)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T16:33:02+00:00'>Jun 9th 16:33</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
