@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-09T20:43:41+00:00'>Jun 9th 20:43</span></td>
+<td>
+
+🚢 pushed 1 commit to `ci/sarif`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-09T16:44:31+00:00'>Jun 9th 16:44</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-09T16:43:32+00:00'>Jun 9th 16:43</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-09T16:43:33+00:00'>Jun 9th 16:43</span></td>
 <td>
