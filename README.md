@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-09T08:26:35+00:00'>Jun 9th 08:26</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T08:26:34+00:00'>Jun 9th 08:26</span></td>
+<td>
+
+🎉 closed [#3: fix(deps): update rust crate clap_complete to v4.5.5](https://github.com/catppuccin/catwalk/pull/3)
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T08:25:42+00:00'>Jun 9th 08:25</span></td>
+<td>
+
+💬 commented on [#172: feat: implement hex formatting support](https://github.com/catppuccin/toolbox/pull/172)
+
+</td>
+<td>
+
+[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-08T19:03:31+00:00'>Jun 8th 19:03</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-08T18:25:48+00:00'>Jun 8th 18:25</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-08T18:24:57+00:00'>Jun 8th 18:24</span></td>
 <td>
@@ -246,32 +285,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-06-07T19:10:24+00:00'>Jun 7th 19:10</span></td>
-<td>
-
-🎉 closed [#46: feat: use blue html/xml tags](https://github.com/catppuccin/helix/pull/46)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-07T19:10:14+00:00'>Jun 7th 19:10</span></td>
-<td>
-
-🚀 opened [#46: feat: use blue html/xml tags](https://github.com/catppuccin/helix/pull/46)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -282,16 +295,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d000048511a089a8c538eedec4cc083ca" width="48" height="48"> | [The Crows](https://open.spotify.com/track/28GhGAIVvtfNXM7Smc7o3Z) | [David Fenn](https://open.spotify.com/artist/6DqoR5Q50A9bY4wbkfdMwa) | [Death's Door (Original Soundtrack)](https://open.spotify.com/track/28GhGAIVvtfNXM7Smc7o3Z) |
-| <img src="https://i.scdn.co/image/ab67616d0000485108ef8f213c161fa5b8d5b4f6" width="48" height="48"> | [An End to the Journey](https://open.spotify.com/track/4Zd6RstRjyN4v63X5g5MEw) | [Tomoki Miyoshi](https://open.spotify.com/artist/2OAgpK4uA8zE1zSoqhuiim) | [Winter's End (I Am Setsuna) [Original Soundtrack Collection]](https://open.spotify.com/track/4Zd6RstRjyN4v63X5g5MEw) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a9509557a1a0b0c61a2bbbbe" width="48" height="48"> | [The Frostlands](https://open.spotify.com/track/4N4D8Pzrwp1eH75r3FbPHc) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/track/4N4D8Pzrwp1eH75r3FbPHc) |
-| <img src="https://i.scdn.co/image/ab67616d0000485171b1b5d2f76b80661d4e01c8" width="48" height="48"> | [Escaping the Ruins](https://open.spotify.com/track/3gQ5dJgLXy2vMY61PPKEIV) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Ori and the Blind Forest (Original Soundtrack)](https://open.spotify.com/track/3gQ5dJgLXy2vMY61PPKEIV) |
-| <img src="https://i.scdn.co/image/ab67616d0000485119394be1b5c9da06e6fe6787" width="48" height="48"> | [Welcome to Fort Joy](https://open.spotify.com/track/3e7ZdTMXLHm3MLhgsAdHVG) | [Borislav Slavov](https://open.spotify.com/artist/7Fl4F5eJRtPMEl3jTYMUQt) | [Divinity: Original Sin 2 (Original Soundtrack)](https://open.spotify.com/track/3e7ZdTMXLHm3MLhgsAdHVG) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c40ec070f7282fe2cd19ae93" width="48" height="48"> | [Everlasting Instant](https://open.spotify.com/track/2bUxR1UkzbvASv2kXxKW6H) | [Revo](https://open.spotify.com/artist/6ieBzPQ3hxPBLfzZrwBQ53) | [BRAVELY DEFAULT FLYING FAIRY Original Soundtrack](https://open.spotify.com/track/2bUxR1UkzbvASv2kXxKW6H) |
-| <img src="https://i.scdn.co/image/ab67616d00004851dcbca161a7787a3fe0cb429c" width="48" height="48"> | [Queen's Gardens](https://open.spotify.com/track/1lJySpoTdGHcTV4OTaluls) | [Christopher Larkin](https://open.spotify.com/artist/13kMpt8IdcHcdxPLcJrgU2) | [Hollow Knight (Original Soundtrack)](https://open.spotify.com/track/1lJySpoTdGHcTV4OTaluls) |
-| <img src="https://i.scdn.co/image/ab67616d0000485108ef8f213c161fa5b8d5b4f6" width="48" height="48"> | [Stories of Old](https://open.spotify.com/track/2N4OmYZYU5Lv8grDy7sP8c) | [Tomoki Miyoshi](https://open.spotify.com/artist/2OAgpK4uA8zE1zSoqhuiim) | [Winter's End (I Am Setsuna) [Original Soundtrack Collection]](https://open.spotify.com/track/2N4OmYZYU5Lv8grDy7sP8c) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a9509557a1a0b0c61a2bbbbe" width="48" height="48"> | [Determination](https://open.spotify.com/track/4EmNTrzr7QzRMLB2rlB0Xp) | [Yasunori Nishiki](https://open.spotify.com/artist/0Ph31fnwwrbxz5d7mEE1Zv) | [OCTOPATH TRAVELER Original Soundtrack](https://open.spotify.com/track/4EmNTrzr7QzRMLB2rlB0Xp) |
-| <img src="https://i.scdn.co/image/ab67616d0000485171b1b5d2f76b80661d4e01c8" width="48" height="48"> | [The Spirit Tree (feat. Aeralie Brighton)](https://open.spotify.com/track/2RUAvlJsPhZe3w6P0i7Zsi) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B), [Aeralie Brighton](https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM) | [Ori and the Blind Forest (Original Soundtrack)](https://open.spotify.com/track/2RUAvlJsPhZe3w6P0i7Zsi) |
+| <img src="https://i.scdn.co/image/ab67616d00004851fc94854e9b6813e5e23baea9" width="48" height="48"> | [Yeah!](https://open.spotify.com/track/7yOlTPHXSvs2IOybjya7q2) | [fusq](https://open.spotify.com/artist/0q0K0FV5t8OnVpbIQTXOhI) | [Yeah!](https://open.spotify.com/track/7yOlTPHXSvs2IOybjya7q2) |
+| <img src="https://i.scdn.co/image/ab67616d0000485114fb0f466ac29d5a600866d0" width="48" height="48"> | [banana street](https://open.spotify.com/track/0SiuM4lkWnbBlXi81LqYk8) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [finite EP](https://open.spotify.com/track/0SiuM4lkWnbBlXi81LqYk8) |
+| <img src="https://i.scdn.co/image/ab67616d0000485180b2a19dd87cd9914a01d223" width="48" height="48"> | [Prelude](https://open.spotify.com/track/3Gsc8SfvSv9QIfRKgpFxtz) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Jackpot](https://open.spotify.com/track/3Gsc8SfvSv9QIfRKgpFxtz) |
+| <img src="https://i.scdn.co/image/ab67616d00004851984c1268a173c44c286ed0f3" width="48" height="48"> | [About U](https://open.spotify.com/track/5BYFvZ2r8WjRN8nSZfOMbm) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Vin](https://open.spotify.com/artist/2aDShFDjvKxrb7FKzUvkz6) | [About U](https://open.spotify.com/track/5BYFvZ2r8WjRN8nSZfOMbm) |
+| <img src="https://i.scdn.co/image/ab67616d00004851540a3513412b359521869922" width="48" height="48"> | [Seaside - RED VERSION](https://open.spotify.com/track/4ZPHBFQAvJX6IKsknurJDW) | [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV), [CHOMPO](https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT) | [Seaside](https://open.spotify.com/track/4ZPHBFQAvJX6IKsknurJDW) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c7426fbc79c11874ccf1fb3a" width="48" height="48"> | [Rainbow Road](https://open.spotify.com/track/1wsUKcolavN2rSXM0lwWid) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Rainbow Road](https://open.spotify.com/track/1wsUKcolavN2rSXM0lwWid) |
+| <img src="https://i.scdn.co/image/ab67616d00004851553ab4f86c0d9346e098bce6" width="48" height="48"> | [Temple of Time](https://open.spotify.com/track/7ncPPMkIpG12Zh7t89T0RR) | [Wisp X](https://open.spotify.com/artist/6qxhZqIAvYzDVKIyyYtVlX) | [Temple of Time](https://open.spotify.com/track/7ncPPMkIpG12Zh7t89T0RR) |
+| <img src="https://i.scdn.co/image/ab67616d0000485139f3ace7a490b1073890f52c" width="48" height="48"> | [Cutie Cutie](https://open.spotify.com/track/0PimqJTXOVDgTI5e79wAYb) | [fusq](https://open.spotify.com/artist/0q0K0FV5t8OnVpbIQTXOhI) | [Lost Station](https://open.spotify.com/track/0PimqJTXOVDgTI5e79wAYb) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f11f52c6aca1e667ad9c299f" width="48" height="48"> | [Door Into Summer](https://open.spotify.com/track/0TghKEkrZngsxKoCZUEF7N) | [Cosmicosmo](https://open.spotify.com/artist/6JtJWLtwanDAmk4UMLFJ2v) | [Door Into Summer](https://open.spotify.com/track/0TghKEkrZngsxKoCZUEF7N) |
+| <img src="https://i.scdn.co/image/ab67616d000048515a3ec3397988981716d93b73" width="48" height="48"> | [Adventures](https://open.spotify.com/track/7of5vqDVelR7W0GVohpnk5) | [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV), [Subtact](https://open.spotify.com/artist/6kx1NiHogZzkSU7lHMc3Ow) | [Adventures](https://open.spotify.com/track/7of5vqDVelR7W0GVohpnk5) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
