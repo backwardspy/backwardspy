@@ -6,6 +6,104 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-10T09:50:44+00:00'>Jun 10th 09:50</span></td>
+<td>
+
+🚀 opened [#6: docs: update links in readme to catppuccin/elixir](https://github.com/catppuccin/elixir/pull/6)
+
+</td>
+<td>
+
+[catppuccin/elixir](https://github.com/catppuccin/elixir)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T09:43:41+00:00'>Jun 10th 09:43</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T09:40:25+00:00'>Jun 10th 09:40</span></td>
+<td>
+
+💬 commented on [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T09:39:58+00:00'>Jun 10th 09:39</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T09:39:58+00:00'>Jun 10th 09:39</span></td>
+<td>
+
+✅ closed [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-10T09:39:57+00:00'>Jun 10th 09:39</span></td>
+<td>
+
+🎉 closed [#2420: docs: add catppuccin/elixir](https://github.com/catppuccin/catppuccin/pull/2420)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T09:05:46+00:00'>Jun 10th 09:05</span></td>
+<td>
+
+💬 commented on [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-09T23:27:30+00:00'>Jun 9th 23:27</span></td>
 <td>
 
@@ -70,13 +168,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-09T23:26:44+00:00'>Jun 9th 23:26</span></td>
 <td>
@@ -225,110 +316,6 @@
 <td>
 
 📦 released v2.3.0
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:16:02+00:00'>Jun 9th 23:16</span></td>
-<td>
-
-📦 released v2.3.0
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:16:00+00:00'>Jun 9th 23:16</span></td>
-<td>
-
-📦 released v2.2.0
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:15:59+00:00'>Jun 9th 23:15</span></td>
-<td>
-
-📦 released v2.1.1
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:15:58+00:00'>Jun 9th 23:15</span></td>
-<td>
-
-📦 released v2.1.0
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:15:58+00:00'>Jun 9th 23:15</span></td>
-<td>
-
-📦 released v2.0.2
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:15:57+00:00'>Jun 9th 23:15</span></td>
-<td>
-
-📦 released v2.0.1
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:15:55+00:00'>Jun 9th 23:15</span></td>
-<td>
-
-📦 released v1.1.4
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:15:56+00:00'>Jun 9th 23:15</span></td>
-<td>
-
-📦 released v2.0.0
 
 </td>
 <td>
