@@ -6,10 +6,10 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2024-06-09T20:43:41+00:00'>Jun 9th 20:43</span></td>
+<td><span title='2024-06-09T23:27:30+00:00'>Jun 9th 23:27</span></td>
 <td>
 
-🚢 pushed 1 commit to `ci/sarif`
+📦 released v2.3.0
 
 </td>
 <td>
@@ -19,54 +19,54 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:44:31+00:00'>Jun 9th 16:44</span></td>
+<td><span title='2024-06-09T23:27:20+00:00'>Jun 9th 23:27</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+📦 released v2.2.0
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T16:44:30+00:00'>Jun 9th 16:44</span></td>
-<td>
-
-🎉 closed [#47: chore(deps): update dependency pytest-cov to v5](https://github.com/catppuccin/python/pull/47)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:43:46+00:00'>Jun 9th 16:43</span></td>
+<td><span title='2024-06-09T23:27:10+00:00'>Jun 9th 23:27</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+📦 released v2.1.1
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:43:45+00:00'>Jun 9th 16:43</span></td>
+<td><span title='2024-06-09T23:27:02+00:00'>Jun 9th 23:27</span></td>
 <td>
 
-🎉 closed [#44: fix(deps): update dependency pygments to v2.18.0](https://github.com/catppuccin/python/pull/44)
+📦 released v2.1.0
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:26:53+00:00'>Jun 9th 23:26</span></td>
+<td>
+
+📦 released v2.0.2
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
@@ -78,158 +78,262 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2024-06-09T16:43:32+00:00'>Jun 9th 16:43</span></td>
+<td><span title='2024-06-09T23:26:44+00:00'>Jun 9th 23:26</span></td>
 <td>
 
-🎉 closed [#42: chore(deps): update dependency pytest to v8.2.2](https://github.com/catppuccin/python/pull/42)
+📦 released v2.0.1
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T16:43:33+00:00'>Jun 9th 16:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:43:21+00:00'>Jun 9th 16:43</span></td>
+<td><span title='2024-06-09T23:26:35+00:00'>Jun 9th 23:26</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+📦 released v2.0.0
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T16:43:20+00:00'>Jun 9th 16:43</span></td>
-<td>
-
-🎉 closed [#45: fix(deps): update dependency tinycss2 to v1.3.0](https://github.com/catppuccin/python/pull/45)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:43:06+00:00'>Jun 9th 16:43</span></td>
+<td><span title='2024-06-09T23:26:28+00:00'>Jun 9th 23:26</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+📦 released v1.1.4
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T16:43:05+00:00'>Jun 9th 16:43</span></td>
-<td>
-
-🎉 closed [#43: chore(deps): update dependency ruff to ^0.4.0](https://github.com/catppuccin/python/pull/43)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:42:52+00:00'>Jun 9th 16:42</span></td>
+<td><span title='2024-06-09T23:26:23+00:00'>Jun 9th 23:26</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+📦 released v1.1.2
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T16:42:51+00:00'>Jun 9th 16:42</span></td>
-<td>
-
-🎉 closed [#46: chore(deps): update abatilo/actions-poetry action to v3](https://github.com/catppuccin/python/pull/46)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:42:41+00:00'>Jun 9th 16:42</span></td>
+<td><span title='2024-06-09T23:26:20+00:00'>Jun 9th 23:26</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+📦 released v1.1.1
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T16:42:40+00:00'>Jun 9th 16:42</span></td>
-<td>
-
-🎉 closed [#48: chore(deps): update peaceiris/actions-gh-pages action to v4](https://github.com/catppuccin/python/pull/48)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:33:02+00:00'>Jun 9th 16:33</span></td>
+<td><span title='2024-06-09T23:26:12+00:00'>Jun 9th 23:26</span></td>
 <td>
 
-🎉 closed [#39: fix(deps): update dependency rich to v13.7.1](https://github.com/catppuccin/python/pull/39)
+📦 released v1.0.3
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-06-09T16:33:02+00:00'>Jun 9th 16:33</span></td>
+<td><span title='2024-06-09T23:22:00+00:00'>Jun 9th 23:22</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+📦 released v2.3.0
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:21:51+00:00'>Jun 9th 23:21</span></td>
+<td>
+
+📦 released v2.2.0
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:21:38+00:00'>Jun 9th 23:21</span></td>
+<td>
+
+📦 released v1.1.4
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:20:08+00:00'>Jun 9th 23:20</span></td>
+<td>
+
+📦 released v2.3.0
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:19:36+00:00'>Jun 9th 23:19</span></td>
+<td>
+
+📦 released v2.3.0
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:18:02+00:00'>Jun 9th 23:18</span></td>
+<td>
+
+📦 released v2.3.0
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:16:02+00:00'>Jun 9th 23:16</span></td>
+<td>
+
+📦 released v2.3.0
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:16:00+00:00'>Jun 9th 23:16</span></td>
+<td>
+
+📦 released v2.2.0
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:15:59+00:00'>Jun 9th 23:15</span></td>
+<td>
+
+📦 released v2.1.1
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:15:58+00:00'>Jun 9th 23:15</span></td>
+<td>
+
+📦 released v2.1.0
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:15:58+00:00'>Jun 9th 23:15</span></td>
+<td>
+
+📦 released v2.0.2
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:15:57+00:00'>Jun 9th 23:15</span></td>
+<td>
+
+📦 released v2.0.1
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:15:55+00:00'>Jun 9th 23:15</span></td>
+<td>
+
+📦 released v1.1.4
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-09T23:15:56+00:00'>Jun 9th 23:15</span></td>
+<td>
+
+📦 released v2.0.0
+
+</td>
+<td>
+
+[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
 
 </td>
 </tr>
