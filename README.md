@@ -6,6 +6,182 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-10T11:21:25+00:00'>Jun 10th 11:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `hammy-was-right`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T11:13:02+00:00'>Jun 10th 11:13</span></td>
+<td>
+
+🚢 pushed 1 commit to `hammy-was-right`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T10:58:45+00:00'>Jun 10th 10:58</span></td>
+<td>
+
+🚢 pushed 1 commit to `hammy-was-right`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T10:57:12+00:00'>Jun 10th 10:57</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T10:55:55+00:00'>Jun 10th 10:55</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-10T10:45:43+00:00'>Jun 10th 10:45</span></td>
+<td>
+
+💬 commented on [#28: feat: update for split catwalk & whiskers repos](https://github.com/catppuccin/homebrew-tap/pull/28)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T10:45:21+00:00'>Jun 10th 10:45</span></td>
+<td>
+
+🚀 opened [#29: chore: update whiskers & catwalk formula urls](https://github.com/catppuccin/homebrew-tap/pull/29)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T10:42:04+00:00'>Jun 10th 10:42</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T10:42:03+00:00'>Jun 10th 10:42</span></td>
+<td>
+
+🎉 closed [#28: feat: update for split catwalk & whiskers repos](https://github.com/catppuccin/homebrew-tap/pull/28)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T10:36:58+00:00'>Jun 10th 10:36</span></td>
+<td>
+
+💬 commented on [#28: feat: update for split catwalk & whiskers repos](https://github.com/catppuccin/homebrew-tap/pull/28)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T10:26:21+00:00'>Jun 10th 10:26</span></td>
+<td>
+
+🚢 pushed 1 commit to `down-with-monorepos`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T10:10:33+00:00'>Jun 10th 10:10</span></td>
+<td>
+
+🚀 opened [#28: feat: update homepage & head urls for catwalk and whiskers](https://github.com/catppuccin/homebrew-tap/pull/28)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T09:52:40+00:00'>Jun 10th 09:52</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-10T09:50:44+00:00'>Jun 10th 09:50</span></td>
 <td>
 
@@ -70,13 +246,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-10T09:39:57+00:00'>Jun 10th 09:39</span></td>
 <td>
@@ -113,214 +282,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:27:20+00:00'>Jun 9th 23:27</span></td>
-<td>
-
-📦 released v2.2.0
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:27:10+00:00'>Jun 9th 23:27</span></td>
-<td>
-
-📦 released v2.1.1
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:27:02+00:00'>Jun 9th 23:27</span></td>
-<td>
-
-📦 released v2.1.0
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:26:53+00:00'>Jun 9th 23:26</span></td>
-<td>
-
-📦 released v2.0.2
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:26:44+00:00'>Jun 9th 23:26</span></td>
-<td>
-
-📦 released v2.0.1
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:26:35+00:00'>Jun 9th 23:26</span></td>
-<td>
-
-📦 released v2.0.0
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:26:28+00:00'>Jun 9th 23:26</span></td>
-<td>
-
-📦 released v1.1.4
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:26:23+00:00'>Jun 9th 23:26</span></td>
-<td>
-
-📦 released v1.1.2
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:26:20+00:00'>Jun 9th 23:26</span></td>
-<td>
-
-📦 released v1.1.1
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:26:12+00:00'>Jun 9th 23:26</span></td>
-<td>
-
-📦 released v1.0.3
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:22:00+00:00'>Jun 9th 23:22</span></td>
-<td>
-
-📦 released v2.3.0
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:21:51+00:00'>Jun 9th 23:21</span></td>
-<td>
-
-📦 released v2.2.0
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:21:38+00:00'>Jun 9th 23:21</span></td>
-<td>
-
-📦 released v1.1.4
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:20:08+00:00'>Jun 9th 23:20</span></td>
-<td>
-
-📦 released v2.3.0
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:19:36+00:00'>Jun 9th 23:19</span></td>
-<td>
-
-📦 released v2.3.0
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:18:02+00:00'>Jun 9th 23:18</span></td>
-<td>
-
-📦 released v2.3.0
-
-</td>
-<td>
-
-[backwardspy/whiskers3](https://github.com/backwardspy/whiskers3)
 
 </td>
 </tr>
