@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-10T19:01:32+00:00'>Jun 10th 19:01</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T19:01:31+00:00'>Jun 10th 19:01</span></td>
+<td>
+
+🎉 closed [#16: fix(deps): update rust crate clap to v4.5.7](https://github.com/catppuccin/catwalk/pull/16)
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T19:01:26+00:00'>Jun 10th 19:01</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T19:01:25+00:00'>Jun 10th 19:01</span></td>
+<td>
+
+🎉 closed [#17: fix(deps): update rust crate clap to v4.5.7](https://github.com/catppuccin/whiskers/pull/17)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-10T12:43:01+00:00'>Jun 10th 12:43</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-10T12:43:00+00:00'>Jun 10th 12:43</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-10T10:58:45+00:00'>Jun 10th 10:58</span></td>
 <td>
@@ -204,71 +256,6 @@
 <td>
 
 [catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T09:52:40+00:00'>Jun 10th 09:52</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T09:50:44+00:00'>Jun 10th 09:50</span></td>
-<td>
-
-🚀 opened [#6: docs: update links in readme to catppuccin/elixir](https://github.com/catppuccin/elixir/pull/6)
-
-</td>
-<td>
-
-[catppuccin/elixir](https://github.com/catppuccin/elixir)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T09:43:41+00:00'>Jun 10th 09:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T09:40:25+00:00'>Jun 10th 09:40</span></td>
-<td>
-
-💬 commented on [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T09:39:58+00:00'>Jun 10th 09:39</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
