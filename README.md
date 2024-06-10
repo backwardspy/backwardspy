@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-10T12:43:01+00:00'>Jun 10th 12:43</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T12:43:00+00:00'>Jun 10th 12:43</span></td>
+<td>
+
+🎉 closed [#29: chore: update whiskers & catwalk formula urls and hashes](https://github.com/catppuccin/homebrew-tap/pull/29)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-10T12:31:58+00:00'>Jun 10th 12:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `hammy-was-right`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-10T11:21:25+00:00'>Jun 10th 11:21</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-10T10:58:45+00:00'>Jun 10th 10:58</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-10T10:45:43+00:00'>Jun 10th 10:45</span></td>
 <td>
@@ -230,58 +269,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T09:39:58+00:00'>Jun 10th 09:39</span></td>
-<td>
-
-✅ closed [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T09:39:57+00:00'>Jun 10th 09:39</span></td>
-<td>
-
-🎉 closed [#2420: docs: add catppuccin/elixir](https://github.com/catppuccin/catppuccin/pull/2420)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T09:05:46+00:00'>Jun 10th 09:05</span></td>
-<td>
-
-💬 commented on [#2416: Elixir](https://github.com/catppuccin/catppuccin/issues/2416)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-09T23:27:30+00:00'>Jun 9th 23:27</span></td>
-<td>
-
-📦 released v2.3.0
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
