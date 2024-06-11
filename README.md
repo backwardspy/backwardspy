@@ -6,6 +6,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-11T14:20:21+00:00'>Jun 11th 14:20</span></td>
+<td>
+
+✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
+
+</td>
+<td>
+
+[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-11T14:07:16+00:00'>Jun 11th 14:07</span></td>
+<td>
+
+✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
+
+</td>
+<td>
+
+[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-11T14:04:55+00:00'>Jun 11th 14:04</span></td>
+<td>
+
+✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
+
+</td>
+<td>
+
+[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-11T14:01:13+00:00'>Jun 11th 14:01</span></td>
+<td>
+
+✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
+
+</td>
+<td>
+
+[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-11T13:59:12+00:00'>Jun 11th 13:59</span></td>
+<td>
+
+📢 opened [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
+
+</td>
+<td>
+
+[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2024-06-10T19:01:32+00:00'>Jun 10th 19:01</span></td>
 <td>
 
@@ -70,13 +142,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-10T12:43:00+00:00'>Jun 10th 12:43</span></td>
 <td>
@@ -186,71 +251,6 @@
 <td>
 
 🚀 opened [#29: chore: update whiskers & catwalk formula urls](https://github.com/catppuccin/homebrew-tap/pull/29)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T10:42:04+00:00'>Jun 10th 10:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T10:42:03+00:00'>Jun 10th 10:42</span></td>
-<td>
-
-🎉 closed [#28: feat: update for split catwalk & whiskers repos](https://github.com/catppuccin/homebrew-tap/pull/28)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T10:36:58+00:00'>Jun 10th 10:36</span></td>
-<td>
-
-💬 commented on [#28: feat: update for split catwalk & whiskers repos](https://github.com/catppuccin/homebrew-tap/pull/28)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T10:26:21+00:00'>Jun 10th 10:26</span></td>
-<td>
-
-🚢 pushed 1 commit to `down-with-monorepos`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T10:10:33+00:00'>Jun 10th 10:10</span></td>
-<td>
-
-🚀 opened [#28: feat: update homepage & head urls for catwalk and whiskers](https://github.com/catppuccin/homebrew-tap/pull/28)
 
 </td>
 <td>
