@@ -6,6 +6,104 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-12T16:07:01+00:00'>Jun 12th 16:07</span></td>
+<td>
+
+💬 commented on [#2392: mixplorer](https://github.com/catppuccin/catppuccin/issues/2392)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-12T16:03:38+00:00'>Jun 12th 16:03</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-12T16:03:36+00:00'>Jun 12th 16:03</span></td>
+<td>
+
+🎉 closed [#6: test: don't involve examples/ directory](https://github.com/catppuccin/whiskers/pull/6)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-12T16:03:35+00:00'>Jun 12th 16:03</span></td>
+<td>
+
+💬 commented on [#6: test: don't involve examples/ directory](https://github.com/catppuccin/whiskers/pull/6)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-12T15:59:55+00:00'>Jun 12th 15:59</span></td>
+<td>
+
+🚢 pushed 1 commit to `feature/hexformat`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-12T15:53:52+00:00'>Jun 12th 15:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `feature/hexformat`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-12T15:52:22+00:00'>Jun 12th 15:52</span></td>
+<td>
+
+🚀 opened [#18: feat: add custom hex formatting](https://github.com/catppuccin/whiskers/pull/18)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-12T13:38:51+00:00'>Jun 12th 13:38</span></td>
 <td>
 
@@ -70,13 +168,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-11T14:07:16+00:00'>Jun 11th 14:07</span></td>
 <td>
@@ -152,97 +243,6 @@
 <td>
 
 [catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T19:01:26+00:00'>Jun 10th 19:01</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T19:01:25+00:00'>Jun 10th 19:01</span></td>
-<td>
-
-🎉 closed [#17: fix(deps): update rust crate clap to v4.5.7](https://github.com/catppuccin/whiskers/pull/17)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T12:43:01+00:00'>Jun 10th 12:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T12:43:00+00:00'>Jun 10th 12:43</span></td>
-<td>
-
-🎉 closed [#29: chore: update whiskers & catwalk formula urls and hashes](https://github.com/catppuccin/homebrew-tap/pull/29)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T12:31:58+00:00'>Jun 10th 12:31</span></td>
-<td>
-
-🚢 pushed 1 commit to `hammy-was-right`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T11:21:25+00:00'>Jun 10th 11:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `hammy-was-right`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T11:13:02+00:00'>Jun 10th 11:13</span></td>
-<td>
-
-🚢 pushed 1 commit to `hammy-was-right`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
 
 </td>
 </tr>
