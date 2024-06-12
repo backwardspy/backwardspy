@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-12T13:38:51+00:00'>Jun 12th 13:38</span></td>
+<td>
+
+🚀 opened [#86: docs(readme): add catppuccin/elixir](https://github.com/catppuccin/palette/pull/86)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-12T13:36:05+00:00'>Jun 12th 13:36</span></td>
+<td>
+
+💬 commented on [#2392: mixplorer](https://github.com/catppuccin/catppuccin/issues/2392)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-12T10:14:30+00:00'>Jun 12th 10:14</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-11T14:07:16+00:00'>Jun 11th 14:07</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-11T14:01:13+00:00'>Jun 11th 14:01</span></td>
 <td>
@@ -212,45 +238,6 @@
 <td>
 
 🚢 pushed 1 commit to `hammy-was-right`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T10:58:45+00:00'>Jun 10th 10:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `hammy-was-right`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T10:57:12+00:00'>Jun 10th 10:57</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T10:55:55+00:00'>Jun 10th 10:55</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
