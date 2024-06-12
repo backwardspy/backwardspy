@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-12T10:14:30+00:00'>Jun 12th 10:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-12T08:57:36+00:00'>Jun 12th 08:57</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-11T14:01:13+00:00'>Jun 11th 14:01</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-11T13:59:12+00:00'>Jun 11th 13:59</span></td>
 <td>
@@ -246,19 +259,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-06-10T10:45:43+00:00'>Jun 10th 10:45</span></td>
-<td>
-
-💬 commented on [#28: feat: update for split catwalk & whiskers repos](https://github.com/catppuccin/homebrew-tap/pull/28)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -269,16 +269,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851c852a8089e228d425978d369" width="48" height="48"> | [Teenagers](https://open.spotify.com/track/1uSXquwFpP5gRBKPCdXfsX) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Blossom](https://open.spotify.com/track/1uSXquwFpP5gRBKPCdXfsX) |
+| <img src="https://i.scdn.co/image/ab67616d0000485138a291278b5bd854d9e09014" width="48" height="48"> | [Best Excuse](https://open.spotify.com/track/1t42GoiJMFnn4YruykfN9O) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Seeing Red](https://open.spotify.com/track/1t42GoiJMFnn4YruykfN9O) |
+| <img src="https://i.scdn.co/image/ab67616d000048516a69ea6dcad3e257c8c38528" width="48" height="48"> | [Reckless](https://open.spotify.com/track/3NNJjEPFTUcAMUyMXsDw5c) | [LOWBORN](https://open.spotify.com/artist/0tAM9QPUwdBLBPbtOzJD09) | [Reckless](https://open.spotify.com/track/3NNJjEPFTUcAMUyMXsDw5c) |
+| <img src="https://i.scdn.co/image/ab67616d000048519d92c1661f5a7784808fabdb" width="48" height="48"> | [Forget Me Now](https://open.spotify.com/track/7a4mTLsXkBfRrakiKQVCTQ) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [In Our Bones](https://open.spotify.com/track/7a4mTLsXkBfRrakiKQVCTQ) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fea8225d179a669f7e85e9ba" width="48" height="48"> | [Shinjū](https://open.spotify.com/track/5kRt4Kyze46Pv59LOeP74c) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [Interlinked](https://open.spotify.com/track/5kRt4Kyze46Pv59LOeP74c) |
 | <img src="https://i.scdn.co/image/ab67616d0000485103a60f93f4c519a07e7d4ceb" width="48" height="48"> | [HOLOGRAM](https://open.spotify.com/track/2RVoxE5HKeIT4wZvOCevJR) | [Poe the Passenger](https://open.spotify.com/artist/4x9OkGDATJa93lbMMCeZaL) | [HOLOGRAM](https://open.spotify.com/track/2RVoxE5HKeIT4wZvOCevJR) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c1fb43abb93ad5acab785a79" width="48" height="48"> | [Caught It](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It (with Chrissy Costanza & Against The Current)](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f1cb5ebc7735d60fa10b593b" width="48" height="48"> | [Phoenix](https://open.spotify.com/track/3bLzsG3qnxWAWKv6YNgUK9) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Phoenix](https://open.spotify.com/track/3bLzsG3qnxWAWKv6YNgUK9) |
 | <img src="https://i.scdn.co/image/ab67616d00004851186660bbf3b0dd9a5195e182" width="48" height="48"> | [lullaby](https://open.spotify.com/track/6mfiGqZw4AqXA1nqo3EzIF) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/track/6mfiGqZw4AqXA1nqo3EzIF) |
 | <img src="https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965" width="48" height="48"> | [Shot in the Dark](https://open.spotify.com/track/5JpbpsjhJeNwixBzbobklV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/track/5JpbpsjhJeNwixBzbobklV) |
-| <img src="https://i.scdn.co/image/ab67616d0000485199d9997692e9264812e160fe" width="48" height="48"> | [Ambiramus](https://open.spotify.com/track/4wxm46qMm1P7JH1ivm1BQ2) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Ategnatos](https://open.spotify.com/track/4wxm46qMm1P7JH1ivm1BQ2) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c7b06503ea51535b5b986a16" width="48" height="48"> | [HYPER★DRIVE](https://open.spotify.com/track/7B24A46hAbb1nPKhj1MkIl) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [HYPER★DRIVE](https://open.spotify.com/track/7B24A46hAbb1nPKhj1MkIl) |
-| <img src="https://i.scdn.co/image/ab67616d0000485139f3ace7a490b1073890f52c" width="48" height="48"> | [Suiito](https://open.spotify.com/track/07RPEOwBOCHQcyEbV0uYxL) | [fusq](https://open.spotify.com/artist/0q0K0FV5t8OnVpbIQTXOhI) | [Lost Station](https://open.spotify.com/track/07RPEOwBOCHQcyEbV0uYxL) |
-| <img src="https://i.scdn.co/image/ab67616d00004851bee4d5f60534f5fdf970c0a7" width="48" height="48"> | [Ignition](https://open.spotify.com/track/7jj4HqEwNuwkBKbss0Ci2v) | [Phaera](https://open.spotify.com/artist/2AGumVLrXJSKuVQuAKEzYz) | [Ignition](https://open.spotify.com/track/7jj4HqEwNuwkBKbss0Ci2v) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
