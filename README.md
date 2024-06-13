@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-12T21:40:29+00:00'>Jun 12th 21:40</span></td>
+<td>
+
+💬 commented on [#2392: mixplorer](https://github.com/catppuccin/catppuccin/issues/2392)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-12T20:41:41+00:00'>Jun 12th 20:41</span></td>
+<td>
+
+🔍 reviewed [#18: feat: add custom hex formatting](https://github.com/catppuccin/whiskers/pull/18)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-12T16:07:01+00:00'>Jun 12th 16:07</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-12T16:03:35+00:00'>Jun 12th 16:03</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-12T15:53:52+00:00'>Jun 12th 15:53</span></td>
 <td>
@@ -217,32 +243,6 @@
 <td>
 
 [catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T19:01:32+00:00'>Jun 10th 19:01</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-10T19:01:31+00:00'>Jun 10th 19:01</span></td>
-<td>
-
-🎉 closed [#16: fix(deps): update rust crate clap to v4.5.7](https://github.com/catppuccin/catwalk/pull/16)
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
 
 </td>
 </tr>
