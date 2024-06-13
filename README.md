@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-13T16:27:39+00:00'>Jun 13th 16:27</span></td>
+<td>
+
+🚢 pushed 1 commit to `ci/sarif`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-13T15:44:02+00:00'>Jun 13th 15:44</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-12T16:03:38+00:00'>Jun 12th 16:03</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-12T16:03:36+00:00'>Jun 12th 16:03</span></td>
 <td>
@@ -222,19 +235,6 @@
 </tr>
 <tr>
 <td><span title='2024-06-11T14:04:55+00:00'>Jun 11th 14:04</span></td>
-<td>
-
-✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-11T14:01:13+00:00'>Jun 11th 14:01</span></td>
 <td>
 
 ✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
