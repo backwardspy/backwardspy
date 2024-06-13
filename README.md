@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-13T15:44:02+00:00'>Jun 13th 15:44</span></td>
+<td>
+
+💬 commented on [#2392: mixplorer](https://github.com/catppuccin/catppuccin/issues/2392)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-12T21:40:29+00:00'>Jun 12th 21:40</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-12T16:03:36+00:00'>Jun 12th 16:03</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-12T16:03:35+00:00'>Jun 12th 16:03</span></td>
 <td>
@@ -225,19 +238,6 @@
 <td>
 
 ✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-11T13:59:12+00:00'>Jun 11th 13:59</span></td>
-<td>
-
-📢 opened [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
 
 </td>
 <td>
