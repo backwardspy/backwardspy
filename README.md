@@ -6,6 +6,195 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-14T15:42:29+00:00'>Jun 14th 15:42</span></td>
+<td>
+
+🚢 pushed 1 commit to `workflow-shellcheck`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:38:05+00:00'>Jun 14th 15:38</span></td>
+<td>
+
+🚀 opened [#32: ci: quote `run:` lines to prevent globbing and word splitting](https://github.com/catppuccin/homebrew-tap/pull/32)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:22:50+00:00'>Jun 14th 15:22</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:22:50+00:00'>Jun 14th 15:22</span></td>
+<td>
+
+🎉 closed [#1: chore(main): release 2.4.0](https://github.com/catppuccin/whiskers/pull/1)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:12:57+00:00'>Jun 14th 15:12</span></td>
+<td>
+
+💬 commented on [#19: build(nix): do not include examples dir](https://github.com/catppuccin/whiskers/pull/19)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-14T15:12:54+00:00'>Jun 14th 15:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:12:53+00:00'>Jun 14th 15:12</span></td>
+<td>
+
+🎉 closed [#19: build(nix): do not include examples dir](https://github.com/catppuccin/whiskers/pull/19)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:12:03+00:00'>Jun 14th 15:12</span></td>
+<td>
+
+💬 commented on [#8: add hex formatting options to frontmatter](https://github.com/catppuccin/whiskers/issues/8)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:12:02+00:00'>Jun 14th 15:12</span></td>
+<td>
+
+✅ closed [#8: add hex formatting options to frontmatter](https://github.com/catppuccin/whiskers/issues/8)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:11:07+00:00'>Jun 14th 15:11</span></td>
+<td>
+
+📢 opened [#20: remove deprecated `hex_prefix` and `capitalize_hex` frontmatter options](https://github.com/catppuccin/whiskers/issues/20)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:09:05+00:00'>Jun 14th 15:09</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:09:05+00:00'>Jun 14th 15:09</span></td>
+<td>
+
+🎉 closed [#18: feat: add custom hex formatting](https://github.com/catppuccin/whiskers/pull/18)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:03:36+00:00'>Jun 14th 15:03</span></td>
+<td>
+
+💬 commented on [#13151: confusing output from `show` command](https://github.com/nushell/nushell/issues/13151)
+
+</td>
+<td>
+
+[nushell/nushell](https://github.com/nushell/nushell)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T14:15:29+00:00'>Jun 14th 14:15</span></td>
+<td>
+
+📢 opened [#13151: confusing output from `show` command](https://github.com/nushell/nushell/issues/13151)
+
+</td>
+<td>
+
+[nushell/nushell](https://github.com/nushell/nushell)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-13T16:27:39+00:00'>Jun 13th 16:27</span></td>
 <td>
 
@@ -70,13 +259,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-12T16:03:38+00:00'>Jun 12th 16:03</span></td>
 <td>
@@ -87,162 +269,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T16:03:36+00:00'>Jun 12th 16:03</span></td>
-<td>
-
-🎉 closed [#6: test: don't involve examples/ directory](https://github.com/catppuccin/whiskers/pull/6)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T16:03:35+00:00'>Jun 12th 16:03</span></td>
-<td>
-
-💬 commented on [#6: test: don't involve examples/ directory](https://github.com/catppuccin/whiskers/pull/6)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T15:59:55+00:00'>Jun 12th 15:59</span></td>
-<td>
-
-🚢 pushed 1 commit to `feature/hexformat`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T15:53:52+00:00'>Jun 12th 15:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `feature/hexformat`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T15:52:22+00:00'>Jun 12th 15:52</span></td>
-<td>
-
-🚀 opened [#18: feat: add custom hex formatting](https://github.com/catppuccin/whiskers/pull/18)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T13:38:51+00:00'>Jun 12th 13:38</span></td>
-<td>
-
-🚀 opened [#86: docs(readme): add catppuccin/elixir](https://github.com/catppuccin/palette/pull/86)
-
-</td>
-<td>
-
-[catppuccin/palette](https://github.com/catppuccin/palette)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T13:36:05+00:00'>Jun 12th 13:36</span></td>
-<td>
-
-💬 commented on [#2392: mixplorer](https://github.com/catppuccin/catppuccin/issues/2392)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T10:14:30+00:00'>Jun 12th 10:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T08:57:36+00:00'>Jun 12th 08:57</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-11T14:20:21+00:00'>Jun 11th 14:20</span></td>
-<td>
-
-✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-11T14:07:16+00:00'>Jun 11th 14:07</span></td>
-<td>
-
-✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-11T14:04:55+00:00'>Jun 11th 14:04</span></td>
-<td>
-
-✅ closed [#2: test](https://github.com/catppuccin-rfc/transfer-test/issues/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/transfer-test](https://github.com/catppuccin-rfc/transfer-test)
 
 </td>
 </tr>
