@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-14T16:32:25+00:00'>Jun 14th 16:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T16:32:24+00:00'>Jun 14th 16:32</span></td>
+<td>
+
+🎉 closed [#49: chore(deps): update dependency ruff to v0.4.9](https://github.com/catppuccin/python/pull/49)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:44:30+00:00'>Jun 14th 15:44</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-14T15:44:29+00:00'>Jun 14th 15:44</span></td>
+<td>
+
+🎉 closed [#32: ci: quote `run:` lines to prevent globbing and word splitting](https://github.com/catppuccin/homebrew-tap/pull/32)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-14T15:42:29+00:00'>Jun 14th 15:42</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-14T15:38:05+00:00'>Jun 14th 15:38</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-14T15:12:54+00:00'>Jun 14th 15:12</span></td>
 <td>
@@ -220,58 +272,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-06-12T21:40:29+00:00'>Jun 12th 21:40</span></td>
-<td>
-
-💬 commented on [#2392: mixplorer](https://github.com/catppuccin/catppuccin/issues/2392)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T20:41:41+00:00'>Jun 12th 20:41</span></td>
-<td>
-
-🔍 reviewed [#18: feat: add custom hex formatting](https://github.com/catppuccin/whiskers/pull/18)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T16:07:01+00:00'>Jun 12th 16:07</span></td>
-<td>
-
-💬 commented on [#2392: mixplorer](https://github.com/catppuccin/catppuccin/issues/2392)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-12T16:03:38+00:00'>Jun 12th 16:03</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -282,6 +282,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048518b07e15bb992f1bbda332eb1" width="48" height="48"> | [Reflections](https://open.spotify.com/track/5Hu8ghjoVoHK78uCCIiwwC) | [We Are The In Crowd](https://open.spotify.com/artist/1BSXtdFlVDUOS6g1T3tmME) | [Weird Kids](https://open.spotify.com/track/5Hu8ghjoVoHK78uCCIiwwC) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c852a8089e228d425978d369" width="48" height="48"> | [Teenagers](https://open.spotify.com/track/1uSXquwFpP5gRBKPCdXfsX) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Blossom](https://open.spotify.com/track/1uSXquwFpP5gRBKPCdXfsX) |
 | <img src="https://i.scdn.co/image/ab67616d0000485138a291278b5bd854d9e09014" width="48" height="48"> | [Best Excuse](https://open.spotify.com/track/1t42GoiJMFnn4YruykfN9O) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Seeing Red](https://open.spotify.com/track/1t42GoiJMFnn4YruykfN9O) |
 | <img src="https://i.scdn.co/image/ab67616d000048516a69ea6dcad3e257c8c38528" width="48" height="48"> | [Reckless](https://open.spotify.com/track/3NNJjEPFTUcAMUyMXsDw5c) | [LOWBORN](https://open.spotify.com/artist/0tAM9QPUwdBLBPbtOzJD09) | [Reckless](https://open.spotify.com/track/3NNJjEPFTUcAMUyMXsDw5c) |
@@ -291,7 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851c1fb43abb93ad5acab785a79" width="48" height="48"> | [Caught It](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Caught It (with Chrissy Costanza & Against The Current)](https://open.spotify.com/track/7qTc7bfYZYwFNWSDzNBmHr) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f1cb5ebc7735d60fa10b593b" width="48" height="48"> | [Phoenix](https://open.spotify.com/track/3bLzsG3qnxWAWKv6YNgUK9) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Phoenix](https://open.spotify.com/track/3bLzsG3qnxWAWKv6YNgUK9) |
 | <img src="https://i.scdn.co/image/ab67616d00004851186660bbf3b0dd9a5195e182" width="48" height="48"> | [lullaby](https://open.spotify.com/track/6mfiGqZw4AqXA1nqo3EzIF) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/track/6mfiGqZw4AqXA1nqo3EzIF) |
-| <img src="https://i.scdn.co/image/ab67616d00004851bcb4a0f3772f0a25db7eb965" width="48" height="48"> | [Shot in the Dark](https://open.spotify.com/track/5JpbpsjhJeNwixBzbobklV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/track/5JpbpsjhJeNwixBzbobklV) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
