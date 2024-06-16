@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-15T22:52:38+00:00'>Jun 15th 22:52</span></td>
+<td>
+
+🚢 pushed 1 commit to `portscelain`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-15T22:40:59+00:00'>Jun 15th 22:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `portscelain`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-15T22:34:38+00:00'>Jun 15th 22:34</span></td>
+<td>
+
+🚢 pushed 1 commit to `portscelain`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-14T19:26:21+00:00'>Jun 14th 19:26</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-14T16:32:24+00:00'>Jun 14th 16:32</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-14T15:42:29+00:00'>Jun 14th 15:42</span></td>
 <td>
@@ -204,58 +243,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:09:05+00:00'>Jun 14th 15:09</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:09:05+00:00'>Jun 14th 15:09</span></td>
-<td>
-
-🎉 closed [#18: feat: add custom hex formatting](https://github.com/catppuccin/whiskers/pull/18)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:03:36+00:00'>Jun 14th 15:03</span></td>
-<td>
-
-💬 commented on [#13151: confusing output from `show` command](https://github.com/nushell/nushell/issues/13151)
-
-</td>
-<td>
-
-[nushell/nushell](https://github.com/nushell/nushell)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T14:15:29+00:00'>Jun 14th 14:15</span></td>
-<td>
-
-📢 opened [#13151: confusing output from `show` command](https://github.com/nushell/nushell/issues/13151)
-
-</td>
-<td>
-
-[nushell/nushell](https://github.com/nushell/nushell)
 
 </td>
 </tr>
