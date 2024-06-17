@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-17T15:32:16+00:00'>Jun 17th 15:32</span></td>
+<td>
+
+🔍 reviewed [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-17T15:32:15+00:00'>Jun 17th 15:32</span></td>
+<td>
+
+🔍 reviewed [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-17T15:21:37+00:00'>Jun 17th 15:21</span></td>
+<td>
+
+💬 commented on [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-16T10:48:41+00:00'>Jun 16th 10:48</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-15T22:52:38+00:00'>Jun 15th 22:52</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-14T19:26:21+00:00'>Jun 14th 19:26</span></td>
 <td>
@@ -199,58 +238,6 @@
 <td>
 
 💬 commented on [#19: build(nix): do not include examples dir](https://github.com/catppuccin/whiskers/pull/19)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:12:54+00:00'>Jun 14th 15:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:12:53+00:00'>Jun 14th 15:12</span></td>
-<td>
-
-🎉 closed [#19: build(nix): do not include examples dir](https://github.com/catppuccin/whiskers/pull/19)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:12:03+00:00'>Jun 14th 15:12</span></td>
-<td>
-
-💬 commented on [#8: add hex formatting options to frontmatter](https://github.com/catppuccin/whiskers/issues/8)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:12:02+00:00'>Jun 14th 15:12</span></td>
-<td>
-
-✅ closed [#8: add hex formatting options to frontmatter](https://github.com/catppuccin/whiskers/issues/8)
 
 </td>
 <td>
