@@ -6,6 +6,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-18T13:34:01+00:00'>Jun 18th 13:34</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-18T13:27:35+00:00'>Jun 18th 13:27</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-18T13:21:28+00:00'>Jun 18th 13:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-18T13:21:28+00:00'>Jun 18th 13:21</span></td>
+<td>
+
+🎉 closed [#51: chore(main): release 2.3.0](https://github.com/catppuccin/python/pull/51)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-18T13:19:43+00:00'>Jun 18th 13:19</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-18T13:19:43+00:00'>Jun 18th 13:19</span></td>
+<td>
+
+🎉 closed [#50: ci: prepare for release-please workflow](https://github.com/catppuccin/python/pull/50)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-18T13:19:16+00:00'>Jun 18th 13:19</span></td>
+<td>
+
+🚀 opened [#50: ci: prepare for release-please workflow](https://github.com/catppuccin/python/pull/50)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-18T13:08:58+00:00'>Jun 18th 13:08</span></td>
+<td>
+
+💬 commented on [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-18T13:08:06+00:00'>Jun 18th 13:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-18T13:08:05+00:00'>Jun 18th 13:08</span></td>
+<td>
+
+🎉 closed [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-18T13:06:58+00:00'>Jun 18th 13:06</span></td>
+<td>
+
+🔍 reviewed [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-17T15:32:16+00:00'>Jun 17th 15:32</span></td>
 <td>
 
@@ -70,13 +220,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-15T22:52:38+00:00'>Jun 15th 22:52</span></td>
 <td>
@@ -126,123 +269,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T16:32:25+00:00'>Jun 14th 16:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T16:32:24+00:00'>Jun 14th 16:32</span></td>
-<td>
-
-🎉 closed [#49: chore(deps): update dependency ruff to v0.4.9](https://github.com/catppuccin/python/pull/49)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:44:30+00:00'>Jun 14th 15:44</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:44:29+00:00'>Jun 14th 15:44</span></td>
-<td>
-
-🎉 closed [#32: ci: quote `run:` lines to prevent globbing and word splitting](https://github.com/catppuccin/homebrew-tap/pull/32)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:42:29+00:00'>Jun 14th 15:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `workflow-shellcheck`
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:38:05+00:00'>Jun 14th 15:38</span></td>
-<td>
-
-🚀 opened [#32: ci: quote `run:` lines to prevent globbing and word splitting](https://github.com/catppuccin/homebrew-tap/pull/32)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:22:50+00:00'>Jun 14th 15:22</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:22:50+00:00'>Jun 14th 15:22</span></td>
-<td>
-
-🎉 closed [#1: chore(main): release 2.4.0](https://github.com/catppuccin/whiskers/pull/1)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-14T15:12:57+00:00'>Jun 14th 15:12</span></td>
-<td>
-
-💬 commented on [#19: build(nix): do not include examples dir](https://github.com/catppuccin/whiskers/pull/19)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
