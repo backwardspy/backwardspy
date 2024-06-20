@@ -282,6 +282,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851c34c564cc80cf98e7391dd87" width="48" height="48"> | [A-H-I-L](https://open.spotify.com/track/70yqgK5eS73SJI6YSrOVA3) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/track/70yqgK5eS73SJI6YSrOVA3) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c34c564cc80cf98e7391dd87" width="48" height="48"> | [J-M-B](https://open.spotify.com/track/5qcetJYFRImv8R0XfS0x1A) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/track/5qcetJYFRImv8R0XfS0x1A) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c34c564cc80cf98e7391dd87" width="48" height="48"> | [Hold Your Head Low](https://open.spotify.com/track/7mSDr9rh7S4bQY7wDEwvnM) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/track/7mSDr9rh7S4bQY7wDEwvnM) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c34c564cc80cf98e7391dd87" width="48" height="48"> | [Götterdämmerung](https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw) |
@@ -291,7 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485131369761a52c14a6b061b915" width="48" height="48"> | [Gold](https://open.spotify.com/track/1x6vQnodhDZsWPRHaOdybO) | [Baruk Khazâd](https://open.spotify.com/artist/26HTYYF6J8mr23665ikcKe) | [Gold](https://open.spotify.com/track/1x6vQnodhDZsWPRHaOdybO) |
 | <img src="https://i.scdn.co/image/ab67616d0000485131369761a52c14a6b061b915" width="48" height="48"> | [Khazad Aimenu - Bonus Track](https://open.spotify.com/track/7K2ZURe20mNEMewLPIUMbl) | [Baruk Khazâd](https://open.spotify.com/artist/26HTYYF6J8mr23665ikcKe) | [Gold](https://open.spotify.com/track/7K2ZURe20mNEMewLPIUMbl) |
 | <img src="https://i.scdn.co/image/ab67616d000048518323143296ff7b2801e32789" width="48" height="48"> | [Rinzler](https://open.spotify.com/track/70RkgofUfQHLl2FT2Mx5zq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)](https://open.spotify.com/track/70RkgofUfQHLl2FT2Mx5zq) |
-| <img src="https://i.scdn.co/image/ab67616d000048518323143296ff7b2801e32789" width="48" height="48"> | [Arena](https://open.spotify.com/track/4csD9dmdLHnarNyu1wG8Iv) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [TRON: Legacy - The Complete Edition (Original Motion Picture Soundtrack)](https://open.spotify.com/track/4csD9dmdLHnarNyu1wG8Iv) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
