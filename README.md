@@ -282,6 +282,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851cf48e14a726ff6c9977fa641" width="48" height="48"> | [Kingdom of Silence](https://open.spotify.com/track/7KGbqWKyEjGnWNFSgp3yCl) | [Fractal Dreamers](https://open.spotify.com/artist/330CrlhCaxON7pZwIZsnXR) | [Kingdom of Silence](https://open.spotify.com/track/7KGbqWKyEjGnWNFSgp3yCl) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c34c564cc80cf98e7391dd87" width="48" height="48"> | [Feed the Machine](https://open.spotify.com/track/79tzH3F3SXwGQaEbG5GBh5) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/track/79tzH3F3SXwGQaEbG5GBh5) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dc000fc92dbc948c816d60ea" width="48" height="48"> | [Endeavour](https://open.spotify.com/track/0HZpa8uOznXxk6uGirHHLo) | [Conjurer](https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ), [Pijn](https://open.spotify.com/artist/088AzItIc1cw6IsZWCyLvw) | [Curse These Metal Hands](https://open.spotify.com/track/0HZpa8uOznXxk6uGirHHLo) |
 | <img src="https://i.scdn.co/image/ab67616d000048518b2ac78b5eeca2da444fa9e2" width="48" height="48"> | [Storms](https://open.spotify.com/track/2msZbzKsRWTG9bhSwdRJ9j) | [Abstract Void](https://open.spotify.com/artist/294COHomHgFJqPYW9TpoPZ) | [Wishdream](https://open.spotify.com/track/2msZbzKsRWTG9bhSwdRJ9j) |
 | <img src="https://i.scdn.co/image/ab67616d000048514b032c39e3749838911b0ac7" width="48" height="48"> | [Contact](https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/track/6ulChWOHPyWGXQ1SNSZajI) |
@@ -290,8 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851d6328399f2f93fd90b78dbdd" width="48" height="48"> | [The Cambrian Explosion](https://open.spotify.com/track/52weFL9803HU3udIuL235L) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Phanerozoic I: Palaeozoic](https://open.spotify.com/track/52weFL9803HU3udIuL235L) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80486DX](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) |
 | <img src="https://i.scdn.co/image/ab67616d000048518b2ac78b5eeca2da444fa9e2" width="48" height="48"> | [Release](https://open.spotify.com/track/4Jx2jzXMyA4XMf7HouN2Es) | [Abstract Void](https://open.spotify.com/artist/294COHomHgFJqPYW9TpoPZ) | [Wishdream](https://open.spotify.com/track/4Jx2jzXMyA4XMf7HouN2Es) |
-| <img src="https://i.scdn.co/image/ab67616d0000485154a49b442251370c60b195ee" width="48" height="48"> | [Meander](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO) | [Phenotype](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c34c564cc80cf98e7391dd87" width="48" height="48"> | [Death to the Holy](https://open.spotify.com/track/1IypdXpPULSVvtrWRba5A5) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/track/1IypdXpPULSVvtrWRba5A5) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
