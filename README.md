@@ -282,6 +282,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851765e070208dd0e4522a5031d" width="48" height="48"> | [Song of Healing](https://open.spotify.com/track/5ElpmGHu06IxqxHvsxALpN) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [ROZEN](https://open.spotify.com/artist/1uca08INg3Te4jR7g1khYN), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv) | [Children of Termina](https://open.spotify.com/track/5ElpmGHu06IxqxHvsxALpN) |
 | <img src="https://i.scdn.co/image/ab67616d00004851408d222041f4a60f7d38b223" width="48" height="48"> | [Nascence](https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [Journey (Original Video Game Soundtrack)](https://open.spotify.com/track/1Lw8az0pvHNLIhOT2DWQ9W) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cf48e14a726ff6c9977fa641" width="48" height="48"> | [Kingdom of Silence](https://open.spotify.com/track/7KGbqWKyEjGnWNFSgp3yCl) | [Fractal Dreamers](https://open.spotify.com/artist/330CrlhCaxON7pZwIZsnXR) | [Kingdom of Silence](https://open.spotify.com/track/7KGbqWKyEjGnWNFSgp3yCl) |
 | <img src="https://i.scdn.co/image/ab67616d0000485149aee5f2afda43f03680562b" width="48" height="48"> | [Like a Brother](https://open.spotify.com/track/0HtbwUrJdVgt2RUEW14XCN) | [Zolik](https://open.spotify.com/artist/09YODZebNUt2BxaAJyU29j) | [Your Lie in April](https://open.spotify.com/track/0HtbwUrJdVgt2RUEW14XCN) |
@@ -291,7 +292,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485171b1b5d2f76b80661d4e01c8" width="48" height="48"> | [Ori, Lost In the Storm (feat. Aeralie Brighton)](https://open.spotify.com/track/1AvDDjLuwwC63X1xlRReCD) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B), [Aeralie Brighton](https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM) | [Ori and the Blind Forest (Original Soundtrack)](https://open.spotify.com/track/1AvDDjLuwwC63X1xlRReCD) |
 | <img src="https://i.scdn.co/image/ab67616d00004851bc9baf3b5bdfdc215df5b1ce" width="48" height="48"> | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ab0de0ee1b4099ae9f3daf95" width="48" height="48"> | [Lightning's Theme](https://open.spotify.com/track/2yR1KxI9rCl28RsUjL5iJT) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/track/2yR1KxI9rCl28RsUjL5iJT) |
-| <img src="https://i.scdn.co/image/ab67616d000048512949b870aafba0fa06b8b67c" width="48" height="48"> | [Flower Dance](https://open.spotify.com/track/6RaJbbhKDOuBGQhbZCubCW) | [DJ Okawari](https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9) | [Libyus Music Sound History 2004－2010](https://open.spotify.com/track/6RaJbbhKDOuBGQhbZCubCW) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
