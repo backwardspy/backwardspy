@@ -6,6 +6,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-25T09:46:56+00:00'>Jun 25th 09:46</span></td>
+<td>
+
+💬 commented on [#2443: KiCad](https://github.com/catppuccin/catppuccin/issues/2443)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-25T09:46:06+00:00'>Jun 25th 09:46</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-25T09:46:06+00:00'>Jun 25th 09:46</span></td>
+<td>
+
+🎉 closed [#54: chore(deps): update dependency mypy to v1.10.1](https://github.com/catppuccin/python/pull/54)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-25T09:45:42+00:00'>Jun 25th 09:45</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-25T09:45:42+00:00'>Jun 25th 09:45</span></td>
+<td>
+
+🎉 closed [#21: fix(deps): update rust crate serde_json to v1.0.118](https://github.com/catppuccin/whiskers/pull/21)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2024-06-22T09:33:32+00:00'>Jun 22nd 09:33</span></td>
 <td>
 
@@ -70,13 +142,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-22T09:12:09+00:00'>Jun 22nd 09:12</span></td>
 <td>
@@ -186,84 +251,6 @@
 <td>
 
 🚀 opened [#50: ci: prepare for release-please workflow](https://github.com/catppuccin/python/pull/50)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:08:58+00:00'>Jun 18th 13:08</span></td>
-<td>
-
-💬 commented on [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:08:06+00:00'>Jun 18th 13:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:08:05+00:00'>Jun 18th 13:08</span></td>
-<td>
-
-🎉 closed [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:06:58+00:00'>Jun 18th 13:06</span></td>
-<td>
-
-🔍 reviewed [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-17T15:32:16+00:00'>Jun 17th 15:32</span></td>
-<td>
-
-🔍 reviewed [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-17T15:32:15+00:00'>Jun 17th 15:32</span></td>
-<td>
-
-🔍 reviewed [#36: feat: added `matplotlib` support](https://github.com/catppuccin/python/pull/36)
 
 </td>
 <td>
