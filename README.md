@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-27T16:27:36+00:00'>Jun 27th 16:27</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-27T16:27:35+00:00'>Jun 27th 16:27</span></td>
+<td>
+
+🎉 closed [#55: chore(deps): update dependency ruff to ^0.5.0](https://github.com/catppuccin/python/pull/55)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-25T09:46:56+00:00'>Jun 25th 09:46</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-25T09:45:42+00:00'>Jun 25th 09:45</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-22T09:33:32+00:00'>Jun 22nd 09:33</span></td>
 <td>
@@ -225,32 +251,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:19:43+00:00'>Jun 18th 13:19</span></td>
-<td>
-
-🎉 closed [#50: ci: prepare for release-please workflow](https://github.com/catppuccin/python/pull/50)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:19:16+00:00'>Jun 18th 13:19</span></td>
-<td>
-
-🚀 opened [#50: ci: prepare for release-please workflow](https://github.com/catppuccin/python/pull/50)
 
 </td>
 <td>
