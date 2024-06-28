@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-28T19:53:52+00:00'>Jun 28th 19:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T19:53:52+00:00'>Jun 28th 19:53</span></td>
+<td>
+
+🎉 closed [#21: fix(deps): update rust crate clap_complete to v4.5.7](https://github.com/catppuccin/catwalk/pull/21)
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-28T17:17:35+00:00'>Jun 28th 17:17</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-28T17:16:31+00:00'>Jun 28th 17:16</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-28T17:15:39+00:00'>Jun 28th 17:15</span></td>
 <td>
@@ -259,19 +285,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-06-25T09:45:42+00:00'>Jun 25th 09:45</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -282,16 +295,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d0000485184ffaa884f1344f916f87299" width="48" height="48"> | [New Eden](https://open.spotify.com/track/2PPYju7plOgEz4KzP3d58k) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Mirror's Edge (Original Videogame Score)](https://open.spotify.com/track/2PPYju7plOgEz4KzP3d58k) |
-| <img src="https://i.scdn.co/image/ab67616d0000485115499cca2ef8e6f2633bde52" width="48" height="48"> | [Outer Marker](https://open.spotify.com/track/1qBUGBLEj5lOxPsdsRvuh0) | [Cristian Sandquist](https://open.spotify.com/artist/4dfT6LAAiSHImDThoC6YHQ) | [Epic Emotional Trailers](https://open.spotify.com/track/1qBUGBLEj5lOxPsdsRvuh0) |
-| <img src="https://i.scdn.co/image/ab67616d000048519ab84cdf4fa3f991708f7001" width="48" height="48"> | [19.07](https://open.spotify.com/track/445Tdyge4wC6Qr7wosq5OY) | [Danger](https://open.spotify.com/artist/2o3U0ld93tHYowkoari4Vi) | [Furi (Original Game Soundtrack)](https://open.spotify.com/track/445Tdyge4wC6Qr7wosq5OY) |
-| <img src="https://i.scdn.co/image/ab67616d0000485198f7ef1ad3c368da599e39da" width="48" height="48"> | [Sabotage](https://open.spotify.com/track/0kRJYEUxXNV7d0M2b9Xtq0) | [Remi Gallego](https://open.spotify.com/artist/2YCiWcvmE3XwOGJODpSeZ3) | [Sabotage (Hacknet Labyrinths Official Soundtrack)](https://open.spotify.com/track/0kRJYEUxXNV7d0M2b9Xtq0) |
-| <img src="https://i.scdn.co/image/ab67616d00004851771656be2fd0cc9c38fee74c" width="48" height="48"> | [MilkyWay (Explore)](https://open.spotify.com/track/4iO6QiHMJUr6Mh1L17BMar) | [Ben Prunty](https://open.spotify.com/artist/546MXGKJRNfO5to1oqkfqe) | [Ftl: Faster Than Light - Original Soundtrack](https://open.spotify.com/track/4iO6QiHMJUr6Mh1L17BMar) |
-| <img src="https://i.scdn.co/image/ab67616d00004851819a19737519a138f0d704a8" width="48" height="48"> | [Life - 2014 Remaster](https://open.spotify.com/track/79XmPxthsnr13QeZ2wHqGh) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [BLUE (2014 Remaster)](https://open.spotify.com/track/79XmPxthsnr13QeZ2wHqGh) |
-| <img src="https://i.scdn.co/image/ab67616d000048514848a540f13bac099e17cd0b" width="48" height="48"> | [Merchants, Looters and Ghosts](https://open.spotify.com/track/3OvCOEUX3QOEQB4LTAMACs) | [RealX](https://open.spotify.com/artist/1aLuZVV6aLieO1lki9Kco0) | [EVE Online: Empire Space I](https://open.spotify.com/track/3OvCOEUX3QOEQB4LTAMACs) |
-| <img src="https://i.scdn.co/image/ab67616d000048513f7642827e423f57b5bfc723" width="48" height="48"> | [1.4_2-impenetrable.sd2](https://open.spotify.com/track/2O0z8cMBuPnaHkicodw8K5) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr. Robot, Vol. 1 (Original Television Series Soundtrack)](https://open.spotify.com/track/2O0z8cMBuPnaHkicodw8K5) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a4c2f696c6444946c6ce54e0" width="48" height="48"> | [What We Discovered](https://open.spotify.com/track/66oDm1f5ZK3C7Vzr0bMGJx) | [Philip Ayers](https://open.spotify.com/artist/1IJx884XVtl5mWZhINoRSj) | [Juncture](https://open.spotify.com/track/66oDm1f5ZK3C7Vzr0bMGJx) |
-| <img src="https://i.scdn.co/image/ab67616d0000485113e80b4ca1802528e0f601e9" width="48" height="48"> | [To the Great Beyond](https://open.spotify.com/track/5JO3m49Zjc0XGYygM15piJ) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [Between the Rings](https://open.spotify.com/track/5JO3m49Zjc0XGYygM15piJ) |
+| <img src="https://i.scdn.co/image/ab67616d00004851944d402039221bda5a6f206a" width="48" height="48"> | [Rain as Cure](https://open.spotify.com/track/1vV3J1MWqKxNvHprOCqHm0) | [White Ward](https://open.spotify.com/artist/61D6KlxqzZEAWfD2CGc6Qp) | [Futility Report](https://open.spotify.com/track/1vV3J1MWqKxNvHprOCqHm0) |
+| <img src="https://i.scdn.co/image/ab67616d000048511d5ae2a3dabc8d4e09325020" width="48" height="48"> | [Velorio](https://open.spotify.com/track/5myAy38r0qOKKNDScpQez7) | [Obscure Sphinx](https://open.spotify.com/artist/0VaACj4wMJWji3wRiHrByq) | [Void Mother](https://open.spotify.com/track/5myAy38r0qOKKNDScpQez7) |
+| <img src="https://i.scdn.co/image/ab67616d00004851d0df3e7215c6664dc2cfdaa7" width="48" height="48"> | [Wake of a Nation](https://open.spotify.com/track/6Q1VO3ZptXrDFgLwQvFAc4) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/track/6Q1VO3ZptXrDFgLwQvFAc4) |
+| <img src="https://i.scdn.co/image/ab67616d000048518e878249892f5f5de81dd706" width="48" height="48"> | [Old Earth](https://open.spotify.com/track/7kY7VT81b8qjrpyab56KSG) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Resident Human](https://open.spotify.com/track/7kY7VT81b8qjrpyab56KSG) |
+| <img src="https://i.scdn.co/image/ab67616d00004851518d8ab2b13bc9800d8b38d7" width="48" height="48"> | [Flying Sea Dragons](https://open.spotify.com/track/2J1kGc0WJ65uYhgMNOkOWX) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [Spiritual Migration](https://open.spotify.com/track/2J1kGc0WJ65uYhgMNOkOWX) |
+| <img src="https://i.scdn.co/image/ab67616d00004851ca6b0939ebd05b0c04d0e3f8" width="48" height="48"> | [Discrimen](https://open.spotify.com/track/00sqVJlI4OG7bkqSh6d8if) | [Amenra](https://open.spotify.com/artist/0N1jE1EIrhZjvQSfuLupUu) | [Mass I (Remastered)](https://open.spotify.com/track/00sqVJlI4OG7bkqSh6d8if) |
+| <img src="https://i.scdn.co/image/ab67616d0000485154a49b442251370c60b195ee" width="48" height="48"> | [Meander](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO) | [Phenotype](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f5096fa59cb75e06c848143d" width="48" height="48"> | [Fire Of Motion](https://open.spotify.com/track/6vi8juBprNbW7p9G1Pywth) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Stranger Fruit](https://open.spotify.com/track/6vi8juBprNbW7p9G1Pywth) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f5096fa59cb75e06c848143d" width="48" height="48"> | [The Fool](https://open.spotify.com/track/5tj61NT5NwDuowfV85a9cA) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Stranger Fruit](https://open.spotify.com/track/5tj61NT5NwDuowfV85a9cA) |
+| <img src="https://i.scdn.co/image/ab67616d00004851caf3f09b0c0777eda7f33f8d" width="48" height="48"> | [Sacrilegium III](https://open.spotify.com/track/4Jgo6KqKxn6qVkuuwjIK3t) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/track/4Jgo6KqKxn6qVkuuwjIK3t) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
