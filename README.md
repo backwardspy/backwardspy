@@ -6,6 +6,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-28T17:17:35+00:00'>Jun 28th 17:17</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T17:17:34+00:00'>Jun 28th 17:17</span></td>
+<td>
+
+🎉 closed [#20: fix(deps): update rust crate clap to v4.5.8](https://github.com/catppuccin/catwalk/pull/20)
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T17:16:31+00:00'>Jun 28th 17:16</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T17:16:31+00:00'>Jun 28th 17:16</span></td>
+<td>
+
+🎉 closed [#24: fix(deps): update rust crate clap to v4.5.8](https://github.com/catppuccin/whiskers/pull/24)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T17:15:54+00:00'>Jun 28th 17:15</span></td>
+<td>
+
+💬 commented on [#2449: add new showcase](https://github.com/catppuccin/catppuccin/pull/2449)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-06-28T17:15:39+00:00'>Jun 28th 17:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T17:15:39+00:00'>Jun 28th 17:15</span></td>
+<td>
+
+🎉 closed [#2449: add new showcase](https://github.com/catppuccin/catppuccin/pull/2449)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T17:15:33+00:00'>Jun 28th 17:15</span></td>
+<td>
+
+🔍 reviewed [#2449: add new showcase](https://github.com/catppuccin/catppuccin/pull/2449)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T17:08:08+00:00'>Jun 28th 17:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T17:08:08+00:00'>Jun 28th 17:08</span></td>
+<td>
+
+🎉 closed [#2448: chore(ports.yml): add suckless icon for dmenu](https://github.com/catppuccin/catppuccin/pull/2448)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T17:08:03+00:00'>Jun 28th 17:08</span></td>
+<td>
+
+🔍 reviewed [#2448: chore(ports.yml): add suckless icon for dmenu](https://github.com/catppuccin/catppuccin/pull/2448)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-28T08:58:57+00:00'>Jun 28th 08:58</span></td>
 <td>
 
@@ -70,13 +220,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-25T09:46:56+00:00'>Jun 25th 09:46</span></td>
 <td>
@@ -126,149 +269,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-25T09:45:42+00:00'>Jun 25th 09:45</span></td>
-<td>
-
-🎉 closed [#21: fix(deps): update rust crate serde_json to v1.0.118](https://github.com/catppuccin/whiskers/pull/21)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-22T09:33:32+00:00'>Jun 22nd 09:33</span></td>
-<td>
-
-💬 commented on [#8: Add __pycache__ to gitignore](https://github.com/catppuccin/qutebrowser/pull/8)
-
-</td>
-<td>
-
-[catppuccin/qutebrowser](https://github.com/catppuccin/qutebrowser)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-22T09:33:29+00:00'>Jun 22nd 09:33</span></td>
-<td>
-
-🎉 closed [#8: Add __pycache__ to gitignore](https://github.com/catppuccin/qutebrowser/pull/8)
-
-</td>
-<td>
-
-[catppuccin/qutebrowser](https://github.com/catppuccin/qutebrowser)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-22T09:33:30+00:00'>Jun 22nd 09:33</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/qutebrowser](https://github.com/catppuccin/qutebrowser)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-22T09:14:37+00:00'>Jun 22nd 09:14</span></td>
-<td>
-
-🎉 closed [#18: fix(deps): update rust crate clap_complete to v4.5.6](https://github.com/catppuccin/catwalk/pull/18)
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-22T09:14:37+00:00'>Jun 22nd 09:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-22T09:12:09+00:00'>Jun 22nd 09:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-22T09:12:08+00:00'>Jun 22nd 09:12</span></td>
-<td>
-
-🎉 closed [#53: chore(deps): update dependency ruff to v0.4.10](https://github.com/catppuccin/python/pull/53)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:34:01+00:00'>Jun 18th 13:34</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:27:35+00:00'>Jun 18th 13:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:21:28+00:00'>Jun 18th 13:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
