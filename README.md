@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-28T08:58:57+00:00'>Jun 28th 08:58</span></td>
+<td>
+
+✅ closed [#2390: sent](https://github.com/catppuccin/catppuccin/issues/2390)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T08:58:57+00:00'>Jun 28th 08:58</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-28T08:58:56+00:00'>Jun 28th 08:58</span></td>
+<td>
+
+🎉 closed [#2447: docs: add catppuccin/sent](https://github.com/catppuccin/catppuccin/pull/2447)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-27T16:27:36+00:00'>Jun 27th 16:27</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-25T09:46:56+00:00'>Jun 25th 09:46</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-25T09:45:42+00:00'>Jun 25th 09:45</span></td>
 <td>
@@ -233,32 +272,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-06-18T13:21:28+00:00'>Jun 18th 13:21</span></td>
-<td>
-
-🎉 closed [#51: chore(main): release 2.3.0](https://github.com/catppuccin/python/pull/51)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-18T13:19:43+00:00'>Jun 18th 13:19</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -269,16 +282,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d0000485171b1b5d2f76b80661d4e01c8" width="48" height="48"> | [Up the Spirit Caverns Walls (feat. Tom Boyd)](https://open.spotify.com/track/4kpj1CPGBy2D8zK7ONHlaL) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B), [Tom Boyd](https://open.spotify.com/artist/4mkGdmbcZa6WHxinVVmeYs) | [Ori and the Blind Forest (Original Soundtrack)](https://open.spotify.com/track/4kpj1CPGBy2D8zK7ONHlaL) |
-| <img src="https://i.scdn.co/image/ab67616d0000485193cfbe697f4ecf16394717a3" width="48" height="48"> | [Valse di Fantasticá (From "Final Fantasy XV")](https://open.spotify.com/track/5bIGWrhdqng028GkTJNuAZ) | [ViolinGamer](https://open.spotify.com/artist/36yuG9DyloDYqWKWRoYqPc), [HollowRiku](https://open.spotify.com/artist/1gLWxgbRcYQBQkkzJ92Otx) | [VGM Violin: Level 3](https://open.spotify.com/track/5bIGWrhdqng028GkTJNuAZ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851bc9baf3b5bdfdc215df5b1ce" width="48" height="48"> | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Howl's Moving Castle Theme](https://open.spotify.com/track/3Hc7Su1AVaynKEkwSZopbN) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a942645c59c78a8eb79398f3" width="48" height="48"> | [A Promise (From "Fire Emblem: Three Houses")](https://open.spotify.com/track/2zZg2z3TikBSiriwiNB5ng) | [Patti Rudisill](https://open.spotify.com/artist/4v1lNt9Fnv87ABVRYtiUBE) | [A Promise (From "Fire Emblem: Three Houses")](https://open.spotify.com/track/2zZg2z3TikBSiriwiNB5ng) |
-| <img src="https://i.scdn.co/image/ab67616d000048515917f039c814320c22e129df" width="48" height="48"> | [Oración (From "Pokémon: The Rise of Darkrai")](https://open.spotify.com/track/4PtUFFoDzbuyK3y3BWaQYe) | [Moisés Nieto](https://open.spotify.com/artist/6i5jeqNyrzyfDwIiAfNdyF) | [Piano Fables, Vol. 3](https://open.spotify.com/track/4PtUFFoDzbuyK3y3BWaQYe) |
-| <img src="https://i.scdn.co/image/ab67616d000048513dbd93e74016ec984b63b11a" width="48" height="48"> | [City Ruins (Rays of Light) [From "NieR: Automata"]](https://open.spotify.com/track/1Pbq8871KphrrtIt2bBfzw) | [PurpleSchala](https://open.spotify.com/artist/1vKcZvjKATZz5QOObxdxpN), [AnimeVivi](https://open.spotify.com/artist/7p8mREWB1pM6G0gx0IOX0g) | [A Keiichi Okabe Easter](https://open.spotify.com/track/1Pbq8871KphrrtIt2bBfzw) |
-| <img src="https://i.scdn.co/image/ab67616d00004851221c5e4fe76ce075a64cee18" width="48" height="48"> | [Lei Elgona (From "Gravity Rush 2")](https://open.spotify.com/track/018oxNhIAlWQ65NG9DtD9b) | [Patti Rudisill](https://open.spotify.com/artist/4v1lNt9Fnv87ABVRYtiUBE) | [Lei Elgona (From "Gravity Rush 2")](https://open.spotify.com/track/018oxNhIAlWQ65NG9DtD9b) |
-| <img src="https://i.scdn.co/image/ab67616d00004851826bb8027b667ca05e120261" width="48" height="48"> | [Kass's Theme](https://open.spotify.com/track/5XZcXfoS6IAiErcvGT2qhx) | [ROZEN](https://open.spotify.com/artist/1uca08INg3Te4jR7g1khYN) | [Ballads of Hyrule](https://open.spotify.com/track/5XZcXfoS6IAiErcvGT2qhx) |
-| <img src="https://i.scdn.co/image/ab67616d0000485124451f3b9672338f2b6f0aa6" width="48" height="48"> | [Legend of Zelda - Skyward Sword - Romance in the Air](https://open.spotify.com/track/11RGaLRaPh7mo5LyvoMYPs) | [Triforce Quartet](https://open.spotify.com/artist/094Eb3gQkbFFT4seoZoMaS) | [Ultima Phantasia](https://open.spotify.com/track/11RGaLRaPh7mo5LyvoMYPs) |
-| <img src="https://i.scdn.co/image/ab67616d0000485108ef8f213c161fa5b8d5b4f6" width="48" height="48"> | [Eternal Winter](https://open.spotify.com/track/1e398ZICdaGKg8L5uRNC5c) | [Tomoki Miyoshi](https://open.spotify.com/artist/2OAgpK4uA8zE1zSoqhuiim) | [Winter's End (I Am Setsuna) [Original Soundtrack Collection]](https://open.spotify.com/track/1e398ZICdaGKg8L5uRNC5c) |
+| <img src="https://i.scdn.co/image/ab67616d000048517249e93d7eafaa0c43ac8873" width="48" height="48"> | [Startup - Sequence](https://open.spotify.com/track/4MbLXz97iVGmI5uUVcH2TP) | [Sundial Aeon](https://open.spotify.com/artist/5soQDgFW3XzGBLRyCy7jmk) | [Vulcanosis](https://open.spotify.com/track/4MbLXz97iVGmI5uUVcH2TP) |
+| <img src="https://i.scdn.co/image/ab67616d000048517d62036145576a6c4e885c44" width="48" height="48"> | [Leaving Earth](https://open.spotify.com/track/6M2v9V2bDKBVjfUzIF1EDi) | [Benn Jordan](https://open.spotify.com/artist/35A2w8NQDT3VuQlBNVSfyw) | [Pale Blue Dot, a Tribute to Carl Sagan](https://open.spotify.com/track/6M2v9V2bDKBVjfUzIF1EDi) |
+| <img src="https://i.scdn.co/image/ab67616d0000485177ee9e2be5e1ba80106cfe53" width="48" height="48"> | [Catalyst](https://open.spotify.com/track/0l8bSoBGZqcoKv5INJxCCy) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Mirror's Edge Catalyst (EA Games Soundtrack)](https://open.spotify.com/track/0l8bSoBGZqcoKv5INJxCCy) |
+| <img src="https://i.scdn.co/image/ab67616d000048515274b5764f98b36833a45e15" width="48" height="48"> | [Dreaming (feat. Daniel Law Heath)](https://open.spotify.com/track/06eAJMuTgnoRUBjfQsfT7X) | [Corner Stone Cues](https://open.spotify.com/artist/0kNyq4Q2UEmIeuySw9myZc), [Daniel Law Heath](https://open.spotify.com/artist/5EA3M9YLT4PsLOorVSafbD) | [Corner Stone Cues Presents: In Situ](https://open.spotify.com/track/06eAJMuTgnoRUBjfQsfT7X) |
+| <img src="https://i.scdn.co/image/ab67616d000048514a32ca634b55e767548d4597" width="48" height="48"> | [Room 13](https://open.spotify.com/track/0XyKpaviORBPuBv6uwGor1) | [The Flashbulb](https://open.spotify.com/artist/6mMCSCuTbGU6kNr4303LwH) | [Nothing Is Real](https://open.spotify.com/track/0XyKpaviORBPuBv6uwGor1) |
+| <img src="https://i.scdn.co/image/ab67616d0000485138aac529b900cb07a4553591" width="48" height="48"> | [In Time](https://open.spotify.com/track/4hjLwIRcqoHw270FLn40M6) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [Light Years](https://open.spotify.com/track/4hjLwIRcqoHw270FLn40M6) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a4fe8d7d8d97881894d39ea2" width="48" height="48"> | [Clarity](https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Ibb & Obb (Original Soundtrack)](https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO) |
+| <img src="https://i.scdn.co/image/ab67616d000048515a63f68037bcf376838fa7f2" width="48" height="48"> | [Time Slide](https://open.spotify.com/track/5TGubZJze4wPMdR3A1BJIp) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Leaving Home](https://open.spotify.com/track/5TGubZJze4wPMdR3A1BJIp) |
+| <img src="https://i.scdn.co/image/ab67616d000048513d9cfd1fb2191b905645e14c" width="48" height="48"> | [Selena`s Song](https://open.spotify.com/track/7hMYfCldqYwK0za6A3XlNJ) | [Koan](https://open.spotify.com/artist/0i3rXQVnr4SE5pl3qtBM2o) | [When The Silence Is Speaking](https://open.spotify.com/track/7hMYfCldqYwK0za6A3XlNJ) |
+| <img src="https://i.scdn.co/image/ab67616d00004851d1ee695f17990d352b19fa91" width="48" height="48"> | [First Step](https://open.spotify.com/track/4vCllLMPR1h3zBYBWjIFTV) | [Ginger Runner](https://open.spotify.com/artist/2Y2292xxsarmY6b67bti20) | [Grinds](https://open.spotify.com/track/4vCllLMPR1h3zBYBWjIFTV) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
