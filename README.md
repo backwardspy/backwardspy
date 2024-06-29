@@ -295,6 +295,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851caf3f09b0c0777eda7f33f8d" width="48" height="48"> | [Sacrilegium II](https://open.spotify.com/track/2ESnnkOMDGSdlsCl8sWBxi) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/track/2ESnnkOMDGSdlsCl8sWBxi) |
 | <img src="https://i.scdn.co/image/ab67616d0000485116fdf5c9b83b80aefa55a9b4" width="48" height="48"> | [Photophobic - Instrumental](https://open.spotify.com/track/1aRSylULRMIFwEOVRTPVv0) | [MØL](https://open.spotify.com/artist/10AROE3jG5grMdhlNyZiWo) | [Diorama (Instrumental)](https://open.spotify.com/track/1aRSylULRMIFwEOVRTPVv0) |
 | <img src="https://i.scdn.co/image/ab67616d00004851944d402039221bda5a6f206a" width="48" height="48"> | [Rain as Cure](https://open.spotify.com/track/1vV3J1MWqKxNvHprOCqHm0) | [White Ward](https://open.spotify.com/artist/61D6KlxqzZEAWfD2CGc6Qp) | [Futility Report](https://open.spotify.com/track/1vV3J1MWqKxNvHprOCqHm0) |
 | <img src="https://i.scdn.co/image/ab67616d000048511d5ae2a3dabc8d4e09325020" width="48" height="48"> | [Velorio](https://open.spotify.com/track/5myAy38r0qOKKNDScpQez7) | [Obscure Sphinx](https://open.spotify.com/artist/0VaACj4wMJWji3wRiHrByq) | [Void Mother](https://open.spotify.com/track/5myAy38r0qOKKNDScpQez7) |
@@ -304,7 +305,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851ca6b0939ebd05b0c04d0e3f8" width="48" height="48"> | [Discrimen](https://open.spotify.com/track/00sqVJlI4OG7bkqSh6d8if) | [Amenra](https://open.spotify.com/artist/0N1jE1EIrhZjvQSfuLupUu) | [Mass I (Remastered)](https://open.spotify.com/track/00sqVJlI4OG7bkqSh6d8if) |
 | <img src="https://i.scdn.co/image/ab67616d0000485154a49b442251370c60b195ee" width="48" height="48"> | [Meander](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO) | [Phenotype](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f5096fa59cb75e06c848143d" width="48" height="48"> | [Fire Of Motion](https://open.spotify.com/track/6vi8juBprNbW7p9G1Pywth) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Stranger Fruit](https://open.spotify.com/track/6vi8juBprNbW7p9G1Pywth) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f5096fa59cb75e06c848143d" width="48" height="48"> | [The Fool](https://open.spotify.com/track/5tj61NT5NwDuowfV85a9cA) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Stranger Fruit](https://open.spotify.com/track/5tj61NT5NwDuowfV85a9cA) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
