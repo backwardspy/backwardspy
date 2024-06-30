@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-06-30T21:31:16+00:00'>Jun 30th 21:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-06-30T21:31:16+00:00'>Jun 30th 21:31</span></td>
+<td>
+
+🎉 closed [#25: fix(deps): update rust crate serde_json to v1.0.119](https://github.com/catppuccin/whiskers/pull/25)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-28T19:53:52+00:00'>Jun 28th 19:53</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-28T17:17:34+00:00'>Jun 28th 17:17</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-28T17:16:31+00:00'>Jun 28th 17:16</span></td>
 <td>
@@ -256,32 +282,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-25T09:46:06+00:00'>Jun 25th 09:46</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-25T09:46:06+00:00'>Jun 25th 09:46</span></td>
-<td>
-
-🎉 closed [#54: chore(deps): update dependency mypy to v1.10.1](https://github.com/catppuccin/python/pull/54)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
