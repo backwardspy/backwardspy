@@ -296,6 +296,7 @@
 | | track | artist | album |
 | - | - | - | - |
 | <img src="https://i.scdn.co/image/ab67616d00004851caf3f09b0c0777eda7f33f8d" width="48" height="48"> | [Children's Summon](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) |
+| <img src="https://i.scdn.co/image/ab67616d00004851caf3f09b0c0777eda7f33f8d" width="48" height="48"> | [Children's Summon](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) |
 | <img src="https://i.scdn.co/image/ab67616d0000485154a49b442251370c60b195ee" width="48" height="48"> | [Meander](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO) | [Phenotype](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) |
 | <img src="https://i.scdn.co/image/ab67616d00004851caf3f09b0c0777eda7f33f8d" width="48" height="48"> | [Sacrilegium II](https://open.spotify.com/track/2ESnnkOMDGSdlsCl8sWBxi) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/track/2ESnnkOMDGSdlsCl8sWBxi) |
 | <img src="https://i.scdn.co/image/ab67616d00004851e50241e7adfa2bce4b50e7ef" width="48" height="48"> | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) |
@@ -304,7 +305,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851cc67823edfa84a31d0b4aa26" width="48" height="48"> | [Viande](https://open.spotify.com/track/1jmpQKBXlSgOHmkFGSMasA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Savage Sinusoid](https://open.spotify.com/track/1jmpQKBXlSgOHmkFGSMasA) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f5096fa59cb75e06c848143d" width="48" height="48"> | [Ship On Fire](https://open.spotify.com/track/33xYKnhFtcxpHr5Q026kni) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Stranger Fruit](https://open.spotify.com/track/33xYKnhFtcxpHr5Q026kni) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dfa0bfe98aafc414ba96a96b" width="48" height="48"> | [Epipelagic](https://open.spotify.com/track/5yPvCSfEazWcMkmXbtjqGh) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Pelagial](https://open.spotify.com/track/5yPvCSfEazWcMkmXbtjqGh) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c96a97e466f3428e8a3368a2" width="48" height="48"> | [Trading Shadows](https://open.spotify.com/track/01Ip8l10bfX9JpStYPk1C9) | [Night Verses](https://open.spotify.com/artist/55GUoQ2E2hze3842bFs4bb) | [From the Gallery of Sleep](https://open.spotify.com/track/01Ip8l10bfX9JpStYPk1C9) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
