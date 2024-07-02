@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-02T10:42:58+00:00'>Jul 2nd 10:42</span></td>
+<td>
+
+💬 commented on [#405: The highlight color for the closing bracket tag in HTML is inconsistent](https://github.com/catppuccin/vscode/issues/405)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-02T10:39:51+00:00'>Jul 2nd 10:39</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-02T10:39:50+00:00'>Jul 2nd 10:39</span></td>
+<td>
+
+🎉 closed [#26: fix(deps): update rust crate serde_json to v1.0.120](https://github.com/catppuccin/whiskers/pull/26)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-02T10:22:35+00:00'>Jul 2nd 10:22</span></td>
+<td>
+
+🚀 opened [#27: feat: add signed & unsigned integer colour repr](https://github.com/catppuccin/whiskers/pull/27)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-06-30T21:31:16+00:00'>Jun 30th 21:31</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-30T21:31:16+00:00'>Jun 30th 21:31</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-28T17:17:34+00:00'>Jun 28th 17:17</span></td>
 <td>
@@ -212,71 +264,6 @@
 <td>
 
 ✅ closed [#2390: sent](https://github.com/catppuccin/catppuccin/issues/2390)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T08:58:57+00:00'>Jun 28th 08:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T08:58:56+00:00'>Jun 28th 08:58</span></td>
-<td>
-
-🎉 closed [#2447: docs: add catppuccin/sent](https://github.com/catppuccin/catppuccin/pull/2447)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-27T16:27:36+00:00'>Jun 27th 16:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-27T16:27:35+00:00'>Jun 27th 16:27</span></td>
-<td>
-
-🎉 closed [#55: chore(deps): update dependency ruff to ^0.5.0](https://github.com/catppuccin/python/pull/55)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-25T09:46:56+00:00'>Jun 25th 09:46</span></td>
-<td>
-
-💬 commented on [#2443: KiCad](https://github.com/catppuccin/catppuccin/issues/2443)
 
 </td>
 <td>
