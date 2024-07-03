@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-03T09:51:36+00:00'>Jul 3rd 09:51</span></td>
+<td>
+
+🚀 opened [#71: docs(readme): fix typo in krita instructions](https://github.com/catppuccin/kde/pull/71)
+
+</td>
+<td>
+
+[catppuccin/kde](https://github.com/catppuccin/kde)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-02T10:42:58+00:00'>Jul 2nd 10:42</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-06-30T21:31:16+00:00'>Jun 30th 21:31</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-30T21:31:16+00:00'>Jun 30th 21:31</span></td>
 <td>
@@ -238,32 +251,6 @@
 <td>
 
 🎉 closed [#2448: chore(ports.yml): add suckless icon for dmenu](https://github.com/catppuccin/catppuccin/pull/2448)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:08:03+00:00'>Jun 28th 17:08</span></td>
-<td>
-
-🔍 reviewed [#2448: chore(ports.yml): add suckless icon for dmenu](https://github.com/catppuccin/catppuccin/pull/2448)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T08:58:57+00:00'>Jun 28th 08:58</span></td>
-<td>
-
-✅ closed [#2390: sent](https://github.com/catppuccin/catppuccin/issues/2390)
 
 </td>
 <td>
