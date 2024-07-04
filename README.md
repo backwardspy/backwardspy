@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-03T18:17:19+00:00'>Jul 3rd 18:17</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[BenjaTK/Gaea](https://github.com/BenjaTK/Gaea)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-03T09:51:36+00:00'>Jul 3rd 09:51</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-02T10:22:35+00:00'>Jul 2nd 10:22</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-06-30T21:31:16+00:00'>Jun 30th 21:31</span></td>
 <td>
@@ -238,19 +251,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:08:08+00:00'>Jun 28th 17:08</span></td>
-<td>
-
-🎉 closed [#2448: chore(ports.yml): add suckless icon for dmenu](https://github.com/catppuccin/catppuccin/pull/2448)
 
 </td>
 <td>
