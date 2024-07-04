@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-04T09:34:55+00:00'>Jul 4th 09:34</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-04T09:34:54+00:00'>Jul 4th 09:34</span></td>
+<td>
+
+🎉 closed [#56: fix(deps): update dependency matplotlib to v3.9.1](https://github.com/catppuccin/python/pull/56)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-03T18:17:19+00:00'>Jul 3rd 18:17</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-02T10:39:51+00:00'>Jul 2nd 10:39</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-02T10:22:35+00:00'>Jul 2nd 10:22</span></td>
 <td>
@@ -209,45 +235,6 @@
 </tr>
 <tr>
 <td><span title='2024-06-28T17:15:39+00:00'>Jun 28th 17:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:15:39+00:00'>Jun 28th 17:15</span></td>
-<td>
-
-🎉 closed [#2449: add new showcase](https://github.com/catppuccin/catppuccin/pull/2449)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:15:33+00:00'>Jun 28th 17:15</span></td>
-<td>
-
-🔍 reviewed [#2449: add new showcase](https://github.com/catppuccin/catppuccin/pull/2449)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:08:08+00:00'>Jun 28th 17:08</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
