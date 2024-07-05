@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-05T14:28:07+00:00'>Jul 5th 14:28</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-05T14:28:07+00:00'>Jul 5th 14:28</span></td>
+<td>
+
+🎉 closed [#57: chore(deps): update dependency ruff to v0.5.1](https://github.com/catppuccin/python/pull/57)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-04T18:38:46+00:00'>Jul 4th 18:38</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-04T18:32:46+00:00'>Jul 4th 18:32</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-04T18:32:42+00:00'>Jul 4th 18:32</span></td>
 <td>
@@ -222,32 +248,6 @@
 </tr>
 <tr>
 <td><span title='2024-06-28T19:53:52+00:00'>Jun 28th 19:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T19:53:52+00:00'>Jun 28th 19:53</span></td>
-<td>
-
-🎉 closed [#21: fix(deps): update rust crate clap_complete to v4.5.7](https://github.com/catppuccin/catwalk/pull/21)
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:17:35+00:00'>Jun 28th 17:17</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
