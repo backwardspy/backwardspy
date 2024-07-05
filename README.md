@@ -6,6 +6,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-04T18:38:46+00:00'>Jul 4th 18:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-04T18:38:46+00:00'>Jul 4th 18:38</span></td>
+<td>
+
+🎉 closed [#5: fix(inscriptions): invalid syntax](https://github.com/backwardspy/backwardspy.github.io/pull/5)
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-04T18:38:44+00:00'>Jul 4th 18:38</span></td>
+<td>
+
+💬 commented on [#5: fix(inscriptions): invalid syntax](https://github.com/backwardspy/backwardspy.github.io/pull/5)
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-04T18:32:46+00:00'>Jul 4th 18:32</span></td>
+<td>
+
+💬 commented on [#4: feat(inscriptions): add chinese (simplified) translation](https://github.com/backwardspy/backwardspy.github.io/pull/4)
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-04T18:32:42+00:00'>Jul 4th 18:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-07-04T18:32:42+00:00'>Jul 4th 18:32</span></td>
+<td>
+
+🎉 closed [#4: feat(inscriptions): add chinese (simplified) translation](https://github.com/backwardspy/backwardspy.github.io/pull/4)
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-04T09:34:55+00:00'>Jul 4th 09:34</span></td>
 <td>
 
@@ -70,13 +155,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-02T10:39:51+00:00'>Jul 2nd 10:39</span></td>
 <td>
@@ -178,71 +256,6 @@
 <td>
 
 [catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:17:34+00:00'>Jun 28th 17:17</span></td>
-<td>
-
-🎉 closed [#20: fix(deps): update rust crate clap to v4.5.8](https://github.com/catppuccin/catwalk/pull/20)
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:16:31+00:00'>Jun 28th 17:16</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:16:31+00:00'>Jun 28th 17:16</span></td>
-<td>
-
-🎉 closed [#24: fix(deps): update rust crate clap to v4.5.8](https://github.com/catppuccin/whiskers/pull/24)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:15:54+00:00'>Jun 28th 17:15</span></td>
-<td>
-
-💬 commented on [#2449: add new showcase](https://github.com/catppuccin/catppuccin/pull/2449)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T17:15:39+00:00'>Jun 28th 17:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
