@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-07T12:26:58+00:00'>Jul 7th 12:26</span></td>
+<td>
+
+💬 commented on [#12: Catppuccin Latte has bright text colors](https://github.com/catppuccin/gnome-terminal/issues/12)
+
+</td>
+<td>
+
+[catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-07T10:52:46+00:00'>Jul 7th 10:52</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-07T10:46:45+00:00'>Jul 7th 10:46</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-07T10:45:08+00:00'>Jul 7th 10:45</span></td>
 <td>
@@ -256,19 +269,6 @@
 <td>
 
 [catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-02T10:39:51+00:00'>Jul 2nd 10:39</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
