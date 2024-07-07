@@ -6,6 +6,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-07T10:52:46+00:00'>Jul 7th 10:52</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-07T10:52:46+00:00'>Jul 7th 10:52</span></td>
+<td>
+
+🎉 closed [#29: fix(deps): update rust crate serde to v1.0.204](https://github.com/catppuccin/whiskers/pull/29)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-07T10:50:02+00:00'>Jul 7th 10:50</span></td>
+<td>
+
+💬 commented on [#12: Catppuccin Latte has bright text colors](https://github.com/catppuccin/gnome-terminal/issues/12)
+
+</td>
+<td>
+
+[catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-07T10:46:46+00:00'>Jul 7th 10:46</span></td>
+<td>
+
+💬 commented on [#17: Make colour scheme only](https://github.com/catppuccin/gnome-terminal/issues/17)
+
+</td>
+<td>
+
+[catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-07T10:46:45+00:00'>Jul 7th 10:46</span></td>
+<td>
+
+✅ closed [#17: Make colour scheme only](https://github.com/catppuccin/gnome-terminal/issues/17)
+
+</td>
+<td>
+
+[catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-07-07T10:45:08+00:00'>Jul 7th 10:45</span></td>
+<td>
+
+💬 commented on [#16: Error fetching the palette: <urlopen error unknow url type: https>](https://github.com/catppuccin/gnome-terminal/issues/16)
+
+</td>
+<td>
+
+[catppuccin/gnome-terminal](https://github.com/catppuccin/gnome-terminal)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-05T14:28:07+00:00'>Jul 5th 14:28</span></td>
 <td>
 
@@ -70,13 +155,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-04T18:32:46+00:00'>Jul 4th 18:32</span></td>
 <td>
@@ -191,71 +269,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-02T10:39:50+00:00'>Jul 2nd 10:39</span></td>
-<td>
-
-🎉 closed [#26: fix(deps): update rust crate serde_json to v1.0.120](https://github.com/catppuccin/whiskers/pull/26)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-02T10:22:35+00:00'>Jul 2nd 10:22</span></td>
-<td>
-
-🚀 opened [#27: feat: add signed & unsigned integer colour repr](https://github.com/catppuccin/whiskers/pull/27)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-30T21:31:16+00:00'>Jun 30th 21:31</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-30T21:31:16+00:00'>Jun 30th 21:31</span></td>
-<td>
-
-🎉 closed [#25: fix(deps): update rust crate serde_json to v1.0.119](https://github.com/catppuccin/whiskers/pull/25)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-06-28T19:53:52+00:00'>Jun 28th 19:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
 
 </td>
 </tr>
