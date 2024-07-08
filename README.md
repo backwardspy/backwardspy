@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-08T13:19:02+00:00'>Jul 8th 13:19</span></td>
+<td>
+
+💬 commented on [#2461: Miniflux - A lightweight RSS reader](https://github.com/catppuccin/catppuccin/issues/2461)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-08T13:05:05+00:00'>Jul 8th 13:05</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-07T10:50:02+00:00'>Jul 7th 10:50</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-07T10:46:46+00:00'>Jul 7th 10:46</span></td>
 <td>
@@ -272,19 +285,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-07-02T10:42:58+00:00'>Jul 2nd 10:42</span></td>
-<td>
-
-💬 commented on [#405: The highlight color for the closing bracket tag in HTML is inconsistent](https://github.com/catppuccin/vscode/issues/405)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -295,16 +295,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851b33220e7f44bf9e4b5c256dd" width="48" height="48"> | [Space](https://open.spotify.com/track/0d3ENsWU1N7ABfwS1i6pep) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Nest](https://open.spotify.com/track/0d3ENsWU1N7ABfwS1i6pep) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c34c564cc80cf98e7391dd87" width="48" height="48"> | [Götterdämmerung](https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw) |
+| <img src="https://i.scdn.co/image/ab67616d000048519e0c8794ade48c467e064be5" width="48" height="48"> | [Betrayal](https://open.spotify.com/track/612rCzCNbnmo3txoaEiklP) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Gnosis](https://open.spotify.com/track/612rCzCNbnmo3txoaEiklP) |
+| <img src="https://i.scdn.co/image/ab67616d00004851cf133b359344a22ec1342629" width="48" height="48"> | [Loner](https://open.spotify.com/track/3pa86MlDCVFktYVQlMusu4) | [Hangman's Chair](https://open.spotify.com/artist/3jmqk617nnjalSiZUCaaBi) | [A Loner](https://open.spotify.com/track/3pa86MlDCVFktYVQlMusu4) |
+| <img src="https://i.scdn.co/image/ab67616d00004851bee3918143b9d6e5571239b4" width="48" height="48"> | [Camel Dancefloor](https://open.spotify.com/track/6QN0mXlZOwfQoFs5yu55Pg) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Spirituality and Distortion](https://open.spotify.com/track/6QN0mXlZOwfQoFs5yu55Pg) |
+| <img src="https://i.scdn.co/image/ab67616d000048518e878249892f5f5de81dd706" width="48" height="48"> | [Fugue](https://open.spotify.com/track/7aU91HuOUH4y5hFG34WBRa) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Resident Human](https://open.spotify.com/track/7aU91HuOUH4y5hFG34WBRa) |
 | <img src="https://i.scdn.co/image/ab67616d00004851caf3f09b0c0777eda7f33f8d" width="48" height="48"> | [Children's Summon](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) |
-| <img src="https://i.scdn.co/image/ab67616d00004851caf3f09b0c0777eda7f33f8d" width="48" height="48"> | [Children's Summon](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) |
-| <img src="https://i.scdn.co/image/ab67616d0000485154a49b442251370c60b195ee" width="48" height="48"> | [Meander](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) | [Textures](https://open.spotify.com/artist/6v9XKyEf4HKmUMr3D6weIO) | [Phenotype](https://open.spotify.com/track/49QvoJ0cNZcYvGrFuTiXYZ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851caf3f09b0c0777eda7f33f8d" width="48" height="48"> | [Sacrilegium II](https://open.spotify.com/track/2ESnnkOMDGSdlsCl8sWBxi) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/track/2ESnnkOMDGSdlsCl8sWBxi) |
-| <img src="https://i.scdn.co/image/ab67616d00004851e50241e7adfa2bce4b50e7ef" width="48" height="48"> | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) |
-| <img src="https://i.scdn.co/image/ab67616d00004851107efdb33a3151a80dcff999" width="48" height="48"> | [The White Umbrella Intro](https://open.spotify.com/track/3dCa6h9s5oJWY7F9p3fMW4) | [*shels](https://open.spotify.com/artist/0Ivm3PYwfVFeq2trxYqLi2) | [Sea of the Dying Dhow](https://open.spotify.com/track/3dCa6h9s5oJWY7F9p3fMW4) |
-| <img src="https://i.scdn.co/image/ab67616d00004851771b17286aada04e6730ebf1" width="48" height="48"> | [Tralfamadore](https://open.spotify.com/track/6u2nyRHqG2FYwVc7eMeJSL) | [Mammoth Weed Wizard Bastard](https://open.spotify.com/artist/144tOsApwFr8IORHSxLqLq) | [Yn Ol I Annwn](https://open.spotify.com/track/6u2nyRHqG2FYwVc7eMeJSL) |
-| <img src="https://i.scdn.co/image/ab67616d00004851cc67823edfa84a31d0b4aa26" width="48" height="48"> | [Viande](https://open.spotify.com/track/1jmpQKBXlSgOHmkFGSMasA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Savage Sinusoid](https://open.spotify.com/track/1jmpQKBXlSgOHmkFGSMasA) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f5096fa59cb75e06c848143d" width="48" height="48"> | [Ship On Fire](https://open.spotify.com/track/33xYKnhFtcxpHr5Q026kni) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Stranger Fruit](https://open.spotify.com/track/33xYKnhFtcxpHr5Q026kni) |
-| <img src="https://i.scdn.co/image/ab67616d00004851dfa0bfe98aafc414ba96a96b" width="48" height="48"> | [Epipelagic](https://open.spotify.com/track/5yPvCSfEazWcMkmXbtjqGh) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Pelagial](https://open.spotify.com/track/5yPvCSfEazWcMkmXbtjqGh) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e85a24126a7b79e9c374bb81" width="48" height="48"> | [Miles Away](https://open.spotify.com/track/0Kqo0AYsZ7hSLVYldCwMKy) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Unison Life](https://open.spotify.com/track/0Kqo0AYsZ7hSLVYldCwMKy) |
+| <img src="https://i.scdn.co/image/ab67616d00004851dc000fc92dbc948c816d60ea" width="48" height="48"> | [Endeavour](https://open.spotify.com/track/0HZpa8uOznXxk6uGirHHLo) | [Conjurer](https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ), [Pijn](https://open.spotify.com/artist/088AzItIc1cw6IsZWCyLvw) | [Curse These Metal Hands](https://open.spotify.com/track/0HZpa8uOznXxk6uGirHHLo) |
+| <img src="https://i.scdn.co/image/ab67616d000048510e6daea1db2d8761b57a26f0" width="48" height="48"> | [Naïve](https://open.spotify.com/track/1bwvt2mY3N4y0cmH5nvhl0) | [Hangman's Chair](https://open.spotify.com/artist/3jmqk617nnjalSiZUCaaBi) | [Banlieue triste](https://open.spotify.com/track/1bwvt2mY3N4y0cmH5nvhl0) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
