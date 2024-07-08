@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-08T13:05:05+00:00'>Jul 8th 13:05</span></td>
+<td>
+
+💬 commented on [#2461: Miniflux - A lightweight RSS reader](https://github.com/catppuccin/catppuccin/issues/2461)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-07T12:26:58+00:00'>Jul 7th 12:26</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-07T10:46:46+00:00'>Jul 7th 10:46</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-07T10:46:45+00:00'>Jul 7th 10:46</span></td>
 <td>
