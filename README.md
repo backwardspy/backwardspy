@@ -6,6 +6,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-09T11:40:04+00:00'>Jul 9th 11:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-09T11:40:03+00:00'>Jul 9th 11:40</span></td>
+<td>
+
+🎉 closed [#30: fix(deps): update rust crate clap to v4.5.9](https://github.com/catppuccin/whiskers/pull/30)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-09T11:40:00+00:00'>Jul 9th 11:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-09T11:39:59+00:00'>Jul 9th 11:39</span></td>
+<td>
+
+🎉 closed [#22: fix(deps): update rust crate clap to v4.5.9](https://github.com/catppuccin/catwalk/pull/22)
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-08T13:19:02+00:00'>Jul 8th 13:19</span></td>
 <td>
 
@@ -18,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-08T13:05:05+00:00'>Jul 8th 13:05</span></td>
 <td>
@@ -70,13 +129,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-07T10:50:02+00:00'>Jul 7th 10:50</span></td>
 <td>
@@ -230,58 +282,6 @@
 <td>
 
 [backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-04T09:34:55+00:00'>Jul 4th 09:34</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-04T09:34:54+00:00'>Jul 4th 09:34</span></td>
-<td>
-
-🎉 closed [#56: fix(deps): update dependency matplotlib to v3.9.1](https://github.com/catppuccin/python/pull/56)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-03T18:17:19+00:00'>Jul 3rd 18:17</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[BenjaTK/Gaea](https://github.com/BenjaTK/Gaea)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-03T09:51:36+00:00'>Jul 3rd 09:51</span></td>
-<td>
-
-🚀 opened [#71: docs(readme): fix typo in krita instructions](https://github.com/catppuccin/kde/pull/71)
-
-</td>
-<td>
-
-[catppuccin/kde](https://github.com/catppuccin/kde)
 
 </td>
 </tr>
