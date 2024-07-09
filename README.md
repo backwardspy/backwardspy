@@ -295,6 +295,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851ae1bfd87b2c9f8e048403e58" width="48" height="48"> | [Preboreal](https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Holocene](https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I) |
 | <img src="https://i.scdn.co/image/ab67616d00004851b33220e7f44bf9e4b5c256dd" width="48" height="48"> | [Space](https://open.spotify.com/track/0d3ENsWU1N7ABfwS1i6pep) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Nest](https://open.spotify.com/track/0d3ENsWU1N7ABfwS1i6pep) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c34c564cc80cf98e7391dd87" width="48" height="48"> | [Götterdämmerung](https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/track/6pXKSo89ne9mbPInCWk8dw) |
 | <img src="https://i.scdn.co/image/ab67616d000048519e0c8794ade48c467e064be5" width="48" height="48"> | [Betrayal](https://open.spotify.com/track/612rCzCNbnmo3txoaEiklP) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Gnosis](https://open.spotify.com/track/612rCzCNbnmo3txoaEiklP) |
@@ -304,7 +305,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851caf3f09b0c0777eda7f33f8d" width="48" height="48"> | [Children's Summon](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Devil Is Fine](https://open.spotify.com/track/19AxtqWqG5I2k4J1AwvLdC) |
 | <img src="https://i.scdn.co/image/ab67616d00004851e85a24126a7b79e9c374bb81" width="48" height="48"> | [Miles Away](https://open.spotify.com/track/0Kqo0AYsZ7hSLVYldCwMKy) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Unison Life](https://open.spotify.com/track/0Kqo0AYsZ7hSLVYldCwMKy) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dc000fc92dbc948c816d60ea" width="48" height="48"> | [Endeavour](https://open.spotify.com/track/0HZpa8uOznXxk6uGirHHLo) | [Conjurer](https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ), [Pijn](https://open.spotify.com/artist/088AzItIc1cw6IsZWCyLvw) | [Curse These Metal Hands](https://open.spotify.com/track/0HZpa8uOznXxk6uGirHHLo) |
-| <img src="https://i.scdn.co/image/ab67616d000048510e6daea1db2d8761b57a26f0" width="48" height="48"> | [Naïve](https://open.spotify.com/track/1bwvt2mY3N4y0cmH5nvhl0) | [Hangman's Chair](https://open.spotify.com/artist/3jmqk617nnjalSiZUCaaBi) | [Banlieue triste](https://open.spotify.com/track/1bwvt2mY3N4y0cmH5nvhl0) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
