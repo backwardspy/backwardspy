@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-11T14:21:07+00:00'>Jul 11th 14:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `colour-flavour-names`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-11T14:16:49+00:00'>Jul 11th 14:16</span></td>
+<td>
+
+🚀 opened [#58: feat: add FlavorName and ColorName enums](https://github.com/catppuccin/python/pull/58)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-09T11:40:04+00:00'>Jul 9th 11:40</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-09T11:39:59+00:00'>Jul 9th 11:39</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-08T13:05:05+00:00'>Jul 8th 13:05</span></td>
 <td>
@@ -238,45 +264,6 @@
 <td>
 
 💬 commented on [#5: fix(inscriptions): invalid syntax](https://github.com/backwardspy/backwardspy.github.io/pull/5)
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-04T18:32:46+00:00'>Jul 4th 18:32</span></td>
-<td>
-
-💬 commented on [#4: feat(inscriptions): add chinese (simplified) translation](https://github.com/backwardspy/backwardspy.github.io/pull/4)
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-04T18:32:42+00:00'>Jul 4th 18:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-04T18:32:42+00:00'>Jul 4th 18:32</span></td>
-<td>
-
-🎉 closed [#4: feat(inscriptions): add chinese (simplified) translation](https://github.com/backwardspy/backwardspy.github.io/pull/4)
 
 </td>
 <td>
