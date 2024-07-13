@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-13T15:15:45+00:00'>Jul 13th 15:15</span></td>
+<td>
+
+💬 commented on [#2: refactor: use whiskers](https://github.com/catppuccin/flow-launcher/pull/2)
+
+</td>
+<td>
+
+[catppuccin/flow-launcher](https://github.com/catppuccin/flow-launcher)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-11T14:21:07+00:00'>Jul 11th 14:21</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-09T11:40:00+00:00'>Jul 9th 11:40</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-09T11:39:59+00:00'>Jul 9th 11:39</span></td>
 <td>
@@ -251,19 +264,6 @@
 <td>
 
 🎉 closed [#5: fix(inscriptions): invalid syntax](https://github.com/backwardspy/backwardspy.github.io/pull/5)
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-04T18:38:44+00:00'>Jul 4th 18:38</span></td>
-<td>
-
-💬 commented on [#5: fix(inscriptions): invalid syntax](https://github.com/backwardspy/backwardspy.github.io/pull/5)
 
 </td>
 <td>
