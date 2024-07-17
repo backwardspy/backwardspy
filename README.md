@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-17T15:24:50+00:00'>Jul 17th 15:24</span></td>
+<td>
+
+💬 commented on [#32: Whiskers breaks on some specific color overrides](https://github.com/catppuccin/whiskers/issues/32)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-16T18:36:53+00:00'>Jul 16th 18:36</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-15T10:43:08+00:00'>Jul 15th 10:43</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-15T10:42:56+00:00'>Jul 15th 10:42</span></td>
 <td>
@@ -212,19 +225,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-09T11:40:03+00:00'>Jul 9th 11:40</span></td>
-<td>
-
-🎉 closed [#30: fix(deps): update rust crate clap to v4.5.9](https://github.com/catppuccin/whiskers/pull/30)
 
 </td>
 <td>
