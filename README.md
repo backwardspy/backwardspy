@@ -6,6 +6,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-16T18:36:53+00:00'>Jul 16th 18:36</span></td>
+<td>
+
+💬 commented on [#60: Remove italics in ipython](https://github.com/catppuccin/python/issues/60)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-15T10:43:18+00:00'>Jul 15th 10:43</span></td>
 <td>
 
@@ -57,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-15T10:42:56+00:00'>Jul 15th 10:42</span></td>
 <td>
@@ -70,13 +90,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-15T10:42:56+00:00'>Jul 15th 10:42</span></td>
 <td>
@@ -217,19 +230,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-09T11:40:00+00:00'>Jul 9th 11:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
 
 </td>
 </tr>
