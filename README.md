@@ -6,6 +6,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-18T09:53:53+00:00'>Jul 18th 09:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-18T09:53:53+00:00'>Jul 18th 09:53</span></td>
+<td>
+
+🎉 closed [#33: fix(deps): update rust crate lzma-rust to v0.1.7](https://github.com/catppuccin/whiskers/pull/33)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-18T09:53:43+00:00'>Jul 18th 09:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-18T09:53:43+00:00'>Jul 18th 09:53</span></td>
+<td>
+
+🎉 closed [#34: fix(deps): update rust crate thiserror to v1.0.63](https://github.com/catppuccin/whiskers/pull/34)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-18T09:53:59+00:00'>Jul 18th 09:53</span></td>
+<td>
+
+🎉 closed [#25: fix(deps): update rust crate thiserror to v1.0.63](https://github.com/catppuccin/catwalk/pull/25)
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-07-18T09:54:00+00:00'>Jul 18th 09:54</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-18T08:38:18+00:00'>Jul 18th 08:38</span></td>
 <td>
 
@@ -70,13 +155,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-15T10:43:17+00:00'>Jul 15th 10:43</span></td>
 <td>
@@ -165,84 +243,6 @@
 <td>
 
 [catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:42:09+00:00'>Jul 15th 10:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:42:08+00:00'>Jul 15th 10:42</span></td>
-<td>
-
-🎉 closed [#59: chore(deps): update dependency ruff to v0.5.2](https://github.com/catppuccin/python/pull/59)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:42:04+00:00'>Jul 15th 10:42</span></td>
-<td>
-
-🔍 reviewed [#59: chore(deps): update dependency ruff to v0.5.2](https://github.com/catppuccin/python/pull/59)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-13T15:15:45+00:00'>Jul 13th 15:15</span></td>
-<td>
-
-💬 commented on [#2: refactor: use whiskers](https://github.com/catppuccin/flow-launcher/pull/2)
-
-</td>
-<td>
-
-[catppuccin/flow-launcher](https://github.com/catppuccin/flow-launcher)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-11T14:21:07+00:00'>Jul 11th 14:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `colour-flavour-names`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-11T14:16:49+00:00'>Jul 11th 14:16</span></td>
-<td>
-
-🚀 opened [#58: feat: add FlavorName and ColorName enums](https://github.com/catppuccin/python/pull/58)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
