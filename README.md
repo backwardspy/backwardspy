@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-18T08:38:18+00:00'>Jul 18th 08:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-18T08:38:17+00:00'>Jul 18th 08:38</span></td>
+<td>
+
+🎉 closed [#6: Added german](https://github.com/backwardspy/backwardspy.github.io/pull/6)
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-17T15:24:50+00:00'>Jul 17th 15:24</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-15T10:43:17+00:00'>Jul 15th 10:43</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-15T10:43:08+00:00'>Jul 15th 10:43</span></td>
 <td>
@@ -217,19 +243,6 @@
 <td>
 
 [catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-09T11:40:04+00:00'>Jul 9th 11:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
