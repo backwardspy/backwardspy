@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-19T07:52:15+00:00'>Jul 19th 07:52</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-19T07:52:15+00:00'>Jul 19th 07:52</span></td>
+<td>
+
+🎉 closed [#61: chore(deps): update dependency ruff to v0.5.3](https://github.com/catppuccin/python/pull/61)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-19T07:52:11+00:00'>Jul 19th 07:52</span></td>
+<td>
+
+🔍 reviewed [#61: chore(deps): update dependency ruff to v0.5.3](https://github.com/catppuccin/python/pull/61)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-18T09:53:53+00:00'>Jul 18th 09:53</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-18T09:53:43+00:00'>Jul 18th 09:53</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-18T09:54:00+00:00'>Jul 18th 09:54</span></td>
 <td>
@@ -204,45 +243,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:42:56+00:00'>Jul 15th 10:42</span></td>
-<td>
-
-🎉 closed [#31: fix(deps): update rust crate thiserror to v1.0.62](https://github.com/catppuccin/whiskers/pull/31)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:42:47+00:00'>Jul 15th 10:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:42:46+00:00'>Jul 15th 10:42</span></td>
-<td>
-
-🎉 closed [#246: chore(deps): update dependency ajv to v8.17.1](https://github.com/catppuccin/toolbox/pull/246)
-
-</td>
-<td>
-
-[catppuccin/toolbox](https://github.com/catppuccin/toolbox)
 
 </td>
 </tr>
