@@ -6,6 +6,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-20T10:46:52+00:00'>Jul 20th 10:46</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-20T10:46:51+00:00'>Jul 20th 10:46</span></td>
+<td>
+
+🎉 closed [#62: chore(deps): update dependency mypy to v1.11.0](https://github.com/catppuccin/python/pull/62)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-20T10:46:47+00:00'>Jul 20th 10:46</span></td>
+<td>
+
+🔍 reviewed [#62: chore(deps): update dependency mypy to v1.11.0](https://github.com/catppuccin/python/pull/62)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-19T07:52:15+00:00'>Jul 19th 07:52</span></td>
 <td>
 
@@ -31,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-19T07:52:11+00:00'>Jul 19th 07:52</span></td>
 <td>
@@ -70,13 +116,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-18T09:53:43+00:00'>Jul 18th 09:53</span></td>
 <td>
@@ -204,45 +243,6 @@
 <td>
 
 [catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:43:09+00:00'>Jul 15th 10:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:43:08+00:00'>Jul 15th 10:43</span></td>
-<td>
-
-🎉 closed [#24: fix(deps): update rust crate thiserror to v1.0.62](https://github.com/catppuccin/catwalk/pull/24)
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:42:56+00:00'>Jul 15th 10:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
