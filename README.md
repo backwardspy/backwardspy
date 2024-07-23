@@ -6,6 +6,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-07-23T16:14:32+00:00'>Jul 23rd 16:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-23T16:14:32+00:00'>Jul 23rd 16:14</span></td>
+<td>
+
+🎉 closed [#63: chore(deps): update dependency pytest to v8.3.1](https://github.com/catppuccin/python/pull/63)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-23T16:14:27+00:00'>Jul 23rd 16:14</span></td>
+<td>
+
+🔍 reviewed [#63: chore(deps): update dependency pytest to v8.3.1](https://github.com/catppuccin/python/pull/63)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-23T16:14:20+00:00'>Jul 23rd 16:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-07-23T16:14:19+00:00'>Jul 23rd 16:14</span></td>
+<td>
+
+🎉 closed [#64: chore(deps): update dependency ruff to v0.5.4](https://github.com/catppuccin/python/pull/64)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-07-23T16:14:16+00:00'>Jul 23rd 16:14</span></td>
+<td>
+
+🔍 reviewed [#64: chore(deps): update dependency ruff to v0.5.4](https://github.com/catppuccin/python/pull/64)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-20T10:46:52+00:00'>Jul 20th 10:46</span></td>
 <td>
 
@@ -70,13 +155,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-19T07:52:11+00:00'>Jul 19th 07:52</span></td>
 <td>
@@ -160,84 +238,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-18T08:38:18+00:00'>Jul 18th 08:38</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-18T08:38:17+00:00'>Jul 18th 08:38</span></td>
-<td>
-
-🎉 closed [#6: Added german](https://github.com/backwardspy/backwardspy.github.io/pull/6)
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-17T15:24:50+00:00'>Jul 17th 15:24</span></td>
-<td>
-
-💬 commented on [#32: Whiskers breaks on some specific color overrides](https://github.com/catppuccin/whiskers/issues/32)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-16T18:36:53+00:00'>Jul 16th 18:36</span></td>
-<td>
-
-💬 commented on [#60: Remove italics in ipython](https://github.com/catppuccin/python/issues/60)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:43:18+00:00'>Jul 15th 10:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-15T10:43:17+00:00'>Jul 15th 10:43</span></td>
-<td>
-
-🎉 closed [#23: fix(deps): update rust crate clap_complete to v4.5.8](https://github.com/catppuccin/catwalk/pull/23)
 
 </td>
 <td>
