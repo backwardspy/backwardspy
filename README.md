@@ -256,6 +256,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048512e5b2ebb57dd286d0a0f0909" width="48" height="48"> | [Lotus - Reimagined](https://open.spotify.com/track/7DIH2EjA9mCdsVUegSniKm) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [Lotus (Reimagined)](https://open.spotify.com/track/7DIH2EjA9mCdsVUegSniKm) |
 | <img src="https://i.scdn.co/image/ab67616d00004851bd92d2e8f66f88864ce5e01e" width="48" height="48"> | [Strangers Again](https://open.spotify.com/track/7Kl1uO2Dz3iVZvjUWR8AC0) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Past Lives](https://open.spotify.com/track/7Kl1uO2Dz3iVZvjUWR8AC0) |
 | <img src="https://i.scdn.co/image/ab67616d0000485149035b5bbd117b38790e8856" width="48" height="48"> | [The Seas](https://open.spotify.com/track/0FmlHusxT2iPoRyEiv2jdM) | [Envoi](https://open.spotify.com/artist/2Q3IDyXwjOClGoJKKmlaa1) | [The Seas](https://open.spotify.com/track/0FmlHusxT2iPoRyEiv2jdM) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d9c0be12e6dff6fc01835996" width="48" height="48"> | [The Hymn](https://open.spotify.com/track/2bzb0kwe5ODYef56DzdMg9) | [FLOYA](https://open.spotify.com/artist/1jGACwVpRJvsOfg29pM5L7) | [Yume](https://open.spotify.com/track/2bzb0kwe5ODYef56DzdMg9) |
@@ -265,7 +266,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851a3fd6ca93e5d90f6e4708019" width="48" height="48"> | [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d4d0c1b69fe019d909c557b2" width="48" height="48"> | [Ghost](https://open.spotify.com/track/6V2sMppHFLOWzM1X1aT5VS) | [Envoi](https://open.spotify.com/artist/2Q3IDyXwjOClGoJKKmlaa1) | [Changes](https://open.spotify.com/track/6V2sMppHFLOWzM1X1aT5VS) |
 | <img src="https://i.scdn.co/image/ab67616d000048518b07e15bb992f1bbda332eb1" width="48" height="48"> | [Reflections](https://open.spotify.com/track/5Hu8ghjoVoHK78uCCIiwwC) | [We Are The In Crowd](https://open.spotify.com/artist/1BSXtdFlVDUOS6g1T3tmME) | [Weird Kids](https://open.spotify.com/track/5Hu8ghjoVoHK78uCCIiwwC) |
-| <img src="https://i.scdn.co/image/ab67616d00004851db37da2068ae8ebf18335237" width="48" height="48"> | [Out Of Your Mind (feat. Against The Current)](https://open.spotify.com/track/0V0CWKcQFEeWJInQMefvO8) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Nosebleeds: Encore](https://open.spotify.com/track/0V0CWKcQFEeWJInQMefvO8) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
