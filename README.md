@@ -256,6 +256,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048512104ec6803bdd7acb20309bf" width="48" height="48"> | [Head Above Water](https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Head Above Water](https://open.spotify.com/track/7gY3cyGcB2wnk2xDXiA0pe) |
 | <img src="https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432" width="48" height="48"> | [My Immortal](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/track/4UzVcXufOhGUwF56HT7b8M) |
 | <img src="https://i.scdn.co/image/ab67616d000048515f1f51d14e8bea89484ecd1b" width="48" height="48"> | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) |
 | <img src="https://i.scdn.co/image/ab67616d0000485124889965c2b453cbd439a7f6" width="48" height="48"> | [Break Your Little Heart](https://open.spotify.com/track/3d3rJ0qtOU5aNX324mNWfo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal (Deluxe Version)](https://open.spotify.com/track/3d3rJ0qtOU5aNX324mNWfo) |
@@ -265,7 +266,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851f7ec724fbf97a30869d06240" width="48" height="48"> | [Losing Grip](https://open.spotify.com/track/2LA4v20vokK9Uaj7WEEMaf) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/track/2LA4v20vokK9Uaj7WEEMaf) |
 | <img src="https://i.scdn.co/image/ab67616d00004851e8b923caee478adf4a5b56de" width="48" height="48"> | [I Write Sins Not Tragedies](https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz) |
 | <img src="https://i.scdn.co/image/ab67616d0000485108a2b8e9210f518f6f4fbb8a" width="48" height="48"> | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) |
-| <img src="https://i.scdn.co/image/ab67616d000048516da502e35a7a3e48de2b0f74" width="48" height="48"> | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
