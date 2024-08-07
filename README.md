@@ -6,6 +6,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-08-07T11:53:51+00:00'>Aug 7th 11:53</span></td>
+<td>
+
+🚀 opened [#156: tradukoj(en): plifluigi iom el la anglaj frazoj](https://github.com/Esperanto/kurso-zagreba-metodo/pull/156)
+
+</td>
+<td>
+
+[Esperanto/kurso-zagreba-metodo](https://github.com/Esperanto/kurso-zagreba-metodo)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-08-07T11:42:50+00:00'>Aug 7th 11:42</span></td>
+<td>
+
+🚢 pushed 1 commit to `en-tradukoj`
+
+</td>
+<td>
+
+[backwardspy/kurso-zagreba-metodo](https://github.com/backwardspy/kurso-zagreba-metodo)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-07-23T16:14:32+00:00'>Jul 23rd 16:14</span></td>
 <td>
 
@@ -44,6 +70,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-07-23T16:14:20+00:00'>Jul 23rd 16:14</span></td>
 <td>
@@ -70,13 +103,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-23T16:14:16+00:00'>Jul 23rd 16:14</span></td>
 <td>
@@ -191,45 +217,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-18T09:53:43+00:00'>Jul 18th 09:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-18T09:53:43+00:00'>Jul 18th 09:53</span></td>
-<td>
-
-🎉 closed [#34: fix(deps): update rust crate thiserror to v1.0.63](https://github.com/catppuccin/whiskers/pull/34)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-18T09:53:59+00:00'>Jul 18th 09:53</span></td>
-<td>
-
-🎉 closed [#25: fix(deps): update rust crate thiserror to v1.0.63](https://github.com/catppuccin/catwalk/pull/25)
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
 
 </td>
 </tr>
