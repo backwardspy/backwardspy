@@ -233,19 +233,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-07-18T09:54:00+00:00'>Jul 18th 09:54</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catwalk](https://github.com/catppuccin/catwalk)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
