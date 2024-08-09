@@ -230,6 +230,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048517d6cd95a046a3c0dacbc7d33" width="48" height="48"> | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fc15e9f9cc119676339ea396" width="48" height="48"> | [Fake As Hell (with Avril Lavigne)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell (with Avril Lavigne)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) |
 | <img src="https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6" width="48" height="48"> | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
 | <img src="https://i.scdn.co/image/ab67616d000048512160c02bc56f192df0f4986b" width="48" height="48"> | [I Want It That Way](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya) |
@@ -239,7 +240,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048513b27e1cd8a6bc6804c2e5fd2" width="48" height="48"> | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane (10th Anniversary Edition)](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) |
 | <img src="https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd" width="48" height="48"> | [The Only Exception](https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/track/3ZHfX6kbiY7JVsB63lLOLu) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f7ec724fbf97a30869d06240" width="48" height="48"> | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) |
-| <img src="https://i.scdn.co/image/ab67616d00004851254c8a09649551438b20f4c0" width="48" height="48"> | [22](https://open.spotify.com/track/3WC5CVAahvn98hiseoIvbw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red (Deluxe Edition)](https://open.spotify.com/track/3WC5CVAahvn98hiseoIvbw) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
