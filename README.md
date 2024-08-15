@@ -230,6 +230,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851cb7523307aac3e10b66bef40" width="48" height="48"> | [Talk](https://open.spotify.com/track/57UeXVfGuRB5vs6b0hRD3y) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Gravity](https://open.spotify.com/track/57UeXVfGuRB5vs6b0hRD3y) |
+| <img src="https://i.scdn.co/image/ab67616d000048516c050d183c1fff7158c7bcd3" width="48" height="48"> | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d7b980d58a06dcfcac5d506f" width="48" height="48"> | [Freak Like Me](https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc), [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Freak Like Me](https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ad950101d5da1d5eec67866a" width="48" height="48"> | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f1cb5ebc7735d60fa10b593b" width="48" height="48"> | [Angel's Suicide](https://open.spotify.com/track/6NrK2wsEUWLCgUlIXNDxTP) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Phoenix](https://open.spotify.com/track/6NrK2wsEUWLCgUlIXNDxTP) |
@@ -238,8 +240,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851f98edbc89407338a90437d34" width="48" height="48"> | [False Pretense](https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X) |
 | <img src="https://i.scdn.co/image/ab67616d00004851413697269620e16f4466f543" width="48" height="48"> | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) |
 | <img src="https://i.scdn.co/image/ab67616d000048512868c4713a3912fd476b42f1" width="48" height="48"> | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) |
-| <img src="https://i.scdn.co/image/ab67616d0000485128b45bfdfd877c8040de8f36" width="48" height="48"> | [Check Yes Juliet](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) |
-| <img src="https://i.scdn.co/image/ab67616d000048514e4c1b9ccbdc7e62b573073c" width="48" height="48"> | [A Little Faster](https://open.spotify.com/track/0YwqJeTUyviMJw70jRt9ET) | [There For Tomorrow](https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM) | [A Little Faster](https://open.spotify.com/track/0YwqJeTUyviMJw70jRt9ET) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
