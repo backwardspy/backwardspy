@@ -230,6 +230,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851d7b980d58a06dcfcac5d506f" width="48" height="48"> | [Freak Like Me](https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc), [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Freak Like Me](https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ad950101d5da1d5eec67866a" width="48" height="48"> | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f1cb5ebc7735d60fa10b593b" width="48" height="48"> | [Angel's Suicide](https://open.spotify.com/track/6NrK2wsEUWLCgUlIXNDxTP) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Phoenix](https://open.spotify.com/track/6NrK2wsEUWLCgUlIXNDxTP) |
 | <img src="https://i.scdn.co/image/ab67616d000048511c8fdee084d512a902ee47bf" width="48" height="48"> | [Miracle](https://open.spotify.com/track/1sSlJ5m1pON2uGFbFHNQgc) | [Tigress](https://open.spotify.com/artist/4wJ6pekF4hqpKdlXco2rJN) | [Human](https://open.spotify.com/track/1sSlJ5m1pON2uGFbFHNQgc) |
@@ -239,7 +240,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048512868c4713a3912fd476b42f1" width="48" height="48"> | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) |
 | <img src="https://i.scdn.co/image/ab67616d0000485128b45bfdfd877c8040de8f36" width="48" height="48"> | [Check Yes Juliet](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) |
 | <img src="https://i.scdn.co/image/ab67616d000048514e4c1b9ccbdc7e62b573073c" width="48" height="48"> | [A Little Faster](https://open.spotify.com/track/0YwqJeTUyviMJw70jRt9ET) | [There For Tomorrow](https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM) | [A Little Faster](https://open.spotify.com/track/0YwqJeTUyviMJw70jRt9ET) |
-| <img src="https://i.scdn.co/image/ab67616d00004851890ce61533a89e00ce593fcb" width="48" height="48"> | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
