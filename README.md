@@ -243,6 +243,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851a9bae94ddb20a71f573931c0" width="48" height="48"> | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b" width="48" height="48"> | [Jesus of Suburbia](https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr) |
 | <img src="https://i.scdn.co/image/ab67616d000048513c6b064abe936e3b6e4df951" width="48" height="48"> | [Wasting Away](https://open.spotify.com/track/1LMcMOoAxJ7Pa9FO2Ke5ym) | [Tonight Alive](https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh) | [All Shapes & Disguises](https://open.spotify.com/track/1LMcMOoAxJ7Pa9FO2Ke5ym) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d1fd8f264564d9eef7617a45" width="48" height="48"> | [Way Away](https://open.spotify.com/track/63IIUzd6eJBfCGIcF8MFnJ) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/track/63IIUzd6eJBfCGIcF8MFnJ) |
@@ -252,7 +253,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048516c050d183c1fff7158c7bcd3" width="48" height="48"> | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d7b980d58a06dcfcac5d506f" width="48" height="48"> | [Freak Like Me](https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc), [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Freak Like Me](https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ad950101d5da1d5eec67866a" width="48" height="48"> | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bad Decisions](https://open.spotify.com/track/2uJvuMZVAfnWa3lTTxJW9q) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f1cb5ebc7735d60fa10b593b" width="48" height="48"> | [Angel's Suicide](https://open.spotify.com/track/6NrK2wsEUWLCgUlIXNDxTP) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Phoenix](https://open.spotify.com/track/6NrK2wsEUWLCgUlIXNDxTP) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
