@@ -1,5 +1,7 @@
 # check out [@catppuccin](https://github.com/catppuccin) it's pretty great
 
+![the greatest praise i've ever received](https://github.com/user-attachments/assets/ad888e4f-7a22-4eac-85a7-744eacd8eb46)
+
 ## 📅 recent activity
 
 <!-- SCRIPT:REPLACE:GITHUB -->
