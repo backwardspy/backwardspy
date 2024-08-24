@@ -245,6 +245,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851f206fb78ea18c379191dba77" width="48" height="48"> | [War](https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c418220159462cdd7cfeb9a1" width="48" height="48"> | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces - Bonus Track Version](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) |
 | <img src="https://i.scdn.co/image/ab67616d00004851283177f0bb90830a72303227" width="48" height="48"> | [For You, And Your Denial](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [When You're Through Thinking, Say Yes](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) |
 | <img src="https://i.scdn.co/image/ab67616d00004851618ddee85455e7d12c861194" width="48" height="48"> | [I Just Wanna Run](https://open.spotify.com/track/3WLLJzllBEgPiSA0qd3BN3) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [Let's Be Animals](https://open.spotify.com/track/3WLLJzllBEgPiSA0qd3BN3) |
@@ -254,7 +255,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851a9bae94ddb20a71f573931c0" width="48" height="48"> | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a9bae94ddb20a71f573931c0" width="48" height="48"> | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) |
 | <img src="https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b" width="48" height="48"> | [Jesus of Suburbia](https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/track/58KPPL1AdLHMvR2O2PZejr) |
-| <img src="https://i.scdn.co/image/ab67616d000048513c6b064abe936e3b6e4df951" width="48" height="48"> | [Wasting Away](https://open.spotify.com/track/1LMcMOoAxJ7Pa9FO2Ke5ym) | [Tonight Alive](https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh) | [All Shapes & Disguises](https://open.spotify.com/track/1LMcMOoAxJ7Pa9FO2Ke5ym) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
