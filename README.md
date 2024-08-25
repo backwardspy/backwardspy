@@ -8,6 +8,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-08-24T22:24:02+00:00'>Aug 24th 22:24</span></td>
+<td>
+
+✅ closed [#430: Sync icon pack broken when color theme is changed via UI](https://github.com/catppuccin/vscode/issues/430)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-08-24T22:24:02+00:00'>Aug 24th 22:24</span></td>
+<td>
+
+✅ closed [#430: Sync icon pack broken when color theme is changed via UI](https://github.com/catppuccin/vscode/issues/430)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-08-24T22:24:02+00:00'>Aug 24th 22:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-08-24T22:24:01+00:00'>Aug 24th 22:24</span></td>
+<td>
+
+🎉 closed [#431: Fix desync between icon pack and color theme](https://github.com/catppuccin/vscode/pull/431)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-08-24T22:19:26+00:00'>Aug 24th 22:19</span></td>
+<td>
+
+🔍 reviewed [#431: Fix desync between icon pack and color theme](https://github.com/catppuccin/vscode/pull/431)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2024-08-15T20:00:40+00:00'>Aug 15th 20:00</span></td>
 <td>
 
@@ -72,13 +144,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-07-23T16:14:32+00:00'>Jul 23rd 16:14</span></td>
 <td>
@@ -188,45 +253,6 @@
 <td>
 
 🔍 reviewed [#62: chore(deps): update dependency mypy to v1.11.0](https://github.com/catppuccin/python/pull/62)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-19T07:52:15+00:00'>Jul 19th 07:52</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-19T07:52:15+00:00'>Jul 19th 07:52</span></td>
-<td>
-
-🎉 closed [#61: chore(deps): update dependency ruff to v0.5.3](https://github.com/catppuccin/python/pull/61)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-19T07:52:11+00:00'>Jul 19th 07:52</span></td>
-<td>
-
-🔍 reviewed [#61: chore(deps): update dependency ruff to v0.5.3](https://github.com/catppuccin/python/pull/61)
 
 </td>
 <td>
