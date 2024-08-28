@@ -248,19 +248,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-07-23T16:14:16+00:00'>Jul 23rd 16:14</span></td>
-<td>
-
-🔍 reviewed [#64: chore(deps): update dependency ruff to v0.5.4](https://github.com/catppuccin/python/pull/64)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
