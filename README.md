@@ -271,6 +271,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851668e3aca3167e6e569a9aa20" width="48" height="48"> | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets (Remastered)](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [Ignite Defense](https://open.spotify.com/track/7plXxGZhdE3OgGvDAdwlr2) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/7plXxGZhdE3OgGvDAdwlr2) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Bye Bye Babylon](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) |
 | <img src="https://i.scdn.co/image/ab67616d000048510583618ae0ef3c3589d8c48a" width="48" height="48"> | [Build The Cities (Empire of Sound)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) | [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Build The Cities (Reconstructions)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) |
@@ -280,7 +281,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485105d6b49c83f01104fa15a9aa" width="48" height="48"> | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) |
 | <img src="https://i.scdn.co/image/ab67616d0000485105d6b49c83f01104fa15a9aa" width="48" height="48"> | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f054228b2de7b9621aabac11" width="48" height="48"> | [Title Theme](https://open.spotify.com/track/0VeCooPK1t4NfPFt68DTrU) | [monomer](https://open.spotify.com/artist/4bSHri2JUOPBJvMG9UvFe8) | [The Mummy Demastered (Original Video Game Soundtrack)](https://open.spotify.com/track/0VeCooPK1t4NfPFt68DTrU) |
-| <img src="https://i.scdn.co/image/ab67616d0000485133bf1703cd250bd882bcac4c" width="48" height="48"> | [Last Summer](https://open.spotify.com/track/7pxRBbUWBcVoTWi3MiFl6V) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Last Summer](https://open.spotify.com/track/7pxRBbUWBcVoTWi3MiFl6V) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
