@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-08-31T09:45:03+00:00'>Aug 31st 09:45</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-08-25T10:53:56+00:00'>Aug 25th 10:53</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-08-24T22:24:02+00:00'>Aug 24th 22:24</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-08-24T22:24:02+00:00'>Aug 24th 22:24</span></td>
 <td>
@@ -235,19 +248,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-07-23T16:14:19+00:00'>Jul 23rd 16:14</span></td>
-<td>
-
-🎉 closed [#64: chore(deps): update dependency ruff to v0.5.4](https://github.com/catppuccin/python/pull/64)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -258,16 +258,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d00004851668e3aca3167e6e569a9aa20" width="48" height="48"> | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets (Remastered)](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [Ignite Defense](https://open.spotify.com/track/7plXxGZhdE3OgGvDAdwlr2) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/7plXxGZhdE3OgGvDAdwlr2) |
-| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Bye Bye Babylon](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) |
-| <img src="https://i.scdn.co/image/ab67616d000048510583618ae0ef3c3589d8c48a" width="48" height="48"> | [Build The Cities (Empire of Sound)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) | [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Build The Cities (Reconstructions)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) |
-| <img src="https://i.scdn.co/image/ab67616d00004851520e5e24b197940bf82c5d6b" width="48" height="48"> | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) |
-| <img src="https://i.scdn.co/image/ab67616d000048514bc9546da80facf6a57cf326" width="48" height="48"> | [Children of the Sky](https://open.spotify.com/track/2L3lYfrnZdm13IgvwR6HTW) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Children of the Sky](https://open.spotify.com/track/2L3lYfrnZdm13IgvwR6HTW) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a48bde6cf45881944dd611a5" width="48" height="48"> | [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) | [Disfigure](https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w) | [Blank](https://open.spotify.com/track/7ucAyhKPjKsLrP14q4mcyo) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f1cb5ebc7735d60fa10b593b" width="48" height="48"> | [Oblivion](https://open.spotify.com/track/0xETlTD0Lp0IhIwxL4trYK) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Phoenix](https://open.spotify.com/track/0xETlTD0Lp0IhIwxL4trYK) |
+| <img src="https://i.scdn.co/image/ab67616d000048512e5b2ebb57dd286d0a0f0909" width="48" height="48"> | [Lotus - Reimagined](https://open.spotify.com/track/7DIH2EjA9mCdsVUegSniKm) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [Lotus (Reimagined)](https://open.spotify.com/track/7DIH2EjA9mCdsVUegSniKm) |
+| <img src="https://i.scdn.co/image/ab67616d0000485149035b5bbd117b38790e8856" width="48" height="48"> | [The Seas](https://open.spotify.com/track/0FmlHusxT2iPoRyEiv2jdM) | [Envoi](https://open.spotify.com/artist/2Q3IDyXwjOClGoJKKmlaa1) | [The Seas](https://open.spotify.com/track/0FmlHusxT2iPoRyEiv2jdM) |
+| <img src="https://i.scdn.co/image/ab67616d000048516549db795138dc2b76258712" width="48" height="48"> | [Indiscriminate Murder is Counter-Productive](https://open.spotify.com/track/6f21qMrjxjxQkMgxjEMn5o) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [A View From The End Of The World](https://open.spotify.com/track/6f21qMrjxjxQkMgxjEMn5o) |
+| <img src="https://i.scdn.co/image/ab67616d0000485122cfd1daab517361e7987929" width="48" height="48"> | [Knightmare/Frame](https://open.spotify.com/track/7ICQJPECy8842wCa6AfwCK) | [Area 11](https://open.spotify.com/artist/3jULn43a6xfzqleyeFjPIq) | [All the Lights in the Sky](https://open.spotify.com/track/7ICQJPECy8842wCa6AfwCK) |
+| <img src="https://i.scdn.co/image/ab67616d000048514f4436c19c2947d19a76b0f4" width="48" height="48"> | [Alive feat. Lara Woolf - Original Mix](https://open.spotify.com/track/1Btdt8tgW5QatxnKlbaCk5) | [Case & Point](https://open.spotify.com/artist/1Bj395MP3AL2B6KouMzkFO), [Lara Woolf](https://open.spotify.com/artist/36VefBeYANvK4tJQVzmdtE) | [Alive feat. Lara Woolf](https://open.spotify.com/track/1Btdt8tgW5QatxnKlbaCk5) |
+| <img src="https://i.scdn.co/image/ab67616d000048513d2fedd8fae46b28c7a80410" width="48" height="48"> | [Slipping](https://open.spotify.com/track/7piKVALJFj1tIGKI1E47FP) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Slipping](https://open.spotify.com/track/7piKVALJFj1tIGKI1E47FP) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80386](https://open.spotify.com/track/3CAhRvimHpgbFBv5RbgWQI) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/3CAhRvimHpgbFBv5RbgWQI) |
 | <img src="https://i.scdn.co/image/ab67616d0000485105d6b49c83f01104fa15a9aa" width="48" height="48"> | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) |
-| <img src="https://i.scdn.co/image/ab67616d0000485105d6b49c83f01104fa15a9aa" width="48" height="48"> | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [Chipland](https://open.spotify.com/track/7Hu6DiYww3koCvoNqm9Qt3) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f054228b2de7b9621aabac11" width="48" height="48"> | [Title Theme](https://open.spotify.com/track/0VeCooPK1t4NfPFt68DTrU) | [monomer](https://open.spotify.com/artist/4bSHri2JUOPBJvMG9UvFe8) | [The Mummy Demastered (Original Video Game Soundtrack)](https://open.spotify.com/track/0VeCooPK1t4NfPFt68DTrU) |
+| <img src="https://i.scdn.co/image/ab67616d000048519d92c1661f5a7784808fabdb" width="48" height="48"> | [Forget Me Now](https://open.spotify.com/track/7a4mTLsXkBfRrakiKQVCTQ) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [In Our Bones](https://open.spotify.com/track/7a4mTLsXkBfRrakiKQVCTQ) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
