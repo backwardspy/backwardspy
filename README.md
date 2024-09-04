@@ -8,6 +8,208 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-04T18:41:23+00:00'>Sep 4th 18:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:41:23+00:00'>Sep 4th 18:41</span></td>
+<td>
+
+🎉 closed [#65: chore(deps): update dependency pytest to v8.3.2](https://github.com/catppuccin/python/pull/65)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:41:19+00:00'>Sep 4th 18:41</span></td>
+<td>
+
+🔍 reviewed [#65: chore(deps): update dependency pytest to v8.3.2](https://github.com/catppuccin/python/pull/65)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:41:07+00:00'>Sep 4th 18:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:41:07+00:00'>Sep 4th 18:41</span></td>
+<td>
+
+🎉 closed [#67: chore(deps): update dependency mypy to v1.11.2](https://github.com/catppuccin/python/pull/67)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-09-04T18:40:59+00:00'>Sep 4th 18:40</span></td>
+<td>
+
+🔍 reviewed [#67: chore(deps): update dependency mypy to v1.11.2](https://github.com/catppuccin/python/pull/67)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:40:48+00:00'>Sep 4th 18:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:40:47+00:00'>Sep 4th 18:40</span></td>
+<td>
+
+🎉 closed [#70: chore(deps): update dependency ruff to ^0.6.0](https://github.com/catppuccin/python/pull/70)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:40:43+00:00'>Sep 4th 18:40</span></td>
+<td>
+
+🔍 reviewed [#70: chore(deps): update dependency ruff to ^0.6.0](https://github.com/catppuccin/python/pull/70)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:40:25+00:00'>Sep 4th 18:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:40:25+00:00'>Sep 4th 18:40</span></td>
+<td>
+
+🎉 closed [#71: fix(deps): update dependency rich to v13.8.0](https://github.com/catppuccin/python/pull/71)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T18:40:00+00:00'>Sep 4th 18:40</span></td>
+<td>
+
+🔍 reviewed [#71: fix(deps): update dependency rich to v13.8.0](https://github.com/catppuccin/python/pull/71)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T17:19:30+00:00'>Sep 4th 17:19</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T17:19:29+00:00'>Sep 4th 17:19</span></td>
+<td>
+
+🎉 closed [#68: fix(deps): update dependency matplotlib to v3.9.2](https://github.com/catppuccin/python/pull/68)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T17:17:33+00:00'>Sep 4th 17:17</span></td>
+<td>
+
+🚢 pushed 1 commit to `renovate/matplotlib-3.x-lockfile`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-04T16:52:26+00:00'>Sep 4th 16:52</span></td>
 <td>
 
@@ -69,195 +271,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2024-08-31T09:45:03+00:00'>Aug 31st 09:45</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-25T10:53:56+00:00'>Aug 25th 10:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-25T10:53:56+00:00'>Aug 25th 10:53</span></td>
-<td>
-
-🎉 closed [#432: chore: release main](https://github.com/catppuccin/vscode/pull/432)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-25T10:53:52+00:00'>Aug 25th 10:53</span></td>
-<td>
-
-🔍 reviewed [#432: chore: release main](https://github.com/catppuccin/vscode/pull/432)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-24T22:24:02+00:00'>Aug 24th 22:24</span></td>
-<td>
-
-✅ closed [#430: Sync icon pack broken when color theme is changed via UI](https://github.com/catppuccin/vscode/issues/430)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-24T22:24:02+00:00'>Aug 24th 22:24</span></td>
-<td>
-
-✅ closed [#430: Sync icon pack broken when color theme is changed via UI](https://github.com/catppuccin/vscode/issues/430)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-24T22:24:02+00:00'>Aug 24th 22:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-24T22:24:01+00:00'>Aug 24th 22:24</span></td>
-<td>
-
-🎉 closed [#431: Fix desync between icon pack and color theme](https://github.com/catppuccin/vscode/pull/431)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-24T22:19:26+00:00'>Aug 24th 22:19</span></td>
-<td>
-
-🔍 reviewed [#431: Fix desync between icon pack and color theme](https://github.com/catppuccin/vscode/pull/431)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-15T20:00:40+00:00'>Aug 15th 20:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-15T20:00:40+00:00'>Aug 15th 20:00</span></td>
-<td>
-
-🎉 closed [#69: fix(scripts/build-gh-pages): add `code` selector for pygments styles](https://github.com/catppuccin/python/pull/69)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-15T20:00:34+00:00'>Aug 15th 20:00</span></td>
-<td>
-
-🔍 reviewed [#69: fix(scripts/build-gh-pages): add `code` selector for pygments styles](https://github.com/catppuccin/python/pull/69)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-07T11:53:51+00:00'>Aug 7th 11:53</span></td>
-<td>
-
-🚀 opened [#156: tradukoj(en): plifluigi iom el la anglaj frazoj](https://github.com/Esperanto/kurso-zagreba-metodo/pull/156)
-
-</td>
-<td>
-
-[Esperanto/kurso-zagreba-metodo](https://github.com/Esperanto/kurso-zagreba-metodo)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-08-07T11:42:50+00:00'>Aug 7th 11:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `en-tradukoj`
-
-</td>
-<td>
-
-[backwardspy/kurso-zagreba-metodo](https://github.com/backwardspy/kurso-zagreba-metodo)
 
 </td>
 </tr>
