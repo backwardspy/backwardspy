@@ -8,6 +8,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-04T16:52:26+00:00'>Sep 4th 16:52</span></td>
+<td>
+
+🔍 reviewed [#68: fix(deps): update dependency matplotlib to v3.9.2](https://github.com/catppuccin/python/pull/68)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T16:38:03+00:00'>Sep 4th 16:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T16:38:02+00:00'>Sep 4th 16:38</span></td>
+<td>
+
+🎉 closed [#73: Move iterable docstring from Flavor to FlavorColors](https://github.com/catppuccin/python/pull/73)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T16:37:58+00:00'>Sep 4th 16:37</span></td>
+<td>
+
+🔍 reviewed [#73: Move iterable docstring from Flavor to FlavorColors](https://github.com/catppuccin/python/pull/73)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-04T16:02:02+00:00'>Sep 4th 16:02</span></td>
+<td>
+
+💬 commented on [#2520: Mintty](https://github.com/catppuccin/catppuccin/issues/2520)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2024-08-31T09:45:03+00:00'>Aug 31st 09:45</span></td>
 <td>
 
@@ -72,13 +144,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-08-24T22:24:02+00:00'>Aug 24th 22:24</span></td>
 <td>
@@ -193,58 +258,6 @@
 <td>
 
 [backwardspy/kurso-zagreba-metodo](https://github.com/backwardspy/kurso-zagreba-metodo)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-23T16:14:32+00:00'>Jul 23rd 16:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-23T16:14:32+00:00'>Jul 23rd 16:14</span></td>
-<td>
-
-🎉 closed [#63: chore(deps): update dependency pytest to v8.3.1](https://github.com/catppuccin/python/pull/63)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-23T16:14:27+00:00'>Jul 23rd 16:14</span></td>
-<td>
-
-🔍 reviewed [#63: chore(deps): update dependency pytest to v8.3.1](https://github.com/catppuccin/python/pull/63)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-07-23T16:14:20+00:00'>Jul 23rd 16:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
