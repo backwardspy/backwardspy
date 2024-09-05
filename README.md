@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-05T16:05:41+00:00'>Sep 5th 16:05</span></td>
+<td>
+
+🔍 reviewed [#18: docs(rulesets): standardise repository rulesets](https://github.com/catppuccin/.github/pull/18)
+
+</td>
+<td>
+
+[catppuccin/.github](https://github.com/catppuccin/.github)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-04T19:18:24+00:00'>Sep 4th 19:18</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-04T18:41:23+00:00'>Sep 4th 18:41</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-04T18:41:23+00:00'>Sep 4th 18:41</span></td>
 <td>
@@ -240,19 +253,6 @@
 <td>
 
 🎉 closed [#68: fix(deps): update dependency matplotlib to v3.9.2](https://github.com/catppuccin/python/pull/68)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-04T17:17:33+00:00'>Sep 4th 17:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `renovate/matplotlib-3.x-lockfile`
 
 </td>
 <td>
