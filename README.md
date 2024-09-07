@@ -8,6 +8,117 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-07T10:49:25+00:00'>Sep 7th 10:49</span></td>
+<td>
+
+💬 commented on [#27: feat: add signed & unsigned integer colour repr](https://github.com/catppuccin/whiskers/pull/27)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-07T10:40:36+00:00'>Sep 7th 10:40</span></td>
+<td>
+
+💬 commented on [#2: 🐛 Fix Worldle regex to allow date](https://github.com/backwardspy/casper-cogs/pull/2)
+
+</td>
+<td>
+
+[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-07T10:40:31+00:00'>Sep 7th 10:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-07T10:40:30+00:00'>Sep 7th 10:40</span></td>
+<td>
+
+🎉 closed [#2: 🐛 Fix Worldle regex to allow date](https://github.com/backwardspy/casper-cogs/pull/2)
+
+</td>
+<td>
+
+[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-07T10:16:40+00:00'>Sep 7th 10:16</span></td>
+<td>
+
+💬 commented on [#1: 🐛Fix Wordle regex to allow comma](https://github.com/backwardspy/casper-cogs/pull/1)
+
+</td>
+<td>
+
+[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-09-07T10:16:34+00:00'>Sep 7th 10:16</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-07T10:16:34+00:00'>Sep 7th 10:16</span></td>
+<td>
+
+🎉 closed [#1: 🐛Fix Wordle regex to allow comma](https://github.com/backwardspy/casper-cogs/pull/1)
+
+</td>
+<td>
+
+[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-07T10:08:26+00:00'>Sep 7th 10:08</span></td>
+<td>
+
+💬 commented on [#434: Font ghosting when in pre-edit mode](https://github.com/catppuccin/vscode/issues/434)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-05T18:03:16+00:00'>Sep 5th 18:03</span></td>
 <td>
 
@@ -72,13 +183,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-04T19:18:20+00:00'>Sep 4th 19:18</span></td>
 <td>
@@ -183,84 +287,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-09-04T18:40:48+00:00'>Sep 4th 18:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-04T18:40:47+00:00'>Sep 4th 18:40</span></td>
-<td>
-
-🎉 closed [#70: chore(deps): update dependency ruff to ^0.6.0](https://github.com/catppuccin/python/pull/70)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-04T18:40:43+00:00'>Sep 4th 18:40</span></td>
-<td>
-
-🔍 reviewed [#70: chore(deps): update dependency ruff to ^0.6.0](https://github.com/catppuccin/python/pull/70)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-04T18:40:25+00:00'>Sep 4th 18:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-04T18:40:25+00:00'>Sep 4th 18:40</span></td>
-<td>
-
-🎉 closed [#71: fix(deps): update dependency rich to v13.8.0](https://github.com/catppuccin/python/pull/71)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-04T18:40:00+00:00'>Sep 4th 18:40</span></td>
-<td>
-
-🔍 reviewed [#71: fix(deps): update dependency rich to v13.8.0](https://github.com/catppuccin/python/pull/71)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -271,6 +297,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851d4d0c1b69fe019d909c557b2" width="48" height="48"> | [Raising the Bar](https://open.spotify.com/track/0O8PsTZIMbwGjJM7q1LKSk) | [Envoi](https://open.spotify.com/artist/2Q3IDyXwjOClGoJKKmlaa1) | [Changes](https://open.spotify.com/track/0O8PsTZIMbwGjJM7q1LKSk) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dbb712b713f600cf86348a01" width="48" height="48"> | [Winter Soldier](https://open.spotify.com/track/6kmBJSaEfwhOXsmotTucb3) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [Cold Blooded](https://open.spotify.com/track/6kmBJSaEfwhOXsmotTucb3) |
 | <img src="https://i.scdn.co/image/ab67616d00004851734dbf67d585a457a8d2b676" width="48" height="48"> | [Any Other Way](https://open.spotify.com/track/5FYlc7iKGQTlXjIKdBSgWB) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Somewhere Somehow](https://open.spotify.com/track/5FYlc7iKGQTlXjIKdBSgWB) |
 | <img src="https://i.scdn.co/image/ab67616d00004851728fc6916cc9b13939d9fc2d" width="48" height="48"> | [Cold Green Eyes - Original Mix](https://open.spotify.com/track/2gtBcLNjFMi8l5xSz66Fsb) | [Station Earth](https://open.spotify.com/artist/1G9FmqZJybVEOXqMOR5usy), [Roos Denayer](https://open.spotify.com/artist/0tsKdteyh5ArMn3pAUiSff) | [Cold Green Eyes](https://open.spotify.com/track/2gtBcLNjFMi8l5xSz66Fsb) |
@@ -280,7 +307,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851c097a06bab3b8045b498e28c" width="48" height="48"> | [Above the Sky](https://open.spotify.com/track/02WitL66kM2ObNDkM95rFD) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Above the Sky](https://open.spotify.com/track/02WitL66kM2ObNDkM95rFD) |
 | <img src="https://i.scdn.co/image/ab67616d0000485122cfd1daab517361e7987929" width="48" height="48"> | [Euphemia](https://open.spotify.com/track/1hSjuzr4RQOVkpLOICoD37) | [Area 11](https://open.spotify.com/artist/3jULn43a6xfzqleyeFjPIq) | [All the Lights in the Sky](https://open.spotify.com/track/1hSjuzr4RQOVkpLOICoD37) |
 | <img src="https://i.scdn.co/image/ab67616d0000485195e61d19d37a4c0a34e6f952" width="48" height="48"> | [Moonglow](https://open.spotify.com/track/1fKaObKEtnVZrnhcqqLKAx) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Candice Night](https://open.spotify.com/artist/4ZM0E70MLZ38Bj1g300V18) | [Moonglow](https://open.spotify.com/track/1fKaObKEtnVZrnhcqqLKAx) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b70ab308e75b47b297013f66" width="48" height="48"> | [Dead man walking](https://open.spotify.com/track/3WQAnAi1JAG6xjJdUZqqw4) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [The full story of Diane](https://open.spotify.com/track/3WQAnAi1JAG6xjJdUZqqw4) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
