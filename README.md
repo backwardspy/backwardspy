@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-07T15:27:33+00:00'>Sep 7th 15:27</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[devcontainers/features](https://github.com/devcontainers/features)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-07T15:27:29+00:00'>Sep 7th 15:27</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[devcontainers-contrib/features](https://github.com/devcontainers-contrib/features)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-07T10:49:25+00:00'>Sep 7th 10:49</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-07T10:40:30+00:00'>Sep 7th 10:40</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-07T10:16:34+00:00'>Sep 7th 10:16</span></td>
 <td>
@@ -266,19 +292,6 @@
 <td>
 
 🎉 closed [#67: chore(deps): update dependency mypy to v1.11.2](https://github.com/catppuccin/python/pull/67)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-04T18:40:59+00:00'>Sep 4th 18:40</span></td>
-<td>
-
-🔍 reviewed [#67: chore(deps): update dependency mypy to v1.11.2](https://github.com/catppuccin/python/pull/67)
 
 </td>
 <td>
