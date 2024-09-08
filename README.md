@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-08T09:20:56+00:00'>Sep 8th 09:20</span></td>
+<td>
+
+💬 commented on [#27: feat: add signed & unsigned integer colour repr](https://github.com/catppuccin/whiskers/pull/27)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-07T17:19:57+00:00'>Sep 7th 17:19</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-07T16:10:09+00:00'>Sep 7th 16:10</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-07T15:27:33+00:00'>Sep 7th 15:27</span></td>
 <td>
