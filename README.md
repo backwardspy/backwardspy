@@ -8,6 +8,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-08T21:07:49+00:00'>Sep 8th 21:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T21:07:49+00:00'>Sep 8th 21:07</span></td>
+<td>
+
+🎉 closed [#78: chore(main): release 2.3.3](https://github.com/catppuccin/python/pull/78)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T21:06:12+00:00'>Sep 8th 21:06</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T21:06:11+00:00'>Sep 8th 21:06</span></td>
+<td>
+
+🎉 closed [#79: fix(pygments): functions should be `blue`, not `sapphire`](https://github.com/catppuccin/python/pull/79)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T21:06:08+00:00'>Sep 8th 21:06</span></td>
+<td>
+
+🔍 reviewed [#79: fix(pygments): functions should be `blue`, not `sapphire`](https://github.com/catppuccin/python/pull/79)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-09-08T21:00:32+00:00'>Sep 8th 21:00</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T21:00:32+00:00'>Sep 8th 21:00</span></td>
+<td>
+
+🎉 closed [#74: chore(deps): update dependency ruff to v0.6.4](https://github.com/catppuccin/python/pull/74)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T21:00:28+00:00'>Sep 8th 21:00</span></td>
+<td>
+
+🔍 reviewed [#74: chore(deps): update dependency ruff to v0.6.4](https://github.com/catppuccin/python/pull/74)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T20:52:13+00:00'>Sep 8th 20:52</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T20:52:12+00:00'>Sep 8th 20:52</span></td>
+<td>
+
+🎉 closed [#77: fix(extras/pygments): change `Name.Tag` from pink to blue](https://github.com/catppuccin/python/pull/77)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T20:52:06+00:00'>Sep 8th 20:52</span></td>
+<td>
+
+🔍 reviewed [#77: fix(extras/pygments): change `Name.Tag` from pink to blue](https://github.com/catppuccin/python/pull/77)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-08T20:00:10+00:00'>Sep 8th 20:00</span></td>
 <td>
 
@@ -72,13 +222,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-08T19:55:21+00:00'>Sep 8th 19:55</span></td>
 <td>
@@ -123,136 +266,6 @@
 <td>
 
 🎉 closed [#22: chore(main): release 2.5.0](https://github.com/catppuccin/whiskers/pull/22)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:18:19+00:00'>Sep 8th 19:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:18:18+00:00'>Sep 8th 19:18</span></td>
-<td>
-
-🎉 closed [#45: chore: fix clippy complaints](https://github.com/catppuccin/whiskers/pull/45)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:14:38+00:00'>Sep 8th 19:14</span></td>
-<td>
-
-🚀 opened [#45: chore: fix clippy complaints](https://github.com/catppuccin/whiskers/pull/45)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:07:37+00:00'>Sep 8th 19:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:07:36+00:00'>Sep 8th 19:07</span></td>
-<td>
-
-🎉 closed [#14: ci: use setup-rust-toolchain action](https://github.com/catppuccin/whiskers/pull/14)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:01:16+00:00'>Sep 8th 19:01</span></td>
-<td>
-
-🚢 pushed 1 commit to `ci/sarif`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T18:59:02+00:00'>Sep 8th 18:59</span></td>
-<td>
-
-🚢 pushed 33 commits to `ci/sarif`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T18:58:43+00:00'>Sep 8th 18:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T18:58:43+00:00'>Sep 8th 18:58</span></td>
-<td>
-
-🎉 closed [#28: fix(deps): update rust crate clap-stdin to 0.5.0](https://github.com/catppuccin/whiskers/pull/28)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T18:55:26+00:00'>Sep 8th 18:55</span></td>
-<td>
-
-🚢 pushed 1 commit to `renovate/clap-stdin-0.x`
 
 </td>
 <td>
