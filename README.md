@@ -8,7 +8,7 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2024-09-08T15:20:50+00:00'>Sep 8th 15:20</span></td>
+<td><span title='2024-09-08T20:00:10+00:00'>Sep 8th 20:00</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -16,25 +16,38 @@
 </td>
 <td>
 
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:20:50+00:00'>Sep 8th 15:20</span></td>
+<td><span title='2024-09-08T20:00:09+00:00'>Sep 8th 20:00</span></td>
 <td>
 
-🎉 closed [#35: fix(deps): update rust crate clap to v4.5.17](https://github.com/catppuccin/whiskers/pull/35)
+🎉 closed [#76: chore(main): release 2.3.2](https://github.com/catppuccin/python/pull/76)
 
 </td>
 <td>
 
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:20:39+00:00'>Sep 8th 15:20</span></td>
+<td><span title='2024-09-08T20:00:06+00:00'>Sep 8th 20:00</span></td>
+<td>
+
+🔍 reviewed [#76: chore(main): release 2.3.2](https://github.com/catppuccin/python/pull/76)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T19:55:21+00:00'>Sep 8th 19:55</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -42,33 +55,20 @@
 </td>
 <td>
 
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:20:38+00:00'>Sep 8th 15:20</span></td>
+<td><span title='2024-09-08T19:55:21+00:00'>Sep 8th 19:55</span></td>
 <td>
 
-🎉 closed [#40: fix(deps): update rust crate tempfile to v3.12.0](https://github.com/catppuccin/whiskers/pull/40)
+✅ closed [#72: Pygments syntax highlighting colors](https://github.com/catppuccin/python/issues/72)
 
 </td>
 <td>
 
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T15:20:27+00:00'>Sep 8th 15:20</span></td>
-<td>
-
-🎉 closed [#41: fix(deps): update rust crate serde to v1.0.210](https://github.com/catppuccin/whiskers/pull/41)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
@@ -80,7 +80,33 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2024-09-08T15:20:28+00:00'>Sep 8th 15:20</span></td>
+<td><span title='2024-09-08T19:55:21+00:00'>Sep 8th 19:55</span></td>
+<td>
+
+🎉 closed [#75: fix(extras/pygments): align syntax highlighting tokens with style guide](https://github.com/catppuccin/python/pull/75)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T19:55:17+00:00'>Sep 8th 19:55</span></td>
+<td>
+
+🔍 reviewed [#75: fix(extras/pygments): align syntax highlighting tokens with style guide](https://github.com/catppuccin/python/pull/75)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T19:22:14+00:00'>Sep 8th 19:22</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -93,10 +119,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:20:16+00:00'>Sep 8th 15:20</span></td>
+<td><span title='2024-09-08T19:22:14+00:00'>Sep 8th 19:22</span></td>
 <td>
 
-🎉 closed [#42: chore(deps): update rust crate assert_cmd to v2.0.16](https://github.com/catppuccin/whiskers/pull/42)
+🎉 closed [#22: chore(main): release 2.5.0](https://github.com/catppuccin/whiskers/pull/22)
 
 </td>
 <td>
@@ -106,7 +132,7 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:20:16+00:00'>Sep 8th 15:20</span></td>
+<td><span title='2024-09-08T19:18:19+00:00'>Sep 8th 19:18</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -119,7 +145,33 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:20:06+00:00'>Sep 8th 15:20</span></td>
+<td><span title='2024-09-08T19:18:18+00:00'>Sep 8th 19:18</span></td>
+<td>
+
+🎉 closed [#45: chore: fix clippy complaints](https://github.com/catppuccin/whiskers/pull/45)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T19:14:38+00:00'>Sep 8th 19:14</span></td>
+<td>
+
+🚀 opened [#45: chore: fix clippy complaints](https://github.com/catppuccin/whiskers/pull/45)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T19:07:37+00:00'>Sep 8th 19:07</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -132,10 +184,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:20:05+00:00'>Sep 8th 15:20</span></td>
+<td><span title='2024-09-08T19:07:36+00:00'>Sep 8th 19:07</span></td>
 <td>
 
-🎉 closed [#43: fix(deps): update rust crate serde_json to v1.0.128](https://github.com/catppuccin/whiskers/pull/43)
+🎉 closed [#14: ci: use setup-rust-toolchain action](https://github.com/catppuccin/whiskers/pull/14)
 
 </td>
 <td>
@@ -145,7 +197,33 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:19:46+00:00'>Sep 8th 15:19</span></td>
+<td><span title='2024-09-08T19:01:16+00:00'>Sep 8th 19:01</span></td>
+<td>
+
+🚢 pushed 1 commit to `ci/sarif`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T18:59:02+00:00'>Sep 8th 18:59</span></td>
+<td>
+
+🚢 pushed 33 commits to `ci/sarif`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-08T18:58:43+00:00'>Sep 8th 18:58</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -158,10 +236,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:19:45+00:00'>Sep 8th 15:19</span></td>
+<td><span title='2024-09-08T18:58:43+00:00'>Sep 8th 18:58</span></td>
 <td>
 
-🎉 closed [#44: fix(deps): update rust crate indexmap to v2.5.0](https://github.com/catppuccin/whiskers/pull/44)
+🎉 closed [#28: fix(deps): update rust crate clap-stdin to 0.5.0](https://github.com/catppuccin/whiskers/pull/28)
 
 </td>
 <td>
@@ -171,75 +249,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2024-09-08T15:19:31+00:00'>Sep 8th 15:19</span></td>
+<td><span title='2024-09-08T18:55:26+00:00'>Sep 8th 18:55</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T15:19:30+00:00'>Sep 8th 15:19</span></td>
-<td>
-
-🎉 closed [#27: feat: add signed & unsigned integer colour repr](https://github.com/catppuccin/whiskers/pull/27)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T15:15:28+00:00'>Sep 8th 15:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/intrep`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T14:07:06+00:00'>Sep 8th 14:07</span></td>
-<td>
-
-💬 commented on [#27: feat: add signed & unsigned integer colour repr](https://github.com/catppuccin/whiskers/pull/27)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T13:39:21+00:00'>Sep 8th 13:39</span></td>
-<td>
-
-💬 commented on [#27: feat: add signed & unsigned integer colour repr](https://github.com/catppuccin/whiskers/pull/27)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T09:20:56+00:00'>Sep 8th 09:20</span></td>
-<td>
-
-💬 commented on [#27: feat: add signed & unsigned integer colour repr](https://github.com/catppuccin/whiskers/pull/27)
+🚢 pushed 1 commit to `renovate/clap-stdin-0.x`
 
 </td>
 <td>
