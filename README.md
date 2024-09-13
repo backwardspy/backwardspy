@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-12T21:29:34+00:00'>Sep 12th 21:29</span></td>
+<td>
+
+💬 commented on [#121: i was added to the bytes leaderboard as "anonymous"](https://github.com/coreyja/coreyja.com/issues/121)
+
+</td>
+<td>
+
+[coreyja/coreyja.com](https://github.com/coreyja/coreyja.com)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-12T19:37:08+00:00'>Sep 12th 19:37</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-08T21:06:12+00:00'>Sep 8th 21:06</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-08T21:06:11+00:00'>Sep 8th 21:06</span></td>
 <td>
