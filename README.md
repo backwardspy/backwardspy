@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-14T12:37:50+00:00'>Sep 14th 12:37</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/pigeon-devcontainer](https://github.com/backwardspy/pigeon-devcontainer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-12T21:29:34+00:00'>Sep 12th 21:29</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-08T21:07:49+00:00'>Sep 8th 21:07</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-08T21:06:12+00:00'>Sep 8th 21:06</span></td>
 <td>
@@ -266,19 +279,6 @@
 <td>
 
 🎉 closed [#75: fix(extras/pygments): align syntax highlighting tokens with style guide](https://github.com/catppuccin/python/pull/75)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:55:17+00:00'>Sep 8th 19:55</span></td>
-<td>
-
-🔍 reviewed [#75: fix(extras/pygments): align syntax highlighting tokens with style guide](https://github.com/catppuccin/python/pull/75)
 
 </td>
 <td>
