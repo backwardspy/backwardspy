@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-14T19:34:50+00:00'>Sep 14th 19:34</span></td>
+<td>
+
+💬 commented on [#2550: docs(README.md): add contributors](https://github.com/catppuccin/catppuccin/pull/2550)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-14T19:34:49+00:00'>Sep 14th 19:34</span></td>
+<td>
+
+🎉 closed [#2550: docs(README.md): add contributors](https://github.com/catppuccin/catppuccin/pull/2550)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-14T19:18:39+00:00'>Sep 14th 19:18</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-14T19:15:26+00:00'>Sep 14th 19:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-14T12:37:50+00:00'>Sep 14th 12:37</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-12T21:29:34+00:00'>Sep 12th 21:29</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-08T21:07:49+00:00'>Sep 8th 21:07</span></td>
 <td>
@@ -214,71 +266,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T20:00:09+00:00'>Sep 8th 20:00</span></td>
-<td>
-
-🎉 closed [#76: chore(main): release 2.3.2](https://github.com/catppuccin/python/pull/76)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T20:00:06+00:00'>Sep 8th 20:00</span></td>
-<td>
-
-🔍 reviewed [#76: chore(main): release 2.3.2](https://github.com/catppuccin/python/pull/76)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:55:21+00:00'>Sep 8th 19:55</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:55:21+00:00'>Sep 8th 19:55</span></td>
-<td>
-
-✅ closed [#72: Pygments syntax highlighting colors](https://github.com/catppuccin/python/issues/72)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T19:55:21+00:00'>Sep 8th 19:55</span></td>
-<td>
-
-🎉 closed [#75: fix(extras/pygments): align syntax highlighting tokens with style guide](https://github.com/catppuccin/python/pull/75)
 
 </td>
 <td>
