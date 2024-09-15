@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-15T19:23:54+00:00'>Sep 15th 19:23</span></td>
+<td>
+
+🚀 opened [#1: fix: fully qualify hashmap](https://github.com/MnlPhlp/doc_consts/pull/1)
+
+</td>
+<td>
+
+[MnlPhlp/doc_consts](https://github.com/MnlPhlp/doc_consts)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T18:53:10+00:00'>Sep 15th 18:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-15T17:33:05+00:00'>Sep 15th 17:33</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-15T17:07:16+00:00'>Sep 15th 17:07</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-15T16:56:22+00:00'>Sep 15th 16:56</span></td>
 <td>
@@ -214,45 +240,6 @@
 <td>
 
 🚢 pushed 1 commit to `fix/limit-description`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T11:50:12+00:00'>Sep 15th 11:50</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/pigeon-devcontainer](https://github.com/backwardspy/pigeon-devcontainer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T10:42:39+00:00'>Sep 15th 10:42</span></td>
-<td>
-
-🔍 reviewed [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T10:41:52+00:00'>Sep 15th 10:41</span></td>
-<td>
-
-🔍 reviewed [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
 
 </td>
 <td>
