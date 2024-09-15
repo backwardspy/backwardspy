@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-15T17:33:05+00:00'>Sep 15th 17:33</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T17:07:23+00:00'>Sep 15th 17:07</span></td>
+<td>
+
+💬 commented on [#2551: docs: add catppuccin/ghidra](https://github.com/catppuccin/catppuccin/pull/2551)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T17:07:16+00:00'>Sep 15th 17:07</span></td>
+<td>
+
+✅ closed [#2504: Ghidra](https://github.com/catppuccin/catppuccin/issues/2504)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T17:07:16+00:00'>Sep 15th 17:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T17:07:16+00:00'>Sep 15th 17:07</span></td>
+<td>
+
+🎉 closed [#2551: docs: add catppuccin/ghidra](https://github.com/catppuccin/catppuccin/pull/2551)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-09-15T16:56:22+00:00'>Sep 15th 16:56</span></td>
+<td>
+
+💬 commented on [#2504: Ghidra](https://github.com/catppuccin/catppuccin/issues/2504)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-15T12:21:31+00:00'>Sep 15th 12:21</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-15T12:18:32+00:00'>Sep 15th 12:18</span></td>
 <td>
@@ -180,84 +258,6 @@
 <td>
 
 [catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T10:40:33+00:00'>Sep 15th 10:40</span></td>
-<td>
-
-🔍 reviewed [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-14T19:34:50+00:00'>Sep 14th 19:34</span></td>
-<td>
-
-💬 commented on [#2550: docs(README.md): add contributors](https://github.com/catppuccin/catppuccin/pull/2550)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-14T19:34:49+00:00'>Sep 14th 19:34</span></td>
-<td>
-
-🎉 closed [#2550: docs(README.md): add contributors](https://github.com/catppuccin/catppuccin/pull/2550)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-14T19:18:39+00:00'>Sep 14th 19:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-14T19:15:26+00:00'>Sep 14th 19:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-14T12:37:50+00:00'>Sep 14th 12:37</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/pigeon-devcontainer](https://github.com/backwardspy/pigeon-devcontainer)
 
 </td>
 </tr>
