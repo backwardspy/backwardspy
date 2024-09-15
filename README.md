@@ -8,6 +8,130 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-15T12:21:31+00:00'>Sep 15th 12:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T12:20:05+00:00'>Sep 15th 12:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T12:20:05+00:00'>Sep 15th 12:20</span></td>
+<td>
+
+🎉 closed [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T12:19:11+00:00'>Sep 15th 12:19</span></td>
+<td>
+
+🔍 reviewed [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T12:18:59+00:00'>Sep 15th 12:18</span></td>
+<td>
+
+💬 commented on [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-09-15T12:18:32+00:00'>Sep 15th 12:18</span></td>
+<td>
+
+🚢 pushed 1 commit to `fix/limit-description`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T12:12:51+00:00'>Sep 15th 12:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `fix/limit-description`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T12:11:34+00:00'>Sep 15th 12:11</span></td>
+<td>
+
+🔍 reviewed [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-15T12:10:12+00:00'>Sep 15th 12:10</span></td>
+<td>
+
+🚢 pushed 2 commits to `fix/limit-description`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-15T12:02:21+00:00'>Sep 15th 12:02</span></td>
 <td>
 
@@ -72,13 +196,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-14T19:34:50+00:00'>Sep 14th 19:34</span></td>
 <td>
@@ -141,123 +258,6 @@
 <td>
 
 [backwardspy/pigeon-devcontainer](https://github.com/backwardspy/pigeon-devcontainer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-12T21:29:34+00:00'>Sep 12th 21:29</span></td>
-<td>
-
-💬 commented on [#121: i was added to the bytes leaderboard as "anonymous"](https://github.com/coreyja/coreyja.com/issues/121)
-
-</td>
-<td>
-
-[coreyja/coreyja.com](https://github.com/coreyja/coreyja.com)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-12T19:37:08+00:00'>Sep 12th 19:37</span></td>
-<td>
-
-📢 opened [#121: i was added to the bytes leaderboard as "anonymous"](https://github.com/coreyja/coreyja.com/issues/121)
-
-</td>
-<td>
-
-[coreyja/coreyja.com](https://github.com/coreyja/coreyja.com)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-09T16:12:23+00:00'>Sep 9th 16:12</span></td>
-<td>
-
-🔍 reviewed [#20: docs: add governance and socials information](https://github.com/catppuccin/.github/pull/20)
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T21:07:49+00:00'>Sep 8th 21:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T21:07:49+00:00'>Sep 8th 21:07</span></td>
-<td>
-
-🎉 closed [#78: chore(main): release 2.3.3](https://github.com/catppuccin/python/pull/78)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T21:06:12+00:00'>Sep 8th 21:06</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T21:06:11+00:00'>Sep 8th 21:06</span></td>
-<td>
-
-🎉 closed [#79: fix(pygments): functions should be `blue`, not `sapphire`](https://github.com/catppuccin/python/pull/79)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T21:06:08+00:00'>Sep 8th 21:06</span></td>
-<td>
-
-🔍 reviewed [#79: fix(pygments): functions should be `blue`, not `sapphire`](https://github.com/catppuccin/python/pull/79)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-08T21:00:32+00:00'>Sep 8th 21:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
