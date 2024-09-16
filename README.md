@@ -235,19 +235,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-09-15T12:02:21+00:00'>Sep 15th 12:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/limit-description`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
