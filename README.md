@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-16T23:07:24+00:00'>Sep 16th 23:07</span></td>
+<td>
+
+🚀 opened [#5: fix: replace underscores instead of hyphens in actions](https://github.com/catppuccin/rockdove/pull/5)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-16T23:06:33+00:00'>Sep 16th 23:06</span></td>
+<td>
+
+🔍 reviewed [#4: refactor(PR): ignore events besides `opened`, `closed` & `reopened`](https://github.com/catppuccin/rockdove/pull/4)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-15T19:23:54+00:00'>Sep 15th 19:23</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-15T17:07:23+00:00'>Sep 15th 17:07</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-15T17:07:16+00:00'>Sep 15th 17:07</span></td>
 <td>
@@ -201,32 +227,6 @@
 <td>
 
 🚢 pushed 1 commit to `fix/limit-description`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T12:11:34+00:00'>Sep 15th 12:11</span></td>
-<td>
-
-🔍 reviewed [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T12:10:12+00:00'>Sep 15th 12:10</span></td>
-<td>
-
-🚢 pushed 2 commits to `fix/limit-description`
 
 </td>
 <td>
