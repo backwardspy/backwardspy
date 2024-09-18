@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-17T20:31:02+00:00'>Sep 17th 20:31</span></td>
+<td>
+
+🔍 reviewed [#6: refactor: ignore most issue events](https://github.com/catppuccin/rockdove/pull/6)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-16T23:07:24+00:00'>Sep 16th 23:07</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-15T17:33:05+00:00'>Sep 15th 17:33</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-15T17:07:23+00:00'>Sep 15th 17:07</span></td>
 <td>
@@ -211,19 +224,6 @@
 </tr>
 <tr>
 <td><span title='2024-09-15T12:18:32+00:00'>Sep 15th 12:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/limit-description`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T12:12:51+00:00'>Sep 15th 12:12</span></td>
 <td>
 
 🚢 pushed 1 commit to `fix/limit-description`
