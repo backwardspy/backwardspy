@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-18T17:21:12+00:00'>Sep 18th 17:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-18T17:19:45+00:00'>Sep 18th 17:19</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-18T17:19:45+00:00'>Sep 18th 17:19</span></td>
+<td>
+
+🎉 closed [#11: feat: use catppuccin colours in embeds](https://github.com/catppuccin/rockdove/pull/11)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-18T17:04:57+00:00'>Sep 18th 17:04</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/catppuccin-colours`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-17T20:31:02+00:00'>Sep 17th 20:31</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-16T23:07:24+00:00'>Sep 16th 23:07</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-15T17:33:05+00:00'>Sep 15th 17:33</span></td>
 <td>
@@ -170,71 +222,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-09-15T12:20:05+00:00'>Sep 15th 12:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T12:20:05+00:00'>Sep 15th 12:20</span></td>
-<td>
-
-🎉 closed [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T12:19:11+00:00'>Sep 15th 12:19</span></td>
-<td>
-
-🔍 reviewed [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T12:18:59+00:00'>Sep 15th 12:18</span></td>
-<td>
-
-💬 commented on [#3: fix: limit length of `description` embed field](https://github.com/catppuccin/rockdove/pull/3)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-15T12:18:32+00:00'>Sep 15th 12:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/limit-description`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -245,16 +232,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d00004851d4d0c1b69fe019d909c557b2" width="48" height="48"> | [Raising the Bar](https://open.spotify.com/track/0O8PsTZIMbwGjJM7q1LKSk) | [Envoi](https://open.spotify.com/artist/2Q3IDyXwjOClGoJKKmlaa1) | [Changes](https://open.spotify.com/track/0O8PsTZIMbwGjJM7q1LKSk) |
-| <img src="https://i.scdn.co/image/ab67616d00004851dbb712b713f600cf86348a01" width="48" height="48"> | [Winter Soldier](https://open.spotify.com/track/6kmBJSaEfwhOXsmotTucb3) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [Cold Blooded](https://open.spotify.com/track/6kmBJSaEfwhOXsmotTucb3) |
-| <img src="https://i.scdn.co/image/ab67616d00004851734dbf67d585a457a8d2b676" width="48" height="48"> | [Any Other Way](https://open.spotify.com/track/5FYlc7iKGQTlXjIKdBSgWB) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [Somewhere Somehow](https://open.spotify.com/track/5FYlc7iKGQTlXjIKdBSgWB) |
-| <img src="https://i.scdn.co/image/ab67616d00004851728fc6916cc9b13939d9fc2d" width="48" height="48"> | [Cold Green Eyes - Original Mix](https://open.spotify.com/track/2gtBcLNjFMi8l5xSz66Fsb) | [Station Earth](https://open.spotify.com/artist/1G9FmqZJybVEOXqMOR5usy), [Roos Denayer](https://open.spotify.com/artist/0tsKdteyh5ArMn3pAUiSff) | [Cold Green Eyes](https://open.spotify.com/track/2gtBcLNjFMi8l5xSz66Fsb) |
-| <img src="https://i.scdn.co/image/ab67616d0000485165ea5118968a9350b8407cd3" width="48" height="48"> | [Unbreakable](https://open.spotify.com/track/2vv86bXUFmRsUi5s0tw8oW) | [Hyper Potions](https://open.spotify.com/artist/1KkjjsBwGqU2YjS9OIucZV), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Unbreakable](https://open.spotify.com/track/2vv86bXUFmRsUi5s0tw8oW) |
-| <img src="https://i.scdn.co/image/ab67616d00004851cb7523307aac3e10b66bef40" width="48" height="48"> | [Paralyzed](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Gravity](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c7b06503ea51535b5b986a16" width="48" height="48"> | [HYPER★DRIVE](https://open.spotify.com/track/7B24A46hAbb1nPKhj1MkIl) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [HYPER★DRIVE](https://open.spotify.com/track/7B24A46hAbb1nPKhj1MkIl) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c097a06bab3b8045b498e28c" width="48" height="48"> | [Above the Sky](https://open.spotify.com/track/02WitL66kM2ObNDkM95rFD) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Above the Sky](https://open.spotify.com/track/02WitL66kM2ObNDkM95rFD) |
-| <img src="https://i.scdn.co/image/ab67616d0000485122cfd1daab517361e7987929" width="48" height="48"> | [Euphemia](https://open.spotify.com/track/1hSjuzr4RQOVkpLOICoD37) | [Area 11](https://open.spotify.com/artist/3jULn43a6xfzqleyeFjPIq) | [All the Lights in the Sky](https://open.spotify.com/track/1hSjuzr4RQOVkpLOICoD37) |
-| <img src="https://i.scdn.co/image/ab67616d0000485195e61d19d37a4c0a34e6f952" width="48" height="48"> | [Moonglow](https://open.spotify.com/track/1fKaObKEtnVZrnhcqqLKAx) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Candice Night](https://open.spotify.com/artist/4ZM0E70MLZ38Bj1g300V18) | [Moonglow](https://open.spotify.com/track/1fKaObKEtnVZrnhcqqLKAx) |
+| <img src="https://i.scdn.co/image/ab67616d000048511d9039cc88ce1c4d93915cd5" width="48" height="48"> | [White Rabbit](https://open.spotify.com/track/4QhSscYz3TPLEwD6lMezvG) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [White Rabbit](https://open.spotify.com/track/4QhSscYz3TPLEwD6lMezvG) |
+| <img src="https://i.scdn.co/image/ab67616d000048512e542e4ad436a3c948f475de" width="48" height="48"> | [Hated You from Hello](https://open.spotify.com/track/0D1ExGkm9m5QXklubnFZXp) | [Downplay](https://open.spotify.com/artist/2NHZXdh4W3waGwVk3CdP4T) | [Radiocalypse](https://open.spotify.com/track/0D1ExGkm9m5QXklubnFZXp) |
+| <img src="https://i.scdn.co/image/ab67616d0000485136c6aa90db422d8c40526cf1" width="48" height="48"> | [I Am a Stone](https://open.spotify.com/track/4nhVsU2AMH8nXG1NXIkzO2) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [True Defiance (Deluxe Edition)](https://open.spotify.com/track/4nhVsU2AMH8nXG1NXIkzO2) |
+| <img src="https://i.scdn.co/image/ab67616d000048519510924e4d72819a601a729d" width="48" height="48"> | [Invincible](https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Adelitas Way](https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK) |
+| <img src="https://i.scdn.co/image/ab67616d000048510731c66ebd5bbc87182649cf" width="48" height="48"> | [Frontline](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) | [Pillar](https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e) | [Where Do We Go From Here](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) |
+| <img src="https://i.scdn.co/image/ab67616d00004851283177f0bb90830a72303227" width="48" height="48"> | [For You, And Your Denial](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [When You're Through Thinking, Say Yes](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) |
+| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Bye Bye Babylon](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) |
+| <img src="https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd" width="48" height="48"> | [Ignorance](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) |
+| <img src="https://i.scdn.co/image/ab67616d000048519e2f95ae77cf436017ada9cb" width="48" height="48"> | [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) |
+| <img src="https://i.scdn.co/image/ab67616d00004851186660bbf3b0dd9a5195e182" width="48" height="48"> | [weapon](https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/track/5z0QlOV93W6Yo7DG2SYOJP) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
