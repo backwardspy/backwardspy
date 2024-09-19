@@ -209,19 +209,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-09-15T17:07:16+00:00'>Sep 15th 17:07</span></td>
-<td>
-
-🎉 closed [#2551: docs: add catppuccin/ghidra](https://github.com/catppuccin/catppuccin/pull/2551)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
