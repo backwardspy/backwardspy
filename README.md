@@ -258,6 +258,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485159f0f56a7cd13526b5b4204c" width="48" height="48"> | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return (Expanded Edition)](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Creeping in My Soul](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) |
 | <img src="https://i.scdn.co/image/ab67616d000048511d9039cc88ce1c4d93915cd5" width="48" height="48"> | [White Rabbit](https://open.spotify.com/track/4QhSscYz3TPLEwD6lMezvG) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [White Rabbit](https://open.spotify.com/track/4QhSscYz3TPLEwD6lMezvG) |
 | <img src="https://i.scdn.co/image/ab67616d000048512e542e4ad436a3c948f475de" width="48" height="48"> | [Hated You from Hello](https://open.spotify.com/track/0D1ExGkm9m5QXklubnFZXp) | [Downplay](https://open.spotify.com/artist/2NHZXdh4W3waGwVk3CdP4T) | [Radiocalypse](https://open.spotify.com/track/0D1ExGkm9m5QXklubnFZXp) |
@@ -267,7 +268,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851283177f0bb90830a72303227" width="48" height="48"> | [For You, And Your Denial](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [When You're Through Thinking, Say Yes](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Bye Bye Babylon](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) |
 | <img src="https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd" width="48" height="48"> | [Ignorance](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) |
-| <img src="https://i.scdn.co/image/ab67616d000048519e2f95ae77cf436017ada9cb" width="48" height="48"> | [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
