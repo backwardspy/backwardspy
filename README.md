@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-21T12:48:12+00:00'>Sep 21st 12:48</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-21T12:42:36+00:00'>Sep 21st 12:42</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-19T21:28:23+00:00'>Sep 19th 21:28</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-19T21:21:14+00:00'>Sep 19th 21:21</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-19T21:15:04+00:00'>Sep 19th 21:15</span></td>
 <td>
@@ -211,45 +237,6 @@
 </tr>
 <tr>
 <td><span title='2024-09-19T20:31:17+00:00'>Sep 19th 20:31</span></td>
-<td>
-
-💬 commented on [#1: Test](https://github.com/catppuccin-rfc/polybar/issues/1)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:31:16+00:00'>Sep 19th 20:31</span></td>
-<td>
-
-✅ closed [#1: Test](https://github.com/catppuccin-rfc/polybar/issues/1)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:29:04+00:00'>Sep 19th 20:29</span></td>
-<td>
-
-💬 commented on [#1: Test](https://github.com/catppuccin-rfc/polybar/issues/1)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:17:54+00:00'>Sep 19th 20:17</span></td>
 <td>
 
 💬 commented on [#1: Test](https://github.com/catppuccin-rfc/polybar/issues/1)
