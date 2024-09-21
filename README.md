@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-21T21:11:48+00:00'>Sep 21st 21:11</span></td>
+<td>
+
+🪄 created repository
+
+</td>
+<td>
+
+[backwardspy/satisfactory-sav-parser](https://github.com/backwardspy/satisfactory-sav-parser)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-21T12:48:12+00:00'>Sep 21st 12:48</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-19T21:24:48+00:00'>Sep 19th 21:24</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-19T21:21:14+00:00'>Sep 19th 21:21</span></td>
 <td>
@@ -214,32 +227,6 @@
 <td>
 
 🎉 closed [#2: Delete .catppuccin.yaml](https://github.com/catppuccin-rfc/polybar/pull/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:33:18+00:00'>Sep 19th 20:33</span></td>
-<td>
-
-📢 opened [#4: @sgoudham](https://github.com/catppuccin-rfc/polybar/issues/4)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:31:17+00:00'>Sep 19th 20:31</span></td>
-<td>
-
-💬 commented on [#1: Test](https://github.com/catppuccin-rfc/polybar/issues/1)
 
 </td>
 <td>
