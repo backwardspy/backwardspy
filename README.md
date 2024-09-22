@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-22T12:03:55+00:00'>Sep 22nd 12:03</span></td>
+<td>
+
+🚀 opened [#27: feat: add error hook](https://github.com/catppuccin/rockdove/pull/27)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-22T11:05:34+00:00'>Sep 22nd 11:05</span></td>
+<td>
+
+💬 commented on [#2556: Catppuccin for ruby](https://github.com/catppuccin/catppuccin/issues/2556)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-22T10:58:39+00:00'>Sep 22nd 10:58</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-22T10:58:39+00:00'>Sep 22nd 10:58</span></td>
+<td>
+
+🎉 closed [#26: cleanup + devcontainers config](https://github.com/catppuccin/rockdove/pull/26)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-22T10:57:49+00:00'>Sep 22nd 10:57</span></td>
+<td>
+
+🚀 opened [#26: cleanup + devcontainers config](https://github.com/catppuccin/rockdove/pull/26)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-09-22T10:57:30+00:00'>Sep 22nd 10:57</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/devcontainer-cleanup`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-21T21:11:48+00:00'>Sep 21st 21:11</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-19T21:24:48+00:00'>Sep 19th 21:24</span></td>
 <td>
@@ -141,97 +219,6 @@
 <td>
 
 [catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T21:10:49+00:00'>Sep 19th 21:10</span></td>
-<td>
-
-📦 released vtest
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T21:00:50+00:00'>Sep 19th 21:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/webhook-model-fields`
-
-</td>
-<td>
-
-[backwardspy/octocrab](https://github.com/backwardspy/octocrab)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:49:16+00:00'>Sep 19th 20:49</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/webhook-model-fields`
-
-</td>
-<td>
-
-[backwardspy/octocrab](https://github.com/backwardspy/octocrab)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:35:19+00:00'>Sep 19th 20:35</span></td>
-<td>
-
-💬 commented on [#2: Delete .catppuccin.yaml](https://github.com/catppuccin-rfc/polybar/pull/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:35:18+00:00'>Sep 19th 20:35</span></td>
-<td>
-
-🎉 closed [#2: Delete .catppuccin.yaml](https://github.com/catppuccin-rfc/polybar/pull/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:34:17+00:00'>Sep 19th 20:34</span></td>
-<td>
-
-💬 commented on [#2: Delete .catppuccin.yaml](https://github.com/catppuccin-rfc/polybar/pull/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T20:34:17+00:00'>Sep 19th 20:34</span></td>
-<td>
-
-🎉 closed [#2: Delete .catppuccin.yaml](https://github.com/catppuccin-rfc/polybar/pull/2)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
 
 </td>
 </tr>
