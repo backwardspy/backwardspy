@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-22T14:25:59+00:00'>Sep 22nd 14:25</span></td>
+<td>
+
+🔍 reviewed [#29: docs(README): mention `DISCORD_ERROR_WEBHOOK`](https://github.com/catppuccin/rockdove/pull/29)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-22T13:28:40+00:00'>Sep 22nd 13:28</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-22T12:03:55+00:00'>Sep 22nd 12:03</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-22T11:05:34+00:00'>Sep 22nd 11:05</span></td>
 <td>
@@ -219,16 +232,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048515e77d3ce3a4f7f382daaf46f" width="48" height="48"> | [Nightfall - Remastered 2007](https://open.spotify.com/track/7s0fJ0s9A5eRh4NXaMkfgS) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Nightfall in Middle Earth (Remastered 2007)](https://open.spotify.com/track/7s0fJ0s9A5eRh4NXaMkfgS) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c3d7f1c498e6e8ede9816d95" width="48" height="48"> | [LVGVS](https://open.spotify.com/track/0Wbwg1f8lgs5Sud1Ch3ZRQ) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Evocation II - Pantheon](https://open.spotify.com/track/0Wbwg1f8lgs5Sud1Ch3ZRQ) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c5f36c17f192c3971e7de1db" width="48" height="48"> | [Heart of the Android](https://open.spotify.com/track/2uaumGP1q93nQk3wjy3KAI) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Final Days](https://open.spotify.com/track/2uaumGP1q93nQk3wjy3KAI) |
+| <img src="https://i.scdn.co/image/ab67616d0000485125f49ab23f0ec6332efef432" width="48" height="48"> | [Imaginary](https://open.spotify.com/track/7q6CybWAg3uYLgS5tDWqmd) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/track/7q6CybWAg3uYLgS5tDWqmd) |
+| <img src="https://i.scdn.co/image/ab67616d0000485183f074bfd3e213283dcdb561" width="48" height="48"> | [Amaranth](https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt) |
 | <img src="https://i.scdn.co/image/ab67616d000048514ce811038d0bd0b1f83f9bc9" width="48" height="48"> | [Ebay (Parody of "I Want It That Way" by the Backstreet Boys)](https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Poodle Hat](https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK) |
 | <img src="https://i.scdn.co/image/ab67616d0000485159f0f56a7cd13526b5b4204c" width="48" height="48"> | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return (Expanded Edition)](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
+| <img src="https://i.scdn.co/image/ab67616d0000485150edd65c262fc64ddda61b03" width="48" height="48"> | [Player One](https://open.spotify.com/track/1mD0LxzCdfathf6j7xMp7b) | [Machinae Supremacy](https://open.spotify.com/artist/6cmp7ut7okJAgJOSaMAVf3) | [Deus Ex Machinae](https://open.spotify.com/track/1mD0LxzCdfathf6j7xMp7b) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Creeping in My Soul](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) |
 | <img src="https://i.scdn.co/image/ab67616d000048511d9039cc88ce1c4d93915cd5" width="48" height="48"> | [White Rabbit](https://open.spotify.com/track/4QhSscYz3TPLEwD6lMezvG) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [White Rabbit](https://open.spotify.com/track/4QhSscYz3TPLEwD6lMezvG) |
-| <img src="https://i.scdn.co/image/ab67616d000048512e542e4ad436a3c948f475de" width="48" height="48"> | [Hated You from Hello](https://open.spotify.com/track/0D1ExGkm9m5QXklubnFZXp) | [Downplay](https://open.spotify.com/artist/2NHZXdh4W3waGwVk3CdP4T) | [Radiocalypse](https://open.spotify.com/track/0D1ExGkm9m5QXklubnFZXp) |
-| <img src="https://i.scdn.co/image/ab67616d0000485136c6aa90db422d8c40526cf1" width="48" height="48"> | [I Am a Stone](https://open.spotify.com/track/4nhVsU2AMH8nXG1NXIkzO2) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [True Defiance (Deluxe Edition)](https://open.spotify.com/track/4nhVsU2AMH8nXG1NXIkzO2) |
-| <img src="https://i.scdn.co/image/ab67616d000048519510924e4d72819a601a729d" width="48" height="48"> | [Invincible](https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Adelitas Way](https://open.spotify.com/track/4FthwGFz9SVZgCVqxNXsSK) |
-| <img src="https://i.scdn.co/image/ab67616d000048510731c66ebd5bbc87182649cf" width="48" height="48"> | [Frontline](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) | [Pillar](https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e) | [Where Do We Go From Here](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) |
-| <img src="https://i.scdn.co/image/ab67616d00004851283177f0bb90830a72303227" width="48" height="48"> | [For You, And Your Denial](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [When You're Through Thinking, Say Yes](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) |
-| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Bye Bye Babylon](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
