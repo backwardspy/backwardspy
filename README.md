@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-22T13:28:40+00:00'>Sep 22nd 13:28</span></td>
+<td>
+
+🚢 pushed 2 commits to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-22T12:08:29+00:00'>Sep 22nd 12:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-22T12:05:54+00:00'>Sep 22nd 12:05</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-22T12:05:53+00:00'>Sep 22nd 12:05</span></td>
+<td>
+
+🎉 closed [#27: feat: add error hook](https://github.com/catppuccin/rockdove/pull/27)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-22T12:03:55+00:00'>Sep 22nd 12:03</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-22T11:05:34+00:00'>Sep 22nd 11:05</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-22T10:57:30+00:00'>Sep 22nd 10:57</span></td>
 <td>
@@ -154,71 +206,6 @@
 <td>
 
 [catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T21:24:48+00:00'>Sep 19th 21:24</span></td>
-<td>
-
-💬 commented on [#1: Test](https://github.com/catppuccin-rfc/polybar/issues/1)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T21:21:14+00:00'>Sep 19th 21:21</span></td>
-<td>
-
-🚀 opened [#696: add additional webhook model fields](https://github.com/XAMPPRocky/octocrab/pull/696)
-
-</td>
-<td>
-
-[XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T21:17:16+00:00'>Sep 19th 21:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/webhook-model-fields`
-
-</td>
-<td>
-
-[backwardspy/octocrab](https://github.com/backwardspy/octocrab)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T21:15:04+00:00'>Sep 19th 21:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/webhook-model-fields`
-
-</td>
-<td>
-
-[backwardspy/octocrab](https://github.com/backwardspy/octocrab)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T21:14:28+00:00'>Sep 19th 21:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
 
 </td>
 </tr>
