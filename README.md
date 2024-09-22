@@ -245,6 +245,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048514ce811038d0bd0b1f83f9bc9" width="48" height="48"> | [Ebay (Parody of "I Want It That Way" by the Backstreet Boys)](https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Poodle Hat](https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK) |
 | <img src="https://i.scdn.co/image/ab67616d0000485159f0f56a7cd13526b5b4204c" width="48" height="48"> | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return (Expanded Edition)](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Creeping in My Soul](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) |
 | <img src="https://i.scdn.co/image/ab67616d000048511d9039cc88ce1c4d93915cd5" width="48" height="48"> | [White Rabbit](https://open.spotify.com/track/4QhSscYz3TPLEwD6lMezvG) | [Egypt Central](https://open.spotify.com/artist/1d5wNTZ8WZYE5WuXXjug9w) | [White Rabbit](https://open.spotify.com/track/4QhSscYz3TPLEwD6lMezvG) |
@@ -254,7 +255,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048510731c66ebd5bbc87182649cf" width="48" height="48"> | [Frontline](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) | [Pillar](https://open.spotify.com/artist/2Tkg8omOIsTL617yXVt26e) | [Where Do We Go From Here](https://open.spotify.com/track/39sN48Q2DIbyVK8i8kkqgF) |
 | <img src="https://i.scdn.co/image/ab67616d00004851283177f0bb90830a72303227" width="48" height="48"> | [For You, And Your Denial](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [When You're Through Thinking, Say Yes](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Bye Bye Babylon](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/20iFwcnU2ciOKbDF1LUGdv) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b9abbedc516dd297039977bd" width="48" height="48"> | [Ignorance](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/track/5ZdrNnYV5VZWds4WXKf8kf) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
