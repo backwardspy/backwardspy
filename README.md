@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-23T09:13:50+00:00'>Sep 23rd 09:13</span></td>
+<td>
+
+🚀 opened [#36: mdbook-catppuccin 3.0.3](https://github.com/catppuccin/homebrew-tap/pull/36)
+
+</td>
+<td>
+
+[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-22T17:10:10+00:00'>Sep 22nd 17:10</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-22T12:05:54+00:00'>Sep 22nd 12:05</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-22T12:05:53+00:00'>Sep 22nd 12:05</span></td>
 <td>
@@ -193,32 +206,6 @@
 <td>
 
 [catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-21T12:42:36+00:00'>Sep 21st 12:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-19T21:28:23+00:00'>Sep 19th 21:28</span></td>
-<td>
-
-💬 commented on [#1: Test](https://github.com/catppuccin-rfc/polybar/issues/1)
-
-</td>
-<td>
-
-[catppuccin-rfc/polybar](https://github.com/catppuccin-rfc/polybar)
 
 </td>
 </tr>
