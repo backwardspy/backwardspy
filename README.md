@@ -219,6 +219,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851f0d55e973f83cbfe90dded16" width="48" height="48"> | [Eden](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) |
 | <img src="https://i.scdn.co/image/ab67616d000048515e77d3ce3a4f7f382daaf46f" width="48" height="48"> | [Mirror Mirror - Remastered 2007](https://open.spotify.com/track/4gFhLQA90CAFuS0Ma8aIiX) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Nightfall in Middle Earth (Remastered 2007)](https://open.spotify.com/track/4gFhLQA90CAFuS0Ma8aIiX) |
 | <img src="https://i.scdn.co/image/ab67616d000048513859468aac84e63a7661f814" width="48" height="48"> | [At the Break of Dawn](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Life Is Not Beautiful](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f6186aceed57dd555b846a62" width="48" height="48"> | [Mine Mine Mine!](https://open.spotify.com/track/2dDCZgcFGl9yj3ZEmaQM6x) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Wintersaga](https://open.spotify.com/track/2dDCZgcFGl9yj3ZEmaQM6x) |
@@ -228,7 +229,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048513dbcf3c664ff6be4204a32b4" width="48" height="48"> | [A Rose for Epona](https://open.spotify.com/track/4B8aMSI3d7IOgAFHwkrp4o) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Helvetios](https://open.spotify.com/track/4B8aMSI3d7IOgAFHwkrp4o) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fe111896e6e8ff6c30073266" width="48" height="48"> | [Solsagan](https://open.spotify.com/track/7fWhkCzm5g2EYZgjrrGJKT) | [Finntroll](https://open.spotify.com/artist/4ZgkHVHmGPXuRy8zd26ZJX) | [Nifelvind](https://open.spotify.com/track/7fWhkCzm5g2EYZgjrrGJKT) |
 | <img src="https://i.scdn.co/image/ab67616d000048517819a67c8d2e62e4dffc93f3" width="48" height="48"> | [Six](https://open.spotify.com/track/3WRTADbL0criwvX6IQFex2) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/track/3WRTADbL0criwvX6IQFex2) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c3d7f1c498e6e8ede9816d95" width="48" height="48"> | [Epona](https://open.spotify.com/track/75fAndU7jHOc4iEFR0HcVe) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Evocation II - Pantheon](https://open.spotify.com/track/75fAndU7jHOc4iEFR0HcVe) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
