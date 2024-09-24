@@ -8,6 +8,117 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-24T16:58:50+00:00'>Sep 24th 16:58</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-24T16:57:27+00:00'>Sep 24th 16:57</span></td>
+<td>
+
+🚢 pushed 2 commits to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-24T16:55:01+00:00'>Sep 24th 16:55</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-24T16:55:01+00:00'>Sep 24th 16:55</span></td>
+<td>
+
+🎉 closed [#30: fix: support teams in PR review requests](https://github.com/catppuccin/rockdove/pull/30)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-24T16:53:05+00:00'>Sep 24th 16:53</span></td>
+<td>
+
+🚀 opened [#30: fix: support teams in PR review requests](https://github.com/catppuccin/rockdove/pull/30)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-09-24T16:52:51+00:00'>Sep 24th 16:52</span></td>
+<td>
+
+🚢 pushed 1 commit to `fix/pr-team-review`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-24T16:51:40+00:00'>Sep 24th 16:51</span></td>
+<td>
+
+🚢 pushed 1 commit to `fix/pr-team-review`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-24T16:50:34+00:00'>Sep 24th 16:50</span></td>
+<td>
+
+🚢 pushed 1 commit to `fix/pr-team-review`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-23T09:13:50+00:00'>Sep 23rd 09:13</span></td>
 <td>
 
@@ -72,13 +183,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-22T12:05:54+00:00'>Sep 22nd 12:05</span></td>
 <td>
@@ -110,97 +214,6 @@
 <td>
 
 🚀 opened [#27: feat: add error hook](https://github.com/catppuccin/rockdove/pull/27)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T11:05:34+00:00'>Sep 22nd 11:05</span></td>
-<td>
-
-💬 commented on [#2556: Catppuccin for ruby](https://github.com/catppuccin/catppuccin/issues/2556)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T10:58:39+00:00'>Sep 22nd 10:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T10:58:39+00:00'>Sep 22nd 10:58</span></td>
-<td>
-
-🎉 closed [#26: cleanup + devcontainers config](https://github.com/catppuccin/rockdove/pull/26)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T10:57:49+00:00'>Sep 22nd 10:57</span></td>
-<td>
-
-🚀 opened [#26: cleanup + devcontainers config](https://github.com/catppuccin/rockdove/pull/26)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T10:57:30+00:00'>Sep 22nd 10:57</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/devcontainer-cleanup`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-21T21:11:48+00:00'>Sep 21st 21:11</span></td>
-<td>
-
-🪄 created repository
-
-</td>
-<td>
-
-[backwardspy/satisfactory-sav-parser](https://github.com/backwardspy/satisfactory-sav-parser)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-21T12:48:12+00:00'>Sep 21st 12:48</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
