@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-24T19:30:31+00:00'>Sep 24th 19:30</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-24T19:24:04+00:00'>Sep 24th 19:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-24T19:24:04+00:00'>Sep 24th 19:24</span></td>
+<td>
+
+🎉 closed [#31: feat: ignore requested reviews on userstyles](https://github.com/catppuccin/rockdove/pull/31)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-24T19:23:13+00:00'>Sep 24th 19:23</span></td>
+<td>
+
+🚀 opened [#31: feat: ignore requested reviews on userstyles](https://github.com/catppuccin/rockdove/pull/31)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-24T16:58:50+00:00'>Sep 24th 16:58</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-24T16:57:27+00:00'>Sep 24th 16:57</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-24T16:52:51+00:00'>Sep 24th 16:52</span></td>
 <td>
@@ -162,58 +214,6 @@
 <td>
 
 🚢 pushed 2 commits to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T12:08:29+00:00'>Sep 22nd 12:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T12:05:54+00:00'>Sep 22nd 12:05</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T12:05:53+00:00'>Sep 22nd 12:05</span></td>
-<td>
-
-🎉 closed [#27: feat: add error hook](https://github.com/catppuccin/rockdove/pull/27)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T12:03:55+00:00'>Sep 22nd 12:03</span></td>
-<td>
-
-🚀 opened [#27: feat: add error hook](https://github.com/catppuccin/rockdove/pull/27)
 
 </td>
 <td>
