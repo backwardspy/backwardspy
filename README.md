@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-09-28T22:01:20+00:00'>Sep 28th 22:01</span></td>
+<td>
+
+💬 commented on [#2: chore(deps): update dependency catppuccin/whiskers to v2.5.0](https://github.com/catppuccin/windows9x/pull/2)
+
+</td>
+<td>
+
+[catppuccin/windows9x](https://github.com/catppuccin/windows9x)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-09-28T22:01:19+00:00'>Sep 28th 22:01</span></td>
+<td>
+
+🎉 closed [#2: chore(deps): update dependency catppuccin/whiskers to v2.5.0](https://github.com/catppuccin/windows9x/pull/2)
+
+</td>
+<td>
+
+[catppuccin/windows9x](https://github.com/catppuccin/windows9x)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-26T21:02:31+00:00'>Sep 26th 21:02</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-24T19:24:04+00:00'>Sep 24th 19:24</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-24T16:58:50+00:00'>Sep 24th 16:58</span></td>
 <td>
@@ -214,19 +240,6 @@
 <td>
 
 🔍 reviewed [#29: docs(README): mention `DISCORD_ERROR_WEBHOOK`](https://github.com/catppuccin/rockdove/pull/29)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T13:28:40+00:00'>Sep 22nd 13:28</span></td>
-<td>
-
-🚢 pushed 2 commits to `main`
 
 </td>
 <td>
