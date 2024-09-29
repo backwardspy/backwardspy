@@ -235,19 +235,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-09-22T14:25:59+00:00'>Sep 22nd 14:25</span></td>
-<td>
-
-🔍 reviewed [#29: docs(README): mention `DISCORD_ERROR_WEBHOOK`](https://github.com/catppuccin/rockdove/pull/29)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
