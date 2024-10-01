@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-01T16:27:34+00:00'>Oct 1st 16:27</span></td>
+<td>
+
+🚀 opened [#146: fix: correct misspelling of "leaderboard"](https://github.com/coreyja/coreyja.com/pull/146)
+
+</td>
+<td>
+
+[coreyja/coreyja.com](https://github.com/coreyja/coreyja.com)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-01T16:27:00+00:00'>Oct 1st 16:27</span></td>
+<td>
+
+🚢 pushed 1 commit to `fix/leaderboard-typos`
+
+</td>
+<td>
+
+[backwardspy/coreyja.com](https://github.com/backwardspy/coreyja.com)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-09-28T22:01:20+00:00'>Sep 28th 22:01</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-24T19:30:31+00:00'>Sep 24th 19:30</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-24T19:24:04+00:00'>Sep 24th 19:24</span></td>
 <td>
@@ -206,32 +232,6 @@
 <td>
 
 [catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-23T09:13:50+00:00'>Sep 23rd 09:13</span></td>
-<td>
-
-🚀 opened [#36: mdbook-catppuccin 3.0.3](https://github.com/catppuccin/homebrew-tap/pull/36)
-
-</td>
-<td>
-
-[catppuccin/homebrew-tap](https://github.com/catppuccin/homebrew-tap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-22T17:10:10+00:00'>Sep 22nd 17:10</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/satisfactory-sav-parser](https://github.com/backwardspy/satisfactory-sav-parser)
 
 </td>
 </tr>
