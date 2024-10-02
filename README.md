@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-02T12:11:28+00:00'>Oct 2nd 12:11</span></td>
+<td>
+
+🚀 opened [#100: feat: custom roots](https://github.com/matangover/mypy-vscode/pull/100)
+
+</td>
+<td>
+
+[matangover/mypy-vscode](https://github.com/matangover/mypy-vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-02T11:58:31+00:00'>Oct 2nd 11:58</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/custom-roots`
+
+</td>
+<td>
+
+[backwardspy/mypy-vscode](https://github.com/backwardspy/mypy-vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-01T16:27:34+00:00'>Oct 1st 16:27</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-09-28T22:01:19+00:00'>Sep 28th 22:01</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-09-24T19:30:31+00:00'>Sep 24th 19:30</span></td>
 <td>
@@ -188,32 +214,6 @@
 <td>
 
 🚀 opened [#30: fix: support teams in PR review requests](https://github.com/catppuccin/rockdove/pull/30)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-24T16:52:51+00:00'>Sep 24th 16:52</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/pr-team-review`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-24T16:51:40+00:00'>Sep 24th 16:51</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/pr-team-review`
 
 </td>
 <td>
