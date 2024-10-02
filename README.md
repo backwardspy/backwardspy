@@ -222,19 +222,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-09-24T16:50:34+00:00'>Sep 24th 16:50</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/pr-team-review`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
