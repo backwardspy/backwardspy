@@ -232,6 +232,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851a8b02cfd80bb576eaade17b8" width="48" height="48"> | [Alejandro](https://open.spotify.com/track/0iOu4s8w3pE9vbpb1SHXsL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster (UK Deluxe)](https://open.spotify.com/track/0iOu4s8w3pE9vbpb1SHXsL) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f0d55e973f83cbfe90dded16" width="48" height="48"> | [Eden](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) |
 | <img src="https://i.scdn.co/image/ab67616d000048515e77d3ce3a4f7f382daaf46f" width="48" height="48"> | [Mirror Mirror - Remastered 2007](https://open.spotify.com/track/4gFhLQA90CAFuS0Ma8aIiX) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Nightfall in Middle Earth (Remastered 2007)](https://open.spotify.com/track/4gFhLQA90CAFuS0Ma8aIiX) |
 | <img src="https://i.scdn.co/image/ab67616d000048513859468aac84e63a7661f814" width="48" height="48"> | [At the Break of Dawn](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Life Is Not Beautiful](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) |
@@ -241,7 +242,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851e8c8f9410e7fe5fc25910fc2" width="48" height="48"> | [The Bard's Song - In the Forest - Remastered 2007](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Somewhere Far Beyond (Remastered 2007)](https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe) |
 | <img src="https://i.scdn.co/image/ab67616d000048513dbcf3c664ff6be4204a32b4" width="48" height="48"> | [A Rose for Epona](https://open.spotify.com/track/4B8aMSI3d7IOgAFHwkrp4o) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Helvetios](https://open.spotify.com/track/4B8aMSI3d7IOgAFHwkrp4o) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fe111896e6e8ff6c30073266" width="48" height="48"> | [Solsagan](https://open.spotify.com/track/7fWhkCzm5g2EYZgjrrGJKT) | [Finntroll](https://open.spotify.com/artist/4ZgkHVHmGPXuRy8zd26ZJX) | [Nifelvind](https://open.spotify.com/track/7fWhkCzm5g2EYZgjrrGJKT) |
-| <img src="https://i.scdn.co/image/ab67616d000048517819a67c8d2e62e4dffc93f3" width="48" height="48"> | [Six](https://open.spotify.com/track/3WRTADbL0criwvX6IQFex2) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [The Fall Of Ideals](https://open.spotify.com/track/3WRTADbL0criwvX6IQFex2) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
