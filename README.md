@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-05T10:02:35+00:00'>Oct 5th 10:02</span></td>
+<td>
+
+🚀 opened [#33: chore: switch back to upstream octocrab](https://github.com/catppuccin/rockdove/pull/33)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-02T23:14:01+00:00'>Oct 2nd 23:14</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-01T16:27:34+00:00'>Oct 1st 16:27</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-01T16:27:00+00:00'>Oct 1st 16:27</span></td>
 <td>
@@ -201,19 +214,6 @@
 <td>
 
 🚢 pushed 2 commits to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-24T16:55:01+00:00'>Sep 24th 16:55</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
