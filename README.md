@@ -8,6 +8,104 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-05T11:12:49+00:00'>Oct 5th 11:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-05T11:04:31+00:00'>Oct 5th 11:04</span></td>
+<td>
+
+🚀 opened [#35: ci: update build to use ubuntu 22.04 runners](https://github.com/catppuccin/rockdove/pull/35)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-05T10:42:32+00:00'>Oct 5th 10:42</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-05T10:33:45+00:00'>Oct 5th 10:33</span></td>
+<td>
+
+🚀 opened [#34: chore: upgrade cargo-dist](https://github.com/catppuccin/rockdove/pull/34)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-05T10:15:50+00:00'>Oct 5th 10:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-10-05T10:06:26+00:00'>Oct 5th 10:06</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-05T10:06:25+00:00'>Oct 5th 10:06</span></td>
+<td>
+
+🎉 closed [#33: chore: switch back to upstream octocrab](https://github.com/catppuccin/rockdove/pull/33)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-05T10:02:35+00:00'>Oct 5th 10:02</span></td>
 <td>
 
@@ -69,156 +167,6 @@
 <td>
 
 [backwardspy/mypy-vscode](https://github.com/backwardspy/mypy-vscode)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2024-10-01T16:27:34+00:00'>Oct 1st 16:27</span></td>
-<td>
-
-🚀 opened [#146: fix: correct misspelling of "leaderboard"](https://github.com/coreyja/coreyja.com/pull/146)
-
-</td>
-<td>
-
-[coreyja/coreyja.com](https://github.com/coreyja/coreyja.com)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-01T16:27:00+00:00'>Oct 1st 16:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/leaderboard-typos`
-
-</td>
-<td>
-
-[backwardspy/coreyja.com](https://github.com/backwardspy/coreyja.com)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-28T22:01:20+00:00'>Sep 28th 22:01</span></td>
-<td>
-
-💬 commented on [#2: chore(deps): update dependency catppuccin/whiskers to v2.5.0](https://github.com/catppuccin/windows9x/pull/2)
-
-</td>
-<td>
-
-[catppuccin/windows9x](https://github.com/catppuccin/windows9x)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-28T22:01:19+00:00'>Sep 28th 22:01</span></td>
-<td>
-
-🎉 closed [#2: chore(deps): update dependency catppuccin/whiskers to v2.5.0](https://github.com/catppuccin/windows9x/pull/2)
-
-</td>
-<td>
-
-[catppuccin/windows9x](https://github.com/catppuccin/windows9x)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-26T21:02:31+00:00'>Sep 26th 21:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/satisfactory-sav-parser](https://github.com/backwardspy/satisfactory-sav-parser)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-24T19:30:31+00:00'>Sep 24th 19:30</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-24T19:24:04+00:00'>Sep 24th 19:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-24T19:24:04+00:00'>Sep 24th 19:24</span></td>
-<td>
-
-🎉 closed [#31: feat: ignore requested reviews on userstyles](https://github.com/catppuccin/rockdove/pull/31)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-24T19:23:13+00:00'>Sep 24th 19:23</span></td>
-<td>
-
-🚀 opened [#31: feat: ignore requested reviews on userstyles](https://github.com/catppuccin/rockdove/pull/31)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-24T16:58:50+00:00'>Sep 24th 16:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-09-24T16:57:27+00:00'>Sep 24th 16:57</span></td>
-<td>
-
-🚢 pushed 2 commits to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
 
 </td>
 </tr>
