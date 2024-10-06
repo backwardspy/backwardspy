@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-06T21:46:54+00:00'>Oct 6th 21:46</span></td>
+<td>
+
+📢 opened [#49: javascript](https://github.com/sgoudham/update-git-submodules/issues/49)
+
+</td>
+<td>
+
+[sgoudham/update-git-submodules](https://github.com/sgoudham/update-git-submodules)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-05T11:12:49+00:00'>Oct 5th 11:12</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-05T10:15:50+00:00'>Oct 5th 10:15</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-05T10:06:26+00:00'>Oct 5th 10:06</span></td>
 <td>
@@ -154,19 +167,6 @@
 <td>
 
 [matangover/mypy-vscode](https://github.com/matangover/mypy-vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-02T11:58:31+00:00'>Oct 2nd 11:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/custom-roots`
-
-</td>
-<td>
-
-[backwardspy/mypy-vscode](https://github.com/backwardspy/mypy-vscode)
 
 </td>
 </tr>
