@@ -8,6 +8,169 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-11T22:15:09+00:00'>Oct 11th 22:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:15:09+00:00'>Oct 11th 22:15</span></td>
+<td>
+
+🎉 closed [#86: feat(pygments): remove line-height](https://github.com/catppuccin/python/pull/86)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:14:49+00:00'>Oct 11th 22:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:14:49+00:00'>Oct 11th 22:14</span></td>
+<td>
+
+🎉 closed [#82: chore(deps): update dependency pytest to v8.3.3](https://github.com/catppuccin/python/pull/82)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:14:45+00:00'>Oct 11th 22:14</span></td>
+<td>
+
+🔍 reviewed [#82: chore(deps): update dependency pytest to v8.3.3](https://github.com/catppuccin/python/pull/82)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-10-11T22:14:31+00:00'>Oct 11th 22:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:14:31+00:00'>Oct 11th 22:14</span></td>
+<td>
+
+🎉 closed [#83: fix(deps): update dependency rich to v13.9.2](https://github.com/catppuccin/python/pull/83)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:14:27+00:00'>Oct 11th 22:14</span></td>
+<td>
+
+🔍 reviewed [#83: fix(deps): update dependency rich to v13.9.2](https://github.com/catppuccin/python/pull/83)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:14:17+00:00'>Oct 11th 22:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:14:16+00:00'>Oct 11th 22:14</span></td>
+<td>
+
+🎉 closed [#85: chore(deps): update dependency ruff to v0.6.9](https://github.com/catppuccin/python/pull/85)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:14:13+00:00'>Oct 11th 22:14</span></td>
+<td>
+
+🔍 reviewed [#85: chore(deps): update dependency ruff to v0.6.9](https://github.com/catppuccin/python/pull/85)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:10:39+00:00'>Oct 11th 22:10</span></td>
+<td>
+
+🚀 opened [#86: feat(pygments): remove line-height](https://github.com/catppuccin/python/pull/86)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-06T21:46:54+00:00'>Oct 6th 21:46</span></td>
 <td>
 
@@ -43,130 +206,6 @@
 <td>
 
 [catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-05T10:42:32+00:00'>Oct 5th 10:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-05T10:33:45+00:00'>Oct 5th 10:33</span></td>
-<td>
-
-🚀 opened [#34: chore: upgrade cargo-dist](https://github.com/catppuccin/rockdove/pull/34)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2024-10-05T10:15:50+00:00'>Oct 5th 10:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-05T10:06:26+00:00'>Oct 5th 10:06</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-05T10:06:25+00:00'>Oct 5th 10:06</span></td>
-<td>
-
-🎉 closed [#33: chore: switch back to upstream octocrab](https://github.com/catppuccin/rockdove/pull/33)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-05T10:02:35+00:00'>Oct 5th 10:02</span></td>
-<td>
-
-🚀 opened [#33: chore: switch back to upstream octocrab](https://github.com/catppuccin/rockdove/pull/33)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-02T23:14:01+00:00'>Oct 2nd 23:14</span></td>
-<td>
-
-💬 commented on [#100: feat: custom roots](https://github.com/matangover/mypy-vscode/pull/100)
-
-</td>
-<td>
-
-[matangover/mypy-vscode](https://github.com/matangover/mypy-vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-02T16:56:03+00:00'>Oct 2nd 16:56</span></td>
-<td>
-
-💬 commented on [#100: feat: custom roots](https://github.com/matangover/mypy-vscode/pull/100)
-
-</td>
-<td>
-
-[matangover/mypy-vscode](https://github.com/matangover/mypy-vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-02T12:11:28+00:00'>Oct 2nd 12:11</span></td>
-<td>
-
-🚀 opened [#100: feat: custom roots](https://github.com/matangover/mypy-vscode/pull/100)
-
-</td>
-<td>
-
-[matangover/mypy-vscode](https://github.com/matangover/mypy-vscode)
 
 </td>
 </tr>
