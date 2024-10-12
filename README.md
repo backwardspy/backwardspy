@@ -8,6 +8,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-11T22:26:18+00:00'>Oct 11th 22:26</span></td>
+<td>
+
+🔍 reviewed [#1227: feat(rentry.co): init](https://github.com/catppuccin/userstyles/pull/1227)
+
+</td>
+<td>
+
+[catppuccin/userstyles](https://github.com/catppuccin/userstyles)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:21:47+00:00'>Oct 11th 22:21</span></td>
+<td>
+
+💬 commented on [#88: feat(pygments): "can't you just..." - @nullishamy](https://github.com/catppuccin/python/pull/88)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:21:36+00:00'>Oct 11th 22:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:21:35+00:00'>Oct 11th 22:21</span></td>
+<td>
+
+🎉 closed [#88: feat(pygments): "can't you just..." - @nullishamy](https://github.com/catppuccin/python/pull/88)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-11T22:21:06+00:00'>Oct 11th 22:21</span></td>
+<td>
+
+🚀 opened [#88: feat(pygments): "can't you just..." - @nullishamy](https://github.com/catppuccin/python/pull/88)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2024-10-11T22:15:09+00:00'>Oct 11th 22:15</span></td>
 <td>
 
@@ -72,13 +144,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-11T22:14:31+00:00'>Oct 11th 22:14</span></td>
 <td>
@@ -167,45 +232,6 @@
 <td>
 
 [catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-06T21:46:54+00:00'>Oct 6th 21:46</span></td>
-<td>
-
-📢 opened [#49: javascript](https://github.com/sgoudham/update-git-submodules/issues/49)
-
-</td>
-<td>
-
-[sgoudham/update-git-submodules](https://github.com/sgoudham/update-git-submodules)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-05T11:12:49+00:00'>Oct 5th 11:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-05T11:04:31+00:00'>Oct 5th 11:04</span></td>
-<td>
-
-🚀 opened [#35: ci: update build to use ubuntu 22.04 runners](https://github.com/catppuccin/rockdove/pull/35)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
 
 </td>
 </tr>
