@@ -8,33 +8,7 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2024-10-11T22:26:18+00:00'>Oct 11th 22:26</span></td>
-<td>
-
-🔍 reviewed [#1227: feat(rentry.co): init](https://github.com/catppuccin/userstyles/pull/1227)
-
-</td>
-<td>
-
-[catppuccin/userstyles](https://github.com/catppuccin/userstyles)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-11T22:21:47+00:00'>Oct 11th 22:21</span></td>
-<td>
-
-💬 commented on [#88: feat(pygments): "can't you just..." - @nullishamy](https://github.com/catppuccin/python/pull/88)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-11T22:21:36+00:00'>Oct 11th 22:21</span></td>
+<td><span title='2024-10-12T10:18:20+00:00'>Oct 12th 10:18</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -42,33 +16,59 @@
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[backwardspy/dots](https://github.com/backwardspy/dots)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:21:35+00:00'>Oct 11th 22:21</span></td>
+<td><span title='2024-10-12T10:16:01+00:00'>Oct 12th 10:16</span></td>
 <td>
 
-🎉 closed [#88: feat(pygments): "can't you just..." - @nullishamy](https://github.com/catppuccin/python/pull/88)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[backwardspy/dots](https://github.com/backwardspy/dots)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:21:06+00:00'>Oct 11th 22:21</span></td>
+<td><span title='2024-10-12T10:12:21+00:00'>Oct 12th 10:12</span></td>
 <td>
 
-🚀 opened [#88: feat(pygments): "can't you just..." - @nullishamy](https://github.com/catppuccin/python/pull/88)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-12T09:58:38+00:00'>Oct 12th 09:58</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-12T09:36:16+00:00'>Oct 12th 09:36</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
 
 </td>
 </tr>
@@ -80,7 +80,7 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2024-10-11T22:15:09+00:00'>Oct 11th 22:15</span></td>
+<td><span title='2024-10-12T09:27:18+00:00'>Oct 12th 09:27</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -88,25 +88,25 @@
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:15:09+00:00'>Oct 11th 22:15</span></td>
+<td><span title='2024-10-12T09:27:17+00:00'>Oct 12th 09:27</span></td>
 <td>
 
-🎉 closed [#86: feat(pygments): remove line-height](https://github.com/catppuccin/python/pull/86)
+🎉 closed [#54: chore(main): release 2.5.1](https://github.com/catppuccin/whiskers/pull/54)
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:14:49+00:00'>Oct 11th 22:14</span></td>
+<td><span title='2024-10-12T09:21:46+00:00'>Oct 12th 09:21</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -114,38 +114,25 @@
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:14:49+00:00'>Oct 11th 22:14</span></td>
+<td><span title='2024-10-12T09:21:46+00:00'>Oct 12th 09:21</span></td>
 <td>
 
-🎉 closed [#82: chore(deps): update dependency pytest to v8.3.3](https://github.com/catppuccin/python/pull/82)
+🎉 closed [#46: fix(deps): update rust crate anyhow to v1.0.89](https://github.com/catppuccin/whiskers/pull/46)
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-11T22:14:45+00:00'>Oct 11th 22:14</span></td>
-<td>
-
-🔍 reviewed [#82: chore(deps): update dependency pytest to v8.3.3](https://github.com/catppuccin/python/pull/82)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:14:31+00:00'>Oct 11th 22:14</span></td>
+<td><span title='2024-10-12T09:21:32+00:00'>Oct 12th 09:21</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -153,38 +140,25 @@
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:14:31+00:00'>Oct 11th 22:14</span></td>
+<td><span title='2024-10-12T09:21:32+00:00'>Oct 12th 09:21</span></td>
 <td>
 
-🎉 closed [#83: fix(deps): update dependency rich to v13.9.2](https://github.com/catppuccin/python/pull/83)
+🎉 closed [#47: fix(deps): update rust crate clap to v4.5.20](https://github.com/catppuccin/whiskers/pull/47)
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-11T22:14:27+00:00'>Oct 11th 22:14</span></td>
-<td>
-
-🔍 reviewed [#83: fix(deps): update dependency rich to v13.9.2](https://github.com/catppuccin/python/pull/83)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:14:17+00:00'>Oct 11th 22:14</span></td>
+<td><span title='2024-10-12T09:21:18+00:00'>Oct 12th 09:21</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -192,46 +166,98 @@
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:14:16+00:00'>Oct 11th 22:14</span></td>
+<td><span title='2024-10-12T09:21:17+00:00'>Oct 12th 09:21</span></td>
 <td>
 
-🎉 closed [#85: chore(deps): update dependency ruff to v0.6.9](https://github.com/catppuccin/python/pull/85)
+🎉 closed [#48: fix(deps): update rust crate serde to v1.0.210](https://github.com/catppuccin/whiskers/pull/48)
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-11T22:14:13+00:00'>Oct 11th 22:14</span></td>
-<td>
-
-🔍 reviewed [#85: chore(deps): update dependency ruff to v0.6.9](https://github.com/catppuccin/python/pull/85)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2024-10-11T22:10:39+00:00'>Oct 11th 22:10</span></td>
+<td><span title='2024-10-12T09:20:56+00:00'>Oct 12th 09:20</span></td>
 <td>
 
-🚀 opened [#86: feat(pygments): remove line-height](https://github.com/catppuccin/python/pull/86)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
 
-[catppuccin/python](https://github.com/catppuccin/python)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-12T09:20:55+00:00'>Oct 12th 09:20</span></td>
+<td>
+
+🎉 closed [#49: fix(deps): update rust crate serde_json to v1.0.128](https://github.com/catppuccin/whiskers/pull/49)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-12T09:20:26+00:00'>Oct 12th 09:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-12T09:20:26+00:00'>Oct 12th 09:20</span></td>
+<td>
+
+🎉 closed [#50: fix(deps): update rust crate indexmap to v2.6.0](https://github.com/catppuccin/whiskers/pull/50)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-12T09:20:13+00:00'>Oct 12th 09:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-12T09:20:13+00:00'>Oct 12th 09:20</span></td>
+<td>
+
+🎉 closed [#51: fix(deps): update rust crate thiserror to v1.0.64](https://github.com/catppuccin/whiskers/pull/51)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
