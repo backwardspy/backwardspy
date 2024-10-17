@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-17T11:56:26+00:00'>Oct 17th 11:56</span></td>
+<td>
+
+💬 commented on [#55: Add aliases for ANSI/terminal colors](https://github.com/catppuccin/whiskers/issues/55)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-12T10:18:20+00:00'>Oct 12th 10:18</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-12T09:36:16+00:00'>Oct 12th 09:36</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-12T09:27:18+00:00'>Oct 12th 09:27</span></td>
 <td>
@@ -240,19 +253,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:20:13+00:00'>Oct 12th 09:20</span></td>
-<td>
-
-🎉 closed [#51: fix(deps): update rust crate thiserror to v1.0.64](https://github.com/catppuccin/whiskers/pull/51)
 
 </td>
 <td>
