@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-20T10:38:21+00:00'>Oct 20th 10:38</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[doitsujin/dxvk](https://github.com/doitsujin/dxvk)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-20T10:14:59+00:00'>Oct 20th 10:14</span></td>
+<td>
+
+🚀 opened [#18: feat: add flashcard quiz byte](https://github.com/coreyja/crowd-source-bytes/pull/18)
+
+</td>
+<td>
+
+[coreyja/crowd-source-bytes](https://github.com/coreyja/crowd-source-bytes)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-17T11:56:26+00:00'>Oct 17th 11:56</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-12T10:12:21+00:00'>Oct 12th 10:12</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-12T09:36:16+00:00'>Oct 12th 09:36</span></td>
 <td>
@@ -222,32 +248,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-10-12T09:20:26+00:00'>Oct 12th 09:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:20:26+00:00'>Oct 12th 09:20</span></td>
-<td>
-
-🎉 closed [#50: fix(deps): update rust crate indexmap to v2.6.0](https://github.com/catppuccin/whiskers/pull/50)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -258,16 +258,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [Telescopic](https://open.spotify.com/track/5Fcc5ZvKZYu0C2JIr093IO) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/5Fcc5ZvKZYu0C2JIr093IO) |
+| <img src="https://i.scdn.co/image/ab67616d0000485103e0368dbdbd2e4b80a0a363" width="48" height="48"> | [The Fury](https://open.spotify.com/track/4nMggpnbvfo10j4zJflt9z) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Midnight Signals (Original Motion Picture Score)](https://open.spotify.com/track/4nMggpnbvfo10j4zJflt9z) |
+| <img src="https://i.scdn.co/image/ab67616d0000485184ffaa884f1344f916f87299" width="48" height="48"> | [Introduction](https://open.spotify.com/track/2QBw72MiksITj0490637BN) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Mirror's Edge (Original Videogame Score)](https://open.spotify.com/track/2QBw72MiksITj0490637BN) |
+| <img src="https://i.scdn.co/image/ab67616d000048515274b5764f98b36833a45e15" width="48" height="48"> | [Dreaming (feat. Daniel Law Heath)](https://open.spotify.com/track/06eAJMuTgnoRUBjfQsfT7X) | [Corner Stone Cues](https://open.spotify.com/artist/0kNyq4Q2UEmIeuySw9myZc), [Daniel Law Heath](https://open.spotify.com/artist/5EA3M9YLT4PsLOorVSafbD) | [Corner Stone Cues Presents: In Situ](https://open.spotify.com/track/06eAJMuTgnoRUBjfQsfT7X) |
 | <img src="https://i.scdn.co/image/ab67616d0000485138aac529b900cb07a4553591" width="48" height="48"> | [In Time](https://open.spotify.com/track/4hjLwIRcqoHw270FLn40M6) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [Light Years](https://open.spotify.com/track/4hjLwIRcqoHw270FLn40M6) |
 | <img src="https://i.scdn.co/image/ab67616d00004851facb27cbd7fd2cab2d76b052" width="48" height="48"> | [Bitterness](https://open.spotify.com/track/5n9L6XZyy7VjJEFSYUhxcp) | [Max Anson](https://open.spotify.com/artist/0l9K0AlV07ElrZmH8mQqkQ) | [Little-Known Lies](https://open.spotify.com/track/5n9L6XZyy7VjJEFSYUhxcp) |
 | <img src="https://i.scdn.co/image/ab67616d000048510c1cd1e5b9d3f51d5f13c03c" width="48" height="48"> | [Hypercube](https://open.spotify.com/track/7dvv9Xfks87yuxeuRq3npr) | [BORDER 242](https://open.spotify.com/artist/3Ko2NZ5lUHGbI5ZcCTcePO) | [Analog Prog #2](https://open.spotify.com/track/7dvv9Xfks87yuxeuRq3npr) |
 | <img src="https://i.scdn.co/image/ab67616d000048517ac1d72211d93028cddc84b9" width="48" height="48"> | [Phase 09 - Sombrero](https://open.spotify.com/track/4uKzc4cK3OOzVPluOAoBj2) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Until We Meet The Sky](https://open.spotify.com/track/4uKzc4cK3OOzVPluOAoBj2) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [The Echo](https://open.spotify.com/track/3WW2y8rIVGpw0LovBY4nH5) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/3WW2y8rIVGpw0LovBY4nH5) |
 | <img src="https://i.scdn.co/image/ab67616d000048515e381e1a42944b55ba31aafc" width="48" height="48"> | [OhHiOjai](https://open.spotify.com/track/6dbHvoCuRWWo55YSXZTfgc) | [Ginger Runner](https://open.spotify.com/artist/2Y2292xxsarmY6b67bti20) | [Canterbury](https://open.spotify.com/track/6dbHvoCuRWWo55YSXZTfgc) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a4c2f696c6444946c6ce54e0" width="48" height="48"> | [What We Discovered](https://open.spotify.com/track/66oDm1f5ZK3C7Vzr0bMGJx) | [Philip Ayers](https://open.spotify.com/artist/1IJx884XVtl5mWZhINoRSj) | [Juncture](https://open.spotify.com/track/66oDm1f5ZK3C7Vzr0bMGJx) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c3d913d43f276ece4e97bddc" width="48" height="48"> | [Glass (Inspired by Mirror's Edge: Catalyst) [LinkingHearts Remix]](https://open.spotify.com/track/5gcBO13QsuKro75vUkrCt4) | [LinkingHearts](https://open.spotify.com/artist/69JI4UxwlMCDaDetq9EkVh), [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Glass (Inspired by Mirror's Edge: Catalyst) [LinkingHearts Remix]](https://open.spotify.com/track/5gcBO13QsuKro75vUkrCt4) |
-| <img src="https://i.scdn.co/image/ab67616d0000485177ee9e2be5e1ba80106cfe53" width="48" height="48"> | [Catalyst](https://open.spotify.com/track/0l8bSoBGZqcoKv5INJxCCy) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Mirror's Edge Catalyst (EA Games Soundtrack)](https://open.spotify.com/track/0l8bSoBGZqcoKv5INJxCCy) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a8b02cfd80bb576eaade17b8" width="48" height="48"> | [Alejandro](https://open.spotify.com/track/0iOu4s8w3pE9vbpb1SHXsL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster (UK Deluxe)](https://open.spotify.com/track/0iOu4s8w3pE9vbpb1SHXsL) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
