@@ -258,6 +258,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851f12903fef70ef4c0dea29f28" width="48" height="48"> | [Screw Eyes](https://open.spotify.com/track/4wCCtqNwcQBnqrw86ub4H0) | [Color Therapy](https://open.spotify.com/artist/72d4HFunvDNYHwmaVxZLLQ) | [Mr. Wolf Is Dead](https://open.spotify.com/track/4wCCtqNwcQBnqrw86ub4H0) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [Telescopic](https://open.spotify.com/track/5Fcc5ZvKZYu0C2JIr093IO) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/5Fcc5ZvKZYu0C2JIr093IO) |
 | <img src="https://i.scdn.co/image/ab67616d0000485103e0368dbdbd2e4b80a0a363" width="48" height="48"> | [The Fury](https://open.spotify.com/track/4nMggpnbvfo10j4zJflt9z) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Midnight Signals (Original Motion Picture Score)](https://open.spotify.com/track/4nMggpnbvfo10j4zJflt9z) |
 | <img src="https://i.scdn.co/image/ab67616d0000485184ffaa884f1344f916f87299" width="48" height="48"> | [Introduction](https://open.spotify.com/track/2QBw72MiksITj0490637BN) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Mirror's Edge (Original Videogame Score)](https://open.spotify.com/track/2QBw72MiksITj0490637BN) |
@@ -267,7 +268,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048510c1cd1e5b9d3f51d5f13c03c" width="48" height="48"> | [Hypercube](https://open.spotify.com/track/7dvv9Xfks87yuxeuRq3npr) | [BORDER 242](https://open.spotify.com/artist/3Ko2NZ5lUHGbI5ZcCTcePO) | [Analog Prog #2](https://open.spotify.com/track/7dvv9Xfks87yuxeuRq3npr) |
 | <img src="https://i.scdn.co/image/ab67616d000048517ac1d72211d93028cddc84b9" width="48" height="48"> | [Phase 09 - Sombrero](https://open.spotify.com/track/4uKzc4cK3OOzVPluOAoBj2) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Until We Meet The Sky](https://open.spotify.com/track/4uKzc4cK3OOzVPluOAoBj2) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [The Echo](https://open.spotify.com/track/3WW2y8rIVGpw0LovBY4nH5) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/3WW2y8rIVGpw0LovBY4nH5) |
-| <img src="https://i.scdn.co/image/ab67616d000048515e381e1a42944b55ba31aafc" width="48" height="48"> | [OhHiOjai](https://open.spotify.com/track/6dbHvoCuRWWo55YSXZTfgc) | [Ginger Runner](https://open.spotify.com/artist/2Y2292xxsarmY6b67bti20) | [Canterbury](https://open.spotify.com/track/6dbHvoCuRWWo55YSXZTfgc) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
