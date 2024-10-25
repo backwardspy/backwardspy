@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-25T08:28:18+00:00'>Oct 25th 08:28</span></td>
+<td>
+
+💬 commented on [#93: matplotlib invalid package style](https://github.com/catppuccin/python/issues/93)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-20T10:38:21+00:00'>Oct 20th 10:38</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-12T10:16:01+00:00'>Oct 12th 10:16</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-12T10:12:21+00:00'>Oct 12th 10:12</span></td>
 <td>
