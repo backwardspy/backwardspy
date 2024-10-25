@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-25T08:50:11+00:00'>Oct 25th 08:50</span></td>
+<td>
+
+💬 commented on [#2579: chore(maintainers): tmux move `vdbe` to past-maintainers](https://github.com/catppuccin/catppuccin/pull/2579)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-25T08:28:18+00:00'>Oct 25th 08:28</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-12T10:18:20+00:00'>Oct 12th 10:18</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-12T10:16:01+00:00'>Oct 12th 10:16</span></td>
 <td>
@@ -240,19 +253,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:20:55+00:00'>Oct 12th 09:20</span></td>
-<td>
-
-🎉 closed [#49: fix(deps): update rust crate serde_json to v1.0.128](https://github.com/catppuccin/whiskers/pull/49)
 
 </td>
 <td>
