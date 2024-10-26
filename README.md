@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-26T15:09:54+00:00'>Oct 26th 15:09</span></td>
+<td>
+
+💬 commented on [#37: White text on yellow background is not visible](https://github.com/catppuccin/python/issues/37)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-26T09:51:12+00:00'>Oct 26th 09:51</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-25T08:50:11+00:00'>Oct 25th 08:50</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-25T08:28:18+00:00'>Oct 25th 08:28</span></td>
 <td>
