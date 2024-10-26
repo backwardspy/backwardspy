@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-26T09:51:12+00:00'>Oct 26th 09:51</span></td>
+<td>
+
+💬 commented on [#93: matplotlib invalid package style](https://github.com/catppuccin/python/issues/93)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-26T09:41:01+00:00'>Oct 26th 09:41</span></td>
+<td>
+
+💬 commented on [#37: White text on yellow background is not visible](https://github.com/catppuccin/python/issues/37)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-26T08:55:48+00:00'>Oct 26th 08:55</span></td>
+<td>
+
+💬 commented on [#37: White text on yellow background is not visible](https://github.com/catppuccin/python/issues/37)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-25T17:20:40+00:00'>Oct 25th 17:20</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-25T08:28:18+00:00'>Oct 25th 08:28</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-17T11:56:26+00:00'>Oct 17th 11:56</span></td>
 <td>
@@ -227,32 +266,6 @@
 <td>
 
 🎉 closed [#47: fix(deps): update rust crate clap to v4.5.20](https://github.com/catppuccin/whiskers/pull/47)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:21:18+00:00'>Oct 12th 09:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:21:17+00:00'>Oct 12th 09:21</span></td>
-<td>
-
-🎉 closed [#48: fix(deps): update rust crate serde to v1.0.210](https://github.com/catppuccin/whiskers/pull/48)
 
 </td>
 <td>
