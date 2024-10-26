@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-25T17:20:40+00:00'>Oct 25th 17:20</span></td>
+<td>
+
+💬 commented on [#93: matplotlib invalid package style](https://github.com/catppuccin/python/issues/93)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-25T08:50:11+00:00'>Oct 25th 08:50</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-17T11:56:26+00:00'>Oct 17th 11:56</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-12T10:18:20+00:00'>Oct 12th 10:18</span></td>
 <td>
@@ -240,19 +253,6 @@
 <td>
 
 🎉 closed [#48: fix(deps): update rust crate serde to v1.0.210](https://github.com/catppuccin/whiskers/pull/48)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:20:56+00:00'>Oct 12th 09:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
