@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-26T23:45:54+00:00'>Oct 26th 23:45</span></td>
+<td>
+
+🎉 closed [#36: feat: auto-sync upstream palettes](https://github.com/catppuccin/rust/pull/36)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-26T23:45:54+00:00'>Oct 26th 23:45</span></td>
+<td>
+
+🎉 closed [#35: feat: auto-sync upstream palettes](https://github.com/catppuccin/rust/pull/35)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-26T23:45:53+00:00'>Oct 26th 23:45</span></td>
+<td>
+
+🎉 closed [#33: feat: auto-sync upstream palettes](https://github.com/catppuccin/rust/pull/33)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-26T23:45:38+00:00'>Oct 26th 23:45</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-10-26T23:45:37+00:00'>Oct 26th 23:45</span></td>
+<td>
+
+🎉 closed [#37: ci(palette): only run on `main` branch](https://github.com/catppuccin/rust/pull/37)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-10-26T22:21:07+00:00'>Oct 26th 22:21</span></td>
+<td>
+
+🔍 reviewed [#98: feat: add ANSI colours](https://github.com/catppuccin/palette/pull/98)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-26T15:09:54+00:00'>Oct 26th 15:09</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-25T08:50:11+00:00'>Oct 25th 08:50</span></td>
 <td>
@@ -206,84 +284,6 @@
 <td>
 
 [backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:27:18+00:00'>Oct 12th 09:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:27:17+00:00'>Oct 12th 09:27</span></td>
-<td>
-
-🎉 closed [#54: chore(main): release 2.5.1](https://github.com/catppuccin/whiskers/pull/54)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:21:46+00:00'>Oct 12th 09:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:21:46+00:00'>Oct 12th 09:21</span></td>
-<td>
-
-🎉 closed [#46: fix(deps): update rust crate anyhow to v1.0.89](https://github.com/catppuccin/whiskers/pull/46)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:21:32+00:00'>Oct 12th 09:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:21:32+00:00'>Oct 12th 09:21</span></td>
-<td>
-
-🎉 closed [#47: fix(deps): update rust crate clap to v4.5.20](https://github.com/catppuccin/whiskers/pull/47)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
