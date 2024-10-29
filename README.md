@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-10-28T17:43:23+00:00'>Oct 28th 17:43</span></td>
+<td>
+
+💬 commented on [#2585: Catppuccin - KDE Plasma (all features available only on 5, 6 is 99.9% cause it does not have tiling.)](https://github.com/catppuccin/catppuccin/issues/2585)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-26T23:45:54+00:00'>Oct 26th 23:45</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-26T23:45:37+00:00'>Oct 26th 23:45</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-26T22:21:07+00:00'>Oct 26th 22:21</span></td>
 <td>
