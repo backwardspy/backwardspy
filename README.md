@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-01T14:30:56+00:00'>Nov 1st 14:30</span></td>
+<td>
+
+🚢 pushed 2 commits to `new-palettes`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-10-28T22:36:41+00:00'>Oct 28th 22:36</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-26T23:45:53+00:00'>Oct 26th 23:45</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-26T23:45:38+00:00'>Oct 26th 23:45</span></td>
 <td>
@@ -276,19 +289,6 @@
 </tr>
 <tr>
 <td><span title='2024-10-12T10:12:21+00:00'>Oct 12th 10:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T09:58:38+00:00'>Oct 12th 09:58</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
