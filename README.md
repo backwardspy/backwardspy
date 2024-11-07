@@ -310,6 +310,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048514e4c1b9ccbdc7e62b573073c" width="48" height="48"> | [A Little Faster](https://open.spotify.com/track/0YwqJeTUyviMJw70jRt9ET) | [There For Tomorrow](https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM) | [A Little Faster](https://open.spotify.com/track/0YwqJeTUyviMJw70jRt9ET) |
 | <img src="https://i.scdn.co/image/ab67616d00004851283177f0bb90830a72303227" width="48" height="48"> | [For You, And Your Denial](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [When You're Through Thinking, Say Yes](https://open.spotify.com/track/79t5XYhIMyZPOVyKVSJxM2) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cbb5aebf323058ff06224338" width="48" height="48"> | [The River](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) |
 | <img src="https://i.scdn.co/image/ab67616d00004851eaa10fffa60de320846c28be" width="48" height="48"> | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) |
@@ -319,7 +320,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851c2c6e57c0258429a357d918c" width="48" height="48"> | [Save Yourself](https://open.spotify.com/track/1DfZNodlMJlst0NmzmvdEg) | [My Darkest Days](https://open.spotify.com/artist/64g59lHsc4g2jMFokrKDGW) | [Sick And Twisted Affair](https://open.spotify.com/track/1DfZNodlMJlst0NmzmvdEg) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d60b659cea50abb78d0cb459" width="48" height="48"> | [Devastation and Reform](https://open.spotify.com/track/4LPcHTzgzEYxsEmh1KEPWJ) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Five Score and Seven Years Ago](https://open.spotify.com/track/4LPcHTzgzEYxsEmh1KEPWJ) |
 | <img src="https://i.scdn.co/image/ab67616d000048514978eed9f147170024b9a65b" width="48" height="48"> | [Little Lion Man](https://open.spotify.com/track/6oyJip5XQHRqcsy6hOTqw3) | [Tonight Alive](https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh), [Dave Petrovic](https://open.spotify.com/artist/3jqy0lRa0e09KPyUhMELsC) | [Punk Goes Pop, Vol. 4](https://open.spotify.com/track/6oyJip5XQHRqcsy6hOTqw3) |
-| <img src="https://i.scdn.co/image/ab67616d00004851d0c4b14b57f31b349fe36d1c" width="48" height="48"> | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
