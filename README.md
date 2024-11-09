@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-08T19:37:47+00:00'>Nov 8th 19:37</span></td>
+<td>
+
+🔍 reviewed [#449: feat: highlight liquid objects/variables as `pink`](https://github.com/catppuccin/vscode/pull/449)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-01T14:30:56+00:00'>Nov 1st 14:30</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-26T23:45:54+00:00'>Oct 26th 23:45</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-26T23:45:53+00:00'>Oct 26th 23:45</span></td>
 <td>
@@ -276,19 +289,6 @@
 </tr>
 <tr>
 <td><span title='2024-10-12T10:16:01+00:00'>Oct 12th 10:16</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T10:12:21+00:00'>Oct 12th 10:12</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
