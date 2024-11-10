@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-10T11:32:07+00:00'>Nov 10th 11:32</span></td>
+<td>
+
+💬 commented on [#452: Catppuccin extension settings don't respect Profile settings](https://github.com/catppuccin/vscode/issues/452)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-11-10T11:22:05+00:00'>Nov 10th 11:22</span></td>
+<td>
+
+💬 commented on [#451: Weird color change since visual studio code v1.95 and nvidia driver 565](https://github.com/catppuccin/vscode/issues/451)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-11-10T11:07:46+00:00'>Nov 10th 11:07</span></td>
+<td>
+
+💬 commented on [#411: Support custom accent colour from the user & the full palette](https://github.com/catppuccin/vscode/issues/411)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-08T19:37:47+00:00'>Nov 8th 19:37</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-10-28T22:36:41+00:00'>Oct 28th 22:36</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-26T23:45:54+00:00'>Oct 26th 23:45</span></td>
 <td>
@@ -258,45 +297,6 @@
 <td>
 
 [coreyja/crowd-source-bytes](https://github.com/coreyja/crowd-source-bytes)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-17T11:56:26+00:00'>Oct 17th 11:56</span></td>
-<td>
-
-💬 commented on [#55: Add aliases for ANSI/terminal colors](https://github.com/catppuccin/whiskers/issues/55)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T10:18:20+00:00'>Oct 12th 10:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-12T10:16:01+00:00'>Oct 12th 10:16</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
 
 </td>
 </tr>
