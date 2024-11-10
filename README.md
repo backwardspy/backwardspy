@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-10T18:01:05+00:00'>Nov 10th 18:01</span></td>
+<td>
+
+💬 commented on [#443: VSCodium workspace accent color doesn't take effect automatically](https://github.com/catppuccin/vscode/issues/443)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-11-10T17:54:32+00:00'>Nov 10th 17:54</span></td>
+<td>
+
+💬 commented on [#452: Catppuccin extension settings don't respect Profile settings](https://github.com/catppuccin/vscode/issues/452)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-11-10T17:02:59+00:00'>Nov 10th 17:02</span></td>
+<td>
+
+🔍 reviewed [#116: feat(ansi): add `bright` boolean for easy "is bright" checks](https://github.com/catppuccin/palette/pull/116)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-10T11:32:07+00:00'>Nov 10th 11:32</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-10T11:07:46+00:00'>Nov 10th 11:07</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-10-28T22:36:41+00:00'>Oct 28th 22:36</span></td>
 <td>
@@ -284,19 +323,6 @@
 <td>
 
 [doitsujin/dxvk](https://github.com/doitsujin/dxvk)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-20T10:14:59+00:00'>Oct 20th 10:14</span></td>
-<td>
-
-🚀 opened [#18: feat: add flashcard quiz byte](https://github.com/coreyja/crowd-source-bytes/pull/18)
-
-</td>
-<td>
-
-[coreyja/crowd-source-bytes](https://github.com/coreyja/crowd-source-bytes)
 
 </td>
 </tr>
