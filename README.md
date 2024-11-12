@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-12T11:02:57+00:00'>Nov 12th 11:02</span></td>
+<td>
+
+💬 commented on [#50: fix: use blue instead of teal for variable.other.member](https://github.com/catppuccin/helix/pull/50)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-11-12T11:02:55+00:00'>Nov 12th 11:02</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-11-12T11:02:54+00:00'>Nov 12th 11:02</span></td>
+<td>
+
+🎉 closed [#50: fix: use blue instead of teal for variable.other.member](https://github.com/catppuccin/helix/pull/50)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-10T18:01:05+00:00'>Nov 10th 18:01</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-10T17:02:59+00:00'>Nov 10th 17:02</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-11-10T11:07:46+00:00'>Nov 10th 11:07</span></td>
 <td>
@@ -284,45 +323,6 @@
 <td>
 
 [catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-25T08:50:11+00:00'>Oct 25th 08:50</span></td>
-<td>
-
-💬 commented on [#2579: chore(maintainers): tmux move `vdbe` to past-maintainers](https://github.com/catppuccin/catppuccin/pull/2579)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-25T08:28:18+00:00'>Oct 25th 08:28</span></td>
-<td>
-
-💬 commented on [#93: matplotlib invalid package style](https://github.com/catppuccin/python/issues/93)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-20T10:38:21+00:00'>Oct 20th 10:38</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[doitsujin/dxvk](https://github.com/doitsujin/dxvk)
 
 </td>
 </tr>
