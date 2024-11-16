@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-15T19:05:15+00:00'>Nov 15th 19:05</span></td>
+<td>
+
+💬 commented on [#50: fix: use blue instead of teal for variable.other.member](https://github.com/catppuccin/helix/pull/50)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-15T11:31:17+00:00'>Nov 15th 11:31</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-10T18:01:05+00:00'>Nov 10th 18:01</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-11-10T17:54:32+00:00'>Nov 10th 17:54</span></td>
 <td>
@@ -302,19 +315,6 @@
 </tr>
 <tr>
 <td><span title='2024-10-26T09:41:01+00:00'>Oct 26th 09:41</span></td>
-<td>
-
-💬 commented on [#37: White text on yellow background is not visible](https://github.com/catppuccin/python/issues/37)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-26T08:55:48+00:00'>Oct 26th 08:55</span></td>
 <td>
 
 💬 commented on [#37: White text on yellow background is not visible](https://github.com/catppuccin/python/issues/37)
