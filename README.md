@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-17T14:09:05+00:00'>Nov 17th 14:09</span></td>
+<td>
+
+🔍 reviewed [#37: feat!: banish `catppuccin/userstyles` to the shadow realm](https://github.com/catppuccin/rockdove/pull/37)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-15T19:05:15+00:00'>Nov 15th 19:05</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-12T11:02:54+00:00'>Nov 12th 11:02</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-11-10T18:01:05+00:00'>Nov 10th 18:01</span></td>
 <td>
@@ -305,19 +318,6 @@
 <td>
 
 💬 commented on [#93: matplotlib invalid package style](https://github.com/catppuccin/python/issues/93)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-26T09:41:01+00:00'>Oct 26th 09:41</span></td>
-<td>
-
-💬 commented on [#37: White text on yellow background is not visible](https://github.com/catppuccin/python/issues/37)
 
 </td>
 <td>
