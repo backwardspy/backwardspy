@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-20T19:31:03+00:00'>Nov 20th 19:31</span></td>
+<td>
+
+📢 opened [#40: better grouping in generated code](https://github.com/catppuccin/rust/issues/40)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-17T14:09:05+00:00'>Nov 17th 14:09</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-12T11:02:55+00:00'>Nov 12th 11:02</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-11-12T11:02:54+00:00'>Nov 12th 11:02</span></td>
 <td>
@@ -305,19 +318,6 @@
 <td>
 
 💬 commented on [#37: White text on yellow background is not visible](https://github.com/catppuccin/python/issues/37)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-26T09:51:12+00:00'>Oct 26th 09:51</span></td>
-<td>
-
-💬 commented on [#93: matplotlib invalid package style](https://github.com/catppuccin/python/issues/93)
 
 </td>
 <td>
