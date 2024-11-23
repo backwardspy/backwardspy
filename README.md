@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-23T13:34:57+00:00'>Nov 23rd 13:34</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-11-23T13:34:56+00:00'>Nov 23rd 13:34</span></td>
+<td>
+
+🎉 closed [#63: build(nix): drop rust-overlay and simplify](https://github.com/catppuccin/whiskers/pull/63)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-11-23T13:33:41+00:00'>Nov 23rd 13:33</span></td>
+<td>
+
+💬 commented on [#63: build(nix): drop rust-overlay and simplify](https://github.com/catppuccin/whiskers/pull/63)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-20T19:56:26+00:00'>Nov 20th 19:56</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-20T19:56:10+00:00'>Nov 20th 19:56</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-11-20T19:31:03+00:00'>Nov 20th 19:31</span></td>
 <td>
@@ -279,45 +318,6 @@
 <td>
 
 🚢 pushed 1 commit to `new-palettes`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-28T17:43:23+00:00'>Oct 28th 17:43</span></td>
-<td>
-
-💬 commented on [#2585: Catppuccin - KDE Plasma (all features available only on 5, 6 is 99.9% cause it does not have tiling.)](https://github.com/catppuccin/catppuccin/issues/2585)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-26T23:45:54+00:00'>Oct 26th 23:45</span></td>
-<td>
-
-🎉 closed [#36: feat: auto-sync upstream palettes](https://github.com/catppuccin/rust/pull/36)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-26T23:45:54+00:00'>Oct 26th 23:45</span></td>
-<td>
-
-🎉 closed [#35: feat: auto-sync upstream palettes](https://github.com/catppuccin/rust/pull/35)
 
 </td>
 <td>
