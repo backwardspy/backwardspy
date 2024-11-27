@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-11-27T09:41:52+00:00'>Nov 27th 09:41</span></td>
+<td>
+
+💬 commented on [#7: Please rename this repo to drracket-catpuccin or any other suitable name](https://github.com/catppuccin/drracket/issues/7)
+
+</td>
+<td>
+
+[catppuccin/drracket](https://github.com/catppuccin/drracket)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-11-27T09:32:49+00:00'>Nov 27th 09:32</span></td>
+<td>
+
+🪄 created repository
+
+</td>
+<td>
+
+[backwardspy/hammy-old-name](https://github.com/backwardspy/hammy-old-name)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-23T13:34:57+00:00'>Nov 23rd 13:34</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-20T19:56:26+00:00'>Nov 20th 19:56</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-11-20T19:56:10+00:00'>Nov 20th 19:56</span></td>
 <td>
@@ -297,32 +323,6 @@
 <td>
 
 [catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-01T14:30:56+00:00'>Nov 1st 14:30</span></td>
-<td>
-
-🚢 pushed 2 commits to `new-palettes`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-10-28T22:36:41+00:00'>Oct 28th 22:36</span></td>
-<td>
-
-🚢 pushed 1 commit to `new-palettes`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
