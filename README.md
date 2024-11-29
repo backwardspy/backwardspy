@@ -336,6 +336,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851a2d8391f5021568d253a4eef" width="48" height="48"> | [Playing God](https://open.spotify.com/track/4S0zagxseJHOL5ZVnTQA6X) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/track/4S0zagxseJHOL5ZVnTQA6X) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c25d00a0d733d6a1d170f5db" width="48" height="48"> | [Dancin' on My Own Grave](https://open.spotify.com/track/1owmaIzo613hrvD41kiLE0) | [None Shall Remain](https://open.spotify.com/artist/3Y6SGc4uHWsD2ZbzkcavsG) | [Into the Darkness](https://open.spotify.com/track/1owmaIzo613hrvD41kiLE0) |
 | <img src="https://i.scdn.co/image/ab67616d000048513557ee469051f4b905427f79" width="48" height="48"> | [burn](https://open.spotify.com/track/1ZZnTZgaiabe6v5GAUgL4G) | [donozira](https://open.spotify.com/artist/6JnLPWSAwD3l4OrkZzozh8) | [burn](https://open.spotify.com/track/1ZZnTZgaiabe6v5GAUgL4G) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ca39c3e79962fd92e20fbb12" width="48" height="48"> | [Tongues - [Edit]](https://open.spotify.com/track/3MnslGoRSLkmToat7NEy49) | [Earth Surrender](https://open.spotify.com/artist/1ggs6MrsfK2uKRb31n5KQx) | [Tongues](https://open.spotify.com/track/3MnslGoRSLkmToat7NEy49) |
@@ -345,7 +346,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851c25d00a0d733d6a1d170f5db" width="48" height="48"> | [Temples of Love](https://open.spotify.com/track/7vBzBaqgcWeVnU5xwnBUPv) | [None Shall Remain](https://open.spotify.com/artist/3Y6SGc4uHWsD2ZbzkcavsG) | [Into the Darkness](https://open.spotify.com/track/7vBzBaqgcWeVnU5xwnBUPv) |
 | <img src="https://i.scdn.co/image/ab67616d000048516b1df2c664b38e92b8905333" width="48" height="48"> | [The Sun Will Never Shine - Radio Version 1982](https://open.spotify.com/track/37LScNL7TpkJPY9RGtTqCT) | [num212](https://open.spotify.com/artist/1ZyxXFwe2njNrZsHfV017t) | [The Sun Will Never Shine](https://open.spotify.com/track/37LScNL7TpkJPY9RGtTqCT) |
 | <img src="https://i.scdn.co/image/ab67616d0000485174d38ddaa61a0f5b9122e6a1" width="48" height="48"> | [Be Ashamed](https://open.spotify.com/track/6QF5WaO6KcLsnLo1NAN45T) | [Juice Medley](https://open.spotify.com/artist/3jhBP7zN3uFHmj6Pk3NFAl) | [Nice Guy](https://open.spotify.com/track/6QF5WaO6KcLsnLo1NAN45T) |
-| <img src="https://i.scdn.co/image/ab67616d000048517968f276e5ed2071ad59d523" width="48" height="48"> | [Reborn](https://open.spotify.com/track/6T9f9AODdOgoBy81SnOeyE) | [Jfarrari](https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc) | [Reborn](https://open.spotify.com/track/6T9f9AODdOgoBy81SnOeyE) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
