@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-01T10:01:06+00:00'>Dec 1st 10:01</span></td>
+<td>
+
+💬 commented on [#52: issue "bad config......"](https://github.com/catppuccin/helix/issues/52)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-11-27T09:41:52+00:00'>Nov 27th 09:41</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-23T13:33:41+00:00'>Nov 23rd 13:33</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-11-20T19:56:26+00:00'>Nov 20th 19:56</span></td>
 <td>
@@ -305,19 +318,6 @@
 <td>
 
 💬 commented on [#411: Support custom accent colour from the user & the full palette](https://github.com/catppuccin/vscode/issues/411)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-08T19:37:47+00:00'>Nov 8th 19:37</span></td>
-<td>
-
-🔍 reviewed [#449: feat: highlight liquid objects/variables as `pink`](https://github.com/catppuccin/vscode/pull/449)
 
 </td>
 <td>
