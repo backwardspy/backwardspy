@@ -336,6 +336,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048512ebf422967424f8aeca4de1a" width="48" height="48"> | [Littleroot Town (From "Pokemon Ruby/Sapphire/Emerald")](https://open.spotify.com/track/2CRWG8hTIV0b5kSWMTVMU0) | [Michael Tai](https://open.spotify.com/artist/5NLlq8IzOUuqDYGPxoPkSC) | [Piano & Instrumental Works: Video Game Themes, Vol. III](https://open.spotify.com/track/2CRWG8hTIV0b5kSWMTVMU0) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a2d8391f5021568d253a4eef" width="48" height="48"> | [Playing God](https://open.spotify.com/track/4S0zagxseJHOL5ZVnTQA6X) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [Remember That You Will Die](https://open.spotify.com/track/4S0zagxseJHOL5ZVnTQA6X) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c25d00a0d733d6a1d170f5db" width="48" height="48"> | [Dancin' on My Own Grave](https://open.spotify.com/track/1owmaIzo613hrvD41kiLE0) | [None Shall Remain](https://open.spotify.com/artist/3Y6SGc4uHWsD2ZbzkcavsG) | [Into the Darkness](https://open.spotify.com/track/1owmaIzo613hrvD41kiLE0) |
 | <img src="https://i.scdn.co/image/ab67616d000048513557ee469051f4b905427f79" width="48" height="48"> | [burn](https://open.spotify.com/track/1ZZnTZgaiabe6v5GAUgL4G) | [donozira](https://open.spotify.com/artist/6JnLPWSAwD3l4OrkZzozh8) | [burn](https://open.spotify.com/track/1ZZnTZgaiabe6v5GAUgL4G) |
@@ -345,7 +346,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851cd26d4de70efe246176a2a21" width="48" height="48"> | [Она всегда](https://open.spotify.com/track/5X1txicHcQJpk7twR0a19S) | [Son, Fire!](https://open.spotify.com/artist/72EJb8wMdTfnu8HCFRCY5W) | [Она всегда](https://open.spotify.com/track/5X1txicHcQJpk7twR0a19S) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c25d00a0d733d6a1d170f5db" width="48" height="48"> | [Temples of Love](https://open.spotify.com/track/7vBzBaqgcWeVnU5xwnBUPv) | [None Shall Remain](https://open.spotify.com/artist/3Y6SGc4uHWsD2ZbzkcavsG) | [Into the Darkness](https://open.spotify.com/track/7vBzBaqgcWeVnU5xwnBUPv) |
 | <img src="https://i.scdn.co/image/ab67616d000048516b1df2c664b38e92b8905333" width="48" height="48"> | [The Sun Will Never Shine - Radio Version 1982](https://open.spotify.com/track/37LScNL7TpkJPY9RGtTqCT) | [num212](https://open.spotify.com/artist/1ZyxXFwe2njNrZsHfV017t) | [The Sun Will Never Shine](https://open.spotify.com/track/37LScNL7TpkJPY9RGtTqCT) |
-| <img src="https://i.scdn.co/image/ab67616d0000485174d38ddaa61a0f5b9122e6a1" width="48" height="48"> | [Be Ashamed](https://open.spotify.com/track/6QF5WaO6KcLsnLo1NAN45T) | [Juice Medley](https://open.spotify.com/artist/3jhBP7zN3uFHmj6Pk3NFAl) | [Nice Guy](https://open.spotify.com/track/6QF5WaO6KcLsnLo1NAN45T) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
