@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-05T15:08:39+00:00'>Dec 5th 15:08</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[coreyja/must_not_use](https://github.com/coreyja/must_not_use)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-01T16:57:17+00:00'>Dec 1st 16:57</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-23T13:34:57+00:00'>Nov 23rd 13:34</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-11-23T13:34:56+00:00'>Nov 23rd 13:34</span></td>
 <td>
@@ -305,19 +318,6 @@
 <td>
 
 💬 commented on [#452: Catppuccin extension settings don't respect Profile settings](https://github.com/catppuccin/vscode/issues/452)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-10T11:22:05+00:00'>Nov 10th 11:22</span></td>
-<td>
-
-💬 commented on [#451: Weird color change since visual studio code v1.95 and nvidia driver 565](https://github.com/catppuccin/vscode/issues/451)
 
 </td>
 <td>
