@@ -8,6 +8,221 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-07T13:15:31+00:00'>Dec 7th 13:15</span></td>
+<td>
+
+🚀 opened [#66: feat: add ansi colours](https://github.com/catppuccin/whiskers/pull/66)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T13:12:36+00:00'>Dec 7th 13:12</span></td>
+<td>
+
+🚢 pushed 2 commits to `feat/ansi`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:39:06+00:00'>Dec 7th 12:39</span></td>
+<td>
+
+📦 released v2.5.0-beta.0
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:35:52+00:00'>Dec 7th 12:35</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:32:48+00:00'>Dec 7th 12:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-12-07T12:32:47+00:00'>Dec 7th 12:32</span></td>
+<td>
+
+🎉 closed [#34: chore(deps): update dependency ubuntu to v24](https://github.com/catppuccin/rust/pull/34)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:32:34+00:00'>Dec 7th 12:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:32:33+00:00'>Dec 7th 12:32</span></td>
+<td>
+
+🎉 closed [#32: chore(deps): update peter-evans/create-pull-request action to v7](https://github.com/catppuccin/rust/pull/32)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:29:49+00:00'>Dec 7th 12:29</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:29:48+00:00'>Dec 7th 12:29</span></td>
+<td>
+
+🎉 closed [#41: chore: upgrade dependencies](https://github.com/catppuccin/rust/pull/41)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:27:59+00:00'>Dec 7th 12:27</span></td>
+<td>
+
+🚀 opened [#41: chore: upgrade dependencies](https://github.com/catppuccin/rust/pull/41)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:10:57+00:00'>Dec 7th 12:10</span></td>
+<td>
+
+🚀 opened [#65: ci: add build workflow](https://github.com/catppuccin/visual-studio/pull/65)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:08:59+00:00'>Dec 7th 12:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/visual-studio](https://github.com/backwardspy/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:04:01+00:00'>Dec 7th 12:04</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/visual-studio](https://github.com/backwardspy/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T12:02:24+00:00'>Dec 7th 12:02</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/visual-studio](https://github.com/backwardspy/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-07T11:59:29+00:00'>Dec 7th 11:59</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/visual-studio](https://github.com/backwardspy/visual-studio)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-06T17:57:11+00:00'>Dec 6th 17:57</span></td>
 <td>
 
@@ -30,299 +245,6 @@
 <td>
 
 [catppuccin/palette](https://github.com/catppuccin/palette)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-05T15:08:39+00:00'>Dec 5th 15:08</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[coreyja/must_not_use](https://github.com/coreyja/must_not_use)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-01T16:57:17+00:00'>Dec 1st 16:57</span></td>
-<td>
-
-💬 commented on [#464: Fix build error on latest unstable nixpkgs](https://github.com/catppuccin/vscode/pull/464)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-01T10:01:06+00:00'>Dec 1st 10:01</span></td>
-<td>
-
-💬 commented on [#52: issue "bad config......"](https://github.com/catppuccin/helix/issues/52)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2024-11-27T09:41:52+00:00'>Nov 27th 09:41</span></td>
-<td>
-
-💬 commented on [#7: Please rename this repo to drracket-catpuccin or any other suitable name](https://github.com/catppuccin/drracket/issues/7)
-
-</td>
-<td>
-
-[catppuccin/drracket](https://github.com/catppuccin/drracket)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-27T09:32:49+00:00'>Nov 27th 09:32</span></td>
-<td>
-
-🪄 created repository
-
-</td>
-<td>
-
-[backwardspy/hammy-old-name](https://github.com/backwardspy/hammy-old-name)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-23T13:34:57+00:00'>Nov 23rd 13:34</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-23T13:34:56+00:00'>Nov 23rd 13:34</span></td>
-<td>
-
-🎉 closed [#63: build(nix): drop rust-overlay and simplify](https://github.com/catppuccin/whiskers/pull/63)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-23T13:33:41+00:00'>Nov 23rd 13:33</span></td>
-<td>
-
-💬 commented on [#63: build(nix): drop rust-overlay and simplify](https://github.com/catppuccin/whiskers/pull/63)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-20T19:56:26+00:00'>Nov 20th 19:56</span></td>
-<td>
-
-💬 commented on [#38: feat: add ANSI colours](https://github.com/catppuccin/rust/pull/38)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-20T19:56:10+00:00'>Nov 20th 19:56</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-20T19:56:10+00:00'>Nov 20th 19:56</span></td>
-<td>
-
-✅ closed [#39: Update to `catppuccin/palette` v1.7.1](https://github.com/catppuccin/rust/issues/39)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-20T19:56:09+00:00'>Nov 20th 19:56</span></td>
-<td>
-
-🎉 closed [#38: feat: add ANSI colours](https://github.com/catppuccin/rust/pull/38)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-20T19:54:10+00:00'>Nov 20th 19:54</span></td>
-<td>
-
-🚢 pushed 1 commit to `new-palettes`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-20T19:31:03+00:00'>Nov 20th 19:31</span></td>
-<td>
-
-📢 opened [#40: better grouping in generated code](https://github.com/catppuccin/rust/issues/40)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-17T14:09:05+00:00'>Nov 17th 14:09</span></td>
-<td>
-
-🔍 reviewed [#37: feat!: banish `catppuccin/userstyles` to the shadow realm](https://github.com/catppuccin/rockdove/pull/37)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-15T19:05:15+00:00'>Nov 15th 19:05</span></td>
-<td>
-
-💬 commented on [#50: fix: use blue instead of teal for variable.other.member](https://github.com/catppuccin/helix/pull/50)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-15T11:31:17+00:00'>Nov 15th 11:31</span></td>
-<td>
-
-✅ closed [#457: Bad UI in the code view popup](https://github.com/catppuccin/vscode/issues/457)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-12T11:02:57+00:00'>Nov 12th 11:02</span></td>
-<td>
-
-💬 commented on [#50: fix: use blue instead of teal for variable.other.member](https://github.com/catppuccin/helix/pull/50)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-12T11:02:55+00:00'>Nov 12th 11:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-12T11:02:54+00:00'>Nov 12th 11:02</span></td>
-<td>
-
-🎉 closed [#50: fix: use blue instead of teal for variable.other.member](https://github.com/catppuccin/helix/pull/50)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-10T18:01:05+00:00'>Nov 10th 18:01</span></td>
-<td>
-
-💬 commented on [#443: VSCodium workspace accent color doesn't take effect automatically](https://github.com/catppuccin/vscode/issues/443)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-10T17:54:32+00:00'>Nov 10th 17:54</span></td>
-<td>
-
-💬 commented on [#452: Catppuccin extension settings don't respect Profile settings](https://github.com/catppuccin/vscode/issues/452)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
 
 </td>
 </tr>
