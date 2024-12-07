@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-06T17:57:11+00:00'>Dec 6th 17:57</span></td>
+<td>
+
+💬 commented on [#117: Integer HSL values should probably be explicitly floats](https://github.com/catppuccin/palette/issues/117)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-06T17:57:11+00:00'>Dec 6th 17:57</span></td>
+<td>
+
+✅ closed [#117: Integer HSL values should probably be explicitly floats](https://github.com/catppuccin/palette/issues/117)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-05T15:08:39+00:00'>Dec 5th 15:08</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-11-27T09:41:52+00:00'>Nov 27th 09:41</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-11-23T13:34:57+00:00'>Nov 23rd 13:34</span></td>
 <td>
@@ -289,32 +315,6 @@
 </tr>
 <tr>
 <td><span title='2024-11-10T17:54:32+00:00'>Nov 10th 17:54</span></td>
-<td>
-
-💬 commented on [#452: Catppuccin extension settings don't respect Profile settings](https://github.com/catppuccin/vscode/issues/452)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-10T17:02:59+00:00'>Nov 10th 17:02</span></td>
-<td>
-
-🔍 reviewed [#116: feat(ansi): add `bright` boolean for easy "is bright" checks](https://github.com/catppuccin/palette/pull/116)
-
-</td>
-<td>
-
-[catppuccin/palette](https://github.com/catppuccin/palette)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-11-10T11:32:07+00:00'>Nov 10th 11:32</span></td>
 <td>
 
 💬 commented on [#452: Catppuccin extension settings don't respect Profile settings](https://github.com/catppuccin/vscode/issues/452)
