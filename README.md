@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-11T13:19:35+00:00'>Dec 11th 13:19</span></td>
+<td>
+
+💬 commented on [#53: add 76561197960723152](https://github.com/puppygirlzone/webfishing-bans/pull/53)
+
+</td>
+<td>
+
+[puppygirlzone/webfishing-bans](https://github.com/puppygirlzone/webfishing-bans)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-11T13:19:05+00:00'>Dec 11th 13:19</span></td>
+<td>
+
+🚀 opened [#53: add 76561197960723152](https://github.com/puppygirlzone/webfishing-bans/pull/53)
+
+</td>
+<td>
+
+[puppygirlzone/webfishing-bans](https://github.com/puppygirlzone/webfishing-bans)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-11T13:18:10+00:00'>Dec 11th 13:18</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/webfishing-bans](https://github.com/backwardspy/webfishing-bans)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-07T13:15:31+00:00'>Dec 7th 13:15</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-12-07T12:39:06+00:00'>Dec 7th 12:39</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-12-07T12:32:47+00:00'>Dec 7th 12:32</span></td>
 <td>
@@ -206,45 +245,6 @@
 <td>
 
 [backwardspy/visual-studio](https://github.com/backwardspy/visual-studio)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T11:59:29+00:00'>Dec 7th 11:59</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/visual-studio](https://github.com/backwardspy/visual-studio)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-06T17:57:11+00:00'>Dec 6th 17:57</span></td>
-<td>
-
-💬 commented on [#117: Integer HSL values should probably be explicitly floats](https://github.com/catppuccin/palette/issues/117)
-
-</td>
-<td>
-
-[catppuccin/palette](https://github.com/catppuccin/palette)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-06T17:57:11+00:00'>Dec 6th 17:57</span></td>
-<td>
-
-✅ closed [#117: Integer HSL values should probably be explicitly floats](https://github.com/catppuccin/palette/issues/117)
-
-</td>
-<td>
-
-[catppuccin/palette](https://github.com/catppuccin/palette)
 
 </td>
 </tr>
