@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-11T17:12:59+00:00'>Dec 11th 17:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/website](https://github.com/catppuccin/website)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-11T17:12:58+00:00'>Dec 11th 17:12</span></td>
+<td>
+
+🎉 closed [#125: feat(blog): use astro built-in view transition for hero image](https://github.com/catppuccin/website/pull/125)
+
+</td>
+<td>
+
+[catppuccin/website](https://github.com/catppuccin/website)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-11T17:09:30+00:00'>Dec 11th 17:09</span></td>
+<td>
+
+🔍 reviewed [#125: feat(blog): use astro built-in view transition for hero image](https://github.com/catppuccin/website/pull/125)
+
+</td>
+<td>
+
+[catppuccin/website](https://github.com/catppuccin/website)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-11T13:19:35+00:00'>Dec 11th 13:19</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-12-11T13:18:10+00:00'>Dec 11th 13:18</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-12-07T12:39:06+00:00'>Dec 7th 12:39</span></td>
 <td>
@@ -193,58 +232,6 @@
 <td>
 
 [catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:10:57+00:00'>Dec 7th 12:10</span></td>
-<td>
-
-🚀 opened [#65: ci: add build workflow](https://github.com/catppuccin/visual-studio/pull/65)
-
-</td>
-<td>
-
-[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:08:59+00:00'>Dec 7th 12:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/visual-studio](https://github.com/backwardspy/visual-studio)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:04:01+00:00'>Dec 7th 12:04</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/visual-studio](https://github.com/backwardspy/visual-studio)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:02:24+00:00'>Dec 7th 12:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/visual-studio](https://github.com/backwardspy/visual-studio)
 
 </td>
 </tr>
