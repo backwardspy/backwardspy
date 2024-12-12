@@ -245,6 +245,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485169804108bfc558ad72160bf4" width="48" height="48"> | [How's Your Nan?](https://open.spotify.com/track/4PjXASJbQfpQCmLtI58aYH) | [Joe Lycett](https://open.spotify.com/artist/0HF1inpVLDltRcGaSGFDKJ) | [How's Your Nan?](https://open.spotify.com/track/4PjXASJbQfpQCmLtI58aYH) |
 | <img src="https://i.scdn.co/image/ab67616d00004851912cc8fe2e9a53d328757a41" width="48" height="48"> | [Feather (feat. Cise Starr & Akin from CYNE)](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr & Akin from CYNE](https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np) | [Modal Soul](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR) |
 | <img src="https://i.scdn.co/image/ab67616d0000485159ef99ed996b4e537ed2e6a3" width="48" height="48"> | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) |
 | <img src="https://i.scdn.co/image/ab67616d000048512ebf422967424f8aeca4de1a" width="48" height="48"> | [Littleroot Town (From "Pokemon Ruby/Sapphire/Emerald")](https://open.spotify.com/track/2CRWG8hTIV0b5kSWMTVMU0) | [Michael Tai](https://open.spotify.com/artist/5NLlq8IzOUuqDYGPxoPkSC) | [Piano & Instrumental Works: Video Game Themes, Vol. III](https://open.spotify.com/track/2CRWG8hTIV0b5kSWMTVMU0) |
@@ -254,7 +255,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851ca39c3e79962fd92e20fbb12" width="48" height="48"> | [Tongues - [Edit]](https://open.spotify.com/track/3MnslGoRSLkmToat7NEy49) | [Earth Surrender](https://open.spotify.com/artist/1ggs6MrsfK2uKRb31n5KQx) | [Tongues](https://open.spotify.com/track/3MnslGoRSLkmToat7NEy49) |
 | <img src="https://i.scdn.co/image/ab67616d000048511ad852a61d20393fc310b8d5" width="48" height="48"> | [Moscow Nights](https://open.spotify.com/track/28hJAiNteob4DuvFiAfPfY) | [Jfarrari](https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc) | [Moscow Nights](https://open.spotify.com/track/28hJAiNteob4DuvFiAfPfY) |
 | <img src="https://i.scdn.co/image/ab67616d00004851889afb21df52dfe671702fee" width="48" height="48"> | [I Want To Be Your Doll](https://open.spotify.com/track/4keCWLzkE4BDRPWssT5sRO) | [shelovesmolly](https://open.spotify.com/artist/1ljC1wo7tz9wVSSwrRwFfD) | [(nigredo)](https://open.spotify.com/track/4keCWLzkE4BDRPWssT5sRO) |
-| <img src="https://i.scdn.co/image/ab67616d00004851cd26d4de70efe246176a2a21" width="48" height="48"> | [Она всегда](https://open.spotify.com/track/5X1txicHcQJpk7twR0a19S) | [Son, Fire!](https://open.spotify.com/artist/72EJb8wMdTfnu8HCFRCY5W) | [Она всегда](https://open.spotify.com/track/5X1txicHcQJpk7twR0a19S) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
