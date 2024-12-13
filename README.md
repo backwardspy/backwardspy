@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-12T17:09:02+00:00'>Dec 12th 17:09</span></td>
+<td>
+
+💬 commented on [#2631: refactor (ports): add icons for hyprland and hyprlock](https://github.com/catppuccin/catppuccin/pull/2631)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-12T17:08:59+00:00'>Dec 12th 17:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-12T17:08:57+00:00'>Dec 12th 17:08</span></td>
+<td>
+
+🎉 closed [#2631: refactor (ports): add icons for hyprland and hyprlock](https://github.com/catppuccin/catppuccin/pull/2631)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-11T17:12:59+00:00'>Dec 11th 17:12</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-12-11T17:09:30+00:00'>Dec 11th 17:09</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-12-11T13:18:10+00:00'>Dec 11th 13:18</span></td>
 <td>
@@ -201,32 +240,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:29:48+00:00'>Dec 7th 12:29</span></td>
-<td>
-
-🎉 closed [#41: chore: upgrade dependencies](https://github.com/catppuccin/rust/pull/41)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:27:59+00:00'>Dec 7th 12:27</span></td>
-<td>
-
-🚀 opened [#41: chore: upgrade dependencies](https://github.com/catppuccin/rust/pull/41)
 
 </td>
 <td>
