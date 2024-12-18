@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-17T23:00:41+00:00'>Dec 17th 23:00</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-17T23:00:40+00:00'>Dec 17th 23:00</span></td>
+<td>
+
+🎉 closed [#54: feat: styles for checked and unchecked lists](https://github.com/catppuccin/helix/pull/54)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-17T23:00:33+00:00'>Dec 17th 23:00</span></td>
+<td>
+
+💬 commented on [#54: feat: styles for checked and unchecked lists](https://github.com/catppuccin/helix/pull/54)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-12T17:09:02+00:00'>Dec 12th 17:09</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-12-12T17:08:57+00:00'>Dec 12th 17:08</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-12-11T17:09:30+00:00'>Dec 11th 17:09</span></td>
 <td>
@@ -211,32 +250,6 @@
 </tr>
 <tr>
 <td><span title='2024-12-07T12:32:34+00:00'>Dec 7th 12:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:32:33+00:00'>Dec 7th 12:32</span></td>
-<td>
-
-🎉 closed [#32: chore(deps): update peter-evans/create-pull-request action to v7](https://github.com/catppuccin/rust/pull/32)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:29:49+00:00'>Dec 7th 12:29</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
