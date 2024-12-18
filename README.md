@@ -258,6 +258,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851cb7523307aac3e10b66bef40" width="48" height="48"> | [Paralyzed](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Gravity](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) |
 | <img src="https://i.scdn.co/image/ab67616d00004851361f28517698143633a43424" width="48" height="48"> | [E.T.](https://open.spotify.com/track/7rji3pwPqPCUVX2flQw8Zj) | [QUATTROTEQUE](https://open.spotify.com/artist/0l1kVCUpMOfiqosrJLdFJX), [Rayyea](https://open.spotify.com/artist/2lY60yZcu7SYskcDB6ocEk) | [E.T.](https://open.spotify.com/track/7rji3pwPqPCUVX2flQw8Zj) |
 | <img src="https://i.scdn.co/image/ab67616d0000485169804108bfc558ad72160bf4" width="48" height="48"> | [How's Your Nan?](https://open.spotify.com/track/4PjXASJbQfpQCmLtI58aYH) | [Joe Lycett](https://open.spotify.com/artist/0HF1inpVLDltRcGaSGFDKJ) | [How's Your Nan?](https://open.spotify.com/track/4PjXASJbQfpQCmLtI58aYH) |
 | <img src="https://i.scdn.co/image/ab67616d00004851912cc8fe2e9a53d328757a41" width="48" height="48"> | [Feather (feat. Cise Starr & Akin from CYNE)](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Cise Starr & Akin from CYNE](https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np) | [Modal Soul](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR) |
@@ -267,7 +268,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851c25d00a0d733d6a1d170f5db" width="48" height="48"> | [Dancin' on My Own Grave](https://open.spotify.com/track/1owmaIzo613hrvD41kiLE0) | [None Shall Remain](https://open.spotify.com/artist/3Y6SGc4uHWsD2ZbzkcavsG) | [Into the Darkness](https://open.spotify.com/track/1owmaIzo613hrvD41kiLE0) |
 | <img src="https://i.scdn.co/image/ab67616d000048513557ee469051f4b905427f79" width="48" height="48"> | [burn](https://open.spotify.com/track/1ZZnTZgaiabe6v5GAUgL4G) | [donozira](https://open.spotify.com/artist/6JnLPWSAwD3l4OrkZzozh8) | [burn](https://open.spotify.com/track/1ZZnTZgaiabe6v5GAUgL4G) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ca39c3e79962fd92e20fbb12" width="48" height="48"> | [Tongues - [Edit]](https://open.spotify.com/track/3MnslGoRSLkmToat7NEy49) | [Earth Surrender](https://open.spotify.com/artist/1ggs6MrsfK2uKRb31n5KQx) | [Tongues](https://open.spotify.com/track/3MnslGoRSLkmToat7NEy49) |
-| <img src="https://i.scdn.co/image/ab67616d000048511ad852a61d20393fc310b8d5" width="48" height="48"> | [Moscow Nights](https://open.spotify.com/track/28hJAiNteob4DuvFiAfPfY) | [Jfarrari](https://open.spotify.com/artist/6f0SUJsj1yDGVOIChVQCwc) | [Moscow Nights](https://open.spotify.com/track/28hJAiNteob4DuvFiAfPfY) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
