@@ -284,6 +284,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851740135a6c2649bb852998849" width="48" height="48"> | [Devon](https://open.spotify.com/track/2sk6w5yk8nOxDRqji98lDX) | [Moonfall](https://open.spotify.com/artist/19Y9Rm9cjO0BvcP6Yode9i) | [Devon](https://open.spotify.com/track/2sk6w5yk8nOxDRqji98lDX) |
 | <img src="https://i.scdn.co/image/ab67616d000048518b07e15bb992f1bbda332eb1" width="48" height="48"> | [Reflections](https://open.spotify.com/track/5Hu8ghjoVoHK78uCCIiwwC) | [We Are The In Crowd](https://open.spotify.com/artist/1BSXtdFlVDUOS6g1T3tmME) | [Weird Kids](https://open.spotify.com/track/5Hu8ghjoVoHK78uCCIiwwC) |
 | <img src="https://i.scdn.co/image/ab67616d0000485152b670b8f1f796fb52767e9f" width="48" height="48"> | [Hollywood](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) | [After Midnight Project](https://open.spotify.com/artist/1CCtRpOlg6EL0HP9DdEtk4) | [Let's Build Something To Break](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) |
 | <img src="https://i.scdn.co/image/ab67616d000048519dae2e5472ef33e6e6bebbaa" width="48" height="48"> | [Optimist](https://open.spotify.com/track/464EUQ37LtYz11JIcuqBF8) | [Forever Starts Today](https://open.spotify.com/artist/4h9xSBN0ZAnoYegQ3PXasD) | [Always Hope](https://open.spotify.com/track/464EUQ37LtYz11JIcuqBF8) |
@@ -293,7 +294,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52" width="48" height="48"> | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) |
 | <img src="https://i.scdn.co/image/ab67616d00004851413697269620e16f4466f543" width="48" height="48"> | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) |
 | <img src="https://i.scdn.co/image/ab67616d0000485148fbb2aab19d588bb9153580" width="48" height="48"> | [A Grave Mistake](https://open.spotify.com/track/2mMNBgFRyEiRoGvrdoONeq) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/track/2mMNBgFRyEiRoGvrdoONeq) |
-| <img src="https://i.scdn.co/image/ab67616d00004851daa4a83d2f794c1e31265dab" width="48" height="48"> | [Another Life](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Disguise](https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
