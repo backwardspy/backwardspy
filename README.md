@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-19T22:54:20+00:00'>Dec 19th 22:54</span></td>
+<td>
+
+💬 commented on [#55: feat: styles for directories, `ui.text.directory` color](https://github.com/catppuccin/helix/pull/55)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-19T22:54:16+00:00'>Dec 19th 22:54</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-19T22:54:15+00:00'>Dec 19th 22:54</span></td>
+<td>
+
+🎉 closed [#55: feat: styles for directories, `ui.text.directory` color](https://github.com/catppuccin/helix/pull/55)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-17T23:00:41+00:00'>Dec 17th 23:00</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-12-17T23:00:33+00:00'>Dec 17th 23:00</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-12-12T17:08:57+00:00'>Dec 12th 17:08</span></td>
 <td>
@@ -224,32 +263,6 @@
 </tr>
 <tr>
 <td><span title='2024-12-07T12:32:48+00:00'>Dec 7th 12:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:32:47+00:00'>Dec 7th 12:32</span></td>
-<td>
-
-🎉 closed [#34: chore(deps): update dependency ubuntu to v24](https://github.com/catppuccin/rust/pull/34)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:32:34+00:00'>Dec 7th 12:32</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
