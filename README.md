@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2024-12-30T11:39:58+00:00'>Dec 30th 11:39</span></td>
+<td>
+
+💬 commented on [#2: Welcome/examples page completely black ](https://github.com/catppuccin/qtcreator/issues/2)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-30T11:38:32+00:00'>Dec 30th 11:38</span></td>
+<td>
+
+📢 opened [#4: convert templates to whiskers v2](https://github.com/catppuccin/qtcreator/issues/4)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-30T11:35:08+00:00'>Dec 30th 11:35</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-30T11:35:08+00:00'>Dec 30th 11:35</span></td>
+<td>
+
+✅ closed [#2: Welcome/examples page completely black ](https://github.com/catppuccin/qtcreator/issues/2)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
+<td><span title='2024-12-30T11:35:07+00:00'>Dec 30th 11:35</span></td>
+<td>
+
+🎉 closed [#3: Fixed black start page for all 4 Catppuccin variants.](https://github.com/catppuccin/qtcreator/pull/3)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2024-12-30T11:25:32+00:00'>Dec 30th 11:25</span></td>
+<td>
+
+💬 commented on [#3: Fixed black start page for all 4 Catppuccin variants.](https://github.com/catppuccin/qtcreator/pull/3)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-19T22:54:20+00:00'>Dec 19th 22:54</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-12-17T23:00:33+00:00'>Dec 17th 23:00</span></td>
 <td>
@@ -232,45 +310,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:39:06+00:00'>Dec 7th 12:39</span></td>
-<td>
-
-📦 released v2.5.0-beta.0
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:35:52+00:00'>Dec 7th 12:35</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T12:32:48+00:00'>Dec 7th 12:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
