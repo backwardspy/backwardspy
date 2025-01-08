@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-01-07T17:25:20+00:00'>Jan 7th 17:25</span></td>
+<td>
+
+💬 commented on [#2588: Align palette colours to WCAG Level AA](https://github.com/catppuccin/catppuccin/issues/2588)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2024-12-30T11:39:58+00:00'>Dec 30th 11:39</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2024-12-30T11:35:07+00:00'>Dec 30th 11:35</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-12-30T11:25:32+00:00'>Dec 30th 11:25</span></td>
 <td>
@@ -292,19 +305,6 @@
 <td>
 
 🚀 opened [#66: feat: add ansi colours](https://github.com/catppuccin/whiskers/pull/66)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T13:12:36+00:00'>Dec 7th 13:12</span></td>
-<td>
-
-🚢 pushed 2 commits to `feat/ansi`
 
 </td>
 <td>
