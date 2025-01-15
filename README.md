@@ -8,6 +8,182 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-01-14T19:29:16+00:00'>Jan 14th 19:29</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:29:15+00:00'>Jan 14th 19:29</span></td>
+<td>
+
+🎉 closed [#57: feat: add diagnostics.unnecessary entry](https://github.com/catppuccin/helix/pull/57)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:29:13+00:00'>Jan 14th 19:29</span></td>
+<td>
+
+💬 commented on [#57: feat: add diagnostics.unnecessary entry](https://github.com/catppuccin/helix/pull/57)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:26:55+00:00'>Jan 14th 19:26</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:26:54+00:00'>Jan 14th 19:26</span></td>
+<td>
+
+🎉 closed [#58: fix: align markup syntax with vscode](https://github.com/catppuccin/helix/pull/58)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-01-14T19:26:46+00:00'>Jan 14th 19:26</span></td>
+<td>
+
+💬 commented on [#58: fix: align markup syntax with vscode](https://github.com/catppuccin/helix/pull/58)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:25:52+00:00'>Jan 14th 19:25</span></td>
+<td>
+
+🚢 pushed 2 commits to `fix/markup`
+
+</td>
+<td>
+
+[uncenter/ctp-helix](https://github.com/uncenter/ctp-helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:20:09+00:00'>Jan 14th 19:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:20:08+00:00'>Jan 14th 19:20</span></td>
+<td>
+
+🎉 closed [#62: fix: use `rosewater` for cursor in normal mode](https://github.com/catppuccin/helix/pull/62)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:20:05+00:00'>Jan 14th 19:20</span></td>
+<td>
+
+💬 commented on [#62: fix: use `rosewater` for cursor in normal mode](https://github.com/catppuccin/helix/pull/62)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:18:06+00:00'>Jan 14th 19:18</span></td>
+<td>
+
+🎉 closed [#2646: docs(showcase): add Tomatillo Timer](https://github.com/catppuccin/catppuccin/pull/2646)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:18:07+00:00'>Jan 14th 19:18</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-14T19:18:03+00:00'>Jan 14th 19:18</span></td>
+<td>
+
+💬 commented on [#2646: docs(showcase): add Tomatillo Timer](https://github.com/catppuccin/catppuccin/pull/2646)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-01-07T17:25:20+00:00'>Jan 7th 17:25</span></td>
 <td>
 
@@ -72,13 +248,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2024-12-30T11:35:07+00:00'>Dec 30th 11:35</span></td>
 <td>
@@ -167,149 +336,6 @@
 <td>
 
 [catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-17T23:00:33+00:00'>Dec 17th 23:00</span></td>
-<td>
-
-💬 commented on [#54: feat: styles for checked and unchecked lists](https://github.com/catppuccin/helix/pull/54)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-12T17:09:02+00:00'>Dec 12th 17:09</span></td>
-<td>
-
-💬 commented on [#2631: refactor (ports): add icons for hyprland and hyprlock](https://github.com/catppuccin/catppuccin/pull/2631)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-12T17:08:59+00:00'>Dec 12th 17:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-12T17:08:57+00:00'>Dec 12th 17:08</span></td>
-<td>
-
-🎉 closed [#2631: refactor (ports): add icons for hyprland and hyprlock](https://github.com/catppuccin/catppuccin/pull/2631)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-11T17:12:59+00:00'>Dec 11th 17:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/website](https://github.com/catppuccin/website)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-11T17:12:58+00:00'>Dec 11th 17:12</span></td>
-<td>
-
-🎉 closed [#125: feat(blog): use astro built-in view transition for hero image](https://github.com/catppuccin/website/pull/125)
-
-</td>
-<td>
-
-[catppuccin/website](https://github.com/catppuccin/website)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-11T17:09:30+00:00'>Dec 11th 17:09</span></td>
-<td>
-
-🔍 reviewed [#125: feat(blog): use astro built-in view transition for hero image](https://github.com/catppuccin/website/pull/125)
-
-</td>
-<td>
-
-[catppuccin/website](https://github.com/catppuccin/website)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-11T13:19:35+00:00'>Dec 11th 13:19</span></td>
-<td>
-
-💬 commented on [#53: add 76561197960723152](https://github.com/puppygirlzone/webfishing-bans/pull/53)
-
-</td>
-<td>
-
-[puppygirlzone/webfishing-bans](https://github.com/puppygirlzone/webfishing-bans)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-11T13:19:05+00:00'>Dec 11th 13:19</span></td>
-<td>
-
-🚀 opened [#53: add 76561197960723152](https://github.com/puppygirlzone/webfishing-bans/pull/53)
-
-</td>
-<td>
-
-[puppygirlzone/webfishing-bans](https://github.com/puppygirlzone/webfishing-bans)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-11T13:18:10+00:00'>Dec 11th 13:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/webfishing-bans](https://github.com/backwardspy/webfishing-bans)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-07T13:15:31+00:00'>Dec 7th 13:15</span></td>
-<td>
-
-🚀 opened [#66: feat: add ansi colours](https://github.com/catppuccin/whiskers/pull/66)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
