@@ -349,6 +349,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851d98201a08ca137932cf2c171" width="48" height="48"> | [你知否我是誰](https://open.spotify.com/track/7i7Jvy39TV3gptdxFstMN9) | [Alan Po](https://open.spotify.com/artist/07KI4ayN7XEoAVkYdRq6FA), [KING 吳崇銘](https://open.spotify.com/artist/2znlSYU1ncZS9S3yTGx7Qo) | [你知否我是誰](https://open.spotify.com/track/7i7Jvy39TV3gptdxFstMN9) |
+| <img src="https://i.scdn.co/image/ab67616d0000485148cd200114428032c6c9a912" width="48" height="48"> | [愛我別走](https://open.spotify.com/track/4mnIGdM0YM9Hq4jt3Ckq93) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [X](https://open.spotify.com/track/4mnIGdM0YM9Hq4jt3Ckq93) |
 | <img src="https://i.scdn.co/image/ab67616d00004851740135a6c2649bb852998849" width="48" height="48"> | [Devon](https://open.spotify.com/track/2sk6w5yk8nOxDRqji98lDX) | [Moonfall](https://open.spotify.com/artist/19Y9Rm9cjO0BvcP6Yode9i) | [Devon](https://open.spotify.com/track/2sk6w5yk8nOxDRqji98lDX) |
 | <img src="https://i.scdn.co/image/ab67616d000048518b07e15bb992f1bbda332eb1" width="48" height="48"> | [Reflections](https://open.spotify.com/track/5Hu8ghjoVoHK78uCCIiwwC) | [We Are The In Crowd](https://open.spotify.com/artist/1BSXtdFlVDUOS6g1T3tmME) | [Weird Kids](https://open.spotify.com/track/5Hu8ghjoVoHK78uCCIiwwC) |
 | <img src="https://i.scdn.co/image/ab67616d0000485152b670b8f1f796fb52767e9f" width="48" height="48"> | [Hollywood](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) | [After Midnight Project](https://open.spotify.com/artist/1CCtRpOlg6EL0HP9DdEtk4) | [Let's Build Something To Break](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) |
@@ -357,8 +359,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6" width="48" height="48"> | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d0c4b14b57f31b349fe36d1c" width="48" height="48"> | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52" width="48" height="48"> | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) |
-| <img src="https://i.scdn.co/image/ab67616d00004851413697269620e16f4466f543" width="48" height="48"> | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) |
-| <img src="https://i.scdn.co/image/ab67616d0000485148fbb2aab19d588bb9153580" width="48" height="48"> | [A Grave Mistake](https://open.spotify.com/track/2mMNBgFRyEiRoGvrdoONeq) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/track/2mMNBgFRyEiRoGvrdoONeq) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
