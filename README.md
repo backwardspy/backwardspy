@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-01-26T12:42:55+00:00'>Jan 26th 12:42</span></td>
+<td>
+
+🚀 opened [#30: build: fix powershell build script](https://github.com/catppuccin/qbittorrent/pull/30)
+
+</td>
+<td>
+
+[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-26T12:21:59+00:00'>Jan 26th 12:21</span></td>
+<td>
+
+💬 commented on [#2661: Coffee flavor request](https://github.com/catppuccin/catppuccin/issues/2661)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-01-14T19:29:16+00:00'>Jan 14th 19:29</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-01-14T19:26:55+00:00'>Jan 14th 19:26</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-01-14T19:26:46+00:00'>Jan 14th 19:26</span></td>
 <td>
@@ -292,45 +318,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-19T22:54:15+00:00'>Dec 19th 22:54</span></td>
-<td>
-
-🎉 closed [#55: feat: styles for directories, `ui.text.directory` color](https://github.com/catppuccin/helix/pull/55)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-17T23:00:41+00:00'>Dec 17th 23:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-17T23:00:40+00:00'>Dec 17th 23:00</span></td>
-<td>
-
-🎉 closed [#54: feat: styles for checked and unchecked lists](https://github.com/catppuccin/helix/pull/54)
 
 </td>
 <td>
