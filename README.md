@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-01-26T17:55:31+00:00'>Jan 26th 17:55</span></td>
+<td>
+
+🚀 opened [#2663: docs(showcase): add catppuccin startpage](https://github.com/catppuccin/catppuccin/pull/2663)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-01-26T12:42:55+00:00'>Jan 26th 12:42</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-01-14T19:29:13+00:00'>Jan 14th 19:29</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-01-14T19:26:55+00:00'>Jan 14th 19:26</span></td>
 <td>
@@ -297,32 +310,6 @@
 <td>
 
 [catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-19T22:54:20+00:00'>Dec 19th 22:54</span></td>
-<td>
-
-💬 commented on [#55: feat: styles for directories, `ui.text.directory` color](https://github.com/catppuccin/helix/pull/55)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-19T22:54:16+00:00'>Dec 19th 22:54</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
