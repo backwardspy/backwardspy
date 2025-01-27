@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
+<td>
+
+✅ closed [#2662: Add catppuccin-startpage into Showcase](https://github.com/catppuccin/catppuccin/issues/2662)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
+<td>
+
+🎉 closed [#2663: docs(showcase): add catppuccin startpage](https://github.com/catppuccin/catppuccin/pull/2663)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-01-26T17:55:31+00:00'>Jan 26th 17:55</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-01-26T12:21:59+00:00'>Jan 26th 12:21</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-01-14T19:29:13+00:00'>Jan 14th 19:29</span></td>
 <td>
@@ -253,58 +292,6 @@
 <td>
 
 📢 opened [#4: convert templates to whiskers v2](https://github.com/catppuccin/qtcreator/issues/4)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-30T11:35:08+00:00'>Dec 30th 11:35</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-30T11:35:08+00:00'>Dec 30th 11:35</span></td>
-<td>
-
-✅ closed [#2: Welcome/examples page completely black ](https://github.com/catppuccin/qtcreator/issues/2)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-30T11:35:07+00:00'>Dec 30th 11:35</span></td>
-<td>
-
-🎉 closed [#3: Fixed black start page for all 4 Catppuccin variants.](https://github.com/catppuccin/qtcreator/pull/3)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-30T11:25:32+00:00'>Dec 30th 11:25</span></td>
-<td>
-
-💬 commented on [#3: Fixed black start page for all 4 Catppuccin variants.](https://github.com/catppuccin/qtcreator/pull/3)
 
 </td>
 <td>
