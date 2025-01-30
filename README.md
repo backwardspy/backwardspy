@@ -274,32 +274,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2024-12-30T11:39:58+00:00'>Dec 30th 11:39</span></td>
-<td>
-
-💬 commented on [#2: Welcome/examples page completely black ](https://github.com/catppuccin/qtcreator/issues/2)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2024-12-30T11:38:32+00:00'>Dec 30th 11:38</span></td>
-<td>
-
-📢 opened [#4: convert templates to whiskers v2](https://github.com/catppuccin/qtcreator/issues/4)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
