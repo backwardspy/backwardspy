@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-03T22:02:28+00:00'>Feb 3rd 22:02</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-03T22:02:28+00:00'>Feb 3rd 22:02</span></td>
+<td>
+
+🎉 closed [#66: fix: markup headings 5 & 6](https://github.com/catppuccin/helix/pull/66)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-03T22:02:25+00:00'>Feb 3rd 22:02</span></td>
+<td>
+
+💬 commented on [#66: fix: markup headings 5 & 6](https://github.com/catppuccin/helix/pull/66)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-01-26T12:21:59+00:00'>Jan 26th 12:21</span></td>
 <td>
@@ -240,32 +279,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:18:03+00:00'>Jan 14th 19:18</span></td>
-<td>
-
-💬 commented on [#2646: docs(showcase): add Tomatillo Timer](https://github.com/catppuccin/catppuccin/pull/2646)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-07T17:25:20+00:00'>Jan 7th 17:25</span></td>
-<td>
-
-💬 commented on [#2588: Align palette colours to WCAG Level AA](https://github.com/catppuccin/catppuccin/issues/2588)
 
 </td>
 <td>
