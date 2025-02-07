@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-07T10:12:46+00:00'>Feb 7th 10:12</span></td>
+<td>
+
+💬 commented on [#192: build: support 2025.1 EAP](https://github.com/catppuccin/jetbrains/pull/192)
+
+</td>
+<td>
+
+[catppuccin/jetbrains](https://github.com/catppuccin/jetbrains)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-06T22:08:15+00:00'>Feb 6th 22:08</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
 <td>
@@ -232,19 +245,6 @@
 <td>
 
 [uncenter/ctp-helix](https://github.com/uncenter/ctp-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:20:09+00:00'>Jan 14th 19:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
