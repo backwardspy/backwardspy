@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-06T22:08:15+00:00'>Feb 6th 22:08</span></td>
+<td>
+
+🪄 created repository
+
+</td>
+<td>
+
+[backwardspy/helix-hl-diff](https://github.com/backwardspy/helix-hl-diff)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-03T22:02:28+00:00'>Feb 3rd 22:02</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
 <td>
@@ -232,58 +245,6 @@
 <td>
 
 [catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:20:08+00:00'>Jan 14th 19:20</span></td>
-<td>
-
-🎉 closed [#62: fix: use `rosewater` for cursor in normal mode](https://github.com/catppuccin/helix/pull/62)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:20:05+00:00'>Jan 14th 19:20</span></td>
-<td>
-
-💬 commented on [#62: fix: use `rosewater` for cursor in normal mode](https://github.com/catppuccin/helix/pull/62)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:18:06+00:00'>Jan 14th 19:18</span></td>
-<td>
-
-🎉 closed [#2646: docs(showcase): add Tomatillo Timer](https://github.com/catppuccin/catppuccin/pull/2646)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:18:07+00:00'>Jan 14th 19:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
