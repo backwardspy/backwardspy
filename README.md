@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-08T12:24:48+00:00'>Feb 8th 12:24</span></td>
+<td>
+
+✅ closed [#2661: Coffee flavor request](https://github.com/catppuccin/catppuccin/issues/2661)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-08T12:20:39+00:00'>Feb 8th 12:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/helix-hl-diff](https://github.com/backwardspy/helix-hl-diff)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-08T10:27:08+00:00'>Feb 8th 10:27</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-07T10:12:46+00:00'>Feb 7th 10:12</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-03T22:02:28+00:00'>Feb 3rd 22:02</span></td>
 <td>
@@ -214,32 +240,6 @@
 <td>
 
 🎉 closed [#57: feat: add diagnostics.unnecessary entry](https://github.com/catppuccin/helix/pull/57)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:29:13+00:00'>Jan 14th 19:29</span></td>
-<td>
-
-💬 commented on [#57: feat: add diagnostics.unnecessary entry](https://github.com/catppuccin/helix/pull/57)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:26:55+00:00'>Jan 14th 19:26</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
