@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-08T10:27:08+00:00'>Feb 8th 10:27</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/helix-hl-diff](https://github.com/backwardspy/helix-hl-diff)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-07T21:38:04+00:00'>Feb 7th 21:38</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-03T22:02:28+00:00'>Feb 3rd 22:02</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-03T22:02:28+00:00'>Feb 3rd 22:02</span></td>
 <td>
@@ -227,19 +240,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:26:54+00:00'>Jan 14th 19:26</span></td>
-<td>
-
-🎉 closed [#58: fix: align markup syntax with vscode](https://github.com/catppuccin/helix/pull/58)
 
 </td>
 <td>
