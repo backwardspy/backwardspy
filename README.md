@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-07T21:38:04+00:00'>Feb 7th 21:38</span></td>
+<td>
+
+✅ closed [#475: color difference in style tag in html](https://github.com/catppuccin/vscode/issues/475)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-07T21:32:34+00:00'>Feb 7th 21:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/helix-hl-diff](https://github.com/backwardspy/helix-hl-diff)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-07T10:12:46+00:00'>Feb 7th 10:12</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-03T22:02:28+00:00'>Feb 3rd 22:02</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
 <td>
@@ -219,32 +245,6 @@
 <td>
 
 [catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:26:46+00:00'>Jan 14th 19:26</span></td>
-<td>
-
-💬 commented on [#58: fix: align markup syntax with vscode](https://github.com/catppuccin/helix/pull/58)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:25:52+00:00'>Jan 14th 19:25</span></td>
-<td>
-
-🚢 pushed 2 commits to `fix/markup`
-
-</td>
-<td>
-
-[uncenter/ctp-helix](https://github.com/uncenter/ctp-helix)
 
 </td>
 </tr>
