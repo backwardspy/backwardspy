@@ -8,20 +8,7 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2025-02-08T12:24:48+00:00'>Feb 8th 12:24</span></td>
-<td>
-
-✅ closed [#2661: Coffee flavor request](https://github.com/catppuccin/catppuccin/issues/2661)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-08T12:20:39+00:00'>Feb 8th 12:20</span></td>
+<td><span title='2025-02-09T12:00:54+00:00'>Feb 9th 12:00</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -29,46 +16,59 @@
 </td>
 <td>
 
-[backwardspy/helix-hl-diff](https://github.com/backwardspy/helix-hl-diff)
+[catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
 <tr>
-<td><span title='2025-02-08T10:27:08+00:00'>Feb 8th 10:27</span></td>
+<td><span title='2025-02-09T12:00:54+00:00'>Feb 9th 12:00</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+✅ closed [#63: Cursor color does not match mode color](https://github.com/catppuccin/helix/issues/63)
 
 </td>
 <td>
 
-[backwardspy/helix-hl-diff](https://github.com/backwardspy/helix-hl-diff)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-07T21:38:04+00:00'>Feb 7th 21:38</span></td>
-<td>
-
-✅ closed [#475: color difference in style tag in html](https://github.com/catppuccin/vscode/issues/475)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
+[catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
 <tr>
-<td><span title='2025-02-07T21:32:34+00:00'>Feb 7th 21:32</span></td>
+<td><span title='2025-02-09T12:00:53+00:00'>Feb 9th 12:00</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+🎉 closed [#64: Fix Mode Color Matching Cursor Color](https://github.com/catppuccin/helix/pull/64)
 
 </td>
 <td>
 
-[backwardspy/helix-hl-diff](https://github.com/backwardspy/helix-hl-diff)
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T12:00:34+00:00'>Feb 9th 12:00</span></td>
+<td>
+
+💬 commented on [#64: Fix Mode Color Matching Cursor Color](https://github.com/catppuccin/helix/pull/64)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:54:55+00:00'>Feb 9th 11:54</span></td>
+<td>
+
+🚢 pushed 2 commits to `fix-mode-colors`
+
+</td>
+<td>
+
+[amayer5125/catppuccin-helix](https://github.com/amayer5125/catppuccin-helix)
 
 </td>
 </tr>
@@ -80,23 +80,49 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2025-02-07T10:12:46+00:00'>Feb 7th 10:12</span></td>
+<td><span title='2025-02-09T11:54:45+00:00'>Feb 9th 11:54</span></td>
 <td>
 
-💬 commented on [#192: build: support 2025.1 EAP](https://github.com/catppuccin/jetbrains/pull/192)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
 
-[catppuccin/jetbrains](https://github.com/catppuccin/jetbrains)
+[catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
 <tr>
-<td><span title='2025-02-06T22:08:15+00:00'>Feb 6th 22:08</span></td>
+<td><span title='2025-02-09T11:51:13+00:00'>Feb 9th 11:51</span></td>
 <td>
 
-🪄 created repository
+🚢 pushed 2 commits to `fix-mode-colors`
+
+</td>
+<td>
+
+[amayer5125/catppuccin-helix](https://github.com/amayer5125/catppuccin-helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:50:30+00:00'>Feb 9th 11:50</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:49:54+00:00'>Feb 9th 11:49</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
@@ -106,7 +132,20 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-02-03T22:02:28+00:00'>Feb 3rd 22:02</span></td>
+<td><span title='2025-02-09T11:43:54+00:00'>Feb 9th 11:43</span></td>
+<td>
+
+🚢 pushed 3 commits to `fix-mode-colors`
+
+</td>
+<td>
+
+[amayer5125/catppuccin-helix](https://github.com/amayer5125/catppuccin-helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:37:46+00:00'>Feb 9th 11:37</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -119,10 +158,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-02-03T22:02:28+00:00'>Feb 3rd 22:02</span></td>
+<td><span title='2025-02-09T11:37:45+00:00'>Feb 9th 11:37</span></td>
 <td>
 
-🎉 closed [#66: fix: markup headings 5 & 6](https://github.com/catppuccin/helix/pull/66)
+🎉 closed [#68: ci: add visual diff workflow](https://github.com/catppuccin/helix/pull/68)
 
 </td>
 <td>
@@ -132,10 +171,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-02-03T22:02:25+00:00'>Feb 3rd 22:02</span></td>
+<td><span title='2025-02-09T11:37:16+00:00'>Feb 9th 11:37</span></td>
 <td>
 
-💬 commented on [#66: fix: markup headings 5 & 6](https://github.com/catppuccin/helix/pull/66)
+🚀 opened [#68: ci: add visual diff workflow](https://github.com/catppuccin/helix/pull/68)
 
 </td>
 <td>
@@ -145,7 +184,33 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
+<td><span title='2025-02-09T11:37:03+00:00'>Feb 9th 11:37</span></td>
+<td>
+
+🚢 pushed 1 commit to `ci/add-visual-diff-workflow`
+
+</td>
+<td>
+
+[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:35:38+00:00'>Feb 9th 11:35</span></td>
+<td>
+
+🎉 closed [#1: test](https://github.com/backwardspy/ctp-helix/pull/1)
+
+</td>
+<td>
+
+[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:35:29+00:00'>Feb 9th 11:35</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -153,77 +218,25 @@
 </td>
 <td>
 
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
 
 </td>
 </tr>
 <tr>
-<td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
+<td><span title='2025-02-09T11:21:00+00:00'>Feb 9th 11:21</span></td>
 <td>
 
-✅ closed [#2662: Add catppuccin-startpage into Showcase](https://github.com/catppuccin/catppuccin/issues/2662)
+🚢 pushed 2 commits to `test`
 
 </td>
 <td>
 
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-27T13:37:28+00:00'>Jan 27th 13:37</span></td>
-<td>
-
-🎉 closed [#2663: docs(showcase): add catppuccin startpage](https://github.com/catppuccin/catppuccin/pull/2663)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
 
 </td>
 </tr>
 <tr>
-<td><span title='2025-01-26T17:55:31+00:00'>Jan 26th 17:55</span></td>
-<td>
-
-🚀 opened [#2663: docs(showcase): add catppuccin startpage](https://github.com/catppuccin/catppuccin/pull/2663)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-26T12:42:55+00:00'>Jan 26th 12:42</span></td>
-<td>
-
-🚀 opened [#30: build: fix powershell build script](https://github.com/catppuccin/qbittorrent/pull/30)
-
-</td>
-<td>
-
-[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-26T12:21:59+00:00'>Jan 26th 12:21</span></td>
-<td>
-
-💬 commented on [#2661: Coffee flavor request](https://github.com/catppuccin/catppuccin/issues/2661)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-01-14T19:29:16+00:00'>Jan 14th 19:29</span></td>
+<td><span title='2025-02-09T11:20:54+00:00'>Feb 9th 11:20</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -231,20 +244,72 @@
 </td>
 <td>
 
+[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:12:25+00:00'>Feb 9th 11:12</span></td>
+<td>
+
+🚀 opened [#1: test](https://github.com/backwardspy/ctp-helix/pull/1)
+
+</td>
+<td>
+
+[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:11:38+00:00'>Feb 9th 11:11</span></td>
+<td>
+
+💬 commented on [#67: test](https://github.com/catppuccin/helix/pull/67)
+
+</td>
+<td>
+
 [catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
 <tr>
-<td><span title='2025-01-14T19:29:15+00:00'>Jan 14th 19:29</span></td>
+<td><span title='2025-02-09T11:11:38+00:00'>Feb 9th 11:11</span></td>
 <td>
 
-🎉 closed [#57: feat: add diagnostics.unnecessary entry](https://github.com/catppuccin/helix/pull/57)
+🎉 closed [#67: test](https://github.com/catppuccin/helix/pull/67)
 
 </td>
 <td>
 
 [catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:11:10+00:00'>Feb 9th 11:11</span></td>
+<td>
+
+🚀 opened [#67: test](https://github.com/catppuccin/helix/pull/67)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-09T11:10:49+00:00'>Feb 9th 11:10</span></td>
+<td>
+
+🚢 pushed 2 commits to `test`
+
+</td>
+<td>
+
+[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
 
 </td>
 </tr>
