@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-10T09:56:15+00:00'>Feb 10th 09:56</span></td>
+<td>
+
+🔍 reviewed [#484: feat: Create a config linter](https://github.com/catppuccin/tmux/pull/484)
+
+</td>
+<td>
+
+[catppuccin/tmux](https://github.com/catppuccin/tmux)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-10T09:44:16+00:00'>Feb 10th 09:44</span></td>
+<td>
+
+🔍 reviewed [#484: feat: Create a config linter](https://github.com/catppuccin/tmux/pull/484)
+
+</td>
+<td>
+
+[catppuccin/tmux](https://github.com/catppuccin/tmux)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-10T09:34:54+00:00'>Feb 10th 09:34</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-09T12:00:54+00:00'>Feb 9th 12:00</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-09T12:00:34+00:00'>Feb 9th 12:00</span></td>
 <td>
@@ -227,58 +253,6 @@
 <td>
 
 🎉 closed [#1: test](https://github.com/backwardspy/ctp-helix/pull/1)
-
-</td>
-<td>
-
-[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:35:29+00:00'>Feb 9th 11:35</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:21:00+00:00'>Feb 9th 11:21</span></td>
-<td>
-
-🚢 pushed 2 commits to `test`
-
-</td>
-<td>
-
-[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:20:54+00:00'>Feb 9th 11:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:12:25+00:00'>Feb 9th 11:12</span></td>
-<td>
-
-🚀 opened [#1: test](https://github.com/backwardspy/ctp-helix/pull/1)
 
 </td>
 <td>
