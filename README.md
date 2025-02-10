@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-10T09:34:54+00:00'>Feb 10th 09:34</span></td>
+<td>
+
+🔍 reviewed [#484: feat: Create a config linter](https://github.com/catppuccin/tmux/pull/484)
+
+</td>
+<td>
+
+[catppuccin/tmux](https://github.com/catppuccin/tmux)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-10T09:34:54+00:00'>Feb 10th 09:34</span></td>
+<td>
+
+🔍 reviewed [#484: feat: Create a config linter](https://github.com/catppuccin/tmux/pull/484)
+
+</td>
+<td>
+
+[catppuccin/tmux](https://github.com/catppuccin/tmux)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-09T12:00:54+00:00'>Feb 9th 12:00</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-09T12:00:34+00:00'>Feb 9th 12:00</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-09T11:54:45+00:00'>Feb 9th 11:54</span></td>
 <td>
@@ -253,58 +279,6 @@
 <td>
 
 🚀 opened [#1: test](https://github.com/backwardspy/ctp-helix/pull/1)
-
-</td>
-<td>
-
-[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:11:38+00:00'>Feb 9th 11:11</span></td>
-<td>
-
-💬 commented on [#67: test](https://github.com/catppuccin/helix/pull/67)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:11:38+00:00'>Feb 9th 11:11</span></td>
-<td>
-
-🎉 closed [#67: test](https://github.com/catppuccin/helix/pull/67)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:11:10+00:00'>Feb 9th 11:11</span></td>
-<td>
-
-🚀 opened [#67: test](https://github.com/catppuccin/helix/pull/67)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:10:49+00:00'>Feb 9th 11:10</span></td>
-<td>
-
-🚢 pushed 2 commits to `test`
 
 </td>
 <td>
