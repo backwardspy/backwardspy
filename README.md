@@ -8,6 +8,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-11T17:25:33+00:00'>Feb 11th 17:25</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-11T17:25:31+00:00'>Feb 11th 17:25</span></td>
+<td>
+
+🎉 closed [#460: chore: release main](https://github.com/catppuccin/vscode/pull/460)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-11T17:21:52+00:00'>Feb 11th 17:21</span></td>
+<td>
+
+💬 commented on [#474: fix(tokens/markdown): match headings 5 & 6 to style guide](https://github.com/catppuccin/vscode/pull/474)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-11T17:21:50+00:00'>Feb 11th 17:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-11T17:21:49+00:00'>Feb 11th 17:21</span></td>
+<td>
+
+🎉 closed [#474: fix(tokens/markdown): match headings 5 & 6 to style guide](https://github.com/catppuccin/vscode/pull/474)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2025-02-10T09:56:15+00:00'>Feb 10th 09:56</span></td>
 <td>
 
@@ -72,13 +144,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-09T12:00:54+00:00'>Feb 9th 12:00</span></td>
 <td>
@@ -206,58 +271,6 @@
 <td>
 
 [catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:37:45+00:00'>Feb 9th 11:37</span></td>
-<td>
-
-🎉 closed [#68: ci: add visual diff workflow](https://github.com/catppuccin/helix/pull/68)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:37:16+00:00'>Feb 9th 11:37</span></td>
-<td>
-
-🚀 opened [#68: ci: add visual diff workflow](https://github.com/catppuccin/helix/pull/68)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:37:03+00:00'>Feb 9th 11:37</span></td>
-<td>
-
-🚢 pushed 1 commit to `ci/add-visual-diff-workflow`
-
-</td>
-<td>
-
-[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:35:38+00:00'>Feb 9th 11:35</span></td>
-<td>
-
-🎉 closed [#1: test](https://github.com/backwardspy/ctp-helix/pull/1)
-
-</td>
-<td>
-
-[backwardspy/ctp-helix](https://github.com/backwardspy/ctp-helix)
 
 </td>
 </tr>
