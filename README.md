@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-14T12:33:37+00:00'>Feb 14th 12:33</span></td>
+<td>
+
+💬 commented on [#65: Add crossed out modifier for deprecated diagnostics](https://github.com/catppuccin/helix/pull/65)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-14T10:12:50+00:00'>Feb 14th 10:12</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-11T17:21:52+00:00'>Feb 11th 17:21</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-11T17:21:50+00:00'>Feb 11th 17:21</span></td>
 <td>
@@ -271,19 +284,6 @@
 <td>
 
 [backwardspy/helix-hl-diff](https://github.com/backwardspy/helix-hl-diff)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:43:54+00:00'>Feb 9th 11:43</span></td>
-<td>
-
-🚢 pushed 3 commits to `fix-mode-colors`
-
-</td>
-<td>
-
-[amayer5125/catppuccin-helix](https://github.com/amayer5125/catppuccin-helix)
 
 </td>
 </tr>
