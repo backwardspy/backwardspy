@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-14T10:12:50+00:00'>Feb 14th 10:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-14T10:12:49+00:00'>Feb 14th 10:12</span></td>
+<td>
+
+🎉 closed [#477: fix(tokens/python): mauve builtin types, peach language constants](https://github.com/catppuccin/vscode/pull/477)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-11T17:25:33+00:00'>Feb 11th 17:25</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-11T17:21:50+00:00'>Feb 11th 17:21</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-10T09:56:15+00:00'>Feb 10th 09:56</span></td>
 <td>
@@ -258,19 +284,6 @@
 <td>
 
 [amayer5125/catppuccin-helix](https://github.com/amayer5125/catppuccin-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:37:46+00:00'>Feb 9th 11:37</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
