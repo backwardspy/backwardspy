@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-15T12:30:38+00:00'>Feb 15th 12:30</span></td>
+<td>
+
+💬 commented on [#31: feat: overhaul](https://github.com/catppuccin/rofi/pull/31)
+
+</td>
+<td>
+
+[catppuccin/rofi](https://github.com/catppuccin/rofi)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-14T12:33:37+00:00'>Feb 14th 12:33</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-11T17:25:31+00:00'>Feb 11th 17:25</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-11T17:21:52+00:00'>Feb 11th 17:21</span></td>
 <td>
@@ -271,19 +284,6 @@
 <td>
 
 [catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:49:54+00:00'>Feb 9th 11:49</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/helix-hl-diff](https://github.com/backwardspy/helix-hl-diff)
 
 </td>
 </tr>
