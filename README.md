@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-17T21:36:42+00:00'>Feb 17th 21:36</span></td>
+<td>
+
+💬 commented on [#10: Small fixes](https://github.com/catppuccin/thelounge/pull/10)
+
+</td>
+<td>
+
+[catppuccin/thelounge](https://github.com/catppuccin/thelounge)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-17T21:36:38+00:00'>Feb 17th 21:36</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/thelounge](https://github.com/catppuccin/thelounge)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-17T21:36:37+00:00'>Feb 17th 21:36</span></td>
+<td>
+
+🎉 closed [#10: Small fixes](https://github.com/catppuccin/thelounge/pull/10)
+
+</td>
+<td>
+
+[catppuccin/thelounge](https://github.com/catppuccin/thelounge)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-17T21:25:42+00:00'>Feb 17th 21:25</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-17T20:44:58+00:00'>Feb 17th 20:44</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-17T20:26:56+00:00'>Feb 17th 20:26</span></td>
 <td>
@@ -245,45 +284,6 @@
 <td>
 
 [catppuccin/tmux](https://github.com/catppuccin/tmux)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-10T09:34:54+00:00'>Feb 10th 09:34</span></td>
-<td>
-
-🔍 reviewed [#484: feat: Create a config linter](https://github.com/catppuccin/tmux/pull/484)
-
-</td>
-<td>
-
-[catppuccin/tmux](https://github.com/catppuccin/tmux)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T12:00:54+00:00'>Feb 9th 12:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T12:00:54+00:00'>Feb 9th 12:00</span></td>
-<td>
-
-✅ closed [#63: Cursor color does not match mode color](https://github.com/catppuccin/helix/issues/63)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
