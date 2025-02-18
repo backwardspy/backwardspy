@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-17T21:25:42+00:00'>Feb 17th 21:25</span></td>
+<td>
+
+🔍 reviewed [#167: chore: friendship ended with Vercel, now GitHub is my best friend](https://github.com/catppuccin/website/pull/167)
+
+</td>
+<td>
+
+[catppuccin/website](https://github.com/catppuccin/website)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-17T21:24:21+00:00'>Feb 17th 21:24</span></td>
+<td>
+
+💬 commented on [#167: chore: friendship ended with Vercel, now GitHub is my best friend](https://github.com/catppuccin/website/pull/167)
+
+</td>
+<td>
+
+[catppuccin/website](https://github.com/catppuccin/website)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-17T20:44:58+00:00'>Feb 17th 20:44</span></td>
+<td>
+
+💬 commented on [#65: Add crossed out modifier for deprecated diagnostics](https://github.com/catppuccin/helix/pull/65)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-17T20:27:00+00:00'>Feb 17th 20:27</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-17T20:26:59+00:00'>Feb 17th 20:26</span></td>
+<td>
+
+🎉 closed [#69: feat: Add color for link labels](https://github.com/catppuccin/helix/pull/69)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-02-17T20:26:56+00:00'>Feb 17th 20:26</span></td>
+<td>
+
+💬 commented on [#69: feat: Add color for link labels](https://github.com/catppuccin/helix/pull/69)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-15T12:30:38+00:00'>Feb 15th 12:30</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-11T17:25:31+00:00'>Feb 11th 17:25</span></td>
 <td>
@@ -201,84 +279,6 @@
 <td>
 
 ✅ closed [#63: Cursor color does not match mode color](https://github.com/catppuccin/helix/issues/63)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T12:00:53+00:00'>Feb 9th 12:00</span></td>
-<td>
-
-🎉 closed [#64: Fix Mode Color Matching Cursor Color](https://github.com/catppuccin/helix/pull/64)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T12:00:34+00:00'>Feb 9th 12:00</span></td>
-<td>
-
-💬 commented on [#64: Fix Mode Color Matching Cursor Color](https://github.com/catppuccin/helix/pull/64)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:54:55+00:00'>Feb 9th 11:54</span></td>
-<td>
-
-🚢 pushed 2 commits to `fix-mode-colors`
-
-</td>
-<td>
-
-[amayer5125/catppuccin-helix](https://github.com/amayer5125/catppuccin-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:54:45+00:00'>Feb 9th 11:54</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:51:13+00:00'>Feb 9th 11:51</span></td>
-<td>
-
-🚢 pushed 2 commits to `fix-mode-colors`
-
-</td>
-<td>
-
-[amayer5125/catppuccin-helix](https://github.com/amayer5125/catppuccin-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-09T11:50:30+00:00'>Feb 9th 11:50</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
