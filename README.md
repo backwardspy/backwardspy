@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-20T11:16:52+00:00'>Feb 20th 11:16</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[release-plz/release-plz](https://github.com/release-plz/release-plz)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-19T19:41:23+00:00'>Feb 19th 19:41</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-19T17:15:32+00:00'>Feb 19th 17:15</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-19T17:11:57+00:00'>Feb 19th 17:11</span></td>
 <td>
@@ -292,19 +305,6 @@
 <td>
 
 🎉 closed [#460: chore: release main](https://github.com/catppuccin/vscode/pull/460)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-11T17:21:52+00:00'>Feb 11th 17:21</span></td>
-<td>
-
-💬 commented on [#474: fix(tokens/markdown): match headings 5 & 6 to style guide](https://github.com/catppuccin/vscode/pull/474)
 
 </td>
 <td>
