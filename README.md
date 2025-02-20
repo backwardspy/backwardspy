@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-19T17:15:32+00:00'>Feb 19th 17:15</span></td>
+<td>
+
+💬 commented on [#2256: ModOrganizer2](https://github.com/catppuccin/catppuccin/issues/2256)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-19T17:11:57+00:00'>Feb 19th 17:11</span></td>
+<td>
+
+💬 commented on [#70: build(nix): drop](https://github.com/catppuccin/whiskers/pull/70)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-19T17:07:02+00:00'>Feb 19th 17:07</span></td>
+<td>
+
+💬 commented on [#2256: ModOrganizer2](https://github.com/catppuccin/catppuccin/issues/2256)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-17T21:36:42+00:00'>Feb 17th 21:36</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-17T21:36:37+00:00'>Feb 17th 21:36</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-17T20:44:58+00:00'>Feb 17th 20:44</span></td>
 <td>
@@ -263,19 +302,6 @@
 </tr>
 <tr>
 <td><span title='2025-02-10T09:44:16+00:00'>Feb 10th 09:44</span></td>
-<td>
-
-🔍 reviewed [#484: feat: Create a config linter](https://github.com/catppuccin/tmux/pull/484)
-
-</td>
-<td>
-
-[catppuccin/tmux](https://github.com/catppuccin/tmux)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-10T09:34:54+00:00'>Feb 10th 09:34</span></td>
 <td>
 
 🔍 reviewed [#484: feat: Create a config linter](https://github.com/catppuccin/tmux/pull/484)
