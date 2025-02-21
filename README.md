@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-20T21:55:02+00:00'>Feb 20th 21:55</span></td>
+<td>
+
+💬 commented on [#73: fix(deps): update rust crate catppuccin to v2.5.0](https://github.com/catppuccin/whiskers/pull/73)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T21:55:01+00:00'>Feb 20th 21:55</span></td>
+<td>
+
+🎉 closed [#73: fix(deps): update rust crate catppuccin to v2.5.0](https://github.com/catppuccin/whiskers/pull/73)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T21:52:44+00:00'>Feb 20th 21:52</span></td>
+<td>
+
+🚢 pushed 4 commits to `feat/ansi`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T21:44:28+00:00'>Feb 20th 21:44</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T21:44:27+00:00'>Feb 20th 21:44</span></td>
+<td>
+
+🎉 closed [#44: chore: release v2.5.0](https://github.com/catppuccin/rust/pull/44)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-02-20T21:43:23+00:00'>Feb 20th 21:43</span></td>
+<td>
+
+🚢 pushed 1 commit to `release-plz-2025-02-20T21-42-06Z`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-20T21:41:11+00:00'>Feb 20th 21:41</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-20T21:07:10+00:00'>Feb 20th 21:07</span></td>
 <td>
@@ -193,84 +271,6 @@
 <td>
 
 [release-plz/release-plz](https://github.com/release-plz/release-plz)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-19T19:41:23+00:00'>Feb 19th 19:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-19T19:41:23+00:00'>Feb 19th 19:41</span></td>
-<td>
-
-✅ closed [#2256: ModOrganizer2](https://github.com/catppuccin/catppuccin/issues/2256)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-19T19:41:22+00:00'>Feb 19th 19:41</span></td>
-<td>
-
-🎉 closed [#2682: docs: add catppuccin/mod-organizer-2](https://github.com/catppuccin/catppuccin/pull/2682)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-19T19:40:40+00:00'>Feb 19th 19:40</span></td>
-<td>
-
-🚀 opened [#2682: docs: add catppuccin/mod-organizer-2](https://github.com/catppuccin/catppuccin/pull/2682)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-19T17:15:32+00:00'>Feb 19th 17:15</span></td>
-<td>
-
-💬 commented on [#2256: ModOrganizer2](https://github.com/catppuccin/catppuccin/issues/2256)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-19T17:11:57+00:00'>Feb 19th 17:11</span></td>
-<td>
-
-💬 commented on [#70: build(nix): drop](https://github.com/catppuccin/whiskers/pull/70)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
