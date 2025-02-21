@@ -8,6 +8,104 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-20T21:41:11+00:00'>Feb 20th 21:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T21:33:56+00:00'>Feb 20th 21:33</span></td>
+<td>
+
+🚢 pushed 1 commit to `release-plz-2025-02-20T21-16-03Z`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T21:15:10+00:00'>Feb 20th 21:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T21:07:57+00:00'>Feb 20th 21:07</span></td>
+<td>
+
+🎉 closed [#42: chore(deps): update rust crate itertools to 0.14.0](https://github.com/catppuccin/rust/pull/42)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T21:07:57+00:00'>Feb 20th 21:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-02-20T21:07:10+00:00'>Feb 20th 21:07</span></td>
+<td>
+
+📢 opened [#72: assert stderr in all cli tests](https://github.com/catppuccin/whiskers/issues/72)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T21:05:02+00:00'>Feb 20th 21:05</span></td>
+<td>
+
+📢 opened [#71: centralise warnings & error output](https://github.com/catppuccin/whiskers/issues/71)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-20T19:12:10+00:00'>Feb 20th 19:12</span></td>
 <td>
 
@@ -72,13 +170,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-20T18:13:36+00:00'>Feb 20th 18:13</span></td>
 <td>
@@ -180,110 +271,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-19T17:07:02+00:00'>Feb 19th 17:07</span></td>
-<td>
-
-💬 commented on [#2256: ModOrganizer2](https://github.com/catppuccin/catppuccin/issues/2256)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-17T21:36:42+00:00'>Feb 17th 21:36</span></td>
-<td>
-
-💬 commented on [#10: Small fixes](https://github.com/catppuccin/thelounge/pull/10)
-
-</td>
-<td>
-
-[catppuccin/thelounge](https://github.com/catppuccin/thelounge)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-17T21:36:38+00:00'>Feb 17th 21:36</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/thelounge](https://github.com/catppuccin/thelounge)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-17T21:36:37+00:00'>Feb 17th 21:36</span></td>
-<td>
-
-🎉 closed [#10: Small fixes](https://github.com/catppuccin/thelounge/pull/10)
-
-</td>
-<td>
-
-[catppuccin/thelounge](https://github.com/catppuccin/thelounge)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-17T21:25:42+00:00'>Feb 17th 21:25</span></td>
-<td>
-
-🔍 reviewed [#167: chore: friendship ended with Vercel, now GitHub is my best friend](https://github.com/catppuccin/website/pull/167)
-
-</td>
-<td>
-
-[catppuccin/website](https://github.com/catppuccin/website)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-17T21:24:21+00:00'>Feb 17th 21:24</span></td>
-<td>
-
-💬 commented on [#167: chore: friendship ended with Vercel, now GitHub is my best friend](https://github.com/catppuccin/website/pull/167)
-
-</td>
-<td>
-
-[catppuccin/website](https://github.com/catppuccin/website)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-17T20:44:58+00:00'>Feb 17th 20:44</span></td>
-<td>
-
-💬 commented on [#65: Add crossed out modifier for deprecated diagnostics](https://github.com/catppuccin/helix/pull/65)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-17T20:27:00+00:00'>Feb 17th 20:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
