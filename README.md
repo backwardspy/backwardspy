@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-20T19:12:10+00:00'>Feb 20th 19:12</span></td>
+<td>
+
+🚀 opened [#25: docs: add human interaction clause to CoC](https://github.com/catppuccin/.github/pull/25)
+
+</td>
+<td>
+
+[catppuccin/.github](https://github.com/catppuccin/.github)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T18:57:43+00:00'>Feb 20th 18:57</span></td>
+<td>
+
+💬 commented on [#70: build(nix): drop](https://github.com/catppuccin/whiskers/pull/70)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-20T18:46:20+00:00'>Feb 20th 18:46</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-20T18:13:36+00:00'>Feb 20th 18:13</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-19T19:41:23+00:00'>Feb 19th 19:41</span></td>
 <td>
@@ -258,45 +284,6 @@
 <td>
 
 [catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-17T20:26:59+00:00'>Feb 17th 20:26</span></td>
-<td>
-
-🎉 closed [#69: feat: Add color for link labels](https://github.com/catppuccin/helix/pull/69)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-17T20:26:56+00:00'>Feb 17th 20:26</span></td>
-<td>
-
-💬 commented on [#69: feat: Add color for link labels](https://github.com/catppuccin/helix/pull/69)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-15T12:30:38+00:00'>Feb 15th 12:30</span></td>
-<td>
-
-💬 commented on [#31: feat: overhaul](https://github.com/catppuccin/rofi/pull/31)
-
-</td>
-<td>
-
-[catppuccin/rofi](https://github.com/catppuccin/rofi)
 
 </td>
 </tr>
