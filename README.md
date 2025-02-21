@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-20T18:46:20+00:00'>Feb 20th 18:46</span></td>
+<td>
+
+💬 commented on [#70: build(nix): drop](https://github.com/catppuccin/whiskers/pull/70)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T18:36:43+00:00'>Feb 20th 18:36</span></td>
+<td>
+
+🎉 closed [#69: docs: clarify frontmatter whiskers version requirement](https://github.com/catppuccin/whiskers/pull/69)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T18:36:44+00:00'>Feb 20th 18:36</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-20T18:13:36+00:00'>Feb 20th 18:13</span></td>
+<td>
+
+🔍 reviewed [#31: feat: overhaul](https://github.com/catppuccin/rofi/pull/31)
+
+</td>
+<td>
+
+[catppuccin/rofi](https://github.com/catppuccin/rofi)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-20T11:16:52+00:00'>Feb 20th 11:16</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-19T19:41:23+00:00'>Feb 19th 19:41</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-19T17:15:32+00:00'>Feb 19th 17:15</span></td>
 <td>
@@ -245,71 +297,6 @@
 <td>
 
 [catppuccin/rofi](https://github.com/catppuccin/rofi)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-14T12:33:37+00:00'>Feb 14th 12:33</span></td>
-<td>
-
-💬 commented on [#65: Add crossed out modifier for deprecated diagnostics](https://github.com/catppuccin/helix/pull/65)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-14T10:12:50+00:00'>Feb 14th 10:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-14T10:12:49+00:00'>Feb 14th 10:12</span></td>
-<td>
-
-🎉 closed [#477: fix(tokens/python): mauve builtin types, peach language constants](https://github.com/catppuccin/vscode/pull/477)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-11T17:25:33+00:00'>Feb 11th 17:25</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-11T17:25:31+00:00'>Feb 11th 17:25</span></td>
-<td>
-
-🎉 closed [#460: chore: release main](https://github.com/catppuccin/vscode/pull/460)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
 
 </td>
 </tr>
