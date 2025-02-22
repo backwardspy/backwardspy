@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-21T11:09:30+00:00'>Feb 21st 11:09</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-21T10:42:19+00:00'>Feb 21st 10:42</span></td>
+<td>
+
+💬 commented on [#70: build(nix): drop](https://github.com/catppuccin/whiskers/pull/70)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-20T21:55:02+00:00'>Feb 20th 21:55</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-20T21:44:28+00:00'>Feb 20th 21:44</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-20T21:43:23+00:00'>Feb 20th 21:43</span></td>
 <td>
@@ -258,19 +284,6 @@
 <td>
 
 [catppuccin/rofi](https://github.com/catppuccin/rofi)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T11:16:52+00:00'>Feb 20th 11:16</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[release-plz/release-plz](https://github.com/release-plz/release-plz)
 
 </td>
 </tr>
