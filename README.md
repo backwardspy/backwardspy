@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-21T20:37:24+00:00'>Feb 21st 20:37</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/.github](https://github.com/catppuccin/.github)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-21T20:37:23+00:00'>Feb 21st 20:37</span></td>
+<td>
+
+🎉 closed [#25: docs: add human interaction clause to CoC](https://github.com/catppuccin/.github/pull/25)
+
+</td>
+<td>
+
+[catppuccin/.github](https://github.com/catppuccin/.github)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-21T19:55:36+00:00'>Feb 21st 19:55</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/ansi`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-21T18:19:09+00:00'>Feb 21st 18:19</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-21T18:17:08+00:00'>Feb 21st 18:17</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-21T18:16:03+00:00'>Feb 21st 18:16</span></td>
 <td>
@@ -227,45 +266,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:33:56+00:00'>Feb 20th 21:33</span></td>
-<td>
-
-🚢 pushed 1 commit to `release-plz-2025-02-20T21-16-03Z`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:15:10+00:00'>Feb 20th 21:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:07:57+00:00'>Feb 20th 21:07</span></td>
-<td>
-
-🎉 closed [#42: chore(deps): update rust crate itertools to 0.14.0](https://github.com/catppuccin/rust/pull/42)
 
 </td>
 <td>
