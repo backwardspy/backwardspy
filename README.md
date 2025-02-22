@@ -8,6 +8,117 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-21T18:19:09+00:00'>Feb 21st 18:19</span></td>
+<td>
+
+🚢 pushed 7 commits to `feat/ansi`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-21T18:17:09+00:00'>Feb 21st 18:17</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-21T18:17:08+00:00'>Feb 21st 18:17</span></td>
+<td>
+
+🎉 closed [#56: fix(deps): update rust crate serde_json to v1.0.139](https://github.com/catppuccin/whiskers/pull/56)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-21T18:16:18+00:00'>Feb 21st 18:16</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-21T18:16:17+00:00'>Feb 21st 18:16</span></td>
+<td>
+
+🎉 closed [#57: fix(deps): update rust crate anyhow to v1.0.96](https://github.com/catppuccin/whiskers/pull/57)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-02-21T18:16:03+00:00'>Feb 21st 18:16</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-21T18:16:02+00:00'>Feb 21st 18:16</span></td>
+<td>
+
+🎉 closed [#58: fix(deps): update rust crate serde to v1.0.218](https://github.com/catppuccin/whiskers/pull/58)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-21T18:00:52+00:00'>Feb 21st 18:00</span></td>
+<td>
+
+🔍 reviewed [#8: docs(README): add alternative install command](https://github.com/catppuccin/drracket/pull/8)
+
+</td>
+<td>
+
+[catppuccin/drracket](https://github.com/catppuccin/drracket)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-21T11:09:30+00:00'>Feb 21st 11:09</span></td>
 <td>
 
@@ -72,13 +183,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-20T21:44:28+00:00'>Feb 20th 21:44</span></td>
 <td>
@@ -167,123 +271,6 @@
 <td>
 
 [catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:07:57+00:00'>Feb 20th 21:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:07:10+00:00'>Feb 20th 21:07</span></td>
-<td>
-
-📢 opened [#72: assert stderr in all cli tests](https://github.com/catppuccin/whiskers/issues/72)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:05:02+00:00'>Feb 20th 21:05</span></td>
-<td>
-
-📢 opened [#71: centralise warnings & error output](https://github.com/catppuccin/whiskers/issues/71)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T19:12:10+00:00'>Feb 20th 19:12</span></td>
-<td>
-
-🚀 opened [#25: docs: add human interaction clause to CoC](https://github.com/catppuccin/.github/pull/25)
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T18:57:43+00:00'>Feb 20th 18:57</span></td>
-<td>
-
-💬 commented on [#70: build(nix): drop](https://github.com/catppuccin/whiskers/pull/70)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T18:46:20+00:00'>Feb 20th 18:46</span></td>
-<td>
-
-💬 commented on [#70: build(nix): drop](https://github.com/catppuccin/whiskers/pull/70)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T18:36:43+00:00'>Feb 20th 18:36</span></td>
-<td>
-
-🎉 closed [#69: docs: clarify frontmatter whiskers version requirement](https://github.com/catppuccin/whiskers/pull/69)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T18:36:44+00:00'>Feb 20th 18:36</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T18:13:36+00:00'>Feb 20th 18:13</span></td>
-<td>
-
-🔍 reviewed [#31: feat: overhaul](https://github.com/catppuccin/rofi/pull/31)
-
-</td>
-<td>
-
-[catppuccin/rofi](https://github.com/catppuccin/rofi)
 
 </td>
 </tr>
