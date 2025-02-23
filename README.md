@@ -8,6 +8,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-23T11:52:01+00:00'>Feb 23rd 11:52</span></td>
+<td>
+
+🚀 opened [#33: docs: fix swapped g/b parameters](https://github.com/catppuccin/java/pull/33)
+
+</td>
+<td>
+
+[catppuccin/java](https://github.com/catppuccin/java)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-23T11:48:30+00:00'>Feb 23rd 11:48</span></td>
+<td>
+
+💬 commented on [#75: fix(deps): update rust crate catppuccin to v2.5.1](https://github.com/catppuccin/whiskers/pull/75)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-23T11:48:29+00:00'>Feb 23rd 11:48</span></td>
+<td>
+
+🎉 closed [#75: fix(deps): update rust crate catppuccin to v2.5.1](https://github.com/catppuccin/whiskers/pull/75)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-23T11:46:03+00:00'>Feb 23rd 11:46</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/ansi`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-23T11:43:14+00:00'>Feb 23rd 11:43</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-02-23T11:43:13+00:00'>Feb 23rd 11:43</span></td>
+<td>
+
+🎉 closed [#46: chore: release v2.5.1](https://github.com/catppuccin/rust/pull/46)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-23T11:41:57+00:00'>Feb 23rd 11:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-23T11:41:57+00:00'>Feb 23rd 11:41</span></td>
+<td>
+
+🎉 closed [#45: fix: use correct colours in ansi colour pairs](https://github.com/catppuccin/rust/pull/45)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-23T11:41:11+00:00'>Feb 23rd 11:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `fix/ansi-color-pairs`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-23T11:37:07+00:00'>Feb 23rd 11:37</span></td>
+<td>
+
+🚢 pushed 1 commit to `fix/ansi-color-pairs`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-23T11:28:45+00:00'>Feb 23rd 11:28</span></td>
+<td>
+
+🚀 opened [#45: fix: use correct colours in ansi colour pairs](https://github.com/catppuccin/rust/pull/45)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-21T20:37:24+00:00'>Feb 21st 20:37</span></td>
 <td>
 
@@ -72,13 +222,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-21T18:17:08+00:00'>Feb 21st 18:17</span></td>
 <td>
@@ -102,175 +245,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T18:16:17+00:00'>Feb 21st 18:16</span></td>
-<td>
-
-🎉 closed [#57: fix(deps): update rust crate anyhow to v1.0.96](https://github.com/catppuccin/whiskers/pull/57)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T18:16:03+00:00'>Feb 21st 18:16</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T18:16:02+00:00'>Feb 21st 18:16</span></td>
-<td>
-
-🎉 closed [#58: fix(deps): update rust crate serde to v1.0.218](https://github.com/catppuccin/whiskers/pull/58)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T18:00:52+00:00'>Feb 21st 18:00</span></td>
-<td>
-
-🔍 reviewed [#8: docs(README): add alternative install command](https://github.com/catppuccin/drracket/pull/8)
-
-</td>
-<td>
-
-[catppuccin/drracket](https://github.com/catppuccin/drracket)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T11:09:30+00:00'>Feb 21st 11:09</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T10:42:19+00:00'>Feb 21st 10:42</span></td>
-<td>
-
-💬 commented on [#70: build(nix): drop](https://github.com/catppuccin/whiskers/pull/70)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:55:02+00:00'>Feb 20th 21:55</span></td>
-<td>
-
-💬 commented on [#73: fix(deps): update rust crate catppuccin to v2.5.0](https://github.com/catppuccin/whiskers/pull/73)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:55:01+00:00'>Feb 20th 21:55</span></td>
-<td>
-
-🎉 closed [#73: fix(deps): update rust crate catppuccin to v2.5.0](https://github.com/catppuccin/whiskers/pull/73)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:52:44+00:00'>Feb 20th 21:52</span></td>
-<td>
-
-🚢 pushed 4 commits to `feat/ansi`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:44:28+00:00'>Feb 20th 21:44</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:44:27+00:00'>Feb 20th 21:44</span></td>
-<td>
-
-🎉 closed [#44: chore: release v2.5.0](https://github.com/catppuccin/rust/pull/44)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:43:23+00:00'>Feb 20th 21:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `release-plz-2025-02-20T21-42-06Z`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-20T21:41:11+00:00'>Feb 20th 21:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
