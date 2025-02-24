@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-24T14:55:26+00:00'>Feb 24th 14:55</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[nyxkrage/argumentation](https://github.com/nyxkrage/argumentation)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-23T11:52:01+00:00'>Feb 23rd 11:52</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-23T11:43:14+00:00'>Feb 23rd 11:43</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-23T11:43:13+00:00'>Feb 23rd 11:43</span></td>
 <td>
@@ -227,19 +240,6 @@
 <td>
 
 🎉 closed [#56: fix(deps): update rust crate serde_json to v1.0.139](https://github.com/catppuccin/whiskers/pull/56)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T18:16:18+00:00'>Feb 21st 18:16</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
