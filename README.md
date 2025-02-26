@@ -8,6 +8,117 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-25T22:30:07+00:00'>Feb 25th 22:30</span></td>
+<td>
+
+💬 commented on [#101: chore: add release-please config](https://github.com/catppuccin/python/pull/101)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T22:25:49+00:00'>Feb 25th 22:25</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T22:25:48+00:00'>Feb 25th 22:25</span></td>
+<td>
+
+🎉 closed [#101: chore: add release-please config](https://github.com/catppuccin/python/pull/101)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T22:23:22+00:00'>Feb 25th 22:23</span></td>
+<td>
+
+🚀 opened [#101: chore: add release-please config](https://github.com/catppuccin/python/pull/101)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T22:02:39+00:00'>Feb 25th 22:02</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-02-25T22:02:38+00:00'>Feb 25th 22:02</span></td>
+<td>
+
+🎉 closed [#100: build: switch to uv and drop python 3.8 support](https://github.com/catppuccin/python/pull/100)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T21:54:45+00:00'>Feb 25th 21:54</span></td>
+<td>
+
+🚢 pushed 1 commit to `build/uv`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T21:53:10+00:00'>Feb 25th 21:53</span></td>
+<td>
+
+🚀 opened [#100: build: switch to uv and drop python 3.8 support](https://github.com/catppuccin/python/pull/100)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-25T20:14:38+00:00'>Feb 25th 20:14</span></td>
 <td>
 
@@ -72,13 +183,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-23T11:46:03+00:00'>Feb 23rd 11:46</span></td>
 <td>
@@ -144,123 +248,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-02-23T11:41:11+00:00'>Feb 23rd 11:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/ansi-color-pairs`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:37:07+00:00'>Feb 23rd 11:37</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/ansi-color-pairs`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:28:45+00:00'>Feb 23rd 11:28</span></td>
-<td>
-
-🚀 opened [#45: fix: use correct colours in ansi colour pairs](https://github.com/catppuccin/rust/pull/45)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T20:37:24+00:00'>Feb 21st 20:37</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T20:37:23+00:00'>Feb 21st 20:37</span></td>
-<td>
-
-🎉 closed [#25: docs: add human interaction clause to CoC](https://github.com/catppuccin/.github/pull/25)
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T19:55:36+00:00'>Feb 21st 19:55</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/ansi`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T18:19:09+00:00'>Feb 21st 18:19</span></td>
-<td>
-
-🚢 pushed 7 commits to `feat/ansi`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T18:17:09+00:00'>Feb 21st 18:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-21T18:17:08+00:00'>Feb 21st 18:17</span></td>
-<td>
-
-🎉 closed [#56: fix(deps): update rust crate serde_json to v1.0.139](https://github.com/catppuccin/whiskers/pull/56)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -271,6 +258,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851d75eb6fcaabaf5e780ffc4db" width="48" height="48"> | [Tau-9](https://open.spotify.com/track/5czXndRJXV2rKkG99S6B8a) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half-Life 2](https://open.spotify.com/track/5czXndRJXV2rKkG99S6B8a) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d75eb6fcaabaf5e780ffc4db" width="48" height="48"> | [Negative Pressure](https://open.spotify.com/track/2s3AM28L84NPdj6NPOyhsF) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half-Life 2](https://open.spotify.com/track/2s3AM28L84NPdj6NPOyhsF) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d75eb6fcaabaf5e780ffc4db" width="48" height="48"> | [Escape Array](https://open.spotify.com/track/45qRdgtLu5QnEcYuYm8qGd) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half-Life 2](https://open.spotify.com/track/45qRdgtLu5QnEcYuYm8qGd) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d75eb6fcaabaf5e780ffc4db" width="48" height="48"> | [Dirac Shore](https://open.spotify.com/track/3p4msXtvuJ3WQlPcyCfgyQ) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half-Life 2](https://open.spotify.com/track/3p4msXtvuJ3WQlPcyCfgyQ) |
@@ -280,7 +268,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851d75eb6fcaabaf5e780ffc4db" width="48" height="48"> | [Black Mesa Inbound](https://open.spotify.com/track/28CySeSp3RGo7HQlmgXaNC) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half-Life 2](https://open.spotify.com/track/28CySeSp3RGo7HQlmgXaNC) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d75eb6fcaabaf5e780ffc4db" width="48" height="48"> | [Echoes of a Resonance Cascade](https://open.spotify.com/track/2XGSS595dFWkL95nNIcrgT) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half-Life 2](https://open.spotify.com/track/2XGSS595dFWkL95nNIcrgT) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d75eb6fcaabaf5e780ffc4db" width="48" height="48"> | [Zero Point Energy Field](https://open.spotify.com/track/3XzUMhz8mFUce6CpuNOtHf) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half-Life 2](https://open.spotify.com/track/3XzUMhz8mFUce6CpuNOtHf) |
-| <img src="https://i.scdn.co/image/ab67616d00004851d75eb6fcaabaf5e780ffc4db" width="48" height="48"> | [Neutrino Trap](https://open.spotify.com/track/2QmkDCGzwYTvSK55hX17eb) | [Valve](https://open.spotify.com/artist/16qqOddo0ydmympG5G2oPQ) | [Half-Life 2](https://open.spotify.com/track/2QmkDCGzwYTvSK55hX17eb) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
