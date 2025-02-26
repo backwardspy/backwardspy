@@ -8,6 +8,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-26T00:14:06+00:00'>Feb 26th 00:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-26T00:14:05+00:00'>Feb 26th 00:14</span></td>
+<td>
+
+🎉 closed [#104: chore(main): release 2.4.1](https://github.com/catppuccin/python/pull/104)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-26T00:13:55+00:00'>Feb 26th 00:13</span></td>
+<td>
+
+🔍 reviewed [#104: chore(main): release 2.4.1](https://github.com/catppuccin/python/pull/104)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T23:59:47+00:00'>Feb 25th 23:59</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T23:59:47+00:00'>Feb 25th 23:59</span></td>
+<td>
+
+🎉 closed [#87: chore(main): release 2.4.0](https://github.com/catppuccin/python/pull/87)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-02-25T23:59:15+00:00'>Feb 25th 23:59</span></td>
+<td>
+
+🔍 reviewed [#87: chore(main): release 2.4.0](https://github.com/catppuccin/python/pull/87)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T23:56:29+00:00'>Feb 25th 23:56</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T23:56:28+00:00'>Feb 25th 23:56</span></td>
+<td>
+
+🎉 closed [#102: chore: configure release-please properly](https://github.com/catppuccin/python/pull/102)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T22:42:47+00:00'>Feb 25th 22:42</span></td>
+<td>
+
+🚢 pushed 1 commit to `release-please/bootstrap/default`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T22:40:40+00:00'>Feb 25th 22:40</span></td>
+<td>
+
+🚀 opened [#102: chore: bootstrap releases for path: .](https://github.com/catppuccin/python/pull/102)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-25T22:40:39+00:00'>Feb 25th 22:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `release-please/bootstrap/default`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-25T22:30:07+00:00'>Feb 25th 22:30</span></td>
 <td>
 
@@ -72,13 +222,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-25T22:02:38+00:00'>Feb 25th 22:02</span></td>
 <td>
@@ -102,149 +245,6 @@
 <td>
 
 [catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T21:53:10+00:00'>Feb 25th 21:53</span></td>
-<td>
-
-🚀 opened [#100: build: switch to uv and drop python 3.8 support](https://github.com/catppuccin/python/pull/100)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T20:14:38+00:00'>Feb 25th 20:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-24T14:55:26+00:00'>Feb 24th 14:55</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[nyxkrage/argumentation](https://github.com/nyxkrage/argumentation)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:52:01+00:00'>Feb 23rd 11:52</span></td>
-<td>
-
-🚀 opened [#33: docs: fix swapped g/b parameters](https://github.com/catppuccin/java/pull/33)
-
-</td>
-<td>
-
-[catppuccin/java](https://github.com/catppuccin/java)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:48:30+00:00'>Feb 23rd 11:48</span></td>
-<td>
-
-💬 commented on [#75: fix(deps): update rust crate catppuccin to v2.5.1](https://github.com/catppuccin/whiskers/pull/75)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:48:29+00:00'>Feb 23rd 11:48</span></td>
-<td>
-
-🎉 closed [#75: fix(deps): update rust crate catppuccin to v2.5.1](https://github.com/catppuccin/whiskers/pull/75)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:46:03+00:00'>Feb 23rd 11:46</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/ansi`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:43:14+00:00'>Feb 23rd 11:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:43:13+00:00'>Feb 23rd 11:43</span></td>
-<td>
-
-🎉 closed [#46: chore: release v2.5.1](https://github.com/catppuccin/rust/pull/46)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:41:57+00:00'>Feb 23rd 11:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-23T11:41:57+00:00'>Feb 23rd 11:41</span></td>
-<td>
-
-🎉 closed [#45: fix: use correct colours in ansi colour pairs](https://github.com/catppuccin/rust/pull/45)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
