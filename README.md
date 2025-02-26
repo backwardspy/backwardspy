@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-25T20:14:38+00:00'>Feb 25th 20:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-24T14:55:26+00:00'>Feb 24th 14:55</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-23T11:46:03+00:00'>Feb 23rd 11:46</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-23T11:43:14+00:00'>Feb 23rd 11:43</span></td>
 <td>
