@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-28T22:41:22+00:00'>Feb 28th 22:41</span></td>
+<td>
+
+💬 commented on [#25: [Bug] When installing with Oh My Fish](https://github.com/catppuccin/fish/issues/25)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-28T20:55:21+00:00'>Feb 28th 20:55</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-26T00:13:55+00:00'>Feb 26th 00:13</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-25T23:59:47+00:00'>Feb 25th 23:59</span></td>
 <td>
@@ -227,19 +240,6 @@
 <td>
 
 🚀 opened [#101: chore: add release-please config](https://github.com/catppuccin/python/pull/101)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T22:02:39+00:00'>Feb 25th 22:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
