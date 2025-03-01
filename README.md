@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-02-28T20:55:21+00:00'>Feb 28th 20:55</span></td>
+<td>
+
+💬 commented on [#207: Transfer ownership of the `catppuccin` package to `@Catppuccin-Holdings`](https://github.com/luarocks/luarocks-site/issues/207)
+
+</td>
+<td>
+
+[luarocks/luarocks-site](https://github.com/luarocks/luarocks-site)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-02-28T20:31:17+00:00'>Feb 28th 20:31</span></td>
+<td>
+
+💬 commented on [#207: Transfer ownership of the `catppuccin` package to `@Catppuccin-Holdings`](https://github.com/luarocks/luarocks-site/issues/207)
+
+</td>
+<td>
+
+[luarocks/luarocks-site](https://github.com/luarocks/luarocks-site)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-26T00:14:06+00:00'>Feb 26th 00:14</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-25T23:59:47+00:00'>Feb 25th 23:59</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-25T23:59:15+00:00'>Feb 25th 23:59</span></td>
 <td>
@@ -214,32 +240,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T22:02:38+00:00'>Feb 25th 22:02</span></td>
-<td>
-
-🎉 closed [#100: build: switch to uv and drop python 3.8 support](https://github.com/catppuccin/python/pull/100)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T21:54:45+00:00'>Feb 25th 21:54</span></td>
-<td>
-
-🚢 pushed 1 commit to `build/uv`
 
 </td>
 <td>
