@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-01T12:57:13+00:00'>Mar 1st 12:57</span></td>
+<td>
+
+📢 opened [#76: expand the `accent` magic iterable to return full colour objects instead of just identifiers](https://github.com/catppuccin/whiskers/issues/76)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-02-28T22:41:22+00:00'>Feb 28th 22:41</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-02-26T00:14:05+00:00'>Feb 26th 00:14</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-26T00:13:55+00:00'>Feb 26th 00:13</span></td>
 <td>
