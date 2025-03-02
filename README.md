@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-02T10:49:14+00:00'>Mar 2nd 10:49</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-02T10:49:14+00:00'>Mar 2nd 10:49</span></td>
+<td>
+
+🎉 closed [#77: docs: fix minor discrepancy in example output](https://github.com/catppuccin/whiskers/pull/77)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-02T10:48:53+00:00'>Mar 2nd 10:48</span></td>
+<td>
+
+🚀 opened [#77: docs: fix minor discrepancy in example output](https://github.com/catppuccin/whiskers/pull/77)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-01T15:42:23+00:00'>Mar 1st 15:42</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-01T15:42:14+00:00'>Mar 1st 15:42</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-01T15:17:13+00:00'>Mar 1st 15:17</span></td>
 <td>
@@ -214,58 +253,6 @@
 <td>
 
 🔍 reviewed [#87: chore(main): release 2.4.0](https://github.com/catppuccin/python/pull/87)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T23:56:29+00:00'>Feb 25th 23:56</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T23:56:28+00:00'>Feb 25th 23:56</span></td>
-<td>
-
-🎉 closed [#102: chore: configure release-please properly](https://github.com/catppuccin/python/pull/102)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T22:42:47+00:00'>Feb 25th 22:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `release-please/bootstrap/default`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T22:40:40+00:00'>Feb 25th 22:40</span></td>
-<td>
-
-🚀 opened [#102: chore: bootstrap releases for path: .](https://github.com/catppuccin/python/pull/102)
 
 </td>
 <td>
