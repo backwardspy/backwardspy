@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-01T15:42:23+00:00'>Mar 1st 15:42</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-01T15:42:23+00:00'>Mar 1st 15:42</span></td>
+<td>
+
+🎉 closed [#26: docs: drop oh-my-fish installation instructions](https://github.com/catppuccin/fish/pull/26)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-01T15:42:14+00:00'>Mar 1st 15:42</span></td>
+<td>
+
+✅ closed [#25: [Bug] When installing with Oh My Fish](https://github.com/catppuccin/fish/issues/25)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-01T15:42:02+00:00'>Mar 1st 15:42</span></td>
+<td>
+
+🚀 opened [#26: docs: drop oh-my-fish installation instructions](https://github.com/catppuccin/fish/pull/26)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-01T15:38:24+00:00'>Mar 1st 15:38</span></td>
+<td>
+
+💬 commented on [#25: [Bug] When installing with Oh My Fish](https://github.com/catppuccin/fish/issues/25)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-03-01T15:17:13+00:00'>Mar 1st 15:17</span></td>
+<td>
+
+💬 commented on [#25: [Bug] When installing with Oh My Fish](https://github.com/catppuccin/fish/issues/25)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-01T12:57:13+00:00'>Mar 1st 12:57</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-02-26T00:14:05+00:00'>Feb 26th 00:14</span></td>
 <td>
@@ -188,71 +266,6 @@
 <td>
 
 🚀 opened [#102: chore: bootstrap releases for path: .](https://github.com/catppuccin/python/pull/102)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T22:40:39+00:00'>Feb 25th 22:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `release-please/bootstrap/default`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T22:30:07+00:00'>Feb 25th 22:30</span></td>
-<td>
-
-💬 commented on [#101: chore: add release-please config](https://github.com/catppuccin/python/pull/101)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T22:25:49+00:00'>Feb 25th 22:25</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T22:25:48+00:00'>Feb 25th 22:25</span></td>
-<td>
-
-🎉 closed [#101: chore: add release-please config](https://github.com/catppuccin/python/pull/101)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T22:23:22+00:00'>Feb 25th 22:23</span></td>
-<td>
-
-🚀 opened [#101: chore: add release-please config](https://github.com/catppuccin/python/pull/101)
 
 </td>
 <td>
