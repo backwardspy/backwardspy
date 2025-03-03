@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-03T12:54:30+00:00'>Mar 3rd 12:54</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T12:54:29+00:00'>Mar 3rd 12:54</span></td>
+<td>
+
+🎉 closed [#33: feat: remove bundled rcc.exe](https://github.com/catppuccin/qbittorrent/pull/33)
+
+</td>
+<td>
+
+[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T12:52:31+00:00'>Mar 3rd 12:52</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/use-external-rcc`
+
+</td>
+<td>
+
+[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T12:15:12+00:00'>Mar 3rd 12:15</span></td>
+<td>
+
+🚀 opened [#33: feat: remove bundled rcc.exe](https://github.com/catppuccin/qbittorrent/pull/33)
+
+</td>
+<td>
+
+[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-02T10:49:14+00:00'>Mar 2nd 10:49</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-02T10:49:14+00:00'>Mar 2nd 10:49</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-01T15:42:14+00:00'>Mar 1st 15:42</span></td>
 <td>
@@ -188,71 +240,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-26T00:14:05+00:00'>Feb 26th 00:14</span></td>
-<td>
-
-🎉 closed [#104: chore(main): release 2.4.1](https://github.com/catppuccin/python/pull/104)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-26T00:13:55+00:00'>Feb 26th 00:13</span></td>
-<td>
-
-🔍 reviewed [#104: chore(main): release 2.4.1](https://github.com/catppuccin/python/pull/104)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T23:59:47+00:00'>Feb 25th 23:59</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T23:59:47+00:00'>Feb 25th 23:59</span></td>
-<td>
-
-🎉 closed [#87: chore(main): release 2.4.0](https://github.com/catppuccin/python/pull/87)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-25T23:59:15+00:00'>Feb 25th 23:59</span></td>
-<td>
-
-🔍 reviewed [#87: chore(main): release 2.4.0](https://github.com/catppuccin/python/pull/87)
 
 </td>
 <td>
