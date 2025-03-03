@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-03T13:03:52+00:00'>Mar 3rd 13:03</span></td>
+<td>
+
+🚀 opened [#34: fix: set x bit on build script and enable "strict mode"](https://github.com/catppuccin/qbittorrent/pull/34)
+
+</td>
+<td>
+
+[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-03T12:54:30+00:00'>Mar 3rd 12:54</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-02T10:49:14+00:00'>Mar 2nd 10:49</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-02T10:49:14+00:00'>Mar 2nd 10:49</span></td>
 <td>
@@ -232,19 +245,6 @@
 <td>
 
 [luarocks/luarocks-site](https://github.com/luarocks/luarocks-site)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-26T00:14:06+00:00'>Feb 26th 00:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
