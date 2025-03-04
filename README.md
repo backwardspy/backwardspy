@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-03T21:22:08+00:00'>Mar 3rd 21:22</span></td>
+<td>
+
+🚀 opened [#105: ci: add palette sync workflow](https://github.com/catppuccin/python/pull/105)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T21:21:32+00:00'>Mar 3rd 21:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `ci/palette-sync`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T21:20:33+00:00'>Mar 3rd 21:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `ci/palette-sync`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-03T13:03:52+00:00'>Mar 3rd 13:03</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-03T12:54:29+00:00'>Mar 3rd 12:54</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-02T10:49:14+00:00'>Mar 2nd 10:49</span></td>
 <td>
@@ -193,58 +232,6 @@
 <td>
 
 [catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-01T12:57:13+00:00'>Mar 1st 12:57</span></td>
-<td>
-
-📢 opened [#76: expand the `accent` magic iterable to return full colour objects instead of just identifiers](https://github.com/catppuccin/whiskers/issues/76)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-28T22:41:22+00:00'>Feb 28th 22:41</span></td>
-<td>
-
-💬 commented on [#25: [Bug] When installing with Oh My Fish](https://github.com/catppuccin/fish/issues/25)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-28T20:55:21+00:00'>Feb 28th 20:55</span></td>
-<td>
-
-💬 commented on [#207: Transfer ownership of the `catppuccin` package to `@Catppuccin-Holdings`](https://github.com/luarocks/luarocks-site/issues/207)
-
-</td>
-<td>
-
-[luarocks/luarocks-site](https://github.com/luarocks/luarocks-site)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-02-28T20:31:17+00:00'>Feb 28th 20:31</span></td>
-<td>
-
-💬 commented on [#207: Transfer ownership of the `catppuccin` package to `@Catppuccin-Holdings`](https://github.com/luarocks/luarocks-site/issues/207)
-
-</td>
-<td>
-
-[luarocks/luarocks-site](https://github.com/luarocks/luarocks-site)
 
 </td>
 </tr>
