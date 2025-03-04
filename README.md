@@ -8,6 +8,104 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-03T22:43:49+00:00'>Mar 3rd 22:43</span></td>
+<td>
+
+🎉 closed [#107: feat: auto-sync upstream palettes](https://github.com/catppuccin/python/pull/107)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T22:43:50+00:00'>Mar 3rd 22:43</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T22:43:45+00:00'>Mar 3rd 22:43</span></td>
+<td>
+
+🔍 reviewed [#107: feat: auto-sync upstream palettes](https://github.com/catppuccin/python/pull/107)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T22:41:23+00:00'>Mar 3rd 22:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T22:36:41+00:00'>Mar 3rd 22:36</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-03-03T22:34:48+00:00'>Mar 3rd 22:34</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-03T22:34:47+00:00'>Mar 3rd 22:34</span></td>
+<td>
+
+🎉 closed [#105: ci: add palette sync workflow](https://github.com/catppuccin/python/pull/105)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-03T21:22:08+00:00'>Mar 3rd 21:22</span></td>
 <td>
 
@@ -72,13 +170,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-03T12:54:29+00:00'>Mar 3rd 12:54</span></td>
 <td>
@@ -154,84 +245,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-01T15:42:23+00:00'>Mar 1st 15:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-01T15:42:23+00:00'>Mar 1st 15:42</span></td>
-<td>
-
-🎉 closed [#26: docs: drop oh-my-fish installation instructions](https://github.com/catppuccin/fish/pull/26)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-01T15:42:14+00:00'>Mar 1st 15:42</span></td>
-<td>
-
-✅ closed [#25: [Bug] When installing with Oh My Fish](https://github.com/catppuccin/fish/issues/25)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-01T15:42:02+00:00'>Mar 1st 15:42</span></td>
-<td>
-
-🚀 opened [#26: docs: drop oh-my-fish installation instructions](https://github.com/catppuccin/fish/pull/26)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-01T15:38:24+00:00'>Mar 1st 15:38</span></td>
-<td>
-
-💬 commented on [#25: [Bug] When installing with Oh My Fish](https://github.com/catppuccin/fish/issues/25)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-01T15:17:13+00:00'>Mar 1st 15:17</span></td>
-<td>
-
-💬 commented on [#25: [Bug] When installing with Oh My Fish](https://github.com/catppuccin/fish/issues/25)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
 
 </td>
 </tr>
