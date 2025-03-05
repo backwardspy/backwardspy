@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-04T22:48:17+00:00'>Mar 4th 22:48</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[GarrettGunnell/Acerola-Compute](https://github.com/GarrettGunnell/Acerola-Compute)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-03T22:43:49+00:00'>Mar 3rd 22:43</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-03T22:36:41+00:00'>Mar 3rd 22:36</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-03T22:34:48+00:00'>Mar 3rd 22:34</span></td>
 <td>
@@ -227,19 +240,6 @@
 <td>
 
 🎉 closed [#77: docs: fix minor discrepancy in example output](https://github.com/catppuccin/whiskers/pull/77)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-02T10:48:53+00:00'>Mar 2nd 10:48</span></td>
-<td>
-
-🚀 opened [#77: docs: fix minor discrepancy in example output](https://github.com/catppuccin/whiskers/pull/77)
 
 </td>
 <td>
