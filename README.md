@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-09T20:51:07+00:00'>Mar 9th 20:51</span></td>
+<td>
+
+💬 commented on [#615: `fill` can overflow the call stack and crash the app](https://github.com/kitao/pyxel/issues/615)
+
+</td>
+<td>
+
+[kitao/pyxel](https://github.com/kitao/pyxel)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-09T20:51:06+00:00'>Mar 9th 20:51</span></td>
+<td>
+
+✅ closed [#615: `fill` can overflow the call stack and crash the app](https://github.com/kitao/pyxel/issues/615)
+
+</td>
+<td>
+
+[kitao/pyxel](https://github.com/kitao/pyxel)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-09T17:55:37+00:00'>Mar 9th 17:55</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-06T21:47:06+00:00'>Mar 6th 21:47</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-06T21:42:49+00:00'>Mar 6th 21:42</span></td>
 <td>
@@ -240,32 +266,6 @@
 <td>
 
 🚀 opened [#105: ci: add palette sync workflow](https://github.com/catppuccin/python/pull/105)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T21:21:32+00:00'>Mar 3rd 21:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `ci/palette-sync`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T21:20:33+00:00'>Mar 3rd 21:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `ci/palette-sync`
 
 </td>
 <td>
