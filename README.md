@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-09T17:55:37+00:00'>Mar 9th 17:55</span></td>
+<td>
+
+💬 commented on [#483: Confusing highlighted selection](https://github.com/catppuccin/vscode/issues/483)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-09T17:55:37+00:00'>Mar 9th 17:55</span></td>
+<td>
+
+✅ closed [#483: Confusing highlighted selection](https://github.com/catppuccin/vscode/issues/483)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-06T21:47:45+00:00'>Mar 6th 21:47</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-06T21:42:49+00:00'>Mar 6th 21:42</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-06T21:40:03+00:00'>Mar 6th 21:40</span></td>
 <td>
@@ -245,19 +271,6 @@
 <td>
 
 [catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T13:03:52+00:00'>Mar 3rd 13:03</span></td>
-<td>
-
-🚀 opened [#34: fix: set x bit on build script and enable "strict mode"](https://github.com/catppuccin/qbittorrent/pull/34)
-
-</td>
-<td>
-
-[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
 
 </td>
 </tr>
