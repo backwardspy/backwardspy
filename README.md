@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-09T22:10:51+00:00'>Mar 9th 22:10</span></td>
+<td>
+
+💬 commented on [#2706: nano](https://github.com/catppuccin/catppuccin/issues/2706)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-09T21:50:44+00:00'>Mar 9th 21:50</span></td>
+<td>
+
+💬 commented on [#2706: nano](https://github.com/catppuccin/catppuccin/issues/2706)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-09T20:51:07+00:00'>Mar 9th 20:51</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-09T17:55:37+00:00'>Mar 9th 17:55</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-06T21:47:06+00:00'>Mar 6th 21:47</span></td>
 <td>
@@ -240,32 +266,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T22:34:47+00:00'>Mar 3rd 22:34</span></td>
-<td>
-
-🎉 closed [#105: ci: add palette sync workflow](https://github.com/catppuccin/python/pull/105)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T21:22:08+00:00'>Mar 3rd 21:22</span></td>
-<td>
-
-🚀 opened [#105: ci: add palette sync workflow](https://github.com/catppuccin/python/pull/105)
 
 </td>
 <td>
