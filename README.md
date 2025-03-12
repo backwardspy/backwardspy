@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-11T17:29:55+00:00'>Mar 11th 17:29</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-09T22:10:51+00:00'>Mar 9th 22:10</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-09T17:55:37+00:00'>Mar 9th 17:55</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-09T17:55:37+00:00'>Mar 9th 17:55</span></td>
 <td>
@@ -250,19 +263,6 @@
 </tr>
 <tr>
 <td><span title='2025-03-03T22:36:41+00:00'>Mar 3rd 22:36</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T22:34:48+00:00'>Mar 3rd 22:34</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
