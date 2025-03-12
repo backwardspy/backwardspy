@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-12T19:43:13+00:00'>Mar 12th 19:43</span></td>
+<td>
+
+💬 commented on [#39: feat: add git diff syntax highlighting](https://github.com/catppuccin/notepad-plus-plus/pull/39)
+
+</td>
+<td>
+
+[catppuccin/notepad-plus-plus](https://github.com/catppuccin/notepad-plus-plus)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-12T19:34:20+00:00'>Mar 12th 19:34</span></td>
+<td>
+
+💬 commented on [#39: feat: add git diff syntax highlighting](https://github.com/catppuccin/notepad-plus-plus/pull/39)
+
+</td>
+<td>
+
+[catppuccin/notepad-plus-plus](https://github.com/catppuccin/notepad-plus-plus)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-11T21:21:01+00:00'>Mar 11th 21:21</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-09T21:50:44+00:00'>Mar 9th 21:50</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-09T20:51:06+00:00'>Mar 9th 20:51</span></td>
 <td>
@@ -253,32 +279,6 @@
 <td>
 
 🔍 reviewed [#107: feat: auto-sync upstream palettes](https://github.com/catppuccin/python/pull/107)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T22:41:23+00:00'>Mar 3rd 22:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T22:36:41+00:00'>Mar 3rd 22:36</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
