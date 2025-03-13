@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-12T23:38:16+00:00'>Mar 12th 23:38</span></td>
+<td>
+
+🚢 pushed 4 commits to `master`
+
+</td>
+<td>
+
+[backwardspy/shape-escape](https://github.com/backwardspy/shape-escape)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-12T19:43:13+00:00'>Mar 12th 19:43</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-09T22:10:51+00:00'>Mar 9th 22:10</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-09T21:50:44+00:00'>Mar 9th 21:50</span></td>
 <td>
@@ -266,19 +279,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T22:43:45+00:00'>Mar 3rd 22:43</span></td>
-<td>
-
-🔍 reviewed [#107: feat: auto-sync upstream palettes](https://github.com/catppuccin/python/pull/107)
 
 </td>
 <td>
