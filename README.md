@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-14T08:55:11+00:00'>Mar 14th 08:55</span></td>
+<td>
+
+💬 commented on [#2651: RFC: Use `rosewater` for macro color](https://github.com/catppuccin/catppuccin/issues/2651)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-13T21:20:48+00:00'>Mar 13th 21:20</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-12T19:34:20+00:00'>Mar 12th 19:34</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-11T21:21:01+00:00'>Mar 11th 21:21</span></td>
 <td>
@@ -271,19 +284,6 @@
 <td>
 
 [backwardspy/pyxel](https://github.com/backwardspy/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-04T22:48:17+00:00'>Mar 4th 22:48</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[GarrettGunnell/Acerola-Compute](https://github.com/GarrettGunnell/Acerola-Compute)
 
 </td>
 </tr>
