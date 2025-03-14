@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-13T21:20:48+00:00'>Mar 13th 21:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `docs/style-guide-updates`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-13T21:18:58+00:00'>Mar 13th 21:18</span></td>
+<td>
+
+🚀 opened [#2713: docs: add macro and diff colours to style guide](https://github.com/catppuccin/catppuccin/pull/2713)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-12T23:38:16+00:00'>Mar 12th 23:38</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-11T21:21:01+00:00'>Mar 11th 21:21</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-09T22:10:51+00:00'>Mar 9th 22:10</span></td>
 <td>
@@ -258,32 +284,6 @@
 <td>
 
 [GarrettGunnell/Acerola-Compute](https://github.com/GarrettGunnell/Acerola-Compute)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T22:43:49+00:00'>Mar 3rd 22:43</span></td>
-<td>
-
-🎉 closed [#107: feat: auto-sync upstream palettes](https://github.com/catppuccin/python/pull/107)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-03T22:43:50+00:00'>Mar 3rd 22:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
