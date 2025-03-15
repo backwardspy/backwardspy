@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-14T23:36:57+00:00'>Mar 14th 23:36</span></td>
+<td>
+
+🚢 pushed 1 commit to `docs/pdoc`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-14T23:32:44+00:00'>Mar 14th 23:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `docs/pdoc`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-14T23:31:10+00:00'>Mar 14th 23:31</span></td>
+<td>
+
+🚀 opened [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-14T12:50:47+00:00'>Mar 14th 12:50</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-14T08:55:11+00:00'>Mar 14th 08:55</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-12T23:38:16+00:00'>Mar 12th 23:38</span></td>
 <td>
@@ -245,58 +284,6 @@
 <td>
 
 [kitao/pyxel](https://github.com/kitao/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-06T21:46:25+00:00'>Mar 6th 21:46</span></td>
-<td>
-
-💬 commented on [#614: fix: stack overflow in `fill`](https://github.com/kitao/pyxel/pull/614)
-
-</td>
-<td>
-
-[kitao/pyxel](https://github.com/kitao/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-06T21:42:49+00:00'>Mar 6th 21:42</span></td>
-<td>
-
-🚀 opened [#614: Fix/fill stack overflow](https://github.com/kitao/pyxel/pull/614)
-
-</td>
-<td>
-
-[kitao/pyxel](https://github.com/kitao/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-06T21:42:00+00:00'>Mar 6th 21:42</span></td>
-<td>
-
-🚢 pushed 2 commits to `fix/fill-stack-overflow`
-
-</td>
-<td>
-
-[backwardspy/pyxel](https://github.com/backwardspy/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-06T21:40:03+00:00'>Mar 6th 21:40</span></td>
-<td>
-
-🚢 pushed 2 commits to `fix/fill-stack-overflow`
-
-</td>
-<td>
-
-[backwardspy/pyxel](https://github.com/backwardspy/pyxel)
 
 </td>
 </tr>
