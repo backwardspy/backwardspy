@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-14T12:50:47+00:00'>Mar 14th 12:50</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-14T12:50:46+00:00'>Mar 14th 12:50</span></td>
+<td>
+
+🎉 closed [#85: docs(README): remove migration notice](https://github.com/catppuccin/whiskers/pull/85)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-14T08:55:11+00:00'>Mar 14th 08:55</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-12T23:38:16+00:00'>Mar 12th 23:38</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-12T19:34:20+00:00'>Mar 12th 19:34</span></td>
 <td>
@@ -266,19 +292,6 @@
 <td>
 
 🚢 pushed 2 commits to `fix/fill-stack-overflow`
-
-</td>
-<td>
-
-[backwardspy/pyxel](https://github.com/backwardspy/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-06T21:36:01+00:00'>Mar 6th 21:36</span></td>
-<td>
-
-🚢 pushed 1 commit to `fix/fill-stack-overflow`
 
 </td>
 <td>
