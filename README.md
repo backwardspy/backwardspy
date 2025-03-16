@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-15T23:34:58+00:00'>Mar 15th 23:34</span></td>
+<td>
+
+💬 commented on [#2718: Windows Terminal](https://github.com/catppuccin/catppuccin/issues/2718)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-15T23:34:58+00:00'>Mar 15th 23:34</span></td>
+<td>
+
+✅ closed [#2718: Windows Terminal](https://github.com/catppuccin/catppuccin/issues/2718)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-15T14:11:39+00:00'>Mar 15th 14:11</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-14T23:31:10+00:00'>Mar 14th 23:31</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-14T12:50:46+00:00'>Mar 14th 12:50</span></td>
 <td>
@@ -245,32 +271,6 @@
 <td>
 
 [kitao/pyxel](https://github.com/kitao/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-09T17:55:37+00:00'>Mar 9th 17:55</span></td>
-<td>
-
-💬 commented on [#483: Confusing highlighted selection](https://github.com/catppuccin/vscode/issues/483)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-09T17:55:37+00:00'>Mar 9th 17:55</span></td>
-<td>
-
-✅ closed [#483: Confusing highlighted selection](https://github.com/catppuccin/vscode/issues/483)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
 
 </td>
 </tr>
