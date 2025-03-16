@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-15T14:11:39+00:00'>Mar 15th 14:11</span></td>
+<td>
+
+🔍 reviewed [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-14T23:36:57+00:00'>Mar 14th 23:36</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-14T12:50:46+00:00'>Mar 14th 12:50</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-14T08:55:11+00:00'>Mar 14th 08:55</span></td>
 <td>
@@ -258,32 +271,6 @@
 <td>
 
 [catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-06T21:47:45+00:00'>Mar 6th 21:47</span></td>
-<td>
-
-💬 commented on [#614: fix: stack overflow in `fill`](https://github.com/kitao/pyxel/pull/614)
-
-</td>
-<td>
-
-[kitao/pyxel](https://github.com/kitao/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-06T21:47:06+00:00'>Mar 6th 21:47</span></td>
-<td>
-
-📢 opened [#615: `fill` can overflow the call stack and crash the app](https://github.com/kitao/pyxel/issues/615)
-
-</td>
-<td>
-
-[kitao/pyxel](https://github.com/kitao/pyxel)
 
 </td>
 </tr>
