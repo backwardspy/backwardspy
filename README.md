@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-16T12:45:22+00:00'>Mar 16th 12:45</span></td>
+<td>
+
+✅ closed [#26: Notification](https://github.com/catppuccin/.github/issues/26)
+
+</td>
+<td>
+
+[catppuccin/.github](https://github.com/catppuccin/.github)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-15T23:34:58+00:00'>Mar 15th 23:34</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-14T23:32:44+00:00'>Mar 14th 23:32</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-14T23:31:10+00:00'>Mar 14th 23:31</span></td>
 <td>
