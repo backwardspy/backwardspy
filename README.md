@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-17T12:04:08+00:00'>Mar 17th 12:04</span></td>
+<td>
+
+💬 commented on [#5: Windows XP Classic Theme Support](https://github.com/catppuccin/windows9x/issues/5)
+
+</td>
+<td>
+
+[catppuccin/windows9x](https://github.com/catppuccin/windows9x)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T12:03:43+00:00'>Mar 17th 12:03</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/windows9x](https://github.com/catppuccin/windows9x)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-16T12:45:22+00:00'>Mar 16th 12:45</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-15T14:11:39+00:00'>Mar 15th 14:11</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-14T23:32:44+00:00'>Mar 14th 23:32</span></td>
 <td>
@@ -258,32 +284,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-09T20:51:07+00:00'>Mar 9th 20:51</span></td>
-<td>
-
-💬 commented on [#615: `fill` can overflow the call stack and crash the app](https://github.com/kitao/pyxel/issues/615)
-
-</td>
-<td>
-
-[kitao/pyxel](https://github.com/kitao/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-09T20:51:06+00:00'>Mar 9th 20:51</span></td>
-<td>
-
-✅ closed [#615: `fill` can overflow the call stack and crash the app](https://github.com/kitao/pyxel/issues/615)
-
-</td>
-<td>
-
-[kitao/pyxel](https://github.com/kitao/pyxel)
 
 </td>
 </tr>
