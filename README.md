@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-17T12:26:21+00:00'>Mar 17th 12:26</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dots](https://github.com/backwardspy/dots)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-17T12:04:08+00:00'>Mar 17th 12:04</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-15T23:34:58+00:00'>Mar 15th 23:34</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-15T14:11:39+00:00'>Mar 15th 14:11</span></td>
 <td>
@@ -263,19 +276,6 @@
 </tr>
 <tr>
 <td><span title='2025-03-09T22:10:51+00:00'>Mar 9th 22:10</span></td>
-<td>
-
-💬 commented on [#2706: nano](https://github.com/catppuccin/catppuccin/issues/2706)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-09T21:50:44+00:00'>Mar 9th 21:50</span></td>
 <td>
 
 💬 commented on [#2706: nano](https://github.com/catppuccin/catppuccin/issues/2706)
