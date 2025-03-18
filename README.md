@@ -8,6 +8,182 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-17T20:50:26+00:00'>Mar 17th 20:50</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:49:25+00:00'>Mar 17th 20:49</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:44:53+00:00'>Mar 17th 20:44</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:44:53+00:00'>Mar 17th 20:44</span></td>
+<td>
+
+🎉 closed [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:44:49+00:00'>Mar 17th 20:44</span></td>
+<td>
+
+💬 commented on [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-03-17T20:43:11+00:00'>Mar 17th 20:43</span></td>
+<td>
+
+🚀 opened [#123: docs(css): document jsdelivr as an option](https://github.com/catppuccin/palette/pull/123)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:40:21+00:00'>Mar 17th 20:40</span></td>
+<td>
+
+🔍 reviewed [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:40:04+00:00'>Mar 17th 20:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `docs/pdoc`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:28:50+00:00'>Mar 17th 20:28</span></td>
+<td>
+
+✅ closed [#4: convert templates to whiskers v2](https://github.com/catppuccin/qtcreator/issues/4)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:28:38+00:00'>Mar 17th 20:28</span></td>
+<td>
+
+💬 commented on [#6: Welcome page completely black](https://github.com/catppuccin/qtcreator/issues/6)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:27:51+00:00'>Mar 17th 20:27</span></td>
+<td>
+
+🎉 closed [#7: Port templates to whiskers 2.5.1, fix some missing color definitions.](https://github.com/catppuccin/qtcreator/pull/7)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:27:52+00:00'>Mar 17th 20:27</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-17T20:27:43+00:00'>Mar 17th 20:27</span></td>
+<td>
+
+💬 commented on [#7: Port templates to whiskers 2.5.1, fix some missing color definitions.](https://github.com/catppuccin/qtcreator/pull/7)
+
+</td>
+<td>
+
+[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-17T12:26:21+00:00'>Mar 17th 12:26</span></td>
 <td>
 
@@ -72,13 +248,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-15T23:34:58+00:00'>Mar 15th 23:34</span></td>
 <td>
@@ -115,175 +284,6 @@
 <td>
 
 [catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-14T23:32:44+00:00'>Mar 14th 23:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/pdoc`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-14T23:31:10+00:00'>Mar 14th 23:31</span></td>
-<td>
-
-🚀 opened [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-14T12:50:47+00:00'>Mar 14th 12:50</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-14T12:50:46+00:00'>Mar 14th 12:50</span></td>
-<td>
-
-🎉 closed [#85: docs(README): remove migration notice](https://github.com/catppuccin/whiskers/pull/85)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-14T08:55:11+00:00'>Mar 14th 08:55</span></td>
-<td>
-
-💬 commented on [#2651: RFC: Use `rosewater` for macro color](https://github.com/catppuccin/catppuccin/issues/2651)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-13T21:20:48+00:00'>Mar 13th 21:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/style-guide-updates`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-13T21:18:58+00:00'>Mar 13th 21:18</span></td>
-<td>
-
-🚀 opened [#2713: docs: add macro and diff colours to style guide](https://github.com/catppuccin/catppuccin/pull/2713)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-12T23:38:16+00:00'>Mar 12th 23:38</span></td>
-<td>
-
-🚢 pushed 4 commits to `master`
-
-</td>
-<td>
-
-[backwardspy/shape-escape](https://github.com/backwardspy/shape-escape)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-12T19:43:13+00:00'>Mar 12th 19:43</span></td>
-<td>
-
-💬 commented on [#39: feat: add git diff syntax highlighting](https://github.com/catppuccin/notepad-plus-plus/pull/39)
-
-</td>
-<td>
-
-[catppuccin/notepad-plus-plus](https://github.com/catppuccin/notepad-plus-plus)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-12T19:34:20+00:00'>Mar 12th 19:34</span></td>
-<td>
-
-💬 commented on [#39: feat: add git diff syntax highlighting](https://github.com/catppuccin/notepad-plus-plus/pull/39)
-
-</td>
-<td>
-
-[catppuccin/notepad-plus-plus](https://github.com/catppuccin/notepad-plus-plus)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-11T21:21:01+00:00'>Mar 11th 21:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-11T17:29:55+00:00'>Mar 11th 17:29</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-09T22:10:51+00:00'>Mar 9th 22:10</span></td>
-<td>
-
-💬 commented on [#2706: nano](https://github.com/catppuccin/catppuccin/issues/2706)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
