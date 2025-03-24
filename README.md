@@ -297,6 +297,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851208f8d2c454984e2a1397dc2" width="48" height="48"> | [Mipha's Theme](https://open.spotify.com/track/4n4Q2rvzra7qdPgkR4LZiN) | [Darren Ang](https://open.spotify.com/artist/7mP6pLp0xrXIeip5bSkaJ5) | [The Legend of Zelda: Breath of the Wild - Piano Tales](https://open.spotify.com/track/4n4Q2rvzra7qdPgkR4LZiN) |
 | <img src="https://i.scdn.co/image/ab67616d000048510d367a15b6d10f584ee8e9c4" width="48" height="48"> | [dreamy night](https://open.spotify.com/track/3NyxWuYU0s2GA6oZgDRQep) | [LilyPichu](https://open.spotify.com/artist/6maAVJxVTGW1xA3LokpQm8) | [dreamy night](https://open.spotify.com/track/3NyxWuYU0s2GA6oZgDRQep) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c8774ba267c39bdeda313bb4" width="48" height="48"> | [Once Upon a December (From "Anastasia")](https://open.spotify.com/track/1IhHfakRG9XzVumjHnLTrP) | [Moisés Nieto](https://open.spotify.com/artist/6i5jeqNyrzyfDwIiAfNdyF) | [Piano Fables, Vol. 4](https://open.spotify.com/track/1IhHfakRG9XzVumjHnLTrP) |
 | <img src="https://i.scdn.co/image/ab67616d000048512ebf422967424f8aeca4de1a" width="48" height="48"> | [Littleroot Town (From "Pokemon Ruby/Sapphire/Emerald")](https://open.spotify.com/track/2CRWG8hTIV0b5kSWMTVMU0) | [Michael Tai](https://open.spotify.com/artist/5NLlq8IzOUuqDYGPxoPkSC) | [Piano & Instrumental Works: Video Game Themes, Vol. III](https://open.spotify.com/track/2CRWG8hTIV0b5kSWMTVMU0) |
@@ -306,7 +307,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851c93574d45bbab45d04ab818a" width="48" height="48"> | [Dearly Beloved](https://open.spotify.com/track/6f5Ev8jCPGsRb745plqIvw) | [Black & White Knight](https://open.spotify.com/artist/1ht22gGZTPWjZ4aGGGDCKw) | [A Kingdom Hearts Retrospective](https://open.spotify.com/track/6f5Ev8jCPGsRb745plqIvw) |
 | <img src="https://i.scdn.co/image/ab67616d000048512ebf422967424f8aeca4de1a" width="48" height="48"> | [Littleroot Town (From "Pokemon Ruby/Sapphire/Emerald")](https://open.spotify.com/track/2CRWG8hTIV0b5kSWMTVMU0) | [Michael Tai](https://open.spotify.com/artist/5NLlq8IzOUuqDYGPxoPkSC) | [Piano & Instrumental Works: Video Game Themes, Vol. III](https://open.spotify.com/track/2CRWG8hTIV0b5kSWMTVMU0) |
 | <img src="https://i.scdn.co/image/ab67616d000048514bfcb1fc8466c83cc025c1a2" width="48" height="48"> | [Title Theme (Animal Crossing: New Leaf)](https://open.spotify.com/track/16bnS1w9ZfmL2f8mOmn1dM) | [daigoro789](https://open.spotify.com/artist/6dOnTTVTbQlFWF6yfD4Vw5) | ['Animal Crossing' Series: Music for Piano](https://open.spotify.com/track/16bnS1w9ZfmL2f8mOmn1dM) |
-| <img src="https://i.scdn.co/image/ab67616d00004851baada250536194504307ffd7" width="48" height="48"> | [MAYDAY](https://open.spotify.com/track/5xXB7wVgRmBHoMBmcfEE3C) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [MAYDAY](https://open.spotify.com/track/5xXB7wVgRmBHoMBmcfEE3C) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
