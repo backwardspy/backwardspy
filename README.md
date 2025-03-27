@@ -297,6 +297,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851e9300c66154ac0f1fd4e5aca" width="48" height="48"> | [a simple bunny girl](https://open.spotify.com/track/7jTgLeiWj82MJSCuocsX4v) | [biosphere](https://open.spotify.com/artist/6sa0lNcq7YdXNnQKZHFb0D) | [a simple bunny girl](https://open.spotify.com/track/7jTgLeiWj82MJSCuocsX4v) |
 | <img src="https://i.scdn.co/image/ab67616d000048518a129baedb4c323bd8e87647" width="48" height="48"> | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) |
 | <img src="https://i.scdn.co/image/ab67616d000048510ef144a465f66567e949fbc4" width="48" height="48"> | [lilypad](https://open.spotify.com/track/3D0RQKzuWj62IzJqC0l6y2) | [LilyPichu](https://open.spotify.com/artist/6maAVJxVTGW1xA3LokpQm8) | [lilypad](https://open.spotify.com/track/3D0RQKzuWj62IzJqC0l6y2) |
 | <img src="https://i.scdn.co/image/ab67616d000048514bc55a7796b849470d70f977" width="48" height="48"> | [bossa uh](https://open.spotify.com/track/03tIAGs2JdAAKBm4Ew43x7) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [ivy league](https://open.spotify.com/track/03tIAGs2JdAAKBm4Ew43x7) |
@@ -306,7 +307,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048510f8c0fdf86cf7c079347dea0" width="48" height="48"> | [We'll Meet Again](https://open.spotify.com/track/7nDkXyN86D6iszJdl0r8YB) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Unity - 10th Anniversary Compilation](https://open.spotify.com/track/7nDkXyN86D6iszJdl0r8YB) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d9909ff201252c173db10b05" width="48" height="48"> | [Great Fairy Fountain](https://open.spotify.com/track/7xIi1aak9rNMJ4hB9Ab6Si) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Great Fairy Fountain](https://open.spotify.com/track/7xIi1aak9rNMJ4hB9Ab6Si) |
 | <img src="https://i.scdn.co/image/ab67616d000048513203086ffed8d4e8470eb2dc" width="48" height="48"> | [1AM (From "Animal Crossing: New Leaf")](https://open.spotify.com/track/2duDyQa5BkHU2CCNed5dqA) | [Moisés Nieto](https://open.spotify.com/artist/6i5jeqNyrzyfDwIiAfNdyF) | [ANIMAL CROSSING: Piano Horizons](https://open.spotify.com/track/2duDyQa5BkHU2CCNed5dqA) |
-| <img src="https://i.scdn.co/image/ab67616d000048512499aa487466fa473f0eefe9" width="48" height="48"> | [Luma (From "Super Mario Galaxy") [Piano Version]](https://open.spotify.com/track/63Kl7faGbITZxkJGtO7MPT) | [Streaming Music Studios](https://open.spotify.com/artist/0Sh34YKKDol0XfSzsSY6ut) | [Super Mario Galaxy - A Piano Collection](https://open.spotify.com/track/63Kl7faGbITZxkJGtO7MPT) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
