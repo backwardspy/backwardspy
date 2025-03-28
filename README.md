@@ -8,6 +8,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-27T20:32:37+00:00'>Mar 27th 20:32</span></td>
+<td>
+
+🎉 closed [#495: fix(ui): use `mantle` for codeblock backgrounds](https://github.com/catppuccin/vscode/pull/495)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-27T20:32:38+00:00'>Mar 27th 20:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-27T20:31:52+00:00'>Mar 27th 20:31</span></td>
+<td>
+
+💬 commented on [#495: fix(ui): use `mantle` for codeblock backgrounds](https://github.com/catppuccin/vscode/pull/495)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-27T20:21:03+00:00'>Mar 27th 20:21</span></td>
+<td>
+
+💬 commented on [#500: refactor: fix extension debugging](https://github.com/catppuccin/vscode/pull/500)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-27T20:20:54+00:00'>Mar 27th 20:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-03-27T20:20:53+00:00'>Mar 27th 20:20</span></td>
+<td>
+
+🎉 closed [#500: refactor: fix extension debugging](https://github.com/catppuccin/vscode/pull/500)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-27T20:20:51+00:00'>Mar 27th 20:20</span></td>
+<td>
+
+💬 commented on [#500: refactor: fix extension debugging](https://github.com/catppuccin/vscode/pull/500)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-27T20:00:56+00:00'>Mar 27th 20:00</span></td>
+<td>
+
+🎉 closed [#501: fix(ui): increase diff contrast](https://github.com/catppuccin/vscode/pull/501)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-27T20:00:57+00:00'>Mar 27th 20:00</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-27T20:00:57+00:00'>Mar 27th 20:00</span></td>
+<td>
+
+✅ closed [#484: Git Diff Colors are too similar, relatively](https://github.com/catppuccin/vscode/issues/484)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-27T20:00:46+00:00'>Mar 27th 20:00</span></td>
+<td>
+
+🔍 reviewed [#501: fix(ui): increase diff contrast](https://github.com/catppuccin/vscode/pull/501)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-17T20:56:37+00:00'>Mar 17th 20:56</span></td>
 <td>
 
@@ -72,13 +222,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-17T20:44:49+00:00'>Mar 17th 20:44</span></td>
 <td>
@@ -107,175 +250,6 @@
 </tr>
 <tr>
 <td><span title='2025-03-17T20:40:21+00:00'>Mar 17th 20:40</span></td>
-<td>
-
-🔍 reviewed [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:40:04+00:00'>Mar 17th 20:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/pdoc`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:28:50+00:00'>Mar 17th 20:28</span></td>
-<td>
-
-✅ closed [#4: convert templates to whiskers v2](https://github.com/catppuccin/qtcreator/issues/4)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:28:38+00:00'>Mar 17th 20:28</span></td>
-<td>
-
-💬 commented on [#6: Welcome page completely black](https://github.com/catppuccin/qtcreator/issues/6)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:27:51+00:00'>Mar 17th 20:27</span></td>
-<td>
-
-🎉 closed [#7: Port templates to whiskers 2.5.1, fix some missing color definitions.](https://github.com/catppuccin/qtcreator/pull/7)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:27:52+00:00'>Mar 17th 20:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:27:43+00:00'>Mar 17th 20:27</span></td>
-<td>
-
-💬 commented on [#7: Port templates to whiskers 2.5.1, fix some missing color definitions.](https://github.com/catppuccin/qtcreator/pull/7)
-
-</td>
-<td>
-
-[catppuccin/qtcreator](https://github.com/catppuccin/qtcreator)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T12:26:21+00:00'>Mar 17th 12:26</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dots](https://github.com/backwardspy/dots)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T12:04:08+00:00'>Mar 17th 12:04</span></td>
-<td>
-
-💬 commented on [#5: Windows XP Classic Theme Support](https://github.com/catppuccin/windows9x/issues/5)
-
-</td>
-<td>
-
-[catppuccin/windows9x](https://github.com/catppuccin/windows9x)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T12:03:43+00:00'>Mar 17th 12:03</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/windows9x](https://github.com/catppuccin/windows9x)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-16T12:45:22+00:00'>Mar 16th 12:45</span></td>
-<td>
-
-✅ closed [#26: Notification](https://github.com/catppuccin/.github/issues/26)
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-15T23:34:58+00:00'>Mar 15th 23:34</span></td>
-<td>
-
-💬 commented on [#2718: Windows Terminal](https://github.com/catppuccin/catppuccin/issues/2718)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-15T23:34:58+00:00'>Mar 15th 23:34</span></td>
-<td>
-
-✅ closed [#2718: Windows Terminal](https://github.com/catppuccin/catppuccin/issues/2718)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-15T14:11:39+00:00'>Mar 15th 14:11</span></td>
 <td>
 
 🔍 reviewed [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
