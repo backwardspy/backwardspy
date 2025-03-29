@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-29T12:33:52+00:00'>Mar 29th 12:33</span></td>
+<td>
+
+🔍 reviewed [#511: docs(nix): update information to new apis](https://github.com/catppuccin/vscode/pull/511)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-28T20:17:09+00:00'>Mar 28th 20:17</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-27T20:31:52+00:00'>Mar 27th 20:31</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-27T20:21:03+00:00'>Mar 27th 20:21</span></td>
 <td>
