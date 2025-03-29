@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-28T20:17:09+00:00'>Mar 28th 20:17</span></td>
+<td>
+
+💬 commented on [#466: The comment and the ghost text have similar color](https://github.com/catppuccin/vscode/issues/466)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-03-28T20:17:08+00:00'>Mar 28th 20:17</span></td>
+<td>
+
+✅ closed [#466: The comment and the ghost text have similar color](https://github.com/catppuccin/vscode/issues/466)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-27T20:32:37+00:00'>Mar 27th 20:32</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-27T20:21:03+00:00'>Mar 27th 20:21</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-27T20:20:53+00:00'>Mar 27th 20:20</span></td>
 <td>
@@ -245,19 +271,6 @@
 <td>
 
 [catppuccin/palette](https://github.com/catppuccin/palette)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:40:21+00:00'>Mar 17th 20:40</span></td>
-<td>
-
-🔍 reviewed [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
