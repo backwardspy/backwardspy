@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-03-31T19:01:08+00:00'>Mar 31st 19:01</span></td>
+<td>
+
+🪄 created repository
+
+</td>
+<td>
+
+[backwardspy/rs](https://github.com/backwardspy/rs)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-03-29T12:33:52+00:00'>Mar 29th 12:33</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-03-27T20:32:38+00:00'>Mar 27th 20:32</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-27T20:31:52+00:00'>Mar 27th 20:31</span></td>
 <td>
@@ -258,32 +271,6 @@
 <td>
 
 [catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:44:49+00:00'>Mar 17th 20:44</span></td>
-<td>
-
-💬 commented on [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:43:11+00:00'>Mar 17th 20:43</span></td>
-<td>
-
-🚀 opened [#123: docs(css): document jsdelivr as an option](https://github.com/catppuccin/palette/pull/123)
-
-</td>
-<td>
-
-[catppuccin/palette](https://github.com/catppuccin/palette)
 
 </td>
 </tr>
