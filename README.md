@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-04-01T19:23:19+00:00'>Apr 1st 19:23</span></td>
+<td>
+
+💬 commented on [#1: Scrivener Updated to ".scrtheme" file extension for Scrivner v3.1.5.1 on Windows](https://github.com/catppuccin/scrivener/issues/1)
+
+</td>
+<td>
+
+[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-04-01T17:08:19+00:00'>Apr 1st 17:08</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-04-01T16:59:20+00:00'>Apr 1st 16:59</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-04-01T16:59:19+00:00'>Apr 1st 16:59</span></td>
 <td>
@@ -279,19 +292,6 @@
 <td>
 
 🎉 closed [#501: fix(ui): increase diff contrast](https://github.com/catppuccin/vscode/pull/501)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-27T20:00:57+00:00'>Mar 27th 20:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
