@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-04-01T17:08:19+00:00'>Apr 1st 17:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-04-01T17:08:18+00:00'>Apr 1st 17:08</span></td>
+<td>
+
+🎉 closed [#86: Added aur link](https://github.com/catppuccin/whiskers/pull/86)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-04-01T17:08:08+00:00'>Apr 1st 17:08</span></td>
+<td>
+
+💬 commented on [#86: Added aur link](https://github.com/catppuccin/whiskers/pull/86)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-04-01T17:07:54+00:00'>Apr 1st 17:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `patch-1`
+
+</td>
+<td>
+
+[wintervoid/whiskers](https://github.com/wintervoid/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-04-01T16:59:20+00:00'>Apr 1st 16:59</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-04-01T16:59:19+00:00'>Apr 1st 16:59</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-31T19:01:08+00:00'>Mar 31st 19:01</span></td>
 <td>
@@ -245,45 +297,6 @@
 <td>
 
 [catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-27T20:00:57+00:00'>Mar 27th 20:00</span></td>
-<td>
-
-✅ closed [#484: Git Diff Colors are too similar, relatively](https://github.com/catppuccin/vscode/issues/484)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-27T20:00:46+00:00'>Mar 27th 20:00</span></td>
-<td>
-
-🔍 reviewed [#501: fix(ui): increase diff contrast](https://github.com/catppuccin/vscode/pull/501)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:56:37+00:00'>Mar 17th 20:56</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
