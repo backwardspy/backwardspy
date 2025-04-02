@@ -8,6 +8,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-04-01T16:59:20+00:00'>Apr 1st 16:59</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-04-01T16:59:19+00:00'>Apr 1st 16:59</span></td>
+<td>
+
+🎉 closed [#88: chore: add `.direnv/` to gitignore](https://github.com/catppuccin/whiskers/pull/88)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-04-01T16:53:43+00:00'>Apr 1st 16:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-04-01T16:53:42+00:00'>Apr 1st 16:53</span></td>
+<td>
+
+🎉 closed [#87: docs: update editor support](https://github.com/catppuccin/whiskers/pull/87)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-04-01T16:53:39+00:00'>Apr 1st 16:53</span></td>
+<td>
+
+💬 commented on [#87: docs: update editor support](https://github.com/catppuccin/whiskers/pull/87)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2025-03-31T19:01:08+00:00'>Mar 31st 19:01</span></td>
 <td>
 
@@ -72,13 +144,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-03-27T20:32:38+00:00'>Mar 27th 20:32</span></td>
 <td>
@@ -214,58 +279,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:50:26+00:00'>Mar 17th 20:50</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:49:25+00:00'>Mar 17th 20:49</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:44:53+00:00'>Mar 17th 20:44</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-17T20:44:53+00:00'>Mar 17th 20:44</span></td>
-<td>
-
-🎉 closed [#108: docs: document package with pdoc](https://github.com/catppuccin/python/pull/108)
 
 </td>
 <td>
