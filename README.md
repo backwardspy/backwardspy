@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-04-16T19:41:09+00:00'>Apr 16th 19:41</span></td>
+<td>
+
+🔍 reviewed [#39: feat: detect different closed issue states](https://github.com/catppuccin/rockdove/pull/39)
+
+</td>
+<td>
+
+[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-04-03T17:35:37+00:00'>Apr 3rd 17:35</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-04-01T17:08:18+00:00'>Apr 1st 17:08</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-04-01T17:08:08+00:00'>Apr 1st 17:08</span></td>
 <td>
@@ -279,19 +292,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-27T20:20:53+00:00'>Mar 27th 20:20</span></td>
-<td>
-
-🎉 closed [#500: refactor: fix extension debugging](https://github.com/catppuccin/vscode/pull/500)
 
 </td>
 <td>
