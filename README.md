@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-04-19T21:35:33+00:00'>Apr 19th 21:35</span></td>
+<td>
+
+🪄 created repository
+
+</td>
+<td>
+
+[backwardspy/nix](https://github.com/backwardspy/nix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-04-16T19:41:09+00:00'>Apr 16th 19:41</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-04-01T17:08:19+00:00'>Apr 1st 17:08</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-04-01T17:08:18+00:00'>Apr 1st 17:08</span></td>
 <td>
@@ -279,19 +292,6 @@
 <td>
 
 💬 commented on [#500: refactor: fix extension debugging](https://github.com/catppuccin/vscode/pull/500)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-27T20:20:54+00:00'>Mar 27th 20:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
