@@ -310,6 +310,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851b436b55bf7277cb9f42e99e9" width="48" height="48"> | [Winter (from The Four Seasons)](https://open.spotify.com/track/6OHOYEMQfPKWZY4Uxxybnh) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR) | [A Calendar Of Classics - February](https://open.spotify.com/track/6OHOYEMQfPKWZY4Uxxybnh) |
 | <img src="https://i.scdn.co/image/ab67616d000048513a00fcf1c5c2ca43f971e2a3" width="48" height="48"> | [Emotional Pain](https://open.spotify.com/track/2iQd999HkXHv3gqbj5vSAC) | [Thumpasaurus](https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ) | [Thumpaverse](https://open.spotify.com/track/2iQd999HkXHv3gqbj5vSAC) |
 | <img src="https://i.scdn.co/image/ab67616d0000485174efdebd8ed8549d6a480128" width="48" height="48"> | [Doing the Things](https://open.spotify.com/track/1yBVQU0Az5LlDF5ZYehPap) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Doing the Things](https://open.spotify.com/track/1yBVQU0Az5LlDF5ZYehPap) |
 | <img src="https://i.scdn.co/image/ab67616d000048515ffd306ccaa257884edfdd99" width="48" height="48"> | [White Rabbit](https://open.spotify.com/track/7f1ZaX67foF2snj6Paix0L) | [Tame Your Fears](https://open.spotify.com/artist/29zlCx9ZrEnEKwqpJamDyJ) | [White Rabbit](https://open.spotify.com/track/7f1ZaX67foF2snj6Paix0L) |
@@ -319,7 +320,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851ef187887d2ddb4aaa346351b" width="48" height="48"> | [Die Classic](https://open.spotify.com/track/1hoeH2WEypMiZqrXA7A1kG) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Die Classic](https://open.spotify.com/track/1hoeH2WEypMiZqrXA7A1kG) |
 | <img src="https://i.scdn.co/image/ab67616d0000485104f0e49e48dccca00938f641" width="48" height="48"> | [81 Special](https://open.spotify.com/track/68YvYiHqt6mpjvdWpgabFZ) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Gangbusters Melody Club](https://open.spotify.com/track/68YvYiHqt6mpjvdWpgabFZ) |
 | <img src="https://i.scdn.co/image/ab67616d00004851b8a033acf62fa19093254ea3" width="48" height="48"> | [Here We Go Jack](https://open.spotify.com/track/56nVH2zlBsjQxCbd14s9dA) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Here We Go Jack](https://open.spotify.com/track/56nVH2zlBsjQxCbd14s9dA) |
-| <img src="https://i.scdn.co/image/ab67616d000048513a00d0b13319808884c0c92b" width="48" height="48"> | [Money and Me - Unreleased](https://open.spotify.com/track/0vwAuqOeO3ypcDI8NvMGM1) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Forever Never Cares (Deluxe Edition)](https://open.spotify.com/track/0vwAuqOeO3ypcDI8NvMGM1) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
