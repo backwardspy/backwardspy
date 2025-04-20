@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-04-20T13:34:15+00:00'>Apr 20th 13:34</span></td>
+<td>
+
+🪄 created repository
+
+</td>
+<td>
+
+[backwardspy/araneo](https://github.com/backwardspy/araneo)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-04-19T21:35:33+00:00'>Apr 19th 21:35</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-04-01T19:23:19+00:00'>Apr 1st 19:23</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-04-01T17:08:19+00:00'>Apr 1st 17:08</span></td>
 <td>
@@ -287,19 +300,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-03-27T20:21:03+00:00'>Mar 27th 20:21</span></td>
-<td>
-
-💬 commented on [#500: refactor: fix extension debugging](https://github.com/catppuccin/vscode/pull/500)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -310,16 +310,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048510280cb714a47bcacf6433d67" width="48" height="48"> | [Get Down Tonight](https://open.spotify.com/track/0NYsD6fsdx5uoghZwnaLkX) | [Starwolf](https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV) | [Tropical Disco](https://open.spotify.com/track/0NYsD6fsdx5uoghZwnaLkX) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a42b5d83695f35ab34c1d76b" width="48" height="48"> | [P Town](https://open.spotify.com/track/5igBdY8IPLxijdBURst8kt) | [Thundersmack](https://open.spotify.com/artist/1sFuaHWt29kquc8Apiglfb) | [Times Square](https://open.spotify.com/track/5igBdY8IPLxijdBURst8kt) |
+| <img src="https://i.scdn.co/image/ab67616d0000485175ec94a2ba103a21ad569521" width="48" height="48"> | [Get on](https://open.spotify.com/track/0ggzk2mcTgDsr91qv0QeU0) | [Tame Your Fears](https://open.spotify.com/artist/29zlCx9ZrEnEKwqpJamDyJ) | [Get on](https://open.spotify.com/track/0ggzk2mcTgDsr91qv0QeU0) |
+| <img src="https://i.scdn.co/image/ab67616d00004851ddf0b25f677d63c53615f7e4" width="48" height="48"> | [Far Away](https://open.spotify.com/track/4N3emgKRHiDmH3WZbr73IS) | [Telula](https://open.spotify.com/artist/1EoYANOJzjAhHD0ChMfn0G) | [Telula](https://open.spotify.com/track/4N3emgKRHiDmH3WZbr73IS) |
+| <img src="https://i.scdn.co/image/ab67616d00004851704735cc8802a1005c537042" width="48" height="48"> | [Disco Snails](https://open.spotify.com/track/0yin14PPCxLBorpVqlON8V) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Zachary Barker](https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c) | [Dot](https://open.spotify.com/track/0yin14PPCxLBorpVqlON8V) |
+| <img src="https://i.scdn.co/image/ab67616d00004851704735cc8802a1005c537042" width="48" height="48"> | [Disco Snails](https://open.spotify.com/track/0yin14PPCxLBorpVqlON8V) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Zachary Barker](https://open.spotify.com/artist/5qUT1yYC5tJiz928OCYG1c) | [Dot](https://open.spotify.com/track/0yin14PPCxLBorpVqlON8V) |
 | <img src="https://i.scdn.co/image/ab67616d000048510a984d7ea9ecf7738cf1d530" width="48" height="48"> | [House Party](https://open.spotify.com/track/6dNpXYhDwtLfJdUXhqA9rX) | [Thundersmack](https://open.spotify.com/artist/1sFuaHWt29kquc8Apiglfb) | [House Party](https://open.spotify.com/track/6dNpXYhDwtLfJdUXhqA9rX) |
 | <img src="https://i.scdn.co/image/ab67616d00004851bd981117c0a1ea3332369ebb" width="48" height="48"> | [Side Quest](https://open.spotify.com/track/4fYb4xCVcHw8M1WznJAp3s) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Planet Pearl](https://open.spotify.com/track/4fYb4xCVcHw8M1WznJAp3s) |
 | <img src="https://i.scdn.co/image/ab67616d000048511e9d78bac4a488dd9629afa9" width="48" height="48"> | [I WANT YOU](https://open.spotify.com/track/5Da1hdY00sOCnRQ5jxsJUQ) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [The Interstellar Tennis Championship Vol. II](https://open.spotify.com/track/5Da1hdY00sOCnRQ5jxsJUQ) |
 | <img src="https://i.scdn.co/image/ab67616d00004851de5b7a791e7bb9e195723ff9" width="48" height="48"> | [I Can’t Party](https://open.spotify.com/track/2om87zUjvUhR1unHdqLo1Z) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Vulfnik](https://open.spotify.com/track/2om87zUjvUhR1unHdqLo1Z) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a41dfd7aa0fb93cfb3b896a9" width="48" height="48"> | [New Beastly](https://open.spotify.com/track/1yQNHzLx4VFofmUNHT3FHa) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Clarity of Cal](https://open.spotify.com/track/1yQNHzLx4VFofmUNHT3FHa) |
-| <img src="https://i.scdn.co/image/ab67616d000048516541feeaf801397c29a59c96" width="48" height="48"> | [Rattlesnake](https://open.spotify.com/track/07QW84jXLxsyWAhNV8jQdi) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Year Of The Banana](https://open.spotify.com/track/07QW84jXLxsyWAhNV8jQdi) |
-| <img src="https://i.scdn.co/image/ab67616d0000485115d15ea19fd5021813f8527f" width="48" height="48"> | [3 3 3](https://open.spotify.com/track/6zXPPWEn95pr4ZeUH4znBt) | [Telula](https://open.spotify.com/artist/1EoYANOJzjAhHD0ChMfn0G) | [3 3 3](https://open.spotify.com/track/6zXPPWEn95pr4ZeUH4znBt) |
-| <img src="https://i.scdn.co/image/ab67616d000048510b1358155b176fe8d5da9c3b" width="48" height="48"> | [Chips & Dip](https://open.spotify.com/track/3okxqv9YQyTdmYMaVkVCYO) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [SAM GREENFIELD SUCKS](https://open.spotify.com/track/3okxqv9YQyTdmYMaVkVCYO) |
-| <img src="https://i.scdn.co/image/ab67616d00004851704735cc8802a1005c537042" width="48" height="48"> | [Letting Things Go](https://open.spotify.com/track/4JlDJCUzDQqxfpc0fTaem3) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW), [Evangeline](https://open.spotify.com/artist/1gxczmVzWKNJLz61uI27zJ) | [Dot](https://open.spotify.com/track/4JlDJCUzDQqxfpc0fTaem3) |
-| <img src="https://i.scdn.co/image/ab67616d000048510280cb714a47bcacf6433d67" width="48" height="48"> | [Tropical Disco](https://open.spotify.com/track/0f2GmiCT9BfG5ai6OfUzyx) | [Starwolf](https://open.spotify.com/artist/3Ls05mIE3GrqAuTqjdWDGV), [Marcello Cassanelli](https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm) | [Tropical Disco](https://open.spotify.com/track/0f2GmiCT9BfG5ai6OfUzyx) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
