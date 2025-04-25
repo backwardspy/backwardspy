@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-04-25T10:28:38+00:00'>Apr 25th 10:28</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/nix](https://github.com/backwardspy/nix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-04-20T19:24:38+00:00'>Apr 20th 19:24</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-04-03T17:35:37+00:00'>Apr 3rd 17:35</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-04-03T17:35:36+00:00'>Apr 3rd 17:35</span></td>
 <td>
@@ -279,19 +292,6 @@
 <td>
 
 🎉 closed [#495: fix(ui): use `mantle` for codeblock backgrounds](https://github.com/catppuccin/vscode/pull/495)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-27T20:32:38+00:00'>Mar 27th 20:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
