@@ -287,19 +287,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-03-27T20:32:37+00:00'>Mar 27th 20:32</span></td>
-<td>
-
-🎉 closed [#495: fix(ui): use `mantle` for codeblock backgrounds](https://github.com/catppuccin/vscode/pull/495)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
