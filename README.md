@@ -261,32 +261,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-03-28T20:17:09+00:00'>Mar 28th 20:17</span></td>
-<td>
-
-💬 commented on [#466: The comment and the ghost text have similar color](https://github.com/catppuccin/vscode/issues/466)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-03-28T20:17:08+00:00'>Mar 28th 20:17</span></td>
-<td>
-
-✅ closed [#466: The comment and the ghost text have similar color](https://github.com/catppuccin/vscode/issues/466)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
