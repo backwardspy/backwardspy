@@ -248,19 +248,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-03-29T12:33:52+00:00'>Mar 29th 12:33</span></td>
-<td>
-
-🔍 reviewed [#511: docs(nix): update information to new apis](https://github.com/catppuccin/vscode/pull/511)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
