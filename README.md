@@ -235,19 +235,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-03-31T19:01:08+00:00'>Mar 31st 19:01</span></td>
-<td>
-
-🪄 created repository
-
-</td>
-<td>
-
-[backwardspy/rs](https://github.com/backwardspy/rs)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
