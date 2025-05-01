@@ -170,19 +170,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-04-01T19:23:19+00:00'>Apr 1st 19:23</span></td>
-<td>
-
-💬 commented on [#1: Scrivener Updated to ".scrtheme" file extension for Scrivner v3.1.5.1 on Windows](https://github.com/catppuccin/scrivener/issues/1)
-
-</td>
-<td>
-
-[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
