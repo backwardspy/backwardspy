@@ -170,32 +170,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-04-03T17:35:37+00:00'>Apr 3rd 17:35</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-04-03T17:35:36+00:00'>Apr 3rd 17:35</span></td>
-<td>
-
-🎉 closed [#71: fix: use `lavender` for secondary cursor in visual mode](https://github.com/catppuccin/helix/pull/71)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
