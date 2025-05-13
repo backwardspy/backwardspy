@@ -284,6 +284,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851115509c274cc6035bf56412b" width="48" height="48"> | [Mindgame](https://open.spotify.com/track/1CRH3479Szzv8OnV9lnFpc) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [The Unwavering Hand](https://open.spotify.com/track/1CRH3479Szzv8OnV9lnFpc) |
 | <img src="https://i.scdn.co/image/ab67616d0000485112a821c351fd7c5d66b93a9f" width="48" height="48"> | [Prelude In D Minor, BWV 926 : Prelude In D Minor, BWV 926](https://open.spotify.com/track/5ZUachQ574VccyTQL2MXRR) | [Janos Sebestyen](https://open.spotify.com/artist/3XqsvVsJuMXQsfVwpYZLFZ), [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) | [J. S. Bach: Italian Concerto / Chromatic Fantasia And Fugue / 12 Little Preludes](https://open.spotify.com/track/5ZUachQ574VccyTQL2MXRR) |
 | <img src="https://i.scdn.co/image/ab67616d00004851b436b55bf7277cb9f42e99e9" width="48" height="48"> | [Winter (from The Four Seasons)](https://open.spotify.com/track/6OHOYEMQfPKWZY4Uxxybnh) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR) | [A Calendar Of Classics - February](https://open.spotify.com/track/6OHOYEMQfPKWZY4Uxxybnh) |
 | <img src="https://i.scdn.co/image/ab67616d000048513a00fcf1c5c2ca43f971e2a3" width="48" height="48"> | [Emotional Pain](https://open.spotify.com/track/2iQd999HkXHv3gqbj5vSAC) | [Thumpasaurus](https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ) | [Thumpaverse](https://open.spotify.com/track/2iQd999HkXHv3gqbj5vSAC) |
@@ -293,7 +294,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485172c9f3f32a2d8813153e3b1b" width="48" height="48"> | [Ghostin' All My Friends](https://open.spotify.com/track/00bgCHOS8runWEzaDMPRDf) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [SAM GREENFIELD RULES](https://open.spotify.com/track/00bgCHOS8runWEzaDMPRDf) |
 | <img src="https://i.scdn.co/image/ab67616d0000485112dd7dcec66b6d230a719a5e" width="48" height="48"> | [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ef187887d2ddb4aaa346351b" width="48" height="48"> | [Die Classic](https://open.spotify.com/track/1hoeH2WEypMiZqrXA7A1kG) | [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [Die Classic](https://open.spotify.com/track/1hoeH2WEypMiZqrXA7A1kG) |
-| <img src="https://i.scdn.co/image/ab67616d0000485104f0e49e48dccca00938f641" width="48" height="48"> | [81 Special](https://open.spotify.com/track/68YvYiHqt6mpjvdWpgabFZ) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Gangbusters Melody Club](https://open.spotify.com/track/68YvYiHqt6mpjvdWpgabFZ) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
