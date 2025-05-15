@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-05-15T08:26:56+00:00'>May 15th 08:26</span></td>
+<td>
+
+📢 opened [#8: licensing](https://github.com/ewdurbin/dynamoclasses/issues/8)
+
+</td>
+<td>
+
+[ewdurbin/dynamoclasses](https://github.com/ewdurbin/dynamoclasses)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-05-13T19:27:59+00:00'>May 13th 19:27</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-05-11T16:41:35+00:00'>May 11th 16:41</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-05-11T16:18:02+00:00'>May 11th 16:18</span></td>
 <td>
