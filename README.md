@@ -287,19 +287,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-04-16T19:41:09+00:00'>Apr 16th 19:41</span></td>
-<td>
-
-🔍 reviewed [#39: feat: detect different closed issue states](https://github.com/catppuccin/rockdove/pull/39)
-
-</td>
-<td>
-
-[catppuccin/rockdove](https://github.com/catppuccin/rockdove)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
