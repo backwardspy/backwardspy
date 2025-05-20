@@ -287,19 +287,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-04-19T21:35:33+00:00'>Apr 19th 21:35</span></td>
-<td>
-
-🪄 created repository
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
