@@ -271,6 +271,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485124889965c2b453cbd439a7f6" width="48" height="48"> | [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Nothing Personal (Deluxe Version)](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cab7ae4868e9f9ce6bdfdf43" width="48" height="48"> | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) |
 | <img src="https://i.scdn.co/image/ab67616d000048519a482180e6a306229bff49dc" width="48" height="48"> | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) |
 | <img src="https://i.scdn.co/image/ab67616d0000485171565eda831124be86c603d5" width="48" height="48"> | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) |
@@ -280,7 +281,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048516fbf4bb780a9cbc34b3f35da" width="48" height="48"> | [Na Na Na (Na Na Na Na Na Na Na Na Na)](https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely) |
 | <img src="https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4" width="48" height="48"> | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) |
 | <img src="https://i.scdn.co/image/ab67616d00004851c8913cd7b91bb7f6bbbec305" width="48" height="48"> | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) |
-| <img src="https://i.scdn.co/image/ab67616d0000485128b45bfdfd877c8040de8f36" width="48" height="48"> | [Check Yes Juliet](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
