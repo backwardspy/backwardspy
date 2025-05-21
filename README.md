@@ -261,19 +261,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-04-20T19:24:38+00:00'>Apr 20th 19:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
