@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-05-29T20:50:44+00:00'>May 29th 20:50</span></td>
+<td>
+
+💬 commented on [#540: Rename repo to tmux-catppuccin for better TPM compatability](https://github.com/catppuccin/tmux/issues/540)
+
+</td>
+<td>
+
+[catppuccin/tmux](https://github.com/catppuccin/tmux)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-05-27T21:50:47+00:00'>May 27th 21:50</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-05-24T09:26:00+00:00'>May 24th 09:26</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-05-23T21:39:39+00:00'>May 23rd 21:39</span></td>
 <td>
@@ -315,19 +328,6 @@
 </tr>
 <tr>
 <td><span title='2025-05-01T14:26:02+00:00'>May 1st 14:26</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-05-01T09:16:26+00:00'>May 1st 09:16</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
