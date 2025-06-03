@@ -271,6 +271,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851186660bbf3b0dd9a5195e182" width="48" height="48"> | [jump](https://open.spotify.com/track/2NbTcTv3m8t7wAGUvPhhp0) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [fever](https://open.spotify.com/track/2NbTcTv3m8t7wAGUvPhhp0) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d0c4b14b57f31b349fe36d1c" width="48" height="48"> | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) |
 | <img src="https://i.scdn.co/image/ab67616d000048511107b18eac8c7824908069cd" width="48" height="48"> | [Give It All](https://open.spotify.com/track/5O6SumCYk8Ug81UbfXAPJC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter-Culture](https://open.spotify.com/track/5O6SumCYk8Ug81UbfXAPJC) |
 | <img src="https://i.scdn.co/image/ab67616d00004851af71e889d130283bcd08b8a7" width="48" height="48"> | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) |
@@ -280,7 +281,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048514e4c1b9ccbdc7e62b573073c" width="48" height="48"> | [A Little Faster](https://open.spotify.com/track/0YwqJeTUyviMJw70jRt9ET) | [There For Tomorrow](https://open.spotify.com/artist/0lYXa6aa87Tz8Jzv1nW4HM) | [A Little Faster](https://open.spotify.com/track/0YwqJeTUyviMJw70jRt9ET) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f206fb78ea18c379191dba77" width="48" height="48"> | [War](https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy) |
 | <img src="https://i.scdn.co/image/ab67616d00004851865b538169f199dac610b854" width="48" height="48"> | [Attack](https://open.spotify.com/track/0lHSJ0ZP8uUPnJXhMdGjOK) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/track/0lHSJ0ZP8uUPnJXhMdGjOK) |
-| <img src="https://i.scdn.co/image/ab67616d00004851cb7523307aac3e10b66bef40" width="48" height="48"> | [Paralyzed](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Gravity](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
