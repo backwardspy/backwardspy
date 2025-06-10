@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-06-10T11:47:32+00:00'>Jun 10th 11:47</span></td>
+<td>
+
+💬 commented on [#552: Request to Join Organization](https://github.com/catppuccin/vscode/issues/552)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-06-10T11:47:32+00:00'>Jun 10th 11:47</span></td>
+<td>
+
+✅ closed [#552: Request to Join Organization](https://github.com/catppuccin/vscode/issues/552)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-05-29T20:50:44+00:00'>May 29th 20:50</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-05-24T09:26:23+00:00'>May 24th 09:26</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-05-24T09:26:00+00:00'>May 24th 09:26</span></td>
 <td>
@@ -271,16 +297,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851cab7ae4868e9f9ce6bdfdf43" width="48" height="48"> | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) |
+| <img src="https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4" width="48" height="48"> | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way (Deluxe Edition)](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
+| <img src="https://i.scdn.co/image/ab67616d000048513303a842ee1bc0b23204333d" width="48" height="48"> | [Hysteria](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) |
+| <img src="https://i.scdn.co/image/ab67616d0000485192c508bc5a40ea588bcaed38" width="48" height="48"> | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) |
+| <img src="https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6" width="48" height="48"> | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
+| <img src="https://i.scdn.co/image/ab67616d000048512d4c593f0f35672767d881a9" width="48" height="48"> | [Want You Bad](https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7) |
+| <img src="https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b" width="48" height="48"> | [Whatsername](https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3) |
 | <img src="https://i.scdn.co/image/ab67616d00004851822ef612862fb2ac73ade61f" width="48" height="48"> | [Shifting Nature](https://open.spotify.com/track/2A38M8EJAxmFZNpcGowqs0) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Ourdom](https://open.spotify.com/track/2A38M8EJAxmFZNpcGowqs0) |
 | <img src="https://i.scdn.co/image/ab67616d00004851449d4048f5ee299a444814ea" width="48" height="48"> | [Impossible Worlds](https://open.spotify.com/track/2pjxenZVHSGc9htsssy1tX) | [Todd Baker](https://open.spotify.com/artist/2RfwvVMJyYSZNtzYu67LL4) | [Monument Valley 2 (Original Game Soundtrack)](https://open.spotify.com/track/2pjxenZVHSGc9htsssy1tX) |
 | <img src="https://i.scdn.co/image/ab67616d000048511fc3d84cfe70bf4256e52c4d" width="48" height="48"> | [Cider Time](https://open.spotify.com/track/1ILDIyElWwVQE7071MhVyy) | [Lifeformed](https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV) | [Fastfall (Dustforce Original Game Soundtrack)](https://open.spotify.com/track/1ILDIyElWwVQE7071MhVyy) |
-| <img src="https://i.scdn.co/image/ab67616d0000485138aac529b900cb07a4553591" width="48" height="48"> | [Comet Halley](https://open.spotify.com/track/6Bk7wGEuzD2eSXJfrSwGDJ) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [Light Years](https://open.spotify.com/track/6Bk7wGEuzD2eSXJfrSwGDJ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851ad0677f76f220c118226fd46" width="48" height="48"> | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper](https://open.spotify.com/track/4MzII8fszi8KkFl1ryv07L) |
-| <img src="https://i.scdn.co/image/ab67616d0000485184ffaa884f1344f916f87299" width="48" height="48"> | [Introduction](https://open.spotify.com/track/2QBw72MiksITj0490637BN) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Mirror's Edge (Original Videogame Score)](https://open.spotify.com/track/2QBw72MiksITj0490637BN) |
-| <img src="https://i.scdn.co/image/ab67616d00004851db523e4f2d70650b1d7fa4f0" width="48" height="48"> | [Fallen from the Sky](https://open.spotify.com/track/72dYBxifwRVYEksf1B6jra) | [Julian Kruse](https://open.spotify.com/artist/19FmVQUAkGqclbaRTPDWIK) | [Fallen from the Sky](https://open.spotify.com/track/72dYBxifwRVYEksf1B6jra) |
-| <img src="https://i.scdn.co/image/ab67616d000048518d84a43c400df7c03ce17eaf" width="48" height="48"> | [End of the Road](https://open.spotify.com/track/5X0us7XGi4eJ0h8ztTYGuL) | [Robert Lundgren](https://open.spotify.com/artist/1KKl1q3WZgEIIjSMyOAZUo), [Funcom Soundtrack](https://open.spotify.com/artist/6GtwRXl1lE8qtM6DjIiT96) | [Mutant Year Zero (Original Soundtrack)](https://open.spotify.com/track/5X0us7XGi4eJ0h8ztTYGuL) |
-| <img src="https://i.scdn.co/image/ab67616d00004851c3d913d43f276ece4e97bddc" width="48" height="48"> | [Glass (Inspired by Mirror's Edge: Catalyst) [LinkingHearts Remix]](https://open.spotify.com/track/5gcBO13QsuKro75vUkrCt4) | [LinkingHearts](https://open.spotify.com/artist/69JI4UxwlMCDaDetq9EkVh), [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Glass (Inspired by Mirror's Edge: Catalyst) [LinkingHearts Remix]](https://open.spotify.com/track/5gcBO13QsuKro75vUkrCt4) |
-| <img src="https://i.scdn.co/image/ab67616d0000485177ee9e2be5e1ba80106cfe53" width="48" height="48"> | [Catalyst](https://open.spotify.com/track/0l8bSoBGZqcoKv5INJxCCy) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Mirror's Edge Catalyst (EA Games Soundtrack)](https://open.spotify.com/track/0l8bSoBGZqcoKv5INJxCCy) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
