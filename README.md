@@ -219,6 +219,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485197ed7b212715424daac8c600" width="48" height="48"> | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cab7ae4868e9f9ce6bdfdf43" width="48" height="48"> | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) |
 | <img src="https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4" width="48" height="48"> | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way (Deluxe Edition)](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
 | <img src="https://i.scdn.co/image/ab67616d000048513303a842ee1bc0b23204333d" width="48" height="48"> | [Hysteria](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) |
@@ -228,7 +229,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b" width="48" height="48"> | [Whatsername](https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3) |
 | <img src="https://i.scdn.co/image/ab67616d00004851822ef612862fb2ac73ade61f" width="48" height="48"> | [Shifting Nature](https://open.spotify.com/track/2A38M8EJAxmFZNpcGowqs0) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Ourdom](https://open.spotify.com/track/2A38M8EJAxmFZNpcGowqs0) |
 | <img src="https://i.scdn.co/image/ab67616d00004851449d4048f5ee299a444814ea" width="48" height="48"> | [Impossible Worlds](https://open.spotify.com/track/2pjxenZVHSGc9htsssy1tX) | [Todd Baker](https://open.spotify.com/artist/2RfwvVMJyYSZNtzYu67LL4) | [Monument Valley 2 (Original Game Soundtrack)](https://open.spotify.com/track/2pjxenZVHSGc9htsssy1tX) |
-| <img src="https://i.scdn.co/image/ab67616d000048511fc3d84cfe70bf4256e52c4d" width="48" height="48"> | [Cider Time](https://open.spotify.com/track/1ILDIyElWwVQE7071MhVyy) | [Lifeformed](https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV) | [Fastfall (Dustforce Original Game Soundtrack)](https://open.spotify.com/track/1ILDIyElWwVQE7071MhVyy) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
