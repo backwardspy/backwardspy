@@ -170,19 +170,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-05-13T19:27:59+00:00'>May 13th 19:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
