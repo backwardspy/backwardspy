@@ -157,19 +157,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-05-15T08:26:56+00:00'>May 15th 08:26</span></td>
-<td>
-
-📢 opened [#8: licensing](https://github.com/ewdurbin/dynamoclasses/issues/8)
-
-</td>
-<td>
-
-[ewdurbin/dynamoclasses](https://github.com/ewdurbin/dynamoclasses)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
