@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-06-20T08:03:48+00:00'>Jun 20th 08:03</span></td>
+<td>
+
+💬 commented on [#207: Transfer ownership of the `catppuccin` package to `@Catppuccin-Holdings`](https://github.com/luarocks/luarocks-site/issues/207)
+
+</td>
+<td>
+
+[luarocks/luarocks-site](https://github.com/luarocks/luarocks-site)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-06-10T11:47:32+00:00'>Jun 10th 11:47</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-05-27T16:14:51+00:00'>May 27th 16:14</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-05-24T09:26:23+00:00'>May 24th 09:26</span></td>
 <td>
