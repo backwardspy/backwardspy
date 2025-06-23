@@ -131,19 +131,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-05-23T21:39:39+00:00'>May 23rd 21:39</span></td>
-<td>
-
-💬 commented on [#74: fix #73 (Assets contain mouse pointer)](https://github.com/catppuccin/helix/pull/74)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
