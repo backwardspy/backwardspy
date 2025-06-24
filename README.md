@@ -92,45 +92,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-05-24T09:26:23+00:00'>May 24th 09:26</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-05-24T09:26:22+00:00'>May 24th 09:26</span></td>
-<td>
-
-🎉 closed [#74: fix #73 (Assets contain mouse pointer)](https://github.com/catppuccin/helix/pull/74)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-05-24T09:26:00+00:00'>May 24th 09:26</span></td>
-<td>
-
-💬 commented on [#74: fix #73 (Assets contain mouse pointer)](https://github.com/catppuccin/helix/pull/74)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
