@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-06-23T20:04:00+00:00'>Jun 23rd 20:04</span></td>
+<td>
+
+💬 commented on [#39: Update build.ps1 to build successfully](https://github.com/catppuccin/qbittorrent/pull/39)
+
+</td>
+<td>
+
+[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-06-20T08:03:48+00:00'>Jun 20th 08:03</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-05-27T21:50:47+00:00'>May 27th 21:50</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-05-27T16:14:51+00:00'>May 27th 16:14</span></td>
 <td>
