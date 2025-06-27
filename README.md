@@ -92,19 +92,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-05-27T16:14:51+00:00'>May 27th 16:14</span></td>
-<td>
-
-💬 commented on [#540: Rename repo to tmux-catppuccin for better TPM compatability](https://github.com/catppuccin/tmux/issues/540)
-
-</td>
-<td>
-
-[catppuccin/tmux](https://github.com/catppuccin/tmux)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
