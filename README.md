@@ -79,19 +79,6 @@
 <summary>show more...</summary>
 <table>
 <tbody>
-<tr>
-<td><span title='2025-05-27T21:50:47+00:00'>May 27th 21:50</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
