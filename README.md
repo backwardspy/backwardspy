@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-07-06T13:19:38+00:00'>Jul 6th 13:19</span></td>
+<td>
+
+💬 commented on [#555: Remove console log in production](https://github.com/catppuccin/vscode/pull/555)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-07-04T09:36:21+00:00'>Jul 4th 09:36</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-06-10T11:47:32+00:00'>Jun 10th 11:47</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 </tbody>
 </table>
 </details>
