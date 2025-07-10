@@ -92,32 +92,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-06-10T11:47:32+00:00'>Jun 10th 11:47</span></td>
-<td>
-
-💬 commented on [#552: Request to Join Organization](https://github.com/catppuccin/vscode/issues/552)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-06-10T11:47:32+00:00'>Jun 10th 11:47</span></td>
-<td>
-
-✅ closed [#552: Request to Join Organization](https://github.com/catppuccin/vscode/issues/552)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
