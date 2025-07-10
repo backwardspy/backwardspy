@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-07-09T18:18:08+00:00'>Jul 9th 18:18</span></td>
+<td>
+
+💬 commented on [#555: Remove console log in production](https://github.com/catppuccin/vscode/pull/555)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-07-09T18:12:03+00:00'>Jul 9th 18:12</span></td>
+<td>
+
+💬 commented on [#2834: Aurora](https://github.com/catppuccin/catppuccin/issues/2834)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-07-06T13:19:38+00:00'>Jul 6th 13:19</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-06-20T08:03:48+00:00'>Jun 20th 08:03</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-06-10T11:47:32+00:00'>Jun 10th 11:47</span></td>
 <td>
