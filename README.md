@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-07-12T13:57:59+00:00'>Jul 12th 13:57</span></td>
+<td>
+
+📦 released v1.0.0
+
+</td>
+<td>
+
+[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-07-12T13:38:57+00:00'>Jul 12th 13:38</span></td>
+<td>
+
+🪄 created repository
+
+</td>
+<td>
+
+[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-07-09T18:18:08+00:00'>Jul 9th 18:18</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-07-04T09:36:21+00:00'>Jul 4th 09:36</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-06-20T08:03:48+00:00'>Jun 20th 08:03</span></td>
 <td>
