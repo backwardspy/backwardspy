@@ -128,6 +128,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851771f9025b8d9a3fbe185c3c5" width="48" height="48"> | [Shine - LoFi](https://open.spotify.com/track/2h6YG17ZaaRFaJuBULElMH) | [OSRSBeatz](https://open.spotify.com/artist/5MleFLYHlckQl5jfahStJI) | [LoFi Mix 2](https://open.spotify.com/track/2h6YG17ZaaRFaJuBULElMH) |
+| <img src="https://i.scdn.co/image/ab67616d00004851242ef9140e711217b33af023" width="48" height="48"> | [Newbie Melody - LoFi](https://open.spotify.com/track/1Umd6etT1hRjvBWlRoRRZr) | [OSRSBeatz](https://open.spotify.com/artist/5MleFLYHlckQl5jfahStJI) | [LoFi Mix](https://open.spotify.com/track/1Umd6etT1hRjvBWlRoRRZr) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ebad23c393f698d2a54a12a9" width="48" height="48"> | [The Sound of Guthix](https://open.spotify.com/track/3MyutvXHzcdASbvjGKgZuL) | [OSRSBeatz](https://open.spotify.com/artist/5MleFLYHlckQl5jfahStJI) | [The Sound of Guthix](https://open.spotify.com/track/3MyutvXHzcdASbvjGKgZuL) |
 | <img src="https://i.scdn.co/image/ab67616d000048511f89ecde567724e163248c46" width="48" height="48"> | [The Militia](https://open.spotify.com/track/3UJ43J5liDH7BGhXzzI9kO) | [OSRSBeatz](https://open.spotify.com/artist/5MleFLYHlckQl5jfahStJI) | [The Militia](https://open.spotify.com/track/3UJ43J5liDH7BGhXzzI9kO) |
 | <img src="https://i.scdn.co/image/ab67616d0000485197ed7b212715424daac8c600" width="48" height="48"> | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) |
@@ -136,8 +138,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048513303a842ee1bc0b23204333d" width="48" height="48"> | [Hysteria](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) |
 | <img src="https://i.scdn.co/image/ab67616d0000485192c508bc5a40ea588bcaed38" width="48" height="48"> | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) |
 | <img src="https://i.scdn.co/image/ab67616d0000485195d1d98c5176e4f982bd73d6" width="48" height="48"> | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) |
-| <img src="https://i.scdn.co/image/ab67616d000048512d4c593f0f35672767d881a9" width="48" height="48"> | [Want You Bad](https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7) |
-| <img src="https://i.scdn.co/image/ab67616d0000485108a1b1e0674086d3f1995e1b" width="48" height="48"> | [Whatsername](https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
