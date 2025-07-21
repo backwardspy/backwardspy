@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-07-20T18:19:41+00:00'>Jul 20th 18:19</span></td>
+<td>
+
+📢 opened [#514: Neko-CLI](https://github.com/catppuccin/vscode-icons/issues/514)
+
+</td>
+<td>
+
+[catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-07-12T13:57:59+00:00'>Jul 12th 13:57</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-07-06T13:19:38+00:00'>Jul 6th 13:19</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-07-04T09:36:21+00:00'>Jul 4th 09:36</span></td>
 <td>
@@ -102,19 +115,6 @@
 <td>
 
 [catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-06-20T08:03:48+00:00'>Jun 20th 08:03</span></td>
-<td>
-
-💬 commented on [#207: Transfer ownership of the `catppuccin` package to `@Catppuccin-Holdings`](https://github.com/luarocks/luarocks-site/issues/207)
-
-</td>
-<td>
-
-[luarocks/luarocks-site](https://github.com/luarocks/luarocks-site)
 
 </td>
 </tr>
