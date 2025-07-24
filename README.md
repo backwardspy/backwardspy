@@ -105,19 +105,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-06-23T20:04:00+00:00'>Jun 23rd 20:04</span></td>
-<td>
-
-💬 commented on [#39: Update build.ps1 to build successfully](https://github.com/catppuccin/qbittorrent/pull/39)
-
-</td>
-<td>
-
-[catppuccin/qbittorrent](https://github.com/catppuccin/qbittorrent)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
