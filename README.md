@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-07-29T18:09:27+00:00'>Jul 29th 18:09</span></td>
+<td>
+
+🔍 reviewed [#28: docs: move @isabelroses to past userstyles-staff](https://github.com/catppuccin/.github/pull/28)
+
+</td>
+<td>
+
+[catppuccin/.github](https://github.com/catppuccin/.github)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-07-20T18:19:41+00:00'>Jul 20th 18:19</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-07-09T18:12:03+00:00'>Jul 9th 18:12</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-07-06T13:19:38+00:00'>Jul 6th 13:19</span></td>
 <td>
