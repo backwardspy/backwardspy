@@ -154,6 +154,8 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485198909167bb3cacf5038a5125" width="48" height="48"> | [Fightertown](https://open.spotify.com/track/7ggTpjOu2r9J7iPgTnYQ2B) | [Meteor](https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb) | [Defender of the Fleet (Heatblur F-14 Original Soundtrack)](https://open.spotify.com/track/7ggTpjOu2r9J7iPgTnYQ2B) |
+| <img src="https://i.scdn.co/image/ab67616d0000485198909167bb3cacf5038a5125" width="48" height="48"> | [Zone V](https://open.spotify.com/track/109ihFuqSqlVrR90OayaSx) | [Meteor](https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb) | [Defender of the Fleet (Heatblur F-14 Original Soundtrack)](https://open.spotify.com/track/109ihFuqSqlVrR90OayaSx) |
 | <img src="https://i.scdn.co/image/ab67616d00004851999683521d4c0ee1f5516b86" width="48" height="48"> | [Besaid Island (From "Final Fantasy X") - Lofi](https://open.spotify.com/track/5t9SAY4Aw1qfGzKuTZ9m17) | [Lofi Arcade](https://open.spotify.com/artist/0t18pEGgUt40ESfR1ctJI5) | [Besaid Island (From "Final Fantasy X") [Lofi]](https://open.spotify.com/track/5t9SAY4Aw1qfGzKuTZ9m17) |
 | <img src="https://i.scdn.co/image/ab67616d00004851771f9025b8d9a3fbe185c3c5" width="48" height="48"> | [Shine - LoFi](https://open.spotify.com/track/2h6YG17ZaaRFaJuBULElMH) | [OSRSBeatz](https://open.spotify.com/artist/5MleFLYHlckQl5jfahStJI) | [LoFi Mix 2](https://open.spotify.com/track/2h6YG17ZaaRFaJuBULElMH) |
 | <img src="https://i.scdn.co/image/ab67616d00004851242ef9140e711217b33af023" width="48" height="48"> | [Newbie Melody - LoFi](https://open.spotify.com/track/1Umd6etT1hRjvBWlRoRRZr) | [OSRSBeatz](https://open.spotify.com/artist/5MleFLYHlckQl5jfahStJI) | [LoFi Mix](https://open.spotify.com/track/1Umd6etT1hRjvBWlRoRRZr) |
@@ -162,8 +164,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485197ed7b212715424daac8c600" width="48" height="48"> | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cab7ae4868e9f9ce6bdfdf43" width="48" height="48"> | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) |
 | <img src="https://i.scdn.co/image/ab67616d00004851de1af2785a83cc660155a0c4" width="48" height="48"> | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way (Deluxe Edition)](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) |
-| <img src="https://i.scdn.co/image/ab67616d000048513303a842ee1bc0b23204333d" width="48" height="48"> | [Hysteria](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) |
-| <img src="https://i.scdn.co/image/ab67616d0000485192c508bc5a40ea588bcaed38" width="48" height="48"> | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
