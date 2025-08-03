@@ -8,6 +8,130 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-03T20:06:14+00:00'>Aug 3rd 20:06</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-03T20:06:14+00:00'>Aug 3rd 20:06</span></td>
+<td>
+
+🎉 closed [#106: chore(main): release 2.5.0](https://github.com/catppuccin/python/pull/106)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-03T20:05:54+00:00'>Aug 3rd 20:05</span></td>
+<td>
+
+🔍 reviewed [#106: chore(main): release 2.5.0](https://github.com/catppuccin/python/pull/106)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-03T20:04:55+00:00'>Aug 3rd 20:04</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-03T20:02:47+00:00'>Aug 3rd 20:02</span></td>
+<td>
+
+💬 commented on [#112: fix(pygments): mantle for code block backgrounds](https://github.com/catppuccin/python/pull/112)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-08-03T20:02:41+00:00'>Aug 3rd 20:02</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-03T20:02:40+00:00'>Aug 3rd 20:02</span></td>
+<td>
+
+🎉 closed [#112: fix(pygments): mantle for code block backgrounds](https://github.com/catppuccin/python/pull/112)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-03T20:02:37+00:00'>Aug 3rd 20:02</span></td>
+<td>
+
+💬 commented on [#112: fix(pygments): mantle for code block backgrounds](https://github.com/catppuccin/python/pull/112)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-03T20:02:15+00:00'>Aug 3rd 20:02</span></td>
+<td>
+
+🔍 reviewed [#112: fix(pygments): mantle for code block backgrounds](https://github.com/catppuccin/python/pull/112)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-07-30T09:13:35+00:00'>Jul 30th 09:13</span></td>
 <td>
 
@@ -72,13 +196,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-07-12T13:38:57+00:00'>Jul 12th 13:38</span></td>
 <td>
