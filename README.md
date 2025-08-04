@@ -284,6 +284,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048514848a540f13bac099e17cd0b" width="48" height="48"> | [Below the Asteroids](https://open.spotify.com/track/5XDYBRkjTGshlY87N7GLvN) | [RealX](https://open.spotify.com/artist/1aLuZVV6aLieO1lki9Kco0) | [EVE Online: Empire Space I](https://open.spotify.com/track/5XDYBRkjTGshlY87N7GLvN) |
 | <img src="https://i.scdn.co/image/ab67616d000048517d135560c4bb5494f70bb3f0" width="48" height="48"> | [Flower Dance](https://open.spotify.com/track/6OJewg9b0bHg0TFshPko2H) | [Kyle Landry](https://open.spotify.com/artist/0HSGaSAaBPZJq4lisoWA59) | [Flower Dance](https://open.spotify.com/track/6OJewg9b0bHg0TFshPko2H) |
 | <img src="https://i.scdn.co/image/ab67616d0000485198909167bb3cacf5038a5125" width="48" height="48"> | [Fear the Bones](https://open.spotify.com/track/5zLZ00aI3qGfJidtW4AZuK) | [Meteor](https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb) | [Defender of the Fleet (Heatblur F-14 Original Soundtrack)](https://open.spotify.com/track/5zLZ00aI3qGfJidtW4AZuK) |
 | <img src="https://i.scdn.co/image/ab67616d0000485198909167bb3cacf5038a5125" width="48" height="48"> | [Fightertown](https://open.spotify.com/track/7ggTpjOu2r9J7iPgTnYQ2B) | [Meteor](https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb) | [Defender of the Fleet (Heatblur F-14 Original Soundtrack)](https://open.spotify.com/track/7ggTpjOu2r9J7iPgTnYQ2B) |
@@ -293,7 +294,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851242ef9140e711217b33af023" width="48" height="48"> | [Newbie Melody - LoFi](https://open.spotify.com/track/1Umd6etT1hRjvBWlRoRRZr) | [OSRSBeatz](https://open.spotify.com/artist/5MleFLYHlckQl5jfahStJI) | [LoFi Mix](https://open.spotify.com/track/1Umd6etT1hRjvBWlRoRRZr) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ebad23c393f698d2a54a12a9" width="48" height="48"> | [The Sound of Guthix](https://open.spotify.com/track/3MyutvXHzcdASbvjGKgZuL) | [OSRSBeatz](https://open.spotify.com/artist/5MleFLYHlckQl5jfahStJI) | [The Sound of Guthix](https://open.spotify.com/track/3MyutvXHzcdASbvjGKgZuL) |
 | <img src="https://i.scdn.co/image/ab67616d000048511f89ecde567724e163248c46" width="48" height="48"> | [The Militia](https://open.spotify.com/track/3UJ43J5liDH7BGhXzzI9kO) | [OSRSBeatz](https://open.spotify.com/artist/5MleFLYHlckQl5jfahStJI) | [The Militia](https://open.spotify.com/track/3UJ43J5liDH7BGhXzzI9kO) |
-| <img src="https://i.scdn.co/image/ab67616d0000485197ed7b212715424daac8c600" width="48" height="48"> | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
