@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-08T19:23:01+00:00'>Aug 8th 19:23</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/png](https://github.com/backwardspy/png)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-08T17:02:38+00:00'>Aug 8th 17:02</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-04T08:48:25+00:00'>Aug 4th 08:48</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-03T20:06:14+00:00'>Aug 3rd 20:06</span></td>
 <td>
@@ -271,19 +284,6 @@
 <td>
 
 [backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-07-09T18:18:08+00:00'>Jul 9th 18:18</span></td>
-<td>
-
-💬 commented on [#555: Remove console log in production](https://github.com/catppuccin/vscode/pull/555)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
 
 </td>
 </tr>
