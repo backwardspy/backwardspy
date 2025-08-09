@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-08T17:02:38+00:00'>Aug 8th 17:02</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/png](https://github.com/backwardspy/png)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-08T17:01:48+00:00'>Aug 8th 17:01</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/png](https://github.com/backwardspy/png)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-04T12:45:10+00:00'>Aug 4th 12:45</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-03T20:06:14+00:00'>Aug 3rd 20:06</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-03T20:05:54+00:00'>Aug 3rd 20:05</span></td>
 <td>
@@ -258,19 +284,6 @@
 <td>
 
 [catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-07-09T18:12:03+00:00'>Jul 9th 18:12</span></td>
-<td>
-
-💬 commented on [#2834: Aurora](https://github.com/catppuccin/catppuccin/issues/2834)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
