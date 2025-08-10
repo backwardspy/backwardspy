@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-09T19:53:21+00:00'>Aug 9th 19:53</span></td>
+<td>
+
+🪄 created repository
+
+</td>
+<td>
+
+[backwardspy/scratchpad](https://github.com/backwardspy/scratchpad)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-08T19:23:01+00:00'>Aug 8th 19:23</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-04T08:50:06+00:00'>Aug 4th 08:50</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-04T08:48:25+00:00'>Aug 4th 08:48</span></td>
 <td>
@@ -266,19 +279,6 @@
 <td>
 
 📦 released v1.0.0
-
-</td>
-<td>
-
-[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-07-12T13:38:57+00:00'>Jul 12th 13:38</span></td>
-<td>
-
-🪄 created repository
 
 </td>
 <td>
