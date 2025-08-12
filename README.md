@@ -274,19 +274,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-07-12T13:57:59+00:00'>Jul 12th 13:57</span></td>
-<td>
-
-📦 released v1.0.0
-
-</td>
-<td>
-
-[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
