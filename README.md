@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-18T08:02:42+00:00'>Aug 18th 08:02</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/nix](https://github.com/backwardspy/nix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-09T19:53:21+00:00'>Aug 9th 19:53</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-04T12:45:10+00:00'>Aug 4th 12:45</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-04T08:50:06+00:00'>Aug 4th 08:50</span></td>
 <td>
