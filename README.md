@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-18T09:07:58+00:00'>Aug 18th 09:07</span></td>
+<td>
+
+💬 commented on [#44: Proposal: Change foreground colour of main body copy](https://github.com/catppuccin/starlight/issues/44)
+
+</td>
+<td>
+
+[catppuccin/starlight](https://github.com/catppuccin/starlight)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-18T08:02:42+00:00'>Aug 18th 08:02</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-08T17:01:48+00:00'>Aug 8th 17:01</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-04T12:45:10+00:00'>Aug 4th 12:45</span></td>
 <td>
