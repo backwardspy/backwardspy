@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-18T10:21:17+00:00'>Aug 18th 10:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/nix](https://github.com/backwardspy/nix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-18T09:07:58+00:00'>Aug 18th 09:07</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-08T17:02:38+00:00'>Aug 8th 17:02</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-08T17:01:48+00:00'>Aug 8th 17:01</span></td>
 <td>
@@ -284,19 +297,6 @@
 <td>
 
 [catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-07-20T18:19:41+00:00'>Jul 20th 18:19</span></td>
-<td>
-
-📢 opened [#514: Neko-CLI](https://github.com/catppuccin/vscode-icons/issues/514)
-
-</td>
-<td>
-
-[catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons)
 
 </td>
 </tr>
