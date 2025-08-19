@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-18T15:49:40+00:00'>Aug 18th 15:49</span></td>
+<td>
+
+🚢 pushed 1 commit to `docs/previews`
+
+</td>
+<td>
+
+[backwardspy/ctp-eza](https://github.com/backwardspy/ctp-eza)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-18T15:46:58+00:00'>Aug 18th 15:46</span></td>
+<td>
+
+🚢 pushed 1 commit to `docs/previews`
+
+</td>
+<td>
+
+[backwardspy/ctp-eza](https://github.com/backwardspy/ctp-eza)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-18T15:45:19+00:00'>Aug 18th 15:45</span></td>
+<td>
+
+🚢 pushed 1 commit to `docs/previews`
+
+</td>
+<td>
+
+[backwardspy/ctp-eza](https://github.com/backwardspy/ctp-eza)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-18T15:37:22+00:00'>Aug 18th 15:37</span></td>
+<td>
+
+🚀 opened [#1: docs: add preview images](https://github.com/ankddev/eza/pull/1)
+
+</td>
+<td>
+
+[ankddev/eza](https://github.com/ankddev/eza)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-18T10:21:17+00:00'>Aug 18th 10:21</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-18T09:07:58+00:00'>Aug 18th 09:07</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-08T17:02:38+00:00'>Aug 8th 17:02</span></td>
 <td>
@@ -219,84 +271,6 @@
 <td>
 
 [catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-03T20:02:40+00:00'>Aug 3rd 20:02</span></td>
-<td>
-
-🎉 closed [#112: fix(pygments): mantle for code block backgrounds](https://github.com/catppuccin/python/pull/112)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-03T20:02:37+00:00'>Aug 3rd 20:02</span></td>
-<td>
-
-💬 commented on [#112: fix(pygments): mantle for code block backgrounds](https://github.com/catppuccin/python/pull/112)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-03T20:02:15+00:00'>Aug 3rd 20:02</span></td>
-<td>
-
-🔍 reviewed [#112: fix(pygments): mantle for code block backgrounds](https://github.com/catppuccin/python/pull/112)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-07-30T09:13:35+00:00'>Jul 30th 09:13</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-07-30T09:13:34+00:00'>Jul 30th 09:13</span></td>
-<td>
-
-🎉 closed [#28: docs: move @isabelroses to past userstyles-staff](https://github.com/catppuccin/.github/pull/28)
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-07-29T18:09:27+00:00'>Jul 29th 18:09</span></td>
-<td>
-
-🔍 reviewed [#28: docs: move @isabelroses to past userstyles-staff](https://github.com/catppuccin/.github/pull/28)
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
 
 </td>
 </tr>
