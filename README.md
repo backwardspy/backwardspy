@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-20T19:30:23+00:00'>Aug 20th 19:30</span></td>
+<td>
+
+💬 commented on [#2875: docs: add catppuccin/eza](https://github.com/catppuccin/catppuccin/pull/2875)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
+<td>
+
+✅ closed [#2874: Eza](https://github.com/catppuccin/catppuccin/issues/2874)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
+<td>
+
+🎉 closed [#2875: docs: add catppuccin/eza](https://github.com/catppuccin/catppuccin/pull/2875)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-18T15:49:40+00:00'>Aug 18th 15:49</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-18T15:46:58+00:00'>Aug 18th 15:46</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-18T09:07:58+00:00'>Aug 18th 09:07</span></td>
 <td>
@@ -214,58 +266,6 @@
 <td>
 
 🎉 closed [#106: chore(main): release 2.5.0](https://github.com/catppuccin/python/pull/106)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-03T20:05:54+00:00'>Aug 3rd 20:05</span></td>
-<td>
-
-🔍 reviewed [#106: chore(main): release 2.5.0](https://github.com/catppuccin/python/pull/106)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-03T20:04:55+00:00'>Aug 3rd 20:04</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-03T20:02:47+00:00'>Aug 3rd 20:02</span></td>
-<td>
-
-💬 commented on [#112: fix(pygments): mantle for code block backgrounds](https://github.com/catppuccin/python/pull/112)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-03T20:02:41+00:00'>Aug 3rd 20:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
