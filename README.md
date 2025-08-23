@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-22T16:00:14+00:00'>Aug 22nd 16:00</span></td>
+<td>
+
+🚀 opened [#644: feat: support newlines in text with custom font](https://github.com/kitao/pyxel/pull/644)
+
+</td>
+<td>
+
+[kitao/pyxel](https://github.com/kitao/pyxel)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-21T20:51:56+00:00'>Aug 21st 20:51</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-18T15:49:40+00:00'>Aug 18th 15:49</span></td>
 <td>
@@ -245,32 +258,6 @@
 <td>
 
 [backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-04T08:48:25+00:00'>Aug 4th 08:48</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-03T20:06:14+00:00'>Aug 3rd 20:06</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
