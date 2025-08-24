@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-24T16:44:31+00:00'>Aug 24th 16:44</span></td>
+<td>
+
+📦 released v1.2.0
+
+</td>
+<td>
+
+[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-24T16:43:47+00:00'>Aug 24th 16:43</span></td>
+<td>
+
+🚢 pushed 2 commits to `main`
+
+</td>
+<td>
+
+[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-22T16:00:14+00:00'>Aug 22nd 16:00</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
 <td>
@@ -219,45 +245,6 @@
 <td>
 
 [backwardspy/png](https://github.com/backwardspy/png)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-08T17:01:48+00:00'>Aug 8th 17:01</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/png](https://github.com/backwardspy/png)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-04T12:45:10+00:00'>Aug 4th 12:45</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-04T08:50:06+00:00'>Aug 4th 08:50</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
 
 </td>
 </tr>
