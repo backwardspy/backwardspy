@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-24T20:30:27+00:00'>Aug 24th 20:30</span></td>
+<td>
+
+🔍 reviewed [#74: chore(main): release 2.5.2](https://github.com/catppuccin/whiskers/pull/74)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-08-24T20:16:54+00:00'>Aug 24th 20:16</span></td>
+<td>
+
+🔍 reviewed [#94: docs: move to `@astro/starlight`](https://github.com/catppuccin/whiskers/pull/94)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-24T16:44:31+00:00'>Aug 24th 16:44</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-21T20:51:56+00:00'>Aug 21st 20:51</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
 <td>
@@ -224,19 +250,6 @@
 </tr>
 <tr>
 <td><span title='2025-08-08T19:23:01+00:00'>Aug 8th 19:23</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/png](https://github.com/backwardspy/png)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-08T17:02:38+00:00'>Aug 8th 17:02</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
