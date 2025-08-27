@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-27T09:22:22+00:00'>Aug 27th 09:22</span></td>
+<td>
+
+🔍 reviewed [#574: fix: use `LogOutputChannel` instead of `console.log`](https://github.com/catppuccin/vscode/pull/574)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-24T20:30:27+00:00'>Aug 24th 20:30</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-22T16:00:14+00:00'>Aug 22nd 16:00</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-21T20:51:56+00:00'>Aug 21st 20:51</span></td>
 <td>
@@ -245,19 +258,6 @@
 <td>
 
 [backwardspy/scratchpad](https://github.com/backwardspy/scratchpad)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-08T19:23:01+00:00'>Aug 8th 19:23</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/png](https://github.com/backwardspy/png)
 
 </td>
 </tr>
