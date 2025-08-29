@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-28T16:09:28+00:00'>Aug 28th 16:09</span></td>
+<td>
+
+✅ closed [#643: newlines are ignored when text(...) is called with a custom font](https://github.com/kitao/pyxel/issues/643)
+
+</td>
+<td>
+
+[kitao/pyxel](https://github.com/kitao/pyxel)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-27T09:22:22+00:00'>Aug 27th 09:22</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-24T16:43:47+00:00'>Aug 24th 16:43</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-22T16:00:14+00:00'>Aug 22nd 16:00</span></td>
 <td>
@@ -245,19 +258,6 @@
 <td>
 
 [backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-09T19:53:21+00:00'>Aug 9th 19:53</span></td>
-<td>
-
-🪄 created repository
-
-</td>
-<td>
-
-[backwardspy/scratchpad](https://github.com/backwardspy/scratchpad)
 
 </td>
 </tr>
