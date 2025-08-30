@@ -271,6 +271,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851d2a709df03230eb6e44c42d1" width="48" height="48"> | [FDD](https://open.spotify.com/track/4X2K0xy77Uh9nQDm6vfXLU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Hardwarez](https://open.spotify.com/track/4X2K0xy77Uh9nQDm6vfXLU) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d2a709df03230eb6e44c42d1" width="48" height="48"> | [RAM](https://open.spotify.com/track/1czJVnNsY3fbELPic9hAGy) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Hardwarez](https://open.spotify.com/track/1czJVnNsY3fbELPic9hAGy) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d2a709df03230eb6e44c42d1" width="48" height="48"> | [GPU](https://open.spotify.com/track/0G79BRxeEzF0OcjCriLEV5) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Hardwarez](https://open.spotify.com/track/0G79BRxeEzF0OcjCriLEV5) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d2a709df03230eb6e44c42d1" width="48" height="48"> | [CPU](https://open.spotify.com/track/2qvJTSTaqIkKUMl8Dn1idP) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Hardwarez](https://open.spotify.com/track/2qvJTSTaqIkKUMl8Dn1idP) |
@@ -280,7 +281,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048519d8487ecb691594f606b2ac2" width="48" height="48"> | [Crash](https://open.spotify.com/track/4LyfKW4Vq3Z77FU9hIMvEO) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Virus.Dos](https://open.spotify.com/track/4LyfKW4Vq3Z77FU9hIMvEO) |
 | <img src="https://i.scdn.co/image/ab67616d000048519d8487ecb691594f606b2ac2" width="48" height="48"> | [Virdem](https://open.spotify.com/track/2Siu6od8M6gbjRlNbQkRVM) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Virus.Dos](https://open.spotify.com/track/2Siu6od8M6gbjRlNbQkRVM) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dd3ab92b627e13c53e7b577d" width="48" height="48"> | [ANSI.SYS](https://open.spotify.com/track/0h1z7UKHfCAr74Cfm1vOmU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Floppy Disk Overdrive](https://open.spotify.com/track/0h1z7UKHfCAr74Cfm1vOmU) |
-| <img src="https://i.scdn.co/image/ab67616d00004851767f835310c690beea1a99bc" width="48" height="48"> | [Dangerous Corp.](https://open.spotify.com/track/38N4MRkQARTKbP7KlNBHC0) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [VIRTUAVERSE.OST](https://open.spotify.com/track/38N4MRkQARTKbP7KlNBHC0) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
