@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-08-30T21:10:37+00:00'>Aug 30th 21:10</span></td>
+<td>
+
+💬 commented on [#96: Feedback: the `mix` syntax is confusing to me](https://github.com/catppuccin/whiskers/issues/96)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-28T16:09:28+00:00'>Aug 28th 16:09</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-24T16:44:31+00:00'>Aug 24th 16:44</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-24T16:43:47+00:00'>Aug 24th 16:43</span></td>
 <td>
@@ -245,19 +258,6 @@
 <td>
 
 [catppuccin/starlight](https://github.com/catppuccin/starlight)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-18T08:02:42+00:00'>Aug 18th 08:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
 
 </td>
 </tr>
