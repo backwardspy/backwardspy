@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-09-03T09:15:00+00:00'>Sep 3rd 09:15</span></td>
+<td>
+
+💬 commented on [#583: VS Code Theme Accent Color](https://github.com/catppuccin/vscode/issues/583)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-08-30T21:10:37+00:00'>Aug 30th 21:10</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-24T20:16:54+00:00'>Aug 24th 20:16</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-24T16:44:31+00:00'>Aug 24th 16:44</span></td>
 <td>
@@ -245,19 +258,6 @@
 <td>
 
 [backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-18T09:07:58+00:00'>Aug 18th 09:07</span></td>
-<td>
-
-💬 commented on [#44: Proposal: Change foreground colour of main body copy](https://github.com/catppuccin/starlight/issues/44)
-
-</td>
-<td>
-
-[catppuccin/starlight](https://github.com/catppuccin/starlight)
 
 </td>
 </tr>
