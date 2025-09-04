@@ -271,6 +271,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851767f835310c690beea1a99bc" width="48" height="48"> | [Dangerous Corp.](https://open.spotify.com/track/38N4MRkQARTKbP7KlNBHC0) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [VIRTUAVERSE.OST](https://open.spotify.com/track/38N4MRkQARTKbP7KlNBHC0) |
 | <img src="https://i.scdn.co/image/ab67616d00004851767f835310c690beea1a99bc" width="48" height="48"> | [VirtuaVerse](https://open.spotify.com/track/5s9tIhWUh4174AbnstxlVo) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [VIRTUAVERSE.OST](https://open.spotify.com/track/5s9tIhWUh4174AbnstxlVo) |
 | <img src="https://i.scdn.co/image/ab67616d0000485101584c3ff6ba2855ea5d8a2a" width="48" height="48"> | [Cluster 1337](https://open.spotify.com/track/4UFJ8U3UskfkuKBrh2nDen) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [C:\>Defrag](https://open.spotify.com/track/4UFJ8U3UskfkuKBrh2nDen) |
 | <img src="https://i.scdn.co/image/ab67616d0000485101584c3ff6ba2855ea5d8a2a" width="48" height="48"> | [Cluster 1337](https://open.spotify.com/track/4UFJ8U3UskfkuKBrh2nDen) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [C:\>Defrag](https://open.spotify.com/track/4UFJ8U3UskfkuKBrh2nDen) |
@@ -280,7 +281,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80486SX](https://open.spotify.com/track/63rdYuCAzh0iYJKXlLcwRa) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/63rdYuCAzh0iYJKXlLcwRa) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80486DX](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80486](https://open.spotify.com/track/2dIaKYxeY9uLKEFBbIddKX) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/2dIaKYxeY9uLKEFBbIddKX) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80386SX](https://open.spotify.com/track/72IdwUgYC4uSrSQ7reYKPg) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/72IdwUgYC4uSrSQ7reYKPg) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
