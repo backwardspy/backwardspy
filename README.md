@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-09-04T18:53:55+00:00'>Sep 4th 18:53</span></td>
+<td>
+
+💬 commented on [#583: VS Code Theme Accent Color](https://github.com/catppuccin/vscode/issues/583)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-09-03T09:15:00+00:00'>Sep 3rd 09:15</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-24T20:30:27+00:00'>Aug 24th 20:30</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-24T20:16:54+00:00'>Aug 24th 20:16</span></td>
 <td>
@@ -245,19 +258,6 @@
 <td>
 
 [ankddev/eza](https://github.com/ankddev/eza)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-18T10:21:17+00:00'>Aug 18th 10:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
 
 </td>
 </tr>
