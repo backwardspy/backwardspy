@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-09-10T16:34:27+00:00'>Sep 10th 16:34</span></td>
+<td>
+
+🎉 closed [#2888: docs(showcase): remove ccrs](https://github.com/catppuccin/catppuccin/pull/2888)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-09-04T18:53:55+00:00'>Sep 4th 18:53</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-27T09:22:22+00:00'>Aug 27th 09:22</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-24T20:30:27+00:00'>Aug 24th 20:30</span></td>
 <td>
@@ -271,6 +284,9 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52" width="48" height="48"> | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) |
+| <img src="https://i.scdn.co/image/ab67616d00004851195b15c2b6ee649a890cd770" width="48" height="48"> | [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob (Deluxe)](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) |
+| <img src="https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d" width="48" height="48"> | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) |
 | <img src="https://i.scdn.co/image/ab67616d00004851767f835310c690beea1a99bc" width="48" height="48"> | [Dangerous Corp.](https://open.spotify.com/track/38N4MRkQARTKbP7KlNBHC0) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [VIRTUAVERSE.OST](https://open.spotify.com/track/38N4MRkQARTKbP7KlNBHC0) |
 | <img src="https://i.scdn.co/image/ab67616d00004851767f835310c690beea1a99bc" width="48" height="48"> | [VirtuaVerse](https://open.spotify.com/track/5s9tIhWUh4174AbnstxlVo) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [VIRTUAVERSE.OST](https://open.spotify.com/track/5s9tIhWUh4174AbnstxlVo) |
 | <img src="https://i.scdn.co/image/ab67616d0000485101584c3ff6ba2855ea5d8a2a" width="48" height="48"> | [Cluster 1337](https://open.spotify.com/track/4UFJ8U3UskfkuKBrh2nDen) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [C:\>Defrag](https://open.spotify.com/track/4UFJ8U3UskfkuKBrh2nDen) |
@@ -278,9 +294,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485101584c3ff6ba2855ea5d8a2a" width="48" height="48"> | [Cluster 777](https://open.spotify.com/track/2Yy4yfnq5cHwdIFrdnph1c) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [C:\>Defrag](https://open.spotify.com/track/2Yy4yfnq5cHwdIFrdnph1c) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80686](https://open.spotify.com/track/5VjQ6JRiGNrfIGMMgMrgqk) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/5VjQ6JRiGNrfIGMMgMrgqk) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80586](https://open.spotify.com/track/5hEjDeQ87DfHEsRK4kPEVt) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/5hEjDeQ87DfHEsRK4kPEVt) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80486SX](https://open.spotify.com/track/63rdYuCAzh0iYJKXlLcwRa) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/63rdYuCAzh0iYJKXlLcwRa) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80486DX](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/0YncrpbnhzS1loSyI0nB0Z) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a71f0689de6b3774e6985e15" width="48" height="48"> | [80486](https://open.spotify.com/track/2dIaKYxeY9uLKEFBbIddKX) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [PERSONAL COMPUTER](https://open.spotify.com/track/2dIaKYxeY9uLKEFBbIddKX) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
