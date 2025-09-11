@@ -284,6 +284,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851865b538169f199dac610b854" width="48" height="48"> | [The Kill](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq) |
 | <img src="https://i.scdn.co/image/ab67616d000048513303a842ee1bc0b23204333d" width="48" height="48"> | [Hysteria](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/track/0knbMPVHpFbsx38pLoYSRs) |
 | <img src="https://i.scdn.co/image/ab67616d0000485119d85a472f328a6ed9b704cf" width="48" height="48"> | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Demon Days](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) |
 | <img src="https://i.scdn.co/image/ab67616d0000485119d85a472f328a6ed9b704cf" width="48" height="48"> | [Feel Good Inc.](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Demon Days](https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT) |
@@ -293,7 +294,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485109a90531b85be7899c3234c4" width="48" height="48"> | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cbd2ee7dff77bfb2b5f0af52" width="48" height="48"> | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) |
 | <img src="https://i.scdn.co/image/ab67616d00004851195b15c2b6ee649a890cd770" width="48" height="48"> | [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob (Deluxe)](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) |
-| <img src="https://i.scdn.co/image/ab67616d00004851db89b08034de626ebee6823d" width="48" height="48"> | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
