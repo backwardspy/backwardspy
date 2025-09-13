@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-09-12T13:51:57+00:00'>Sep 12th 13:51</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/nix](https://github.com/backwardspy/nix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-09-12T11:14:22+00:00'>Sep 12th 11:14</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-08-30T21:10:37+00:00'>Aug 30th 21:10</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-28T16:09:28+00:00'>Aug 28th 16:09</span></td>
 <td>
@@ -271,19 +284,6 @@
 <td>
 
 [backwardspy/ctp-eza](https://github.com/backwardspy/ctp-eza)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-18T15:37:22+00:00'>Aug 18th 15:37</span></td>
-<td>
-
-🚀 opened [#1: docs: add preview images](https://github.com/ankddev/eza/pull/1)
-
-</td>
-<td>
-
-[ankddev/eza](https://github.com/ankddev/eza)
 
 </td>
 </tr>
