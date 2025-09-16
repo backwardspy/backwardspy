@@ -8,6 +8,130 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-09-14T13:42:33+00:00'>Sep 14th 13:42</span></td>
+<td>
+
+💬 commented on [#2160: Xmake](https://github.com/catppuccin/catppuccin/issues/2160)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-14T13:31:44+00:00'>Sep 14th 13:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-14T13:31:44+00:00'>Sep 14th 13:31</span></td>
+<td>
+
+🎉 closed [#2813: chore: fix typos across codebase](https://github.com/catppuccin/catppuccin/pull/2813)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-14T13:31:31+00:00'>Sep 14th 13:31</span></td>
+<td>
+
+💬 commented on [#2813: chore: fix typos across codebase](https://github.com/catppuccin/catppuccin/pull/2813)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-14T13:29:51+00:00'>Sep 14th 13:29</span></td>
+<td>
+
+🚢 pushed 54 commits to `main`
+
+</td>
+<td>
+
+[sukrucildirr/catppuccin](https://github.com/sukrucildirr/catppuccin)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-09-14T13:26:45+00:00'>Sep 14th 13:26</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[sukrucildirr/catppuccin](https://github.com/sukrucildirr/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-14T13:22:12+00:00'>Sep 14th 13:22</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-14T13:22:11+00:00'>Sep 14th 13:22</span></td>
+<td>
+
+🎉 closed [#2890: docs(showcase): remove ccrs](https://github.com/catppuccin/catppuccin/pull/2890)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-14T13:22:06+00:00'>Sep 14th 13:22</span></td>
+<td>
+
+🚀 opened [#2890: docs(showcase): remove ccrs](https://github.com/catppuccin/catppuccin/pull/2890)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-09-12T13:51:57+00:00'>Sep 12th 13:51</span></td>
 <td>
 
@@ -72,13 +196,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-08-30T21:10:37+00:00'>Aug 30th 21:10</span></td>
 <td>
@@ -157,136 +274,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-08-24T16:43:47+00:00'>Aug 24th 16:43</span></td>
-<td>
-
-🚢 pushed 2 commits to `main`
-
-</td>
-<td>
-
-[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-22T16:00:14+00:00'>Aug 22nd 16:00</span></td>
-<td>
-
-🚀 opened [#644: feat: support newlines in text with custom font](https://github.com/kitao/pyxel/pull/644)
-
-</td>
-<td>
-
-[kitao/pyxel](https://github.com/kitao/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-21T20:51:56+00:00'>Aug 21st 20:51</span></td>
-<td>
-
-📢 opened [#643: newlines are ignored when text(...) is called with a custom font](https://github.com/kitao/pyxel/issues/643)
-
-</td>
-<td>
-
-[kitao/pyxel](https://github.com/kitao/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-20T19:30:23+00:00'>Aug 20th 19:30</span></td>
-<td>
-
-💬 commented on [#2875: docs: add catppuccin/eza](https://github.com/catppuccin/catppuccin/pull/2875)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
-<td>
-
-✅ closed [#2874: Eza](https://github.com/catppuccin/catppuccin/issues/2874)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-20T19:30:19+00:00'>Aug 20th 19:30</span></td>
-<td>
-
-🎉 closed [#2875: docs: add catppuccin/eza](https://github.com/catppuccin/catppuccin/pull/2875)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-18T15:49:40+00:00'>Aug 18th 15:49</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/previews`
-
-</td>
-<td>
-
-[backwardspy/ctp-eza](https://github.com/backwardspy/ctp-eza)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-18T15:46:58+00:00'>Aug 18th 15:46</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/previews`
-
-</td>
-<td>
-
-[backwardspy/ctp-eza](https://github.com/backwardspy/ctp-eza)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-18T15:45:19+00:00'>Aug 18th 15:45</span></td>
-<td>
-
-🚢 pushed 1 commit to `docs/previews`
-
-</td>
-<td>
-
-[backwardspy/ctp-eza](https://github.com/backwardspy/ctp-eza)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -297,16 +284,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Falling](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) |
+| <img src="https://i.scdn.co/image/ab67616d00004851dbfe9a51b813ddc881d21dce" width="48" height="48"> | [Last Ride of the Day](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) |
+| <img src="https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684" width="48" height="48"> | [Kingslayer (feat. BABYMETAL)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) |
+| <img src="https://i.scdn.co/image/ab67616d0000485166a38b753013c0e66084830c" width="48" height="48"> | [Son of Odin](https://open.spotify.com/track/1d17u8gNyjAwhp9N9C7Io5) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Prophecy of Ragnarök](https://open.spotify.com/track/1d17u8gNyjAwhp9N9C7Io5) |
+| <img src="https://i.scdn.co/image/ab67616d000048511b1d6c550aaaae5acf220e84" width="48" height="48"> | [Roller Mobster](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) |
+| <img src="https://i.scdn.co/image/ab67616d0000485199d9997692e9264812e160fe" width="48" height="48"> | [Ambiramus](https://open.spotify.com/track/4wxm46qMm1P7JH1ivm1BQ2) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Ategnatos](https://open.spotify.com/track/4wxm46qMm1P7JH1ivm1BQ2) |
+| <img src="https://i.scdn.co/image/ab67616d0000485139af9a0f9ce131e3e9c92388" width="48" height="48"> | [Himmelsrand](https://open.spotify.com/track/7ldJhE5mB9ukNh3OjuX85T) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Waldschrein](https://open.spotify.com/track/7ldJhE5mB9ukNh3OjuX85T) |
+| <img src="https://i.scdn.co/image/ab67616d00004851086fd08b0a9e09401a634902" width="48" height="48"> | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e130d1576c55aa9b9d166442" width="48" height="48"> | [Heartless Madness](https://open.spotify.com/track/4QaxyJsbo5AR3bnEB7ko8h) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [The Dark Delight](https://open.spotify.com/track/4QaxyJsbo5AR3bnEB7ko8h) |
 | <img src="https://i.scdn.co/image/ab67616d000048513859468aac84e63a7661f814" width="48" height="48"> | [At the Break of Dawn](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Life Is Not Beautiful](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) |
-| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Creeping in My Soul](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/2MvnLjVwhhCETaRvkomins) |
-| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Murky](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/7EpEI5ZjvV0DTdWQgEjBxN) |
-| <img src="https://i.scdn.co/image/ab67616d00004851dd01020b6979bad27f1564ef" width="48" height="48"> | [Killjoy](https://open.spotify.com/track/1agoZMKeKCTbnTC7LqfXey) | [Rootwork](https://open.spotify.com/artist/3nVhpjOaIpvwj7j1qbRzDy) | [Killjoy](https://open.spotify.com/track/1agoZMKeKCTbnTC7LqfXey) |
-| <img src="https://i.scdn.co/image/ab67616d000048513c6b064abe936e3b6e4df951" width="48" height="48"> | [Wasting Away](https://open.spotify.com/track/1LMcMOoAxJ7Pa9FO2Ke5ym) | [Tonight Alive](https://open.spotify.com/artist/5pjCYG6hPLBO3y4swxu3dh) | [All Shapes & Disguises](https://open.spotify.com/track/1LMcMOoAxJ7Pa9FO2Ke5ym) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b3e13979bf4f6515020fbaea" width="48" height="48"> | [Grand Theft Autumn / Where Is Your Boy](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf) |
-| <img src="https://i.scdn.co/image/ab67616d000048516c050d183c1fff7158c7bcd3" width="48" height="48"> | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) |
-| <img src="https://i.scdn.co/image/ab67616d0000485117f77fab7e8f18d5f9fee4a1" width="48" height="48"> | [This Is How I Disappear](https://open.spotify.com/track/0rUNZQuYQvOz6A6zwyT6tM) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/track/0rUNZQuYQvOz6A6zwyT6tM) |
-| <img src="https://i.scdn.co/image/ab67616d000048510158cbde70672dd821972907" width="48" height="48"> | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f9b3ece3271d3a5fa73d3759" width="48" height="48"> | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
