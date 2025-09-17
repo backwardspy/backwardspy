@@ -310,8 +310,6 @@
 <br>
 <br>
 
-![visitor count](https://profile-counter.glitch.me/backwardspy/count.svg)
-
 <table>
     <thead>
         <th colspan="3"><a href="https://octo-ring.com">🐙 octo ring 🐙</a></th>
