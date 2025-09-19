@@ -284,6 +284,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851f0d55e973f83cbfe90dded16" width="48" height="48"> | [Eden](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Falling](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) |
 | <img src="https://i.scdn.co/image/ab67616d00004851dbfe9a51b813ddc881d21dce" width="48" height="48"> | [Last Ride of the Day](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) |
 | <img src="https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684" width="48" height="48"> | [Kingslayer (feat. BABYMETAL)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) |
@@ -293,7 +294,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485139af9a0f9ce131e3e9c92388" width="48" height="48"> | [Himmelsrand](https://open.spotify.com/track/7ldJhE5mB9ukNh3OjuX85T) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Waldschrein](https://open.spotify.com/track/7ldJhE5mB9ukNh3OjuX85T) |
 | <img src="https://i.scdn.co/image/ab67616d00004851086fd08b0a9e09401a634902" width="48" height="48"> | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) |
 | <img src="https://i.scdn.co/image/ab67616d00004851e130d1576c55aa9b9d166442" width="48" height="48"> | [Heartless Madness](https://open.spotify.com/track/4QaxyJsbo5AR3bnEB7ko8h) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [The Dark Delight](https://open.spotify.com/track/4QaxyJsbo5AR3bnEB7ko8h) |
-| <img src="https://i.scdn.co/image/ab67616d000048513859468aac84e63a7661f814" width="48" height="48"> | [At the Break of Dawn](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [Life Is Not Beautiful](https://open.spotify.com/track/7Afg7GsTbQa9WWbFQINevi) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
