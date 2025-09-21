@@ -284,6 +284,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485198909167bb3cacf5038a5125" width="48" height="48"> | [Fear the Bones](https://open.spotify.com/track/5zLZ00aI3qGfJidtW4AZuK) | [Meteor](https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb) | [Defender of the Fleet (Heatblur F-14 Original Soundtrack)](https://open.spotify.com/track/5zLZ00aI3qGfJidtW4AZuK) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a6a2af94adf1894aca5d765c" width="48" height="48"> | [r.i.p.](https://open.spotify.com/track/6G5txxoH2XisBaMRO6bX2z) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [love me ugly](https://open.spotify.com/track/6G5txxoH2XisBaMRO6bX2z) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f0d55e973f83cbfe90dded16" width="48" height="48"> | [Eden](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Falling](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) |
@@ -293,7 +294,6 @@
 | <img src="https://i.scdn.co/image/ab67616d000048511b1d6c550aaaae5acf220e84" width="48" height="48"> | [Roller Mobster](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) |
 | <img src="https://i.scdn.co/image/ab67616d0000485199d9997692e9264812e160fe" width="48" height="48"> | [Ambiramus](https://open.spotify.com/track/4wxm46qMm1P7JH1ivm1BQ2) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Ategnatos](https://open.spotify.com/track/4wxm46qMm1P7JH1ivm1BQ2) |
 | <img src="https://i.scdn.co/image/ab67616d0000485139af9a0f9ce131e3e9c92388" width="48" height="48"> | [Himmelsrand](https://open.spotify.com/track/7ldJhE5mB9ukNh3OjuX85T) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Waldschrein](https://open.spotify.com/track/7ldJhE5mB9ukNh3OjuX85T) |
-| <img src="https://i.scdn.co/image/ab67616d00004851086fd08b0a9e09401a634902" width="48" height="48"> | [Die By The Blade](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/track/53h1ZSLWi8hVWF9DWKNXVh) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
