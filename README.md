@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-09-22T13:14:33+00:00'>Sep 22nd 13:14</span></td>
+<td>
+
+🚀 opened [#89: feat: support UCIDs in pretense top 10 report](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot/pull/89)
+
+</td>
+<td>
+
+[Special-K-s-Flightsim-Bots/DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-22T13:10:45+00:00'>Sep 22nd 13:10</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/pretense-reports-ucid-support`
+
+</td>
+<td>
+
+[backwardspy/DCSServerBot](https://github.com/backwardspy/DCSServerBot)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-09-14T13:42:33+00:00'>Sep 14th 13:42</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-09-14T13:31:31+00:00'>Sep 14th 13:31</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-09-14T13:26:45+00:00'>Sep 14th 13:26</span></td>
 <td>
@@ -232,45 +258,6 @@
 <td>
 
 [catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-24T20:30:27+00:00'>Aug 24th 20:30</span></td>
-<td>
-
-🔍 reviewed [#74: chore(main): release 2.5.2](https://github.com/catppuccin/whiskers/pull/74)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-24T20:16:54+00:00'>Aug 24th 20:16</span></td>
-<td>
-
-🔍 reviewed [#94: docs: move to `@astro/starlight`](https://github.com/catppuccin/whiskers/pull/94)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-24T16:44:31+00:00'>Aug 24th 16:44</span></td>
-<td>
-
-📦 released v1.2.0
-
-</td>
-<td>
-
-[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
 
 </td>
 </tr>
