@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-09-23T14:42:11+00:00'>Sep 23rd 14:42</span></td>
+<td>
+
+🎉 closed [#89: feat: support UCIDs in pretense top 10 report](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot/pull/89)
+
+</td>
+<td>
+
+[Special-K-s-Flightsim-Bots/DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-23T14:41:32+00:00'>Sep 23rd 14:41</span></td>
+<td>
+
+💬 commented on [#89: feat: support UCIDs in pretense top 10 report](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot/pull/89)
+
+</td>
+<td>
+
+[Special-K-s-Flightsim-Bots/DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-09-22T13:14:33+00:00'>Sep 22nd 13:14</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-09-14T13:31:44+00:00'>Sep 14th 13:31</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-09-14T13:31:31+00:00'>Sep 14th 13:31</span></td>
 <td>
@@ -245,19 +271,6 @@
 <td>
 
 [kitao/pyxel](https://github.com/kitao/pyxel)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-27T09:22:22+00:00'>Aug 27th 09:22</span></td>
-<td>
-
-🔍 reviewed [#574: fix: use `LogOutputChannel` instead of `console.log`](https://github.com/catppuccin/vscode/pull/574)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
 
 </td>
 </tr>
