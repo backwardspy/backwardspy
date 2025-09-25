@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-09-24T16:00:08+00:00'>Sep 24th 16:00</span></td>
+<td>
+
+💬 commented on [#594: SQL Files with diferent color](https://github.com/catppuccin/vscode/issues/594)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-09-23T14:42:11+00:00'>Sep 23rd 14:42</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-09-14T13:42:33+00:00'>Sep 14th 13:42</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-09-14T13:31:44+00:00'>Sep 14th 13:31</span></td>
 <td>
@@ -258,19 +271,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-28T16:09:28+00:00'>Aug 28th 16:09</span></td>
-<td>
-
-✅ closed [#643: newlines are ignored when text(...) is called with a custom font](https://github.com/kitao/pyxel/issues/643)
-
-</td>
-<td>
-
-[kitao/pyxel](https://github.com/kitao/pyxel)
 
 </td>
 </tr>
