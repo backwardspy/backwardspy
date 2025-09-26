@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-09-25T09:27:23+00:00'>Sep 25th 09:27</span></td>
+<td>
+
+💬 commented on [#594: SQL Files with diferent color](https://github.com/catppuccin/vscode/issues/594)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-25T09:27:22+00:00'>Sep 25th 09:27</span></td>
+<td>
+
+✅ closed [#594: SQL Files with diferent color](https://github.com/catppuccin/vscode/issues/594)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-09-24T16:00:08+00:00'>Sep 24th 16:00</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-09-22T13:14:33+00:00'>Sep 22nd 13:14</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-09-14T13:42:33+00:00'>Sep 14th 13:42</span></td>
 <td>
@@ -245,32 +271,6 @@
 <td>
 
 [catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-03T09:15:00+00:00'>Sep 3rd 09:15</span></td>
-<td>
-
-💬 commented on [#583: VS Code Theme Accent Color](https://github.com/catppuccin/vscode/issues/583)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-08-30T21:10:37+00:00'>Aug 30th 21:10</span></td>
-<td>
-
-💬 commented on [#96: Feedback: the `mix` syntax is confusing to me](https://github.com/catppuccin/whiskers/issues/96)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
