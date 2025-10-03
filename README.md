@@ -223,32 +223,6 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-09-12T13:51:57+00:00'>Sep 12th 13:51</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-12T11:14:22+00:00'>Sep 12th 11:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/nix](https://github.com/backwardspy/nix)
-
-</td>
-</tr>
-<tr>
 <td><span title='2025-09-10T16:34:27+00:00'>Sep 10th 16:34</span></td>
 <td>
 
@@ -263,6 +237,19 @@
 </tr>
 <tr>
 <td><span title='2025-09-04T18:53:55+00:00'>Sep 4th 18:53</span></td>
+<td>
+
+💬 commented on [#583: VS Code Theme Accent Color](https://github.com/catppuccin/vscode/issues/583)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-09-03T09:15:00+00:00'>Sep 3rd 09:15</span></td>
 <td>
 
 💬 commented on [#583: VS Code Theme Accent Color](https://github.com/catppuccin/vscode/issues/583)
