@@ -248,19 +248,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-09-03T09:15:00+00:00'>Sep 3rd 09:15</span></td>
-<td>
-
-💬 commented on [#583: VS Code Theme Accent Color](https://github.com/catppuccin/vscode/issues/583)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
