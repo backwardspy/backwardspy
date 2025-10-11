@@ -222,19 +222,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-09-10T16:34:27+00:00'>Sep 10th 16:34</span></td>
-<td>
-
-🎉 closed [#2888: docs(showcase): remove ccrs](https://github.com/catppuccin/catppuccin/pull/2888)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
