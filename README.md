@@ -8,6 +8,208 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-10-11T12:01:44+00:00'>Oct 11th 12:01</span></td>
+<td>
+
+💬 commented on [#48: add bevy feature](https://github.com/catppuccin/rust/pull/48)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:57:09+00:00'>Oct 11th 11:57</span></td>
+<td>
+
+🚢 pushed 3 commits to `main`
+
+</td>
+<td>
+
+[icub3d/catppuccin-rust](https://github.com/icub3d/catppuccin-rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:51:02+00:00'>Oct 11th 11:51</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:51:01+00:00'>Oct 11th 11:51</span></td>
+<td>
+
+🎉 closed [#51: chore: upgrade dependencies](https://github.com/catppuccin/rust/pull/51)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:49:54+00:00'>Oct 11th 11:49</span></td>
+<td>
+
+🚀 opened [#51: chore: upgrade dependencies](https://github.com/catppuccin/rust/pull/51)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-10-11T11:44:24+00:00'>Oct 11th 11:44</span></td>
+<td>
+
+💬 commented on [#91: feat: add rgb_array function & filter](https://github.com/catppuccin/whiskers/pull/91)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:40:00+00:00'>Oct 11th 11:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[astreaprtcl/whiskers](https://github.com/astreaprtcl/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:30:15+00:00'>Oct 11th 11:30</span></td>
+<td>
+
+🚢 pushed 10 commits to `main`
+
+</td>
+<td>
+
+[astreaprtcl/whiskers](https://github.com/astreaprtcl/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:24:24+00:00'>Oct 11th 11:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:24:23+00:00'>Oct 11th 11:24</span></td>
+<td>
+
+🎉 closed [#101: chore: upgrade deps in ci & docs](https://github.com/catppuccin/whiskers/pull/101)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:24:02+00:00'>Oct 11th 11:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `chore/more-upgrades`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:23:00+00:00'>Oct 11th 11:23</span></td>
+<td>
+
+🚀 opened [#101: chore: upgrade deps in ci & docs](https://github.com/catppuccin/whiskers/pull/101)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:14:44+00:00'>Oct 11th 11:14</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:14:44+00:00'>Oct 11th 11:14</span></td>
+<td>
+
+🎉 closed [#98: chore: upgrade dependencies](https://github.com/catppuccin/whiskers/pull/98)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-11T11:12:32+00:00'>Oct 11th 11:12</span></td>
+<td>
+
+🚀 opened [#98: chore: upgrade dependencies](https://github.com/catppuccin/whiskers/pull/98)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-09-25T09:27:23+00:00'>Sep 25th 09:27</span></td>
 <td>
 
@@ -56,169 +258,6 @@
 <td>
 
 [Special-K-s-Flightsim-Bots/DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-23T14:41:32+00:00'>Sep 23rd 14:41</span></td>
-<td>
-
-💬 commented on [#89: feat: support UCIDs in pretense top 10 report](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot/pull/89)
-
-</td>
-<td>
-
-[Special-K-s-Flightsim-Bots/DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2025-09-22T13:14:33+00:00'>Sep 22nd 13:14</span></td>
-<td>
-
-🚀 opened [#89: feat: support UCIDs in pretense top 10 report](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot/pull/89)
-
-</td>
-<td>
-
-[Special-K-s-Flightsim-Bots/DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-22T13:10:45+00:00'>Sep 22nd 13:10</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/pretense-reports-ucid-support`
-
-</td>
-<td>
-
-[backwardspy/DCSServerBot](https://github.com/backwardspy/DCSServerBot)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-14T13:42:33+00:00'>Sep 14th 13:42</span></td>
-<td>
-
-💬 commented on [#2160: Xmake](https://github.com/catppuccin/catppuccin/issues/2160)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-14T13:31:44+00:00'>Sep 14th 13:31</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-14T13:31:44+00:00'>Sep 14th 13:31</span></td>
-<td>
-
-🎉 closed [#2813: chore: fix typos across codebase](https://github.com/catppuccin/catppuccin/pull/2813)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-14T13:31:31+00:00'>Sep 14th 13:31</span></td>
-<td>
-
-💬 commented on [#2813: chore: fix typos across codebase](https://github.com/catppuccin/catppuccin/pull/2813)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-14T13:29:51+00:00'>Sep 14th 13:29</span></td>
-<td>
-
-🚢 pushed 54 commits to `main`
-
-</td>
-<td>
-
-[sukrucildirr/catppuccin](https://github.com/sukrucildirr/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-14T13:26:45+00:00'>Sep 14th 13:26</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[sukrucildirr/catppuccin](https://github.com/sukrucildirr/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-14T13:22:12+00:00'>Sep 14th 13:22</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-14T13:22:11+00:00'>Sep 14th 13:22</span></td>
-<td>
-
-🎉 closed [#2890: docs(showcase): remove ccrs](https://github.com/catppuccin/catppuccin/pull/2890)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-14T13:22:06+00:00'>Sep 14th 13:22</span></td>
-<td>
-
-🚀 opened [#2890: docs(showcase): remove ccrs](https://github.com/catppuccin/catppuccin/pull/2890)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
