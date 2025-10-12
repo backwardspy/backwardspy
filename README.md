@@ -8,10 +8,10 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2025-10-11T12:01:44+00:00'>Oct 11th 12:01</span></td>
+<td><span title='2025-10-12T12:02:05+00:00'>Oct 12th 12:02</span></td>
 <td>
 
-💬 commented on [#48: add bevy feature](https://github.com/catppuccin/rust/pull/48)
+🚢 pushed 1 commit to `feat/iced`
 
 </td>
 <td>
@@ -21,20 +21,20 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-10-11T11:57:09+00:00'>Oct 11th 11:57</span></td>
+<td><span title='2025-10-12T11:54:41+00:00'>Oct 12th 11:54</span></td>
 <td>
 
-🚢 pushed 3 commits to `main`
+🚢 pushed 2 commits to `feat/iced`
 
 </td>
 <td>
 
-[icub3d/catppuccin-rust](https://github.com/icub3d/catppuccin-rust)
+[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
 <tr>
-<td><span title='2025-10-11T11:51:02+00:00'>Oct 11th 11:51</span></td>
+<td><span title='2025-10-12T11:53:48+00:00'>Oct 12th 11:53</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -47,10 +47,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-10-11T11:51:01+00:00'>Oct 11th 11:51</span></td>
+<td><span title='2025-10-12T11:53:47+00:00'>Oct 12th 11:53</span></td>
 <td>
 
-🎉 closed [#51: chore: upgrade dependencies](https://github.com/catppuccin/rust/pull/51)
+🎉 closed [#54: feat: don't include all of bevy by default](https://github.com/catppuccin/rust/pull/54)
 
 </td>
 <td>
@@ -60,10 +60,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-10-11T11:49:54+00:00'>Oct 11th 11:49</span></td>
+<td><span title='2025-10-12T11:49:04+00:00'>Oct 12th 11:49</span></td>
 <td>
 
-🚀 opened [#51: chore: upgrade dependencies](https://github.com/catppuccin/rust/pull/51)
+🚢 pushed 1 commit to `feat/light-bevy-feature`
 
 </td>
 <td>
@@ -80,7 +80,72 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2025-10-11T11:44:24+00:00'>Oct 11th 11:44</span></td>
+<td><span title='2025-10-12T11:47:28+00:00'>Oct 12th 11:47</span></td>
+<td>
+
+🚀 opened [#54: feat: don't include all of bevy by default](https://github.com/catppuccin/rust/pull/54)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T11:02:03+00:00'>Oct 12th 11:02</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T11:02:02+00:00'>Oct 12th 11:02</span></td>
+<td>
+
+🎉 closed [#102: ci: don't try and deploy docs from forks](https://github.com/catppuccin/whiskers/pull/102)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T10:59:24+00:00'>Oct 12th 10:59</span></td>
+<td>
+
+🚀 opened [#102: ci: don't try and deploy docs from forks](https://github.com/catppuccin/whiskers/pull/102)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T10:53:10+00:00'>Oct 12th 10:53</span></td>
+<td>
+
+💬 commented on [#53: feat: add iced feature](https://github.com/catppuccin/rust/pull/53)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T10:41:09+00:00'>Oct 12th 10:41</span></td>
 <td>
 
 💬 commented on [#91: feat: add rgb_array function & filter](https://github.com/catppuccin/whiskers/pull/91)
@@ -93,7 +158,72 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-10-11T11:40:00+00:00'>Oct 11th 11:40</span></td>
+<td><span title='2025-10-12T10:41:03+00:00'>Oct 12th 10:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T10:41:02+00:00'>Oct 12th 10:41</span></td>
+<td>
+
+🎉 closed [#91: feat: add rgb_array function & filter](https://github.com/catppuccin/whiskers/pull/91)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T10:40:26+00:00'>Oct 12th 10:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/iced`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T10:36:03+00:00'>Oct 12th 10:36</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/iced`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T10:35:03+00:00'>Oct 12th 10:35</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/iced`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T10:27:07+00:00'>Oct 12th 10:27</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -106,20 +236,33 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-10-11T11:30:15+00:00'>Oct 11th 11:30</span></td>
+<td><span title='2025-10-12T10:17:59+00:00'>Oct 12th 10:17</span></td>
 <td>
 
-🚢 pushed 10 commits to `main`
+💬 commented on [#50: Iced color conversion](https://github.com/catppuccin/rust/issues/50)
 
 </td>
 <td>
 
-[astreaprtcl/whiskers](https://github.com/astreaprtcl/whiskers)
+[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
 <tr>
-<td><span title='2025-10-11T11:24:24+00:00'>Oct 11th 11:24</span></td>
+<td><span title='2025-10-12T10:17:06+00:00'>Oct 12th 10:17</span></td>
+<td>
+
+🚀 opened [#53: feat: add iced feature](https://github.com/catppuccin/rust/pull/53)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T09:33:03+00:00'>Oct 12th 09:33</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -127,137 +270,7 @@
 </td>
 <td>
 
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-11T11:24:23+00:00'>Oct 11th 11:24</span></td>
-<td>
-
-🎉 closed [#101: chore: upgrade deps in ci & docs](https://github.com/catppuccin/whiskers/pull/101)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-11T11:24:02+00:00'>Oct 11th 11:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `chore/more-upgrades`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-11T11:23:00+00:00'>Oct 11th 11:23</span></td>
-<td>
-
-🚀 opened [#101: chore: upgrade deps in ci & docs](https://github.com/catppuccin/whiskers/pull/101)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-11T11:14:44+00:00'>Oct 11th 11:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-11T11:14:44+00:00'>Oct 11th 11:14</span></td>
-<td>
-
-🎉 closed [#98: chore: upgrade dependencies](https://github.com/catppuccin/whiskers/pull/98)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-11T11:12:32+00:00'>Oct 11th 11:12</span></td>
-<td>
-
-🚀 opened [#98: chore: upgrade dependencies](https://github.com/catppuccin/whiskers/pull/98)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-25T09:27:23+00:00'>Sep 25th 09:27</span></td>
-<td>
-
-💬 commented on [#594: SQL Files with diferent color](https://github.com/catppuccin/vscode/issues/594)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-25T09:27:22+00:00'>Sep 25th 09:27</span></td>
-<td>
-
-✅ closed [#594: SQL Files with diferent color](https://github.com/catppuccin/vscode/issues/594)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-24T16:00:08+00:00'>Sep 24th 16:00</span></td>
-<td>
-
-💬 commented on [#594: SQL Files with diferent color](https://github.com/catppuccin/vscode/issues/594)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-09-23T14:42:11+00:00'>Sep 23rd 14:42</span></td>
-<td>
-
-🎉 closed [#89: feat: support UCIDs in pretense top 10 report](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot/pull/89)
-
-</td>
-<td>
-
-[Special-K-s-Flightsim-Bots/DCSServerBot](https://github.com/Special-K-s-Flightsim-Bots/DCSServerBot)
+[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
@@ -271,16 +284,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d0000485198909167bb3cacf5038a5125" width="48" height="48"> | [Fear the Bones](https://open.spotify.com/track/5zLZ00aI3qGfJidtW4AZuK) | [Meteor](https://open.spotify.com/artist/3A4fNuEjrFPkY85KCSOdPb) | [Defender of the Fleet (Heatblur F-14 Original Soundtrack)](https://open.spotify.com/track/5zLZ00aI3qGfJidtW4AZuK) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a6a2af94adf1894aca5d765c" width="48" height="48"> | [r.i.p.](https://open.spotify.com/track/6G5txxoH2XisBaMRO6bX2z) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [love me ugly](https://open.spotify.com/track/6G5txxoH2XisBaMRO6bX2z) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f0d55e973f83cbfe90dded16" width="48" height="48"> | [Eden](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/track/68sLf8iqi43JZVw3eOdzwy) |
-| <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Falling](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/3GXIo7537r01UQ4vcRRypo) |
-| <img src="https://i.scdn.co/image/ab67616d00004851dbfe9a51b813ddc881d21dce" width="48" height="48"> | [Last Ride of the Day](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS) |
-| <img src="https://i.scdn.co/image/ab67616d000048515149c948fde506624246a684" width="48" height="48"> | [Kingslayer (feat. BABYMETAL)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) |
-| <img src="https://i.scdn.co/image/ab67616d0000485166a38b753013c0e66084830c" width="48" height="48"> | [Son of Odin](https://open.spotify.com/track/1d17u8gNyjAwhp9N9C7Io5) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Prophecy of Ragnarök](https://open.spotify.com/track/1d17u8gNyjAwhp9N9C7Io5) |
-| <img src="https://i.scdn.co/image/ab67616d000048511b1d6c550aaaae5acf220e84" width="48" height="48"> | [Roller Mobster](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/track/7oxnK2wg8qFv8EXyyxKDJ4) |
-| <img src="https://i.scdn.co/image/ab67616d0000485199d9997692e9264812e160fe" width="48" height="48"> | [Ambiramus](https://open.spotify.com/track/4wxm46qMm1P7JH1ivm1BQ2) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Ategnatos](https://open.spotify.com/track/4wxm46qMm1P7JH1ivm1BQ2) |
-| <img src="https://i.scdn.co/image/ab67616d0000485139af9a0f9ce131e3e9c92388" width="48" height="48"> | [Himmelsrand](https://open.spotify.com/track/7ldJhE5mB9ukNh3OjuX85T) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Waldschrein](https://open.spotify.com/track/7ldJhE5mB9ukNh3OjuX85T) |
+| <img src="https://i.scdn.co/image/ab67616d000048513b3b24d7997db331a6e841d3" width="48" height="48"> | [Windfall](https://open.spotify.com/track/3A3ASKeoF7yvQGuMRUWKxV) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Unity - 10th Anniversary Compilation](https://open.spotify.com/track/3A3ASKeoF7yvQGuMRUWKxV) |
+| <img src="https://i.scdn.co/image/ab67616d000048511942f0dddfa48cf555ea3521" width="48" height="48"> | [Miami Fever](https://open.spotify.com/track/68LHOqE56Zwd1baD2RqBEp) | [Jeremiah Kane](https://open.spotify.com/artist/4wKbEwlRYNLlwUu9OCgLBr) | [All or Nothing](https://open.spotify.com/track/68LHOqE56Zwd1baD2RqBEp) |
+| <img src="https://i.scdn.co/image/ab67616d00004851578f55dd652ab0dd53843b2d" width="48" height="48"> | [A Real Life](https://open.spotify.com/track/4mdjTz7RhMC1MPPVu8jNYR) | [Greek Fire](https://open.spotify.com/artist/3sqggE8rqIXZjB68hPbhen) | [A Real Life](https://open.spotify.com/track/4mdjTz7RhMC1MPPVu8jNYR) |
+| <img src="https://i.scdn.co/image/ab67616d00004851076525804e3bea5053f5f564" width="48" height="48"> | [Regain Control](https://open.spotify.com/track/5UltMpBmRM8jRLgdSCO2Dp) | [Shirobon](https://open.spotify.com/artist/2OgP0RGmDrXN9kOWRNfEuE) | [Special Selection, Vol. 1](https://open.spotify.com/track/5UltMpBmRM8jRLgdSCO2Dp) |
+| <img src="https://i.scdn.co/image/ab67616d000048512a3bd2d63515c7efce93a238" width="48" height="48"> | [Legends Never Die (Remix)](https://open.spotify.com/track/5481KTfiIDDOvTqgtevdIj) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Legends Never Die (Remix)](https://open.spotify.com/track/5481KTfiIDDOvTqgtevdIj) |
+| <img src="https://i.scdn.co/image/ab67616d00004851b35ffa47d027f5cac4cc2fc9" width="48" height="48"> | [Megalovania](https://open.spotify.com/track/4e2gYDlR0iCFTk7GYCtXCX) | [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx), [ThunderScott](https://open.spotify.com/artist/4CH6edH0M0SHdg8s18Tdto) | [Megalovania](https://open.spotify.com/track/4e2gYDlR0iCFTk7GYCtXCX) |
+| <img src="https://i.scdn.co/image/ab67616d00004851187936bec130421aba87e27c" width="48" height="48"> | [Nothing Stopping Me](https://open.spotify.com/track/1QJN61zuPWRy6nj58ndREm) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Kat Nestel](https://open.spotify.com/artist/2S5DXnDpQlpDXFUcvqAb4E) | [Nothing Stopping Me](https://open.spotify.com/track/1QJN61zuPWRy6nj58ndREm) |
+| <img src="https://i.scdn.co/image/ab67616d00004851d8d5509aa29ae70a13751f18" width="48" height="48"> | [Hey Mario](https://open.spotify.com/track/0ykhBrErmom80QLtmu9NLH) | [Patent Pending](https://open.spotify.com/artist/0xNdN9NbR572rKrGQBjPlH) | [Brighter](https://open.spotify.com/track/0ykhBrErmom80QLtmu9NLH) |
+| <img src="https://i.scdn.co/image/ab67616d000048512aebc24a73d728ab67d8088c" width="48" height="48"> | [Light Up The Night](https://open.spotify.com/track/0b4KsOdnrZlfE5VUAAzxv1) | [The Protomen](https://open.spotify.com/artist/2rVDi66o7gdeUq1OHUzM0W) | [Act II: The Father Of Death](https://open.spotify.com/track/0b4KsOdnrZlfE5VUAAzxv1) |
+| <img src="https://i.scdn.co/image/ab67616d00004851141f58e0a5a6b0983a53f121" width="48" height="48"> | [Memory Reset](https://open.spotify.com/track/2SDKwvo7qZyqqVxFX1IC4P) | [Turboslash](https://open.spotify.com/artist/1j0ithcigqOGIxBumPtAqX) | [EP II](https://open.spotify.com/track/2SDKwvo7qZyqqVxFX1IC4P) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
