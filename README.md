@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-10-12T17:07:38+00:00'>Oct 12th 17:07</span></td>
+<td>
+
+✅ closed [#595: This theme will cause current VSCode to display a black border under the `default` settings](https://github.com/catppuccin/vscode/issues/595)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T17:07:38+00:00'>Oct 12th 17:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T17:07:38+00:00'>Oct 12th 17:07</span></td>
+<td>
+
+🎉 closed [#598: fix: leave window border colours as default](https://github.com/catppuccin/vscode/pull/598)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-10-12T13:53:15+00:00'>Oct 12th 13:53</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-10-12T13:05:58+00:00'>Oct 12th 13:05</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-10-12T11:53:48+00:00'>Oct 12th 11:53</span></td>
 <td>
@@ -219,58 +258,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T10:40:26+00:00'>Oct 12th 10:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/iced`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T10:36:03+00:00'>Oct 12th 10:36</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/iced`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T10:35:03+00:00'>Oct 12th 10:35</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/iced`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T10:27:07+00:00'>Oct 12th 10:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[astreaprtcl/whiskers](https://github.com/astreaprtcl/whiskers)
 
 </td>
 </tr>
