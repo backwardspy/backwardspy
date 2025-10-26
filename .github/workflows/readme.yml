@@ -1,27 +1,26 @@
 on:
   push:
     branches:
-      - "main"
+      - main
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: 0 */6 * * *
 
 jobs:
   readme:
-    runs-on: "ubuntu-latest"
+    runs-on: ubuntu-latest
     steps:
-      - uses: "actions/checkout@v4"
-      - uses: "actions/setup-python@v5"
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
-          python-version: "3.12"
-          cache: "pip"
-      - name: "Install dependencies"
-        run: "pip install --requirement requirements.txt"
-      - name: "Generate new README.md"
-        run: "python generate.py"
+          python-version-file: ".python-version"
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+      - run: "uv run generate.py"
         env:
           SPOTIPY_CLIENT_SECRET: "${{ secrets.SPOTIPY_CLIENT_SECRET }}"
           SPOTIPY_CACHE: "${{ secrets.SPOTIPY_CACHE }}"
-      - uses: "stefanzweifel/git-auto-commit-action@v5"
+      - uses: "stefanzweifel/git-auto-commit-action@v7"
         with:
           commit_message: "chore: update readme"

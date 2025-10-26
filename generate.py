@@ -23,7 +23,7 @@ TEMPLATE_ENV = jinja2.Environment(
 )
 
 
-def write(data: dict[str, Any], path: Path):
+def write(data: Any, path: Path):
     if DATA_PATH not in path.parents:
         raise ValueError(f"invalid path: {path} - must be a child of {DATA_PATH}")
 
@@ -86,11 +86,23 @@ def repo_linkify(repo: dict[str, Any]) -> str:
 
 
 def issue_linkify(issue: dict[str, Any]) -> str:
-    return linkify(f"#{issue['number']}: {issue['title']}", issue["html_url"])
+    if title := issue.get("title"):
+        title = title
+        html_url = issue["html_url"]
+    else:
+        url = issue["url"]
+        resp = httpx.get(url)
+        resp.raise_for_status()
+        issue_data = resp.json()
+        title = issue_data["title"]
+        html_url = issue_data["html_url"]
+
+    return linkify(f"#{issue['number']}: {title}", html_url)
 
 
 def dateify(date: str) -> str:
     dt = pendulum.parse(date)
+    assert isinstance(dt, pendulum.DateTime)
     return f"<span title='{dt.to_rfc3339_string()}'>{dt.format('MMM Do HH:mm')}</span>"
 
 
@@ -98,7 +110,7 @@ def generate_github_section() -> str:
     with (DATA_PATH / "github.json").open() as f:
         data = json.load(f)
 
-    entries = []
+    entries: list[tuple[str, str, str]] = []
 
     # grab interesting bits for events we care about
     for event in data:
@@ -115,7 +127,9 @@ def generate_github_section() -> str:
             case "CreateEvent":  # a git branch or tag is created
                 if payload["ref_type"] == "repository":
                     enter("🪄 created repository")
-            case "IssueCommentEvent":  # activity related to an issue or pull request comment
+            case (
+                "IssueCommentEvent"
+            ):  # activity related to an issue or pull request comment
                 link = issue_linkify(payload["issue"])
                 if payload["action"] == "created":
                     enter(f"💬 commented on {link}")
@@ -134,8 +148,10 @@ def generate_github_section() -> str:
             case "PullRequestReviewEvent":  # activity related to pull request reviews
                 link = issue_linkify(payload["pull_request"])
                 enter(f"🔍 reviewed {link}")
-            case "PushEvent":  # one or more commits are pushed to a repository branch or tag.
-                size: int = payload["size"]
+            case (
+                "PushEvent"
+            ):  # one or more commits are pushed to a repository branch or tag.
+                size: int = payload.get("size", 1)
                 commits = "commits" if size > 1 else "commit"
                 ref = payload["ref"].removeprefix("refs/heads/")
                 enter(f"🚢 pushed {size} {commits} to `{ref}`")
@@ -143,6 +159,8 @@ def generate_github_section() -> str:
                 enter(f"📦 released {payload['release']['tag_name']}")
             case "WatchEvent":  # when someone stars a repository
                 enter("⭐ starred a repository")
+            case _:
+                pass
 
     template = TEMPLATE_ENV.get_template("activity_table.md")
     return template.render(entries=entries)

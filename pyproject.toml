@@ -1,12 +1,12 @@
-[build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "readme"
-version = "1.0.0"
-requires-python = "~=3.12"
-dependencies = ["httpx", "Jinja2", "pendulum", "spotipy"]
-
-[tool.setuptools.packages.find]
-include = ["generate.py"]
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "jinja2>=3.1.6",
+    "pendulum>=3.1.0",
+    "spotipy>=2.25.1",
+]

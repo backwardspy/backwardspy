@@ -8,6 +8,247 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-10-25T13:17:11+00:00'>Oct 25th 13:17</span></td>
+<td>
+
+💬 commented on [#108: Check for empty stderr in all happy paths](https://github.com/catppuccin/whiskers/pull/108)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-25T13:17:06+00:00'>Oct 25th 13:17</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-25T13:17:06+00:00'>Oct 25th 13:17</span></td>
+<td>
+
+✅ closed [#72: assert stderr in all cli tests](https://github.com/catppuccin/whiskers/issues/72)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-25T13:13:52+00:00'>Oct 25th 13:13</span></td>
+<td>
+
+🚢 pushed 1 commit to `improve-tests-asserts`
+
+</td>
+<td>
+
+[raphaelts3/whiskers](https://github.com/raphaelts3/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-25T13:01:07+00:00'>Oct 25th 13:01</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-10-24T20:05:41+00:00'>Oct 24th 20:05</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-23T10:53:25+00:00'>Oct 23rd 10:53</span></td>
+<td>
+
+💬 commented on [#55: Add a separate branch for iced 14](https://github.com/catppuccin/rust/issues/55)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-22T19:43:12+00:00'>Oct 22nd 19:43</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-17T08:03:51+00:00'>Oct 17th 08:03</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-15T20:55:01+00:00'>Oct 15th 20:55</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-15T20:50:40+00:00'>Oct 15th 20:50</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-15T20:42:55+00:00'>Oct 15th 20:42</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-15T20:41:30+00:00'>Oct 15th 20:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-15T20:38:11+00:00'>Oct 15th 20:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-13T19:03:31+00:00'>Oct 13th 19:03</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-13T17:17:37+00:00'>Oct 13th 17:17</span></td>
+<td>
+
+✅ closed [#50: Iced color conversion](https://github.com/catppuccin/rust/issues/50)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-13T17:17:36+00:00'>Oct 13th 17:17</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-12T17:07:38+00:00'>Oct 12th 17:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-10-12T17:07:38+00:00'>Oct 12th 17:07</span></td>
 <td>
 
@@ -21,33 +262,7 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-10-12T17:07:38+00:00'>Oct 12th 17:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T17:07:38+00:00'>Oct 12th 17:07</span></td>
-<td>
-
-🎉 closed [#598: fix: leave window border colours as default](https://github.com/catppuccin/vscode/pull/598)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T13:53:15+00:00'>Oct 12th 13:53</span></td>
+<td><span title='2025-10-12T13:53:14+00:00'>Oct 12th 13:53</span></td>
 <td>
 
 💬 commented on [#595: This theme will cause current VSCode to display a black border under the `default` settings](https://github.com/catppuccin/vscode/issues/595)
@@ -60,7 +275,7 @@
 </td>
 </tr>
 <tr>
-<td><span title='2025-10-12T13:51:52+00:00'>Oct 12th 13:51</span></td>
+<td><span title='2025-10-12T13:51:50+00:00'>Oct 12th 13:51</span></td>
 <td>
 
 🚀 opened [#598: fix: leave window border colours as default](https://github.com/catppuccin/vscode/pull/598)
@@ -69,195 +284,6 @@
 <td>
 
 [catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2025-10-12T13:05:58+00:00'>Oct 12th 13:05</span></td>
-<td>
-
-💬 commented on [#595: This theme will cause current VSCode to display a black border under the `default` settings](https://github.com/catppuccin/vscode/issues/595)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T12:02:05+00:00'>Oct 12th 12:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/iced`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T11:54:41+00:00'>Oct 12th 11:54</span></td>
-<td>
-
-🚢 pushed 2 commits to `feat/iced`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T11:53:48+00:00'>Oct 12th 11:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T11:53:47+00:00'>Oct 12th 11:53</span></td>
-<td>
-
-🎉 closed [#54: feat: don't include all of bevy by default](https://github.com/catppuccin/rust/pull/54)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T11:49:04+00:00'>Oct 12th 11:49</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/light-bevy-feature`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T11:47:28+00:00'>Oct 12th 11:47</span></td>
-<td>
-
-🚀 opened [#54: feat: don't include all of bevy by default](https://github.com/catppuccin/rust/pull/54)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T11:02:03+00:00'>Oct 12th 11:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T11:02:02+00:00'>Oct 12th 11:02</span></td>
-<td>
-
-🎉 closed [#102: ci: don't try and deploy docs from forks](https://github.com/catppuccin/whiskers/pull/102)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T10:59:24+00:00'>Oct 12th 10:59</span></td>
-<td>
-
-🚀 opened [#102: ci: don't try and deploy docs from forks](https://github.com/catppuccin/whiskers/pull/102)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T10:53:10+00:00'>Oct 12th 10:53</span></td>
-<td>
-
-💬 commented on [#53: feat: add iced feature](https://github.com/catppuccin/rust/pull/53)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T10:41:09+00:00'>Oct 12th 10:41</span></td>
-<td>
-
-💬 commented on [#91: feat: add rgb_array function & filter](https://github.com/catppuccin/whiskers/pull/91)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T10:41:03+00:00'>Oct 12th 10:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T10:41:02+00:00'>Oct 12th 10:41</span></td>
-<td>
-
-🎉 closed [#91: feat: add rgb_array function & filter](https://github.com/catppuccin/whiskers/pull/91)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
