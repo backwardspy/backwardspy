@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-10-26T11:38:05+00:00'>Oct 26th 11:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-26T11:33:16+00:00'>Oct 26th 11:33</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-26T11:32:04+00:00'>Oct 26th 11:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-26T11:25:50+00:00'>Oct 26th 11:25</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-26T09:46:06+00:00'>Oct 26th 09:46</span></td>
+<td>
+
+🎉 closed [#604: Added table of contents in readme](https://github.com/catppuccin/vscode/pull/604)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2025-10-26T09:47:13+00:00'>Oct 26th 09:47</span></td>
+<td>
+
+💬 commented on [#604: Added table of contents in readme](https://github.com/catppuccin/vscode/pull/604)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-10-25T13:17:11+00:00'>Oct 25th 13:17</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-10-24T20:05:41+00:00'>Oct 24th 20:05</span></td>
 <td>
@@ -209,84 +287,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-10-13T17:17:37+00:00'>Oct 13th 17:17</span></td>
-<td>
-
-✅ closed [#50: Iced color conversion](https://github.com/catppuccin/rust/issues/50)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-13T17:17:36+00:00'>Oct 13th 17:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T17:07:38+00:00'>Oct 12th 17:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T17:07:38+00:00'>Oct 12th 17:07</span></td>
-<td>
-
-✅ closed [#595: This theme will cause current VSCode to display a black border under the `default` settings](https://github.com/catppuccin/vscode/issues/595)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T13:53:14+00:00'>Oct 12th 13:53</span></td>
-<td>
-
-💬 commented on [#595: This theme will cause current VSCode to display a black border under the `default` settings](https://github.com/catppuccin/vscode/issues/595)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-12T13:51:50+00:00'>Oct 12th 13:51</span></td>
-<td>
-
-🚀 opened [#598: fix: leave window border colours as default](https://github.com/catppuccin/vscode/pull/598)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -297,16 +297,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d000048516cc5751eb3196b168c5a92ba" width="48" height="48"> | [You Can Do It (feat. Zabutom)](https://open.spotify.com/track/65kdXrBLzZ9AtEf7djTSlB) | [Dubmood](https://open.spotify.com/artist/4D2G48IdJKhcdZ5c1dqp5Z), [zabutom](https://open.spotify.com/artist/3z9XCKFZ4a6xxvMK9haQy5) | [Lost Floppies Vol 1](https://open.spotify.com/track/65kdXrBLzZ9AtEf7djTSlB) |
-| <img src="https://i.scdn.co/image/ab67616d000048513cc81a9fd588ad6f314e8d5d" width="48" height="48"> | [Speak Slow](https://open.spotify.com/track/5PzYC4MeSTqz5L8ab6FnRX) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/track/5PzYC4MeSTqz5L8ab6FnRX) |
-| <img src="https://i.scdn.co/image/ab67616d00004851af94953c36d15db60fe660b9" width="48" height="48"> | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) |
-| <img src="https://i.scdn.co/image/ab67616d0000485122cfd1daab517361e7987929" width="48" height="48"> | [Shi No Barado](https://open.spotify.com/track/028eHoODO39uXKd2UGYq4t) | [Area 11](https://open.spotify.com/artist/3jULn43a6xfzqleyeFjPIq), [Beckii Cruel](https://open.spotify.com/artist/292ZlwqNqc8lbEvzYN82Ey) | [All the Lights in the Sky](https://open.spotify.com/track/028eHoODO39uXKd2UGYq4t) |
-| <img src="https://i.scdn.co/image/ab67616d0000485107673f1b3156fd37b59a0c78" width="48" height="48"> | [80386](https://open.spotify.com/track/0qI8SA8nRvRDYv2krkrJOU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80386](https://open.spotify.com/track/0qI8SA8nRvRDYv2krkrJOU) |
-| <img src="https://i.scdn.co/image/ab67616d000048517b798973ecda1f4c0614b6bd" width="48" height="48"> | [Graves](https://open.spotify.com/track/5zXrH9sl9GZNtWMC5y1sFa) | [The Color and Sound](https://open.spotify.com/artist/3yyyf5AqMR00XBVzVfSt5r) | [Spring Tour EP](https://open.spotify.com/track/5zXrH9sl9GZNtWMC5y1sFa) |
-| <img src="https://i.scdn.co/image/ab67616d00004851d87524f0967a67fbf691a146" width="48" height="48"> | [Final Blast](https://open.spotify.com/track/12UYnL3q2Xm3U7gFCRfAKs) | [zabutom](https://open.spotify.com/artist/3z9XCKFZ4a6xxvMK9haQy5) | [Zeta Force](https://open.spotify.com/track/12UYnL3q2Xm3U7gFCRfAKs) |
-| <img src="https://i.scdn.co/image/ab67616d000048518997b5e2a99266c9b4b21247" width="48" height="48"> | [We Built This City](https://open.spotify.com/track/4wX1Qkf3JP9Ziy0Tb2jkfS) | [Ninja Sex Party](https://open.spotify.com/artist/3jsyANBBy6gOZUSQhiGclx) | [Under the Covers, Vol. III](https://open.spotify.com/track/4wX1Qkf3JP9Ziy0Tb2jkfS) |
-| <img src="https://i.scdn.co/image/ab67616d000048510583618ae0ef3c3589d8c48a" width="48" height="48"> | [Build The Cities (Empire of Sound)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) | [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Build The Cities (Reconstructions)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) |
-| <img src="https://i.scdn.co/image/ab67616d000048513f4f07efbead035f24a09b5d" width="48" height="48"> | [Into The Dream](https://open.spotify.com/track/7ciuMNLqauyzbbBZHMXoGB) | [Jaroslav Beck](https://open.spotify.com/artist/2qaihH7C0RAiTnCDHYTkxY), [Jakub Tirco](https://open.spotify.com/artist/0q1Ueb46rFG29potDJywoU) | [Into The Dream](https://open.spotify.com/track/7ciuMNLqauyzbbBZHMXoGB) |
+| <img src="https://i.scdn.co/image/ab67616d0000485180b2a19dd87cd9914a01d223" width="48" height="48"> | [Jackpot](https://open.spotify.com/track/3msQJEmoSGNJGvyDCMMafB) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Jackpot](https://open.spotify.com/track/3msQJEmoSGNJGvyDCMMafB) |
+| <img src="https://i.scdn.co/image/ab67616d000048513727976b1db5fc2592e5a0b0" width="48" height="48"> | [Caught by My Shadow](https://open.spotify.com/track/1W2ViUGBEyp02hg2p45mzL) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Momentary Masters](https://open.spotify.com/track/1W2ViUGBEyp02hg2p45mzL) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a7d1a199d31087f384f9aad5" width="48" height="48"> | [Bad Apple!!](https://open.spotify.com/track/3u2TWF5Sr8rdRSfz4fZMfF) | [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx), [Cristina Vee](https://open.spotify.com/artist/2ylgnsIpbjX8ucLRpg9Vir) | [Bullet Hell](https://open.spotify.com/track/3u2TWF5Sr8rdRSfz4fZMfF) |
+| <img src="https://i.scdn.co/image/ab67616d00004851519839ca24ebd7d6f901858e" width="48" height="48"> | [Million Days](https://open.spotify.com/track/0DzPnTBSmVRKBQAmH3EomR) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Olivia Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Million Days](https://open.spotify.com/track/0DzPnTBSmVRKBQAmH3EomR) |
+| <img src="https://i.scdn.co/image/ab67616d00004851520e5e24b197940bf82c5d6b" width="48" height="48"> | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) |
+| <img src="https://i.scdn.co/image/ab67616d00004851bdcdaebaf352a35dd5de01f0" width="48" height="48"> | [Chiptune](https://open.spotify.com/track/4EuPMzVjFBkGdbyKJHFoeg) | [Dubmood](https://open.spotify.com/artist/4D2G48IdJKhcdZ5c1dqp5Z) | [Lost Floppies Vol 2](https://open.spotify.com/track/4EuPMzVjFBkGdbyKJHFoeg) |
+| <img src="https://i.scdn.co/image/ab67616d00004851186660bbf3b0dd9a5195e182" width="48" height="48"> | [again&again](https://open.spotify.com/track/4hDXe9C6UbApzZhw5AXbC7) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [fever](https://open.spotify.com/track/4hDXe9C6UbApzZhw5AXbC7) |
+| <img src="https://i.scdn.co/image/ab67616d00004851daccecee61b39522fbae9884" width="48" height="48"> | [The Cult of Dionysus](https://open.spotify.com/track/08KTQSs3ickNki7FFTb6fY) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM), [ORION](https://open.spotify.com/artist/0G9jJv1t51ZzzHkqlK0olw), [Linda XO](https://open.spotify.com/artist/5Ky8EGI88BSDV3UIqnxE50) | [Cosmicandy](https://open.spotify.com/track/08KTQSs3ickNki7FFTb6fY) |
+| <img src="https://i.scdn.co/image/ab67616d0000485142b0696dd9f10f6cea96e10e" width="48" height="48"> | [Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]](https://open.spotify.com/track/37s8uwIjw72XfMseKJXNOO) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]](https://open.spotify.com/track/37s8uwIjw72XfMseKJXNOO) |
+| <img src="https://i.scdn.co/image/ab67616d00004851b35a97f364865a2cb4e5a194" width="48" height="48"> | [Walk Thru Fire](https://open.spotify.com/track/2wQ411UQL2MRsdAgPRUstT) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Walk Thru Fire](https://open.spotify.com/track/2wQ411UQL2MRsdAgPRUstT) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
