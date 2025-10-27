@@ -310,6 +310,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485146635c437c776f126b5440af" width="48" height="48"> | [Dreams pt. II](https://open.spotify.com/track/7kaux342y0B446JgJgojAi) | [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Dreams pt. II](https://open.spotify.com/track/7kaux342y0B446JgJgojAi) |
 | <img src="https://i.scdn.co/image/ab67616d000048513c6dabf0350d1933d01542d4" width="48" height="48"> | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) |
 | <img src="https://i.scdn.co/image/ab67616d00004851964df1d62e0bf30a576597f3" width="48" height="48"> | [Closer to the Truth](https://open.spotify.com/track/1Ax7HKJ0dAoZUKvcm2Njcc) | [Cryoshell](https://open.spotify.com/artist/65jgj6SqhyQN9TEh5g0Unu) | [Cryoshell](https://open.spotify.com/track/1Ax7HKJ0dAoZUKvcm2Njcc) |
 | <img src="https://i.scdn.co/image/ab67616d000048517504abde2a0ccdc54738ba9f" width="48" height="48"> | [astral blast](https://open.spotify.com/track/0VCuHOFs3ujVDTawqtgXef) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [ウィーアブー・トラッシュ](https://open.spotify.com/track/0VCuHOFs3ujVDTawqtgXef) |
@@ -319,7 +320,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851a7d1a199d31087f384f9aad5" width="48" height="48"> | [Bad Apple!!](https://open.spotify.com/track/3u2TWF5Sr8rdRSfz4fZMfF) | [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx), [Cristina Vee](https://open.spotify.com/artist/2ylgnsIpbjX8ucLRpg9Vir) | [Bullet Hell](https://open.spotify.com/track/3u2TWF5Sr8rdRSfz4fZMfF) |
 | <img src="https://i.scdn.co/image/ab67616d00004851519839ca24ebd7d6f901858e" width="48" height="48"> | [Million Days](https://open.spotify.com/track/0DzPnTBSmVRKBQAmH3EomR) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [Olivia Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Million Days](https://open.spotify.com/track/0DzPnTBSmVRKBQAmH3EomR) |
 | <img src="https://i.scdn.co/image/ab67616d00004851520e5e24b197940bf82c5d6b" width="48" height="48"> | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) |
-| <img src="https://i.scdn.co/image/ab67616d00004851bdcdaebaf352a35dd5de01f0" width="48" height="48"> | [Chiptune](https://open.spotify.com/track/4EuPMzVjFBkGdbyKJHFoeg) | [Dubmood](https://open.spotify.com/artist/4D2G48IdJKhcdZ5c1dqp5Z) | [Lost Floppies Vol 2](https://open.spotify.com/track/4EuPMzVjFBkGdbyKJHFoeg) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
