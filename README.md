@@ -310,6 +310,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485153100a2a688ae4a0558fab17" width="48" height="48"> | [Red Baron](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cca0f063b8f4af51b016b441" width="48" height="48"> | [Hammerhead](https://open.spotify.com/track/6JXGqMLXr0WhiJ6rtI8S4W) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Emotion & Commotion](https://open.spotify.com/track/6JXGqMLXr0WhiJ6rtI8S4W) |
 | <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Blue Wind - Live](https://open.spotify.com/track/6yqYmB8Lc9hiKlQVpZqpuA) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/6yqYmB8Lc9hiKlQVpZqpuA) |
 | <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Scatterbrain - Live](https://open.spotify.com/track/7ovpaEYE3v9G3SSh2k0UIc) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/7ovpaEYE3v9G3SSh2k0UIc) |
@@ -319,7 +320,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Earth (Still Our Only Home) - Live](https://open.spotify.com/track/1yVRRQJFlj6TPchDJ32k5C) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/1yVRRQJFlj6TPchDJ32k5C) |
 | <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Freeway Jam - Live](https://open.spotify.com/track/4wY4zMmXhkcP3iScBBK8R0) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/4wY4zMmXhkcP3iScBBK8R0) |
 | <img src="https://i.scdn.co/image/ab67616d0000485146635c437c776f126b5440af" width="48" height="48"> | [Dreams pt. II](https://open.spotify.com/track/7kaux342y0B446JgJgojAi) | [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Dreams pt. II](https://open.spotify.com/track/7kaux342y0B446JgJgojAi) |
-| <img src="https://i.scdn.co/image/ab67616d000048513c6dabf0350d1933d01542d4" width="48" height="48"> | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
