@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-10-31T16:36:52+00:00'>Oct 31st 16:36</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-31T13:04:58+00:00'>Oct 31st 13:04</span></td>
+<td>
+
+💬 commented on [#29: Allow to remake it with vim-devel and add it to vim/colorschemes?](https://github.com/catppuccin/vim/issues/29)
+
+</td>
+<td>
+
+[catppuccin/vim](https://github.com/catppuccin/vim)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-10-31T13:03:30+00:00'>Oct 31st 13:03</span></td>
+<td>
+
+💬 commented on [#286: Add Catppuccin Theme in Draft](https://github.com/vim/colorschemes/pull/286)
+
+</td>
+<td>
+
+[vim/colorschemes](https://github.com/vim/colorschemes)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-10-31T09:28:52+00:00'>Oct 31st 09:28</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-10-26T12:06:33+00:00'>Oct 26th 12:06</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-10-26T11:33:16+00:00'>Oct 26th 11:33</span></td>
 <td>
@@ -276,45 +315,6 @@
 </tr>
 <tr>
 <td><span title='2025-10-15T20:50:40+00:00'>Oct 15th 20:50</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-15T20:42:55+00:00'>Oct 15th 20:42</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-15T20:41:30+00:00'>Oct 15th 20:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-15T20:38:11+00:00'>Oct 15th 20:38</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
