@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-11-03T09:52:35+00:00'>Nov 3rd 09:52</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-11-03T09:49:02+00:00'>Nov 3rd 09:49</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-10-31T16:36:52+00:00'>Oct 31st 16:36</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-10-31T09:28:52+00:00'>Oct 31st 09:28</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-10-26T12:06:33+00:00'>Oct 26th 12:06</span></td>
 <td>
@@ -289,32 +315,6 @@
 </tr>
 <tr>
 <td><span title='2025-10-17T08:03:51+00:00'>Oct 17th 08:03</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-15T20:55:01+00:00'>Oct 15th 20:55</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-15T20:50:40+00:00'>Oct 15th 20:50</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
