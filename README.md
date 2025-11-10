@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-11-10T10:05:29+00:00'>Nov 10th 10:05</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-11-03T09:52:35+00:00'>Nov 3rd 09:52</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-10-31T13:03:30+00:00'>Oct 31st 13:03</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-10-31T09:28:52+00:00'>Oct 31st 09:28</span></td>
 <td>
@@ -313,19 +326,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-10-17T08:03:51+00:00'>Oct 17th 08:03</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -336,16 +336,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851076525804e3bea5053f5f564" width="48" height="48"> | [Born Survivor](https://open.spotify.com/track/348ZvJUcSWBkMqDF2Z0pG9) | [Shirobon](https://open.spotify.com/artist/2OgP0RGmDrXN9kOWRNfEuE) | [Special Selection, Vol. 1](https://open.spotify.com/track/348ZvJUcSWBkMqDF2Z0pG9) |
+| <img src="https://i.scdn.co/image/ab67616d00004851520e5e24b197940bf82c5d6b" width="48" height="48"> | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) |
+| <img src="https://i.scdn.co/image/ab67616d00004851fba07ca3a95d2b367c91579e" width="48" height="48"> | [Snowblind](https://open.spotify.com/track/2beZ579sBbQeEMyUVLhgK1) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Snowblind Legacy](https://open.spotify.com/track/2beZ579sBbQeEMyUVLhgK1) |
+| <img src="https://i.scdn.co/image/ab67616d000048516e2176435035a72d9b4a3f16" width="48" height="48"> | [Invincible](https://open.spotify.com/track/2JLAOMgm6XnsPrMXESyfrB) | [Deaf Kev](https://open.spotify.com/artist/7kANMNctYR16urrVo7GTSR) | [Invincible](https://open.spotify.com/track/2JLAOMgm6XnsPrMXESyfrB) |
+| <img src="https://i.scdn.co/image/ab67616d000048510583618ae0ef3c3589d8c48a" width="48" height="48"> | [Build The Cities (Empire of Sound)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) | [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Build The Cities (Reconstructions)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) |
+| <img src="https://i.scdn.co/image/ab67616d00004851bf68e750cda326bb7303792e" width="48" height="48"> | [Brain Power - Long Version](https://open.spotify.com/track/227AlkDHWM5G2tejvX5EKZ) | [NOMA](https://open.spotify.com/artist/7gissmIvS8WFUpEZnpSPMF) | [Chronikle](https://open.spotify.com/track/227AlkDHWM5G2tejvX5EKZ) |
+| <img src="https://i.scdn.co/image/ab67616d00004851087555241b0ddb30f5455030" width="48" height="48"> | [Vertigo](https://open.spotify.com/track/5f1qCD8JhSU1frlTwk6hHW) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Vertigo](https://open.spotify.com/track/5f1qCD8JhSU1frlTwk6hHW) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f9e199cecd832d8c7c6513b0" width="48" height="48"> | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) |
+| <img src="https://i.scdn.co/image/ab67616d00004851cb7523307aac3e10b66bef40" width="48" height="48"> | [Paralyzed](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Gravity](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) |
 | <img src="https://i.scdn.co/image/ab67616d0000485153100a2a688ae4a0558fab17" width="48" height="48"> | [Red Baron](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) |
-| <img src="https://i.scdn.co/image/ab67616d00004851cca0f063b8f4af51b016b441" width="48" height="48"> | [Hammerhead](https://open.spotify.com/track/6JXGqMLXr0WhiJ6rtI8S4W) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Emotion & Commotion](https://open.spotify.com/track/6JXGqMLXr0WhiJ6rtI8S4W) |
-| <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Blue Wind - Live](https://open.spotify.com/track/6yqYmB8Lc9hiKlQVpZqpuA) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/6yqYmB8Lc9hiKlQVpZqpuA) |
-| <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Scatterbrain - Live](https://open.spotify.com/track/7ovpaEYE3v9G3SSh2k0UIc) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/7ovpaEYE3v9G3SSh2k0UIc) |
-| <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Darkness / Earth In Search of a Sun - Live](https://open.spotify.com/track/3eh4zT3rJbOtUmYHNyESee) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/3eh4zT3rJbOtUmYHNyESee) |
-| <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Full Moon Boogie - Live](https://open.spotify.com/track/7iasgCBUG2E9z8G0Iu3uWS) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/7iasgCBUG2E9z8G0Iu3uWS) |
-| <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [She's a Woman - Live](https://open.spotify.com/track/5X58TTjdm2JmA0kbePsvre) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/5X58TTjdm2JmA0kbePsvre) |
-| <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Earth (Still Our Only Home) - Live](https://open.spotify.com/track/1yVRRQJFlj6TPchDJ32k5C) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/1yVRRQJFlj6TPchDJ32k5C) |
-| <img src="https://i.scdn.co/image/ab67616d00004851958d88f52ba1b30ccf63b13b" width="48" height="48"> | [Freeway Jam - Live](https://open.spotify.com/track/4wY4zMmXhkcP3iScBBK8R0) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Jeff Beck With The Jan Hammer Group Live](https://open.spotify.com/track/4wY4zMmXhkcP3iScBBK8R0) |
-| <img src="https://i.scdn.co/image/ab67616d0000485146635c437c776f126b5440af" width="48" height="48"> | [Dreams pt. II](https://open.spotify.com/track/7kaux342y0B446JgJgojAi) | [Sara Skinner](https://open.spotify.com/artist/1HQ26IHQ1Nu0Tq7EE7DV6y), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Dreams pt. II](https://open.spotify.com/track/7kaux342y0B446JgJgojAi) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
