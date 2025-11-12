@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-11-12T12:17:50+00:00'>Nov 12th 12:17</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-11-10T10:05:29+00:00'>Nov 10th 10:05</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-10-31T13:04:58+00:00'>Oct 31st 13:04</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-10-31T13:03:30+00:00'>Oct 31st 13:03</span></td>
 <td>
@@ -310,19 +323,6 @@
 <td>
 
 [catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-22T19:43:12+00:00'>Oct 22nd 19:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/dcs-rich-presence](https://github.com/backwardspy/dcs-rich-presence)
 
 </td>
 </tr>
