@@ -336,6 +336,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d0000485142b0696dd9f10f6cea96e10e" width="48" height="48"> | [Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]](https://open.spotify.com/track/37s8uwIjw72XfMseKJXNOO) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]](https://open.spotify.com/track/37s8uwIjw72XfMseKJXNOO) |
 | <img src="https://i.scdn.co/image/ab67616d00004851076525804e3bea5053f5f564" width="48" height="48"> | [Born Survivor](https://open.spotify.com/track/348ZvJUcSWBkMqDF2Z0pG9) | [Shirobon](https://open.spotify.com/artist/2OgP0RGmDrXN9kOWRNfEuE) | [Special Selection, Vol. 1](https://open.spotify.com/track/348ZvJUcSWBkMqDF2Z0pG9) |
 | <img src="https://i.scdn.co/image/ab67616d00004851520e5e24b197940bf82c5d6b" width="48" height="48"> | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fba07ca3a95d2b367c91579e" width="48" height="48"> | [Snowblind](https://open.spotify.com/track/2beZ579sBbQeEMyUVLhgK1) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Snowblind Legacy](https://open.spotify.com/track/2beZ579sBbQeEMyUVLhgK1) |
@@ -345,7 +346,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851087555241b0ddb30f5455030" width="48" height="48"> | [Vertigo](https://open.spotify.com/track/5f1qCD8JhSU1frlTwk6hHW) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Vertigo](https://open.spotify.com/track/5f1qCD8JhSU1frlTwk6hHW) |
 | <img src="https://i.scdn.co/image/ab67616d00004851f9e199cecd832d8c7c6513b0" width="48" height="48"> | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) |
 | <img src="https://i.scdn.co/image/ab67616d00004851cb7523307aac3e10b66bef40" width="48" height="48"> | [Paralyzed](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Gravity](https://open.spotify.com/track/6DPFE45zF8qhcyZWpNLpQz) |
-| <img src="https://i.scdn.co/image/ab67616d0000485153100a2a688ae4a0558fab17" width="48" height="48"> | [Red Baron](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
