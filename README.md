@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-11-16T09:48:15+00:00'>Nov 16th 09:48</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-11-12T12:17:50+00:00'>Nov 12th 12:17</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-10-31T16:36:52+00:00'>Oct 31st 16:36</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-10-31T13:04:58+00:00'>Oct 31st 13:04</span></td>
 <td>
@@ -310,19 +323,6 @@
 <td>
 
 [backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-23T10:53:25+00:00'>Oct 23rd 10:53</span></td>
-<td>
-
-💬 commented on [#55: Add a separate branch for iced 14](https://github.com/catppuccin/rust/issues/55)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
