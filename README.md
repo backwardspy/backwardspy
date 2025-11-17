@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-11-16T20:53:46+00:00'>Nov 16th 20:53</span></td>
+<td>
+
+💬 commented on [#113: docs: fix wrong file name in quickstart](https://github.com/catppuccin/whiskers/pull/113)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-11-16T20:53:31+00:00'>Nov 16th 20:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-11-16T09:48:15+00:00'>Nov 16th 09:48</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-11-03T09:52:35+00:00'>Nov 3rd 09:52</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-10-31T16:36:52+00:00'>Oct 31st 16:36</span></td>
 <td>
@@ -297,32 +323,6 @@
 <td>
 
 [raphaelts3/whiskers](https://github.com/raphaelts3/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-25T13:01:07+00:00'>Oct 25th 13:01</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-24T20:05:41+00:00'>Oct 24th 20:05</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
 
 </td>
 </tr>
