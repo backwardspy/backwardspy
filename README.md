@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-11-18T19:41:23+00:00'>Nov 18th 19:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-11-16T20:53:46+00:00'>Nov 16th 20:53</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-11-10T10:05:29+00:00'>Nov 10th 10:05</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-11-03T09:52:35+00:00'>Nov 3rd 09:52</span></td>
 <td>
@@ -310,19 +323,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-25T13:13:52+00:00'>Oct 25th 13:13</span></td>
-<td>
-
-🚢 pushed 1 commit to `improve-tests-asserts`
-
-</td>
-<td>
-
-[raphaelts3/whiskers](https://github.com/raphaelts3/whiskers)
 
 </td>
 </tr>
