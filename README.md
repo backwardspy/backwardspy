@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-11-23T13:58:05+00:00'>Nov 23rd 13:58</span></td>
+<td>
+
+💬 commented on [#609: The dividing line of the scroll bar looks unnatural.](https://github.com/catppuccin/vscode/issues/609)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-11-18T19:41:23+00:00'>Nov 18th 19:41</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-11-12T12:17:50+00:00'>Nov 12th 12:17</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-11-10T10:05:29+00:00'>Nov 10th 10:05</span></td>
 <td>
@@ -313,19 +326,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-10-25T13:17:06+00:00'>Oct 25th 13:17</span></td>
-<td>
-
-✅ closed [#72: assert stderr in all cli tests](https://github.com/catppuccin/whiskers/issues/72)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -336,16 +336,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851428b65f827217fe824aaa2bd" width="48" height="48"> | [Crab Rave](https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [Crab Rave](https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd) |
+| <img src="https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a" width="48" height="48"> | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory (Bonus Edition)](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) |
+| <img src="https://i.scdn.co/image/ab67616d000048519d957247c6c610cb7c4da1c5" width="48" height="48"> | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) |
+| <img src="https://i.scdn.co/image/ab67616d000048519d957247c6c610cb7c4da1c5" width="48" height="48"> | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) |
 | <img src="https://i.scdn.co/image/ab67616d000048514bc9bcdbdc9ac34e37d8b6bb" width="48" height="48"> | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) |
 | <img src="https://i.scdn.co/image/ab67616d0000485142b0696dd9f10f6cea96e10e" width="48" height="48"> | [Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]](https://open.spotify.com/track/37s8uwIjw72XfMseKJXNOO) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]](https://open.spotify.com/track/37s8uwIjw72XfMseKJXNOO) |
 | <img src="https://i.scdn.co/image/ab67616d00004851076525804e3bea5053f5f564" width="48" height="48"> | [Born Survivor](https://open.spotify.com/track/348ZvJUcSWBkMqDF2Z0pG9) | [Shirobon](https://open.spotify.com/artist/2OgP0RGmDrXN9kOWRNfEuE) | [Special Selection, Vol. 1](https://open.spotify.com/track/348ZvJUcSWBkMqDF2Z0pG9) |
 | <img src="https://i.scdn.co/image/ab67616d00004851520e5e24b197940bf82c5d6b" width="48" height="48"> | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fba07ca3a95d2b367c91579e" width="48" height="48"> | [Snowblind](https://open.spotify.com/track/2beZ579sBbQeEMyUVLhgK1) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Snowblind Legacy](https://open.spotify.com/track/2beZ579sBbQeEMyUVLhgK1) |
 | <img src="https://i.scdn.co/image/ab67616d000048516e2176435035a72d9b4a3f16" width="48" height="48"> | [Invincible](https://open.spotify.com/track/2JLAOMgm6XnsPrMXESyfrB) | [Deaf Kev](https://open.spotify.com/artist/7kANMNctYR16urrVo7GTSR) | [Invincible](https://open.spotify.com/track/2JLAOMgm6XnsPrMXESyfrB) |
-| <img src="https://i.scdn.co/image/ab67616d000048510583618ae0ef3c3589d8c48a" width="48" height="48"> | [Build The Cities (Empire of Sound)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) | [Kerli](https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Build The Cities (Reconstructions)](https://open.spotify.com/track/3ddXmeE46Jwc389ZUdQVSo) |
-| <img src="https://i.scdn.co/image/ab67616d00004851bf68e750cda326bb7303792e" width="48" height="48"> | [Brain Power - Long Version](https://open.spotify.com/track/227AlkDHWM5G2tejvX5EKZ) | [NOMA](https://open.spotify.com/artist/7gissmIvS8WFUpEZnpSPMF) | [Chronikle](https://open.spotify.com/track/227AlkDHWM5G2tejvX5EKZ) |
-| <img src="https://i.scdn.co/image/ab67616d00004851087555241b0ddb30f5455030" width="48" height="48"> | [Vertigo](https://open.spotify.com/track/5f1qCD8JhSU1frlTwk6hHW) | [Rob Gasser](https://open.spotify.com/artist/1WlxlG9IzXsq9MkneOPkxc), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Vertigo](https://open.spotify.com/track/5f1qCD8JhSU1frlTwk6hHW) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f9e199cecd832d8c7c6513b0" width="48" height="48"> | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
