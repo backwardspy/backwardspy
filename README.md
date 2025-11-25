@@ -300,32 +300,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-10-25T13:17:11+00:00'>Oct 25th 13:17</span></td>
-<td>
-
-💬 commented on [#108: Check for empty stderr in all happy paths](https://github.com/catppuccin/whiskers/pull/108)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-25T13:17:06+00:00'>Oct 25th 13:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
