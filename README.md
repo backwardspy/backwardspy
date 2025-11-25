@@ -274,32 +274,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-10-26T09:46:06+00:00'>Oct 26th 09:46</span></td>
-<td>
-
-🎉 closed [#604: Added table of contents in readme](https://github.com/catppuccin/vscode/pull/604)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-26T09:47:13+00:00'>Oct 26th 09:47</span></td>
-<td>
-
-💬 commented on [#604: Added table of contents in readme](https://github.com/catppuccin/vscode/pull/604)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
