@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-11-28T20:49:38+00:00'>Nov 28th 20:49</span></td>
+<td>
+
+💬 commented on [#28: using red color for keywords causes confusion](https://github.com/catppuccin/fish/issues/28)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-11-28T20:49:06+00:00'>Nov 28th 20:49</span></td>
+<td>
+
+✅ closed [#28: using red color for keywords causes confusion](https://github.com/catppuccin/fish/issues/28)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-11-28T20:49:05+00:00'>Nov 28th 20:49</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-11-23T13:58:05+00:00'>Nov 23rd 13:58</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-11-16T20:53:46+00:00'>Nov 16th 20:53</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-11-12T12:17:50+00:00'>Nov 12th 12:17</span></td>
 <td>
@@ -131,149 +170,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-10-31T16:36:52+00:00'>Oct 31st 16:36</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-31T13:04:58+00:00'>Oct 31st 13:04</span></td>
-<td>
-
-💬 commented on [#29: Allow to remake it with vim-devel and add it to vim/colorschemes?](https://github.com/catppuccin/vim/issues/29)
-
-</td>
-<td>
-
-[catppuccin/vim](https://github.com/catppuccin/vim)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-31T13:03:30+00:00'>Oct 31st 13:03</span></td>
-<td>
-
-💬 commented on [#286: Add Catppuccin Theme in Draft](https://github.com/vim/colorschemes/pull/286)
-
-</td>
-<td>
-
-[vim/colorschemes](https://github.com/vim/colorschemes)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-31T09:28:52+00:00'>Oct 31st 09:28</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-31T09:19:41+00:00'>Oct 31st 09:19</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-26T12:06:33+00:00'>Oct 26th 12:06</span></td>
-<td>
-
-💬 commented on [#14544: @astrojs/check pulls volar dependency which pulls from Github](https://github.com/withastro/astro/issues/14544)
-
-</td>
-<td>
-
-[withastro/astro](https://github.com/withastro/astro)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-26T12:03:54+00:00'>Oct 26th 12:03</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-26T11:38:05+00:00'>Oct 26th 11:38</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-26T11:33:16+00:00'>Oct 26th 11:33</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-26T11:32:04+00:00'>Oct 26th 11:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-10-26T11:25:50+00:00'>Oct 26th 11:25</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/backwardspy.github.io](https://github.com/backwardspy/backwardspy.github.io)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -284,16 +180,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d00004851428b65f827217fe824aaa2bd" width="48" height="48"> | [Crab Rave](https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd) | [Noisestorm](https://open.spotify.com/artist/2BuSNpxpMGJGiAAWJYJT2t) | [Crab Rave](https://open.spotify.com/track/4qDHt2ClApBBzDAvhNGWFd) |
-| <img src="https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a" width="48" height="48"> | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory (Bonus Edition)](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) |
-| <img src="https://i.scdn.co/image/ab67616d000048519d957247c6c610cb7c4da1c5" width="48" height="48"> | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) |
-| <img src="https://i.scdn.co/image/ab67616d000048519d957247c6c610cb7c4da1c5" width="48" height="48"> | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) |
+| <img src="https://i.scdn.co/image/ab67616d000048519e6af4ec4310e1e57e96a39a" width="48" height="48"> | [Island In The Sun](https://open.spotify.com/track/0AxdJGlXJjEUsNONDuT2pe) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/track/0AxdJGlXJjEUsNONDuT2pe) |
+| <img src="https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d" width="48" height="48"> | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a5d1c06a8172d4861367953c" width="48" height="48"> | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) |
 | <img src="https://i.scdn.co/image/ab67616d000048514bc9bcdbdc9ac34e37d8b6bb" width="48" height="48"> | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) |
-| <img src="https://i.scdn.co/image/ab67616d0000485142b0696dd9f10f6cea96e10e" width="48" height="48"> | [Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]](https://open.spotify.com/track/37s8uwIjw72XfMseKJXNOO) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street (New Nightcore) [#Rockefellerstreet Remix]](https://open.spotify.com/track/37s8uwIjw72XfMseKJXNOO) |
-| <img src="https://i.scdn.co/image/ab67616d00004851076525804e3bea5053f5f564" width="48" height="48"> | [Born Survivor](https://open.spotify.com/track/348ZvJUcSWBkMqDF2Z0pG9) | [Shirobon](https://open.spotify.com/artist/2OgP0RGmDrXN9kOWRNfEuE) | [Special Selection, Vol. 1](https://open.spotify.com/track/348ZvJUcSWBkMqDF2Z0pG9) |
-| <img src="https://i.scdn.co/image/ab67616d00004851520e5e24b197940bf82c5d6b" width="48" height="48"> | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Frame of Mind](https://open.spotify.com/track/5Y1JDF28qQDml25pVadnzb) |
-| <img src="https://i.scdn.co/image/ab67616d00004851fba07ca3a95d2b367c91579e" width="48" height="48"> | [Snowblind](https://open.spotify.com/track/2beZ579sBbQeEMyUVLhgK1) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Snowblind Legacy](https://open.spotify.com/track/2beZ579sBbQeEMyUVLhgK1) |
-| <img src="https://i.scdn.co/image/ab67616d000048516e2176435035a72d9b4a3f16" width="48" height="48"> | [Invincible](https://open.spotify.com/track/2JLAOMgm6XnsPrMXESyfrB) | [Deaf Kev](https://open.spotify.com/artist/7kANMNctYR16urrVo7GTSR) | [Invincible](https://open.spotify.com/track/2JLAOMgm6XnsPrMXESyfrB) |
+| <img src="https://i.scdn.co/image/ab67616d00004851431ac6e6f393acf475730ec6" width="48" height="48"> | [Bullet With Butterfly Wings - Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness (Deluxe Edition)](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) |
+| <img src="https://i.scdn.co/image/ab67616d000048518cefe8e2f2cfd63ce073fa96" width="48" height="48"> | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c544ca19a4813ba1169d3996" width="48" height="48"> | [Untroubled](https://open.spotify.com/track/1N6blD9V9h6r4Ckysgvba0) | [Atomica Music](https://open.spotify.com/artist/1ZU0n50pH91TKwIVUhJ0pR) | [Oddballs](https://open.spotify.com/track/1N6blD9V9h6r4Ckysgvba0) |
+| <img src="https://i.scdn.co/image/ab67616d00004851ec72ca7064d7dddfa2a90ae4" width="48" height="48"> | [You're the Best (Karate Kid)](https://open.spotify.com/track/3YB0VvKeTwrmKjivtr4RQ9) | [The 15th Floor](https://open.spotify.com/artist/1PYDPIfSdLd9ana66eUiNH) | [Melting Pot](https://open.spotify.com/track/3YB0VvKeTwrmKjivtr4RQ9) |
+| <img src="https://i.scdn.co/image/ab67616d00004851a0a235ab3ed661554ab786a7" width="48" height="48"> | [All Along the Watchtower](https://open.spotify.com/track/0Fnb2pfBfu0ka33d6Yki17) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [John Wesley Harding](https://open.spotify.com/track/0Fnb2pfBfu0ka33d6Yki17) |
+| <img src="https://i.scdn.co/image/ab67616d00004851522088789d49e216d9818292" width="48" height="48"> | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
