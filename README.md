@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-12-03T14:55:46+00:00'>Dec 3rd 14:55</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-11-28T20:49:38+00:00'>Nov 28th 20:49</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-11-18T19:41:23+00:00'>Nov 18th 19:41</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-11-16T20:53:46+00:00'>Nov 16th 20:53</span></td>
 <td>
@@ -144,32 +157,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-11-03T09:52:35+00:00'>Nov 3rd 09:52</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-11-03T09:49:02+00:00'>Nov 3rd 09:49</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -180,6 +167,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851f5504d1dd44f61d6e8fd8625" width="48" height="48"> | [Bound For The Floor](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) |
 | <img src="https://i.scdn.co/image/ab67616d000048512868c4713a3912fd476b42f1" width="48" height="48"> | [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d" width="48" height="48"> | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) |
 | <img src="https://i.scdn.co/image/ab67616d00004851345536847e60f622ee0eae96" width="48" height="48"> | [Say It Ain't So - Original Mix](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) |
@@ -189,7 +177,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851ae6d8e36136353d550b2587d" width="48" height="48"> | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown (Deluxe Edition)](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) |
 | <img src="https://i.scdn.co/image/ab67616d00004851b048006229a5e4fcaa912131" width="48" height="48"> | [All Along the Watchtower](https://open.spotify.com/track/6u4j7iBlbnPv0QEmlpf3W8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Battlestar Galactica: Season 3 (Original Soundtrack) [Remastered]](https://open.spotify.com/track/6u4j7iBlbnPv0QEmlpf3W8) |
 | <img src="https://i.scdn.co/image/ab67616d00004851fbc71c99f9c1296c56dd51b6" width="48" height="48"> | [Come As You Are](https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind (Remastered)](https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0) |
-| <img src="https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d" width="48" height="48"> | [Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
