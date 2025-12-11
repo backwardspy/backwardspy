@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-12-10T18:56:49+00:00'>Dec 10th 18:56</span></td>
+<td>
+
+💬 commented on [#625: fix(#434): add IME/pre-edit colors to fix font ghosting](https://github.com/catppuccin/vscode/pull/625)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-12-10T18:45:34+00:00'>Dec 10th 18:45</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/highlightjs](https://github.com/catppuccin/highlightjs)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-12-10T18:45:22+00:00'>Dec 10th 18:45</span></td>
+<td>
+
+💬 commented on [#69: fix!: change code block background color from base to mantle](https://github.com/catppuccin/highlightjs/pull/69)
+
+</td>
+<td>
+
+[catppuccin/highlightjs](https://github.com/catppuccin/highlightjs)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-12-07T10:44:21+00:00'>Dec 7th 10:44</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-11-28T20:49:38+00:00'>Nov 28th 20:49</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-11-23T13:58:05+00:00'>Nov 23rd 13:58</span></td>
 <td>
@@ -154,19 +193,6 @@
 <td>
 
 [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-11-10T10:05:29+00:00'>Nov 10th 10:05</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
 
 </td>
 </tr>
