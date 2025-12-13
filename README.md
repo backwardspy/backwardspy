@@ -196,19 +196,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-11-12T12:17:50+00:00'>Nov 12th 12:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
