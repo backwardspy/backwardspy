@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-12-16T12:53:18+00:00'>Dec 16th 12:53</span></td>
+<td>
+
+💬 commented on [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-12-16T12:49:13+00:00'>Dec 16th 12:49</span></td>
+<td>
+
+💬 commented on [#2706: nano](https://github.com/catppuccin/catppuccin/issues/2706)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-12-12T10:23:29+00:00'>Dec 12th 10:23</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-12-10T18:45:22+00:00'>Dec 10th 18:45</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-12-03T14:55:46+00:00'>Dec 3rd 14:55</span></td>
 <td>
@@ -180,19 +206,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-11-16T09:48:15+00:00'>Nov 16th 09:48</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
 
 </td>
 </tr>
