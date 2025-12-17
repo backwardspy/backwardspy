@@ -209,32 +209,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-11-16T20:53:46+00:00'>Nov 16th 20:53</span></td>
-<td>
-
-💬 commented on [#113: docs: fix wrong file name in quickstart](https://github.com/catppuccin/whiskers/pull/113)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-11-16T20:53:31+00:00'>Nov 16th 20:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
