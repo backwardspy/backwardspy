@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-12-18T13:28:13+00:00'>Dec 18th 13:28</span></td>
+<td>
+
+💬 commented on [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-12-17T14:34:22+00:00'>Dec 17th 14:34</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-12-16T12:49:13+00:00'>Dec 16th 12:49</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-12-12T10:23:29+00:00'>Dec 12th 10:23</span></td>
 <td>
