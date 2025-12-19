@@ -235,19 +235,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-11-18T19:41:23+00:00'>Nov 18th 19:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
