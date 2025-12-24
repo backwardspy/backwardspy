@@ -222,19 +222,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-11-23T13:58:05+00:00'>Nov 23rd 13:58</span></td>
-<td>
-
-💬 commented on [#609: The dividing line of the scroll bar looks unnatural.](https://github.com/catppuccin/vscode/issues/609)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
