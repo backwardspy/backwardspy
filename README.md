@@ -232,6 +232,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [Radial Lock](https://open.spotify.com/track/24I4cgUSwI53GXORt7wgKb) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/24I4cgUSwI53GXORt7wgKb) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d8c0efeb0c06c1cc0bf3113f" width="48" height="48"> | [Forest of Wonder](https://open.spotify.com/track/6wAzMULGiHAlJ7az5Ihc6E) | [Philter](https://open.spotify.com/artist/5gRiUiCB6Uoi35eCXDqjdU) | [The Legend of Iya (Original Game Score)](https://open.spotify.com/track/6wAzMULGiHAlJ7az5Ihc6E) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ca683a96f3666b7498236472" width="48" height="48"> | [I saw your ship](https://open.spotify.com/track/4t4Zkj3GPUFbMI7U8q9v4h) | [RealX](https://open.spotify.com/artist/1aLuZVV6aLieO1lki9Kco0), [EVE Online Music](https://open.spotify.com/artist/2RupyVgvFOwtRgTf0gTYYg) | [EVE Online: Empire Space I](https://open.spotify.com/track/4t4Zkj3GPUFbMI7U8q9v4h) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d9a67dc9020fc8801d2a551b" width="48" height="48"> | [Triumph](https://open.spotify.com/track/6lzxKBHkus630WUxDVTwZf) | [nervous_testpilot](https://open.spotify.com/artist/7zhakwCorTNUwe17WxD3kh) | [Frozen Synapse: Original Soundtrack](https://open.spotify.com/track/6lzxKBHkus630WUxDVTwZf) |
@@ -241,7 +242,6 @@
 | <img src="https://i.scdn.co/image/ab67616d0000485105267f502d9ff6f595ccb3c4" width="48" height="48"> | [Octoparis](https://open.spotify.com/track/0HwJD3dO2vB7hXNORdmJc3) | [Ferus Melek](https://open.spotify.com/artist/0lixXBzjyw24C4yrzzccGj) | [Decay of the Mainframe](https://open.spotify.com/track/0HwJD3dO2vB7hXNORdmJc3) |
 | <img src="https://i.scdn.co/image/ab67616d000048511fc3d84cfe70bf4256e52c4d" width="48" height="48"> | [The Magnetic Tree](https://open.spotify.com/track/2l451KTrqlmN2rphghqlhv) | [Lifeformed](https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV) | [Fastfall (Dustforce Original Game Soundtrack)](https://open.spotify.com/track/2l451KTrqlmN2rphghqlhv) |
 | <img src="https://i.scdn.co/image/ab67616d000048517b92a12894a6535ea8dda4d4" width="48" height="48"> | [Souls Wreck](https://open.spotify.com/track/54RxhgBQGLFZDhl09oa2F5) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Blood Machines - Original Motion Picture Soundtrack](https://open.spotify.com/track/54RxhgBQGLFZDhl09oa2F5) |
-| <img src="https://i.scdn.co/image/ab67616d0000485138aac529b900cb07a4553591" width="48" height="48"> | [Red Giant](https://open.spotify.com/track/0V6bXaeu6KRjCvndSi9AsZ) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [Light Years](https://open.spotify.com/track/0V6bXaeu6KRjCvndSi9AsZ) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
