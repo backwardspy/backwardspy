@@ -183,45 +183,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-11-28T20:49:38+00:00'>Nov 28th 20:49</span></td>
-<td>
-
-💬 commented on [#28: using red color for keywords causes confusion](https://github.com/catppuccin/fish/issues/28)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-11-28T20:49:06+00:00'>Nov 28th 20:49</span></td>
-<td>
-
-✅ closed [#28: using red color for keywords causes confusion](https://github.com/catppuccin/fish/issues/28)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-11-28T20:49:05+00:00'>Nov 28th 20:49</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
