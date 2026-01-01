@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2025-12-31T22:32:31+00:00'>Dec 31st 22:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-12-31T22:32:31+00:00'>Dec 31st 22:32</span></td>
+<td>
+
+✅ closed [#32: Add support for v4.3.0](https://github.com/catppuccin/fish/issues/32)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2025-12-31T22:32:17+00:00'>Dec 31st 22:32</span></td>
+<td>
+
+💬 commented on [#33: Update instructions for Fish v4.3](https://github.com/catppuccin/fish/pull/33)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-12-18T23:23:45+00:00'>Dec 18th 23:23</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2025-12-17T14:34:22+00:00'>Dec 17th 14:34</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2025-12-16T12:53:18+00:00'>Dec 16th 12:53</span></td>
 <td>
