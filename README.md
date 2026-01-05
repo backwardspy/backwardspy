@@ -8,6 +8,234 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-05T10:32:03+00:00'>Jan 5th 10:32</span></td>
+<td>
+
+✅ closed [#31: What font is used in the preview screenshot](https://github.com/catppuccin/fish/issues/31)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-05T10:32:01+00:00'>Jan 5th 10:32</span></td>
+<td>
+
+💬 commented on [#31: What font is used in the preview screenshot](https://github.com/catppuccin/fish/issues/31)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-05T10:31:18+00:00'>Jan 5th 10:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-05T10:31:05+00:00'>Jan 5th 10:31</span></td>
+<td>
+
+💬 commented on [#35: docs: add instructions to specify dark variants](https://github.com/catppuccin/fish/pull/35)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T20:21:35+00:00'>Jan 4th 20:21</span></td>
+<td>
+
+✅ closed [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-01-04T20:21:33+00:00'>Jan 4th 20:21</span></td>
+<td>
+
+💬 commented on [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T20:21:06+00:00'>Jan 4th 20:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T20:20:38+00:00'>Jan 4th 20:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/fish-4.3`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T20:19:07+00:00'>Jan 4th 20:19</span></td>
+<td>
+
+🚀 opened [#34: feat!: support fish 4.3 dynamic themes](https://github.com/catppuccin/fish/pull/34)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T20:15:21+00:00'>Jan 4th 20:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/fish-4.3`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T20:11:54+00:00'>Jan 4th 20:11</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/fish-4.3`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T20:03:02+00:00'>Jan 4th 20:03</span></td>
+<td>
+
+💬 commented on [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T19:58:44+00:00'>Jan 4th 19:58</span></td>
+<td>
+
+✅ closed [#61: `no_std` support?](https://github.com/catppuccin/rust/issues/61)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T19:58:43+00:00'>Jan 4th 19:58</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T19:58:05+00:00'>Jan 4th 19:58</span></td>
+<td>
+
+💬 commented on [#62: fix: add no_std support](https://github.com/catppuccin/rust/pull/62)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T19:50:17+00:00'>Jan 4th 19:50</span></td>
+<td>
+
+💬 commented on [#625: fix(#434): add IME/pre-edit colors to fix font ghosting](https://github.com/catppuccin/vscode/pull/625)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-04T19:39:34+00:00'>Jan 4th 19:39</span></td>
+<td>
+
+💬 commented on [#31: What font is used in the preview screenshot](https://github.com/catppuccin/fish/issues/31)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
 <td><span title='2025-12-31T22:32:31+00:00'>Dec 31st 22:32</span></td>
 <td>
 
@@ -69,143 +297,6 @@
 <td>
 
 [catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2025-12-17T14:34:22+00:00'>Dec 17th 14:34</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-16T22:41:47+00:00'>Dec 16th 22:41</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-16T22:40:36+00:00'>Dec 16th 22:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-16T12:53:18+00:00'>Dec 16th 12:53</span></td>
-<td>
-
-💬 commented on [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-16T12:49:13+00:00'>Dec 16th 12:49</span></td>
-<td>
-
-💬 commented on [#2706: nano](https://github.com/catppuccin/catppuccin/issues/2706)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-12T10:23:29+00:00'>Dec 12th 10:23</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-10T18:56:49+00:00'>Dec 10th 18:56</span></td>
-<td>
-
-💬 commented on [#625: fix(#434): add IME/pre-edit colors to fix font ghosting](https://github.com/catppuccin/vscode/pull/625)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-10T18:45:34+00:00'>Dec 10th 18:45</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/highlightjs](https://github.com/catppuccin/highlightjs)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-10T18:45:22+00:00'>Dec 10th 18:45</span></td>
-<td>
-
-💬 commented on [#69: fix!: change code block background color from base to mantle](https://github.com/catppuccin/highlightjs/pull/69)
-
-</td>
-<td>
-
-[catppuccin/highlightjs](https://github.com/catppuccin/highlightjs)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-07T10:44:21+00:00'>Dec 7th 10:44</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
 
 </td>
 </tr>
