@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-06T14:47:50+00:00'>Jan 6th 14:47</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-06T14:47:45+00:00'>Jan 6th 14:47</span></td>
+<td>
+
+💬 commented on [#36: docs(README): Add a note about migrating to Fish 4.3](https://github.com/catppuccin/fish/pull/36)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-05T10:32:03+00:00'>Jan 5th 10:32</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-05T10:31:05+00:00'>Jan 5th 10:31</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-04T20:21:33+00:00'>Jan 4th 20:21</span></td>
 <td>
@@ -287,19 +313,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-12-18T13:28:13+00:00'>Dec 18th 13:28</span></td>
-<td>
-
-💬 commented on [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -310,16 +323,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d000048510873ceb866afdf3f0c03ac36" width="48" height="48"> | [Phoenix](https://open.spotify.com/track/3SuxtjdFxY3RIaWyPgtkfk) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Phoenix](https://open.spotify.com/track/3SuxtjdFxY3RIaWyPgtkfk) |
+| <img src="https://i.scdn.co/image/ab67616d000048515f12c4a8aa1c0acfb2e982e1" width="48" height="48"> | [Why We Lose](https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Coleman Trapp](https://open.spotify.com/artist/3GI8jWO0jwqs0qX3OtlbqY) | [Why We Lose](https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF) |
+| <img src="https://i.scdn.co/image/ab67616d000048514be1a81a5070c758ee2f0594" width="48" height="48"> | [Till It's Over](https://open.spotify.com/track/6SQujgaWWqsC6ZZdSemafF) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Till It's Over](https://open.spotify.com/track/6SQujgaWWqsC6ZZdSemafF) |
+| <img src="https://i.scdn.co/image/ab67616d000048513b3b24d7997db331a6e841d3" width="48" height="48"> | [Close To The Sun](https://open.spotify.com/track/06POVSGbIFuQsc721gLk6Q) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Unity - 10th Anniversary Compilation](https://open.spotify.com/track/06POVSGbIFuQsc721gLk6Q) |
 | <img src="https://i.scdn.co/image/ab67616d000048513b3b24d7997db331a6e841d3" width="48" height="48"> | [Windfall](https://open.spotify.com/track/3A3ASKeoF7yvQGuMRUWKxV) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Unity - 10th Anniversary Compilation](https://open.spotify.com/track/3A3ASKeoF7yvQGuMRUWKxV) |
 | <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [Radial Lock](https://open.spotify.com/track/24I4cgUSwI53GXORt7wgKb) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/24I4cgUSwI53GXORt7wgKb) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d8c0efeb0c06c1cc0bf3113f" width="48" height="48"> | [Forest of Wonder](https://open.spotify.com/track/6wAzMULGiHAlJ7az5Ihc6E) | [Philter](https://open.spotify.com/artist/5gRiUiCB6Uoi35eCXDqjdU) | [The Legend of Iya (Original Game Score)](https://open.spotify.com/track/6wAzMULGiHAlJ7az5Ihc6E) |
 | <img src="https://i.scdn.co/image/ab67616d00004851ca683a96f3666b7498236472" width="48" height="48"> | [I saw your ship](https://open.spotify.com/track/4t4Zkj3GPUFbMI7U8q9v4h) | [RealX](https://open.spotify.com/artist/1aLuZVV6aLieO1lki9Kco0), [EVE Online Music](https://open.spotify.com/artist/2RupyVgvFOwtRgTf0gTYYg) | [EVE Online: Empire Space I](https://open.spotify.com/track/4t4Zkj3GPUFbMI7U8q9v4h) |
 | <img src="https://i.scdn.co/image/ab67616d00004851d9a67dc9020fc8801d2a551b" width="48" height="48"> | [Triumph](https://open.spotify.com/track/6lzxKBHkus630WUxDVTwZf) | [nervous_testpilot](https://open.spotify.com/artist/7zhakwCorTNUwe17WxD3kh) | [Frozen Synapse: Original Soundtrack](https://open.spotify.com/track/6lzxKBHkus630WUxDVTwZf) |
 | <img src="https://i.scdn.co/image/ab67616d00004851431f5b74fc9b61de1901257b" width="48" height="48"> | [AG](https://open.spotify.com/track/4pvNq7t3Vr4igoB7dEJOBR) | [George Strezov](https://open.spotify.com/artist/2DNnA9F0OrEmC80UWEwrMi) | [Surviving Mars (Original Game Soundtrack)](https://open.spotify.com/track/4pvNq7t3Vr4igoB7dEJOBR) |
-| <img src="https://i.scdn.co/image/ab67616d00004851497e5acc6b3c4e27d86066df" width="48" height="48"> | [EMV Charon](https://open.spotify.com/track/0OEzA8yVECKEGyw2h0mtyy) | [Guillaume David](https://open.spotify.com/artist/2covUE0E07tHZLpu2KLh2n) | [IXION (Original Soundtrack)](https://open.spotify.com/track/0OEzA8yVECKEGyw2h0mtyy) |
-| <img src="https://i.scdn.co/image/ab67616d00004851a579c03b8354bb5d2e332e7a" width="48" height="48"> | [The Echo](https://open.spotify.com/track/3WW2y8rIVGpw0LovBY4nH5) | [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO) | [There Came an Echo](https://open.spotify.com/track/3WW2y8rIVGpw0LovBY4nH5) |
-| <img src="https://i.scdn.co/image/ab67616d0000485105267f502d9ff6f595ccb3c4" width="48" height="48"> | [Octoparis](https://open.spotify.com/track/0HwJD3dO2vB7hXNORdmJc3) | [Ferus Melek](https://open.spotify.com/artist/0lixXBzjyw24C4yrzzccGj) | [Decay of the Mainframe](https://open.spotify.com/track/0HwJD3dO2vB7hXNORdmJc3) |
-| <img src="https://i.scdn.co/image/ab67616d000048511fc3d84cfe70bf4256e52c4d" width="48" height="48"> | [The Magnetic Tree](https://open.spotify.com/track/2l451KTrqlmN2rphghqlhv) | [Lifeformed](https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV) | [Fastfall (Dustforce Original Game Soundtrack)](https://open.spotify.com/track/2l451KTrqlmN2rphghqlhv) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
