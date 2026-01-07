@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-07T15:44:29+00:00'>Jan 7th 15:44</span></td>
+<td>
+
+💬 commented on [#628: Less flashy appearance in VSC and derivatives compared to JetBrains](https://github.com/catppuccin/vscode/issues/628)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-06T14:47:50+00:00'>Jan 6th 14:47</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-05T10:31:18+00:00'>Jan 5th 10:31</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-05T10:31:05+00:00'>Jan 5th 10:31</span></td>
 <td>
@@ -300,19 +313,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-12-18T23:23:45+00:00'>Dec 18th 23:23</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -323,16 +323,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d000048517cca5a400c2592f82cd1807d" width="48" height="48"> | [Dreams](https://open.spotify.com/track/4LWVj0eeZcC54yvRZkvGct) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Dreams](https://open.spotify.com/track/4LWVj0eeZcC54yvRZkvGct) |
-| <img src="https://i.scdn.co/image/ab67616d00004851ca611af82e3408a9f7a6cd4e" width="48" height="48"> | [Energy](https://open.spotify.com/track/2bhx2BP0pmsPSQ11dMnE5H) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Energy](https://open.spotify.com/track/2bhx2BP0pmsPSQ11dMnE5H) |
-| <img src="https://i.scdn.co/image/ab67616d000048517f1400c3ef556f44e6e4c2a0" width="48" height="48"> | [Time Leaper](https://open.spotify.com/track/6Yffswuw0fgVxCs1iGihFt) | [Hinkik](https://open.spotify.com/artist/6AelNJV2eBg9B3gxfvBNFF) | [Time Leaper](https://open.spotify.com/track/6Yffswuw0fgVxCs1iGihFt) |
-| <img src="https://i.scdn.co/image/ab67616d0000485197ea027ac78c05d10422b588" width="48" height="48"> | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Fly Away](https://open.spotify.com/track/0hTrQoqDmFnA4S1PC265e1) |
-| <img src="https://i.scdn.co/image/ab67616d00004851afb572944358c62171adc69b" width="48" height="48"> | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Circle](https://open.spotify.com/track/37QbBWAlIYTmm1v23MNLGW) |
-| <img src="https://i.scdn.co/image/ab67616d000048513a1bf1eedc8e3643698b3acc" width="48" height="48"> | [Feel Like Horrible](https://open.spotify.com/track/6xbFkjnynNfdloytpbTRQ5) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [Sian Area](https://open.spotify.com/artist/7CFAN6aNQSP6xMhqlhpXCV) | [Feel Like Horrible](https://open.spotify.com/track/6xbFkjnynNfdloytpbTRQ5) |
-| <img src="https://i.scdn.co/image/ab67616d00004851355258109d01d75ebd0699ac" width="48" height="48"> | [Magic](https://open.spotify.com/track/2CVzzbgyn4mCoth0wk70a1) | [Jaroslav Beck](https://open.spotify.com/artist/2qaihH7C0RAiTnCDHYTkxY), [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Magic](https://open.spotify.com/track/2CVzzbgyn4mCoth0wk70a1) |
-| <img src="https://i.scdn.co/image/ab67616d00004851947ca9b3347c8b8a4ebac3ea" width="48" height="48"> | [Howling](https://open.spotify.com/track/596lDSwIMzDoiq3E6jJ0wC) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Howling](https://open.spotify.com/track/596lDSwIMzDoiq3E6jJ0wC) |
-| <img src="https://i.scdn.co/image/ab67616d0000485134666061eea81fa4b36ba2b9" width="48" height="48"> | [Hiding In The Blue](https://open.spotify.com/track/4uhajAtJz72BBHkiIUvr7v) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [PARALLAX](https://open.spotify.com/track/4uhajAtJz72BBHkiIUvr7v) |
-| <img src="https://i.scdn.co/image/ab67616d000048513c6dabf0350d1933d01542d4" width="48" height="48"> | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) |
+| <img src="https://i.scdn.co/image/ab67616d000048514691f6c40b262b6432625754" width="48" height="48"> | [Phoenix](https://open.spotify.com/track/1jsRo6lODprC33SNqTvLGz) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/track/1jsRo6lODprC33SNqTvLGz) |
+| <img src="https://i.scdn.co/image/ab67616d000048514f5a64292379a257827829ce" width="48" height="48"> | [Country Rounds (Sqeepo Remix)](https://open.spotify.com/track/2CLCydSh9ZRw1oCAEtgd0d) | [Jaroslav Beck](https://open.spotify.com/artist/2qaihH7C0RAiTnCDHYTkxY), [Kings & Folk](https://open.spotify.com/artist/6ZlmICeJ0bJVGWZu6jthrf), [Sqeepo](https://open.spotify.com/artist/5Byuc3qcAfywxOTlN1Pla5) | [Beat Saber (Original Game Soundtrack)](https://open.spotify.com/track/2CLCydSh9ZRw1oCAEtgd0d) |
+| <img src="https://i.scdn.co/image/ab67616d00004851f2e2d92b077392cee4f94ab9" width="48" height="48"> | [Far Away](https://open.spotify.com/track/6m0C6hfWZC13BUafDHRblk) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [Far Away](https://open.spotify.com/track/6m0C6hfWZC13BUafDHRblk) |
+| <img src="https://i.scdn.co/image/ab67616d0000485180b2a19dd87cd9914a01d223" width="48" height="48"> | [Jackpot](https://open.spotify.com/track/3msQJEmoSGNJGvyDCMMafB) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Jackpot](https://open.spotify.com/track/3msQJEmoSGNJGvyDCMMafB) |
+| <img src="https://i.scdn.co/image/ab67616d0000485182bb7b0ca88f48efeab3c259" width="48" height="48"> | [Lost](https://open.spotify.com/track/0kjlUvExDoEcubLyo2VY9l) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Lost](https://open.spotify.com/track/0kjlUvExDoEcubLyo2VY9l) |
+| <img src="https://i.scdn.co/image/ab67616d00004851b35a97f364865a2cb4e5a194" width="48" height="48"> | [Walk Thru Fire](https://open.spotify.com/track/2wQ411UQL2MRsdAgPRUstT) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Walk Thru Fire](https://open.spotify.com/track/2wQ411UQL2MRsdAgPRUstT) |
+| <img src="https://i.scdn.co/image/ab67616d000048511a5eb771120e2ee3f6a44ed7" width="48" height="48"> | [Shelter](https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1) |
+| <img src="https://i.scdn.co/image/ab67616d0000485113bb0594af887c122328c889" width="48" height="48"> | [Link](https://open.spotify.com/track/4jEFJciScnN2AVmUlxuuxW) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Link](https://open.spotify.com/track/4jEFJciScnN2AVmUlxuuxW) |
+| <img src="https://i.scdn.co/image/ab67616d0000485134666061eea81fa4b36ba2b9" width="48" height="48"> | [Let Love Win](https://open.spotify.com/track/6kO9ixLq9K3hk7QCmYyXbw) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [PARALLAX](https://open.spotify.com/track/6kO9ixLq9K3hk7QCmYyXbw) |
+| <img src="https://i.scdn.co/image/ab67616d00004851af94953c36d15db60fe660b9" width="48" height="48"> | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
