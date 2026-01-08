@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-07T23:55:09+00:00'>Jan 7th 23:55</span></td>
+<td>
+
+📢 opened [#606: segfault in umkaFree if you omit umkaCompile](https://github.com/vtereshkov/umka-lang/issues/606)
+
+</td>
+<td>
+
+[vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-07T18:34:27+00:00'>Jan 7th 18:34</span></td>
+<td>
+
+🚀 opened [#316: chore: update humans.txt to reflect current teams](https://github.com/catppuccin/website/pull/316)
+
+</td>
+<td>
+
+[catppuccin/website](https://github.com/catppuccin/website)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-07T15:44:29+00:00'>Jan 7th 15:44</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-05T10:32:03+00:00'>Jan 5th 10:32</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-05T10:31:18+00:00'>Jan 5th 10:31</span></td>
 <td>
@@ -274,45 +300,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2025-12-31T22:32:31+00:00'>Dec 31st 22:32</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-31T22:32:31+00:00'>Dec 31st 22:32</span></td>
-<td>
-
-✅ closed [#32: Add support for v4.3.0](https://github.com/catppuccin/fish/issues/32)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2025-12-31T22:32:17+00:00'>Dec 31st 22:32</span></td>
-<td>
-
-💬 commented on [#33: Update instructions for Fish v4.3](https://github.com/catppuccin/fish/pull/33)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
@@ -323,16 +310,16 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
-| <img src="https://i.scdn.co/image/ab67616d000048514691f6c40b262b6432625754" width="48" height="48"> | [Phoenix](https://open.spotify.com/track/1jsRo6lODprC33SNqTvLGz) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/track/1jsRo6lODprC33SNqTvLGz) |
-| <img src="https://i.scdn.co/image/ab67616d000048514f5a64292379a257827829ce" width="48" height="48"> | [Country Rounds (Sqeepo Remix)](https://open.spotify.com/track/2CLCydSh9ZRw1oCAEtgd0d) | [Jaroslav Beck](https://open.spotify.com/artist/2qaihH7C0RAiTnCDHYTkxY), [Kings & Folk](https://open.spotify.com/artist/6ZlmICeJ0bJVGWZu6jthrf), [Sqeepo](https://open.spotify.com/artist/5Byuc3qcAfywxOTlN1Pla5) | [Beat Saber (Original Game Soundtrack)](https://open.spotify.com/track/2CLCydSh9ZRw1oCAEtgd0d) |
-| <img src="https://i.scdn.co/image/ab67616d00004851f2e2d92b077392cee4f94ab9" width="48" height="48"> | [Far Away](https://open.spotify.com/track/6m0C6hfWZC13BUafDHRblk) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [Far Away](https://open.spotify.com/track/6m0C6hfWZC13BUafDHRblk) |
-| <img src="https://i.scdn.co/image/ab67616d0000485180b2a19dd87cd9914a01d223" width="48" height="48"> | [Jackpot](https://open.spotify.com/track/3msQJEmoSGNJGvyDCMMafB) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Jackpot](https://open.spotify.com/track/3msQJEmoSGNJGvyDCMMafB) |
-| <img src="https://i.scdn.co/image/ab67616d0000485182bb7b0ca88f48efeab3c259" width="48" height="48"> | [Lost](https://open.spotify.com/track/0kjlUvExDoEcubLyo2VY9l) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Lost](https://open.spotify.com/track/0kjlUvExDoEcubLyo2VY9l) |
-| <img src="https://i.scdn.co/image/ab67616d00004851b35a97f364865a2cb4e5a194" width="48" height="48"> | [Walk Thru Fire](https://open.spotify.com/track/2wQ411UQL2MRsdAgPRUstT) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Walk Thru Fire](https://open.spotify.com/track/2wQ411UQL2MRsdAgPRUstT) |
-| <img src="https://i.scdn.co/image/ab67616d000048511a5eb771120e2ee3f6a44ed7" width="48" height="48"> | [Shelter](https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Shelter](https://open.spotify.com/track/2ewEh7LuvToYyGHq7yT8N1) |
-| <img src="https://i.scdn.co/image/ab67616d0000485113bb0594af887c122328c889" width="48" height="48"> | [Link](https://open.spotify.com/track/4jEFJciScnN2AVmUlxuuxW) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Link](https://open.spotify.com/track/4jEFJciScnN2AVmUlxuuxW) |
-| <img src="https://i.scdn.co/image/ab67616d0000485134666061eea81fa4b36ba2b9" width="48" height="48"> | [Let Love Win](https://open.spotify.com/track/6kO9ixLq9K3hk7QCmYyXbw) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [PARALLAX](https://open.spotify.com/track/6kO9ixLq9K3hk7QCmYyXbw) |
-| <img src="https://i.scdn.co/image/ab67616d00004851af94953c36d15db60fe660b9" width="48" height="48"> | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx), [EH!DE](https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw) | [My Heart](https://open.spotify.com/track/1X7eCHIaD83s2r5i95ZXUC) |
+| <img src="https://i.scdn.co/image/ab67616d0000485135c7c1c967919fa126f11529" width="48" height="48"> | [Eclipse](https://open.spotify.com/track/21riltMArzY8XcWGk7wGlT) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [NCS: The Best of 2015](https://open.spotify.com/track/21riltMArzY8XcWGk7wGlT) |
+| <img src="https://i.scdn.co/image/ab67616d000048514f5a64292379a257827829ce" width="48" height="48"> | [Beat Saber](https://open.spotify.com/track/0M9sEebLoVR5aeRcsExon9) | [Jaroslav Beck](https://open.spotify.com/artist/2qaihH7C0RAiTnCDHYTkxY) | [Beat Saber (Original Game Soundtrack)](https://open.spotify.com/track/0M9sEebLoVR5aeRcsExon9) |
+| <img src="https://i.scdn.co/image/ab67616d0000485134666061eea81fa4b36ba2b9" width="48" height="48"> | [Warbringer](https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [PARALLAX](https://open.spotify.com/track/2pjbeDLKz2C7Cu7f3Mjw2c) |
+| <img src="https://i.scdn.co/image/ab67616d00004851617b507aea3832fa6dd27215" width="48" height="48"> | [Rebirth](https://open.spotify.com/track/1jznWyKp2dqXQwqjcDwDWp) | [Lensko](https://open.spotify.com/artist/2NZMqINcyfepvLxQJdzcZk) | [Rebirth](https://open.spotify.com/track/1jznWyKp2dqXQwqjcDwDWp) |
+| <img src="https://i.scdn.co/image/ab67616d00004851de609f3d8c55660dce3a7a3f" width="48" height="48"> | [Vision](https://open.spotify.com/track/2xTEUfYFy5iChuEgQxQpY2) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Vision](https://open.spotify.com/track/2xTEUfYFy5iChuEgQxQpY2) |
+| <img src="https://i.scdn.co/image/ab67616d00004851ca48e1b7229fe2896ddc6f6b" width="48" height="48"> | [On Fire](https://open.spotify.com/track/12NDeZcKb7QR9Q6peVEEQH) | [Robin Hustin](https://open.spotify.com/artist/6FPDULwgllPquFdqdzj5gi) | [On Fire](https://open.spotify.com/track/12NDeZcKb7QR9Q6peVEEQH) |
+| <img src="https://i.scdn.co/image/ab67616d00004851c49495e6bb8668427dcbf760" width="48" height="48"> | [Ena](https://open.spotify.com/track/781keEYQlijESJ5B7oifcr) | [Hinkik](https://open.spotify.com/artist/6AelNJV2eBg9B3gxfvBNFF) | [Ena](https://open.spotify.com/track/781keEYQlijESJ5B7oifcr) |
+| <img src="https://i.scdn.co/image/ab67616d0000485180b2a19dd87cd9914a01d223" width="48" height="48"> | [Elegy](https://open.spotify.com/track/2zPTUeo3UiLPH8SvhtIYvq) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Jackpot](https://open.spotify.com/track/2zPTUeo3UiLPH8SvhtIYvq) |
+| <img src="https://i.scdn.co/image/ab67616d0000485124b5b270a5aebd7dde92e9e9" width="48" height="48"> | [Don't Be A Stranger](https://open.spotify.com/track/0U8qQnPxuDZnQMCgw27isl) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Jason Diaz](https://open.spotify.com/artist/5v0FdT0nY0Q3zfFuagEIrT) | [Don't Be A Stranger](https://open.spotify.com/track/0U8qQnPxuDZnQMCgw27isl) |
+| <img src="https://i.scdn.co/image/ab67616d000048519d6948a551e52446adec3c14" width="48" height="48"> | [Andromeda](https://open.spotify.com/track/5y5PjyBw9kkTMkJhmDPs1A) | [Lensko](https://open.spotify.com/artist/2NZMqINcyfepvLxQJdzcZk) | [Andromeda](https://open.spotify.com/track/5y5PjyBw9kkTMkJhmDPs1A) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
