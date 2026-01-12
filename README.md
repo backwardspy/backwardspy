@@ -310,6 +310,7 @@
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 | | track | artist | album |
 | - | - | - | - |
+| <img src="https://i.scdn.co/image/ab67616d00004851daccecee61b39522fbae9884" width="48" height="48"> | [The Queen of White Lies](https://open.spotify.com/track/7FHrTE3de8AuB9Vuv7cRhZ) | [The Orion Experience](https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM), [ORION](https://open.spotify.com/artist/0G9jJv1t51ZzzHkqlK0olw), [Linda XO](https://open.spotify.com/artist/5Ky8EGI88BSDV3UIqnxE50) | [Cosmicandy](https://open.spotify.com/track/7FHrTE3de8AuB9Vuv7cRhZ) |
 | <img src="https://i.scdn.co/image/ab67616d00004851473cabf7225c095bb86713a1" width="48" height="48"> | [Time to Say Goodbye](https://open.spotify.com/track/6odR6jtxYIgNAcaOtgxlfN) | [Jeff Williams](https://open.spotify.com/artist/6jy0VQ5tLwEKBeMxZ1aK4J), [Casey Lee Williams](https://open.spotify.com/artist/08dD0frW9WYHRGVa40oILp) | [Songs Part Two](https://open.spotify.com/track/6odR6jtxYIgNAcaOtgxlfN) |
 | <img src="https://i.scdn.co/image/ab67616d000048511942f0dddfa48cf555ea3521" width="48" height="48"> | [Miami Fever](https://open.spotify.com/track/68LHOqE56Zwd1baD2RqBEp) | [Jeremiah Kane](https://open.spotify.com/artist/4wKbEwlRYNLlwUu9OCgLBr) | [All or Nothing](https://open.spotify.com/track/68LHOqE56Zwd1baD2RqBEp) |
 | <img src="https://i.scdn.co/image/ab67616d000048516e2176435035a72d9b4a3f16" width="48" height="48"> | [Invincible](https://open.spotify.com/track/2JLAOMgm6XnsPrMXESyfrB) | [Deaf Kev](https://open.spotify.com/artist/7kANMNctYR16urrVo7GTSR) | [Invincible](https://open.spotify.com/track/2JLAOMgm6XnsPrMXESyfrB) |
@@ -319,7 +320,6 @@
 | <img src="https://i.scdn.co/image/ab67616d00004851d266a2fe87f6aa131de3b3e9" width="48" height="48"> | [Chroma](https://open.spotify.com/track/0oJkB8jrA25MQdBq5z2pMK) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [EMELINE](https://open.spotify.com/artist/0nK3nCo3DFpn9TmYP0yMyK) | [Chroma](https://open.spotify.com/track/0oJkB8jrA25MQdBq5z2pMK) |
 | <img src="https://i.scdn.co/image/ab67616d0000485130a606745fedebc06188ee14" width="48" height="48"> | [We Have Accidentally Borrowed Your Votedisk (MASTER BOOT RECORD Remix)](https://open.spotify.com/track/6MEMWyShB8rKuIY9CxosR7) | [Dubmood](https://open.spotify.com/artist/4D2G48IdJKhcdZ5c1dqp5Z), [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [Votedisk // Scene Is Dead](https://open.spotify.com/track/6MEMWyShB8rKuIY9CxosR7) |
 | <img src="https://i.scdn.co/image/ab67616d0000485140baf4dd6b252ba0943afdc9" width="48" height="48"> | [Big Blue (From "F-Zero")](https://open.spotify.com/track/72rNf7mHVRrVs97Kv8a5BA) | [Qumu](https://open.spotify.com/artist/0LzeyDrlLtuyBqMSBN4z3U) | [Year 6](https://open.spotify.com/track/72rNf7mHVRrVs97Kv8a5BA) |
-| <img src="https://i.scdn.co/image/ab67616d000048512aebc24a73d728ab67d8088c" width="48" height="48"> | [Light Up The Night](https://open.spotify.com/track/0b4KsOdnrZlfE5VUAAzxv1) | [The Protomen](https://open.spotify.com/artist/2rVDi66o7gdeUq1OHUzM0W) | [Act II: The Father Of Death](https://open.spotify.com/track/0b4KsOdnrZlfE5VUAAzxv1) |
 
 <!-- SCRIPT:REPLACE:SPOTIFY -->
 
