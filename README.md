@@ -8,6 +8,130 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-12T23:09:15+00:00'>Jan 12th 23:09</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-12T23:08:45+00:00'>Jan 12th 23:08</span></td>
+<td>
+
+💬 commented on [#78: fix: mauve builtin types](https://github.com/catppuccin/helix/pull/78)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-12T23:08:36+00:00'>Jan 12th 23:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-12T23:07:18+00:00'>Jan 12th 23:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `builtin-types`
+
+</td>
+<td>
+
+[uncenter/ctp-helix](https://github.com/uncenter/ctp-helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-12T23:04:46+00:00'>Jan 12th 23:04</span></td>
+<td>
+
+💬 commented on [#65: Add crossed out modifier for deprecated diagnostics](https://github.com/catppuccin/helix/pull/65)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-01-12T23:04:38+00:00'>Jan 12th 23:04</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-12T22:53:41+00:00'>Jan 12th 22:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `deprecated-diagnostics`
+
+</td>
+<td>
+
+[jpaju/catppuccin-helix](https://github.com/jpaju/catppuccin-helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-12T22:53:19+00:00'>Jan 12th 22:53</span></td>
+<td>
+
+💬 commented on [#65: Add crossed out modifier for deprecated diagnostics](https://github.com/catppuccin/helix/pull/65)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-01-12T22:43:54+00:00'>Jan 12th 22:43</span></td>
+<td>
+
+📦 released v1.0.0
+
+</td>
+<td>
+
+[backwardspy/vg-discord-rpc](https://github.com/backwardspy/vg-discord-rpc)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-08T09:23:33+00:00'>Jan 8th 09:23</span></td>
 <td>
 
@@ -72,13 +196,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-06T14:47:50+00:00'>Jan 6th 14:47</span></td>
 <td>
@@ -180,123 +297,6 @@
 <td>
 
 [catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T20:21:06+00:00'>Jan 4th 20:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T20:20:38+00:00'>Jan 4th 20:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/fish-4.3`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T20:19:07+00:00'>Jan 4th 20:19</span></td>
-<td>
-
-🚀 opened [#34: feat!: support fish 4.3 dynamic themes](https://github.com/catppuccin/fish/pull/34)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T20:15:21+00:00'>Jan 4th 20:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/fish-4.3`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T20:11:54+00:00'>Jan 4th 20:11</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/fish-4.3`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T20:03:02+00:00'>Jan 4th 20:03</span></td>
-<td>
-
-💬 commented on [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T19:58:44+00:00'>Jan 4th 19:58</span></td>
-<td>
-
-✅ closed [#61: `no_std` support?](https://github.com/catppuccin/rust/issues/61)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T19:58:43+00:00'>Jan 4th 19:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T19:58:05+00:00'>Jan 4th 19:58</span></td>
-<td>
-
-💬 commented on [#62: fix: add no_std support](https://github.com/catppuccin/rust/pull/62)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
