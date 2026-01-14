@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-14T16:03:56+00:00'>Jan 14th 16:03</span></td>
+<td>
+
+⭐ starred a repository
+
+</td>
+<td>
+
+[crate-ci/cargo-release](https://github.com/crate-ci/cargo-release)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-12T23:09:15+00:00'>Jan 12th 23:09</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-12T23:04:46+00:00'>Jan 12th 23:04</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-12T23:04:38+00:00'>Jan 12th 23:04</span></td>
 <td>
@@ -279,19 +292,6 @@
 <td>
 
 ✅ closed [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T20:21:33+00:00'>Jan 4th 20:21</span></td>
-<td>
-
-💬 commented on [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
 
 </td>
 <td>
