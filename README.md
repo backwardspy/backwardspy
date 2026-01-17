@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-16T21:21:53+00:00'>Jan 16th 21:21</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-14T16:03:56+00:00'>Jan 14th 16:03</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-12T23:07:18+00:00'>Jan 12th 23:07</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-12T23:04:46+00:00'>Jan 12th 23:04</span></td>
 <td>
@@ -279,19 +292,6 @@
 <td>
 
 💬 commented on [#35: docs: add instructions to specify dark variants](https://github.com/catppuccin/fish/pull/35)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-04T20:21:35+00:00'>Jan 4th 20:21</span></td>
-<td>
-
-✅ closed [#30: Support dynamic theme switching](https://github.com/catppuccin/fish/issues/30)
 
 </td>
 <td>
