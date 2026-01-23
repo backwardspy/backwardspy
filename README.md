@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-22T20:54:17+00:00'>Jan 22nd 20:54</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-16T21:21:53+00:00'>Jan 16th 21:21</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-12T23:08:36+00:00'>Jan 12th 23:08</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-12T23:07:18+00:00'>Jan 12th 23:07</span></td>
 <td>
@@ -279,19 +292,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-05T10:31:05+00:00'>Jan 5th 10:31</span></td>
-<td>
-
-💬 commented on [#35: docs: add instructions to specify dark variants](https://github.com/catppuccin/fish/pull/35)
 
 </td>
 <td>
