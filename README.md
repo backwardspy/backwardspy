@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-25T20:22:54+00:00'>Jan 25th 20:22</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-22T20:54:17+00:00'>Jan 22nd 20:54</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-12T23:08:45+00:00'>Jan 12th 23:08</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-12T23:08:36+00:00'>Jan 12th 23:08</span></td>
 <td>
@@ -266,32 +279,6 @@
 <td>
 
 ✅ closed [#31: What font is used in the preview screenshot](https://github.com/catppuccin/fish/issues/31)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-05T10:32:01+00:00'>Jan 5th 10:32</span></td>
-<td>
-
-💬 commented on [#31: What font is used in the preview screenshot](https://github.com/catppuccin/fish/issues/31)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-05T10:31:18+00:00'>Jan 5th 10:31</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
