@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-01-26T21:33:42+00:00'>Jan 26th 21:33</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-25T20:22:54+00:00'>Jan 25th 20:22</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-12T23:09:15+00:00'>Jan 12th 23:09</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-12T23:08:45+00:00'>Jan 12th 23:08</span></td>
 <td>
@@ -266,19 +279,6 @@
 <td>
 
 💬 commented on [#36: docs(README): Add a note about migrating to Fish 4.3](https://github.com/catppuccin/fish/pull/36)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-05T10:32:03+00:00'>Jan 5th 10:32</span></td>
-<td>
-
-✅ closed [#31: What font is used in the preview screenshot](https://github.com/catppuccin/fish/issues/31)
 
 </td>
 <td>
