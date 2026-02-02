@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-01T19:46:58+00:00'>Feb 1st 19:46</span></td>
+<td>
+
+💬 commented on [#65: fix(deps): switch to ratatui-core](https://github.com/catppuccin/rust/pull/65)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-01T19:46:54+00:00'>Feb 1st 19:46</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-01-26T21:33:42+00:00'>Jan 26th 21:33</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-16T21:21:53+00:00'>Jan 16th 21:21</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-12T23:09:15+00:00'>Jan 12th 23:09</span></td>
 <td>
@@ -258,32 +284,6 @@
 <td>
 
 [catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-06T14:47:50+00:00'>Jan 6th 14:47</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-06T14:47:45+00:00'>Jan 6th 14:47</span></td>
-<td>
-
-💬 commented on [#36: docs(README): Add a note about migrating to Fish 4.3](https://github.com/catppuccin/fish/pull/36)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
 
 </td>
 </tr>
