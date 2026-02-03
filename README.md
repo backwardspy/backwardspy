@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-03T18:07:49+00:00'>Feb 3rd 18:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/ansi`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-01T19:46:58+00:00'>Feb 1st 19:46</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-01-22T20:54:17+00:00'>Jan 22nd 20:54</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-16T21:21:53+00:00'>Jan 16th 21:21</span></td>
 <td>
@@ -271,19 +284,6 @@
 <td>
 
 [catppuccin/website](https://github.com/catppuccin/website)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-07T15:44:29+00:00'>Jan 7th 15:44</span></td>
-<td>
-
-💬 commented on [#628: Less flashy appearance in VSC and derivatives compared to JetBrains](https://github.com/catppuccin/vscode/issues/628)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
 
 </td>
 </tr>
