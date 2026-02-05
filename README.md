@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-04T22:28:33+00:00'>Feb 4th 22:28</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-04T22:20:41+00:00'>Feb 4th 22:20</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-04T22:18:44+00:00'>Feb 4th 22:18</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-03T18:07:49+00:00'>Feb 3rd 18:07</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-01T19:46:54+00:00'>Feb 1st 19:46</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-01-22T20:54:17+00:00'>Jan 22nd 20:54</span></td>
 <td>
@@ -258,32 +297,6 @@
 <td>
 
 [backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-07T23:55:09+00:00'>Jan 7th 23:55</span></td>
-<td>
-
-📢 opened [#606: segfault in umkaFree if you omit umkaCompile](https://github.com/vtereshkov/umka-lang/issues/606)
-
-</td>
-<td>
-
-[vtereshkov/umka-lang](https://github.com/vtereshkov/umka-lang)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-07T18:34:27+00:00'>Jan 7th 18:34</span></td>
-<td>
-
-🚀 opened [#316: chore: update humans.txt to reflect current teams](https://github.com/catppuccin/website/pull/316)
-
-</td>
-<td>
-
-[catppuccin/website](https://github.com/catppuccin/website)
 
 </td>
 </tr>
