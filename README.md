@@ -287,19 +287,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-01-08T08:57:12+00:00'>Jan 8th 08:57</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
