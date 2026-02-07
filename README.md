@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-07T17:23:12+00:00'>Feb 7th 17:23</span></td>
+<td>
+
+💬 commented on [#38: Remove [light] and [dark] sections from themes, add Latte theme](https://github.com/catppuccin/fish/issues/38)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-07T16:40:08+00:00'>Feb 7th 16:40</span></td>
+<td>
+
+💬 commented on [#38: Remove [light] and [dark] sections from themes, add Latte theme](https://github.com/catppuccin/fish/issues/38)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-04T22:28:33+00:00'>Feb 4th 22:28</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-03T18:07:49+00:00'>Feb 3rd 18:07</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-01T19:46:54+00:00'>Feb 1st 19:46</span></td>
 <td>
@@ -258,19 +284,6 @@
 <td>
 
 [catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-12T22:43:54+00:00'>Jan 12th 22:43</span></td>
-<td>
-
-📦 released v1.0.0
-
-</td>
-<td>
-
-[backwardspy/vg-discord-rpc](https://github.com/backwardspy/vg-discord-rpc)
 
 </td>
 </tr>
