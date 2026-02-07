@@ -274,19 +274,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-01-08T09:23:33+00:00'>Jan 8th 09:23</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
