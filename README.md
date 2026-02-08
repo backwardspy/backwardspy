@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-07T21:06:39+00:00'>Feb 7th 21:06</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/website](https://github.com/catppuccin/website)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-07T21:05:02+00:00'>Feb 7th 21:05</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/static-themes`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-07T20:10:03+00:00'>Feb 7th 20:10</span></td>
+<td>
+
+🚀 opened [#97: fix: handle R64S → R64U conversion](https://github.com/TechnikTobi/little_exif/pull/97)
+
+</td>
+<td>
+
+[TechnikTobi/little_exif](https://github.com/TechnikTobi/little_exif)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-07T17:23:12+00:00'>Feb 7th 17:23</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-04T22:28:33+00:00'>Feb 4th 22:28</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-03T18:07:49+00:00'>Feb 3rd 18:07</span></td>
 <td>
@@ -188,97 +227,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-12T23:08:45+00:00'>Jan 12th 23:08</span></td>
-<td>
-
-💬 commented on [#78: fix: mauve builtin types](https://github.com/catppuccin/helix/pull/78)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-12T23:08:36+00:00'>Jan 12th 23:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-12T23:07:18+00:00'>Jan 12th 23:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `builtin-types`
-
-</td>
-<td>
-
-[uncenter/ctp-helix](https://github.com/uncenter/ctp-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-12T23:04:46+00:00'>Jan 12th 23:04</span></td>
-<td>
-
-💬 commented on [#65: Add crossed out modifier for deprecated diagnostics](https://github.com/catppuccin/helix/pull/65)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-12T23:04:38+00:00'>Jan 12th 23:04</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-12T22:53:41+00:00'>Jan 12th 22:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `deprecated-diagnostics`
-
-</td>
-<td>
-
-[jpaju/catppuccin-helix](https://github.com/jpaju/catppuccin-helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-12T22:53:19+00:00'>Jan 12th 22:53</span></td>
-<td>
-
-💬 commented on [#65: Add crossed out modifier for deprecated diagnostics](https://github.com/catppuccin/helix/pull/65)
 
 </td>
 <td>
