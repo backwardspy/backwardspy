@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-10T15:43:36+00:00'>Feb 10th 15:43</span></td>
+<td>
+
+✅ closed [#630: игра](https://github.com/catppuccin/vscode/issues/630)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-10T15:43:34+00:00'>Feb 10th 15:43</span></td>
+<td>
+
+💬 commented on [#630: игра](https://github.com/catppuccin/vscode/issues/630)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-07T21:06:39+00:00'>Feb 7th 21:06</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-07T17:23:12+00:00'>Feb 7th 17:23</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-04T22:28:33+00:00'>Feb 4th 22:28</span></td>
 <td>
@@ -219,19 +245,6 @@
 <td>
 
 [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-12T23:09:15+00:00'>Jan 12th 23:09</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
 
 </td>
 </tr>
