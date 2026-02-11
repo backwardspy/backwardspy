@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-11T16:15:59+00:00'>Feb 11th 16:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-11T15:19:07+00:00'>Feb 11th 15:19</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-11T15:06:31+00:00'>Feb 11th 15:06</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-11T14:56:38+00:00'>Feb 11th 14:56</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-10T15:43:36+00:00'>Feb 10th 15:43</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-10T15:43:34+00:00'>Feb 10th 15:43</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-07T17:23:12+00:00'>Feb 7th 17:23</span></td>
 <td>
@@ -193,58 +245,6 @@
 <td>
 
 [backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-25T20:22:54+00:00'>Jan 25th 20:22</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-22T20:54:17+00:00'>Jan 22nd 20:54</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-16T21:21:53+00:00'>Jan 16th 21:21</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-14T16:03:56+00:00'>Jan 14th 16:03</span></td>
-<td>
-
-⭐ starred a repository
-
-</td>
-<td>
-
-[crate-ci/cargo-release](https://github.com/crate-ci/cargo-release)
 
 </td>
 </tr>
