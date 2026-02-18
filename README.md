@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-18T14:34:02+00:00'>Feb 18th 14:34</span></td>
+<td>
+
+💬 commented on [#82: feat: add markup.strikethrough](https://github.com/catppuccin/helix/pull/82)
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-18T14:33:58+00:00'>Feb 18th 14:33</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/helix](https://github.com/catppuccin/helix)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-17T22:33:07+00:00'>Feb 17th 22:33</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-17T22:32:11+00:00'>Feb 17th 22:32</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-17T22:31:01+00:00'>Feb 17th 22:31</span></td>
 <td>
@@ -198,32 +224,6 @@
 </tr>
 <tr>
 <td><span title='2026-02-11T16:15:59+00:00'>Feb 11th 16:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-11T15:19:07+00:00'>Feb 11th 15:19</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-11T15:06:31+00:00'>Feb 11th 15:06</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
