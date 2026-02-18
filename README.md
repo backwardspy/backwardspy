@@ -8,6 +8,195 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-17T22:33:07+00:00'>Feb 17th 22:33</span></td>
+<td>
+
+✅ closed [#628: Less flashy appearance in VSC and derivatives compared to JetBrains](https://github.com/catppuccin/vscode/issues/628)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:33:05+00:00'>Feb 17th 22:33</span></td>
+<td>
+
+💬 commented on [#628: Less flashy appearance in VSC and derivatives compared to JetBrains](https://github.com/catppuccin/vscode/issues/628)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:32:13+00:00'>Feb 17th 22:32</span></td>
+<td>
+
+✅ closed [#38: Remove [light] and [dark] sections from themes, add Latte theme](https://github.com/catppuccin/fish/issues/38)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:32:11+00:00'>Feb 17th 22:32</span></td>
+<td>
+
+💬 commented on [#38: Remove [light] and [dark] sections from themes, add Latte theme](https://github.com/catppuccin/fish/issues/38)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:31:57+00:00'>Feb 17th 22:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-02-17T22:31:01+00:00'>Feb 17th 22:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:29:07+00:00'>Feb 17th 22:29</span></td>
+<td>
+
+🚢 pushed 1 commit to `release-please--branches--main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:28:23+00:00'>Feb 17th 22:28</span></td>
+<td>
+
+🚢 pushed 1 commit to `release-please--branches--main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:22:11+00:00'>Feb 17th 22:22</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:19:25+00:00'>Feb 17th 22:19</span></td>
+<td>
+
+🚀 opened [#121: build: update dependencies](https://github.com/catppuccin/whiskers/pull/121)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:10:42+00:00'>Feb 17th 22:10</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:07:34+00:00'>Feb 17th 22:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/static-themes`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:06:57+00:00'>Feb 17th 22:06</span></td>
+<td>
+
+🚀 opened [#39: feat: add static theme option](https://github.com/catppuccin/fish/pull/39)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-17T22:06:03+00:00'>Feb 17th 22:06</span></td>
+<td>
+
+🚀 opened [#120: feat: add skip_if frontmatter var](https://github.com/catppuccin/whiskers/pull/120)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-11T16:15:59+00:00'>Feb 11th 16:15</span></td>
 <td>
 
@@ -35,208 +224,6 @@
 </tr>
 <tr>
 <td><span title='2026-02-11T15:06:31+00:00'>Feb 11th 15:06</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-11T14:56:38+00:00'>Feb 11th 14:56</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-10T15:43:36+00:00'>Feb 10th 15:43</span></td>
-<td>
-
-✅ closed [#630: игра](https://github.com/catppuccin/vscode/issues/630)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2026-02-10T15:43:34+00:00'>Feb 10th 15:43</span></td>
-<td>
-
-💬 commented on [#630: игра](https://github.com/catppuccin/vscode/issues/630)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-07T21:06:39+00:00'>Feb 7th 21:06</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/website](https://github.com/catppuccin/website)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-07T21:05:02+00:00'>Feb 7th 21:05</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/static-themes`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-07T20:10:03+00:00'>Feb 7th 20:10</span></td>
-<td>
-
-🚀 opened [#97: fix: handle R64S → R64U conversion](https://github.com/TechnikTobi/little_exif/pull/97)
-
-</td>
-<td>
-
-[TechnikTobi/little_exif](https://github.com/TechnikTobi/little_exif)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-07T17:23:12+00:00'>Feb 7th 17:23</span></td>
-<td>
-
-💬 commented on [#38: Remove [light] and [dark] sections from themes, add Latte theme](https://github.com/catppuccin/fish/issues/38)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-07T16:40:08+00:00'>Feb 7th 16:40</span></td>
-<td>
-
-💬 commented on [#38: Remove [light] and [dark] sections from themes, add Latte theme](https://github.com/catppuccin/fish/issues/38)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-04T22:28:33+00:00'>Feb 4th 22:28</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-04T22:20:41+00:00'>Feb 4th 22:20</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-04T22:18:44+00:00'>Feb 4th 22:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-03T18:07:49+00:00'>Feb 3rd 18:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/ansi`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-01T19:46:58+00:00'>Feb 1st 19:46</span></td>
-<td>
-
-💬 commented on [#65: fix(deps): switch to ratatui-core](https://github.com/catppuccin/rust/pull/65)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-01T19:46:54+00:00'>Feb 1st 19:46</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-01-26T21:33:42+00:00'>Jan 26th 21:33</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
