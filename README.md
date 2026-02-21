@@ -8,6 +8,104 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-21T10:39:32+00:00'>Feb 21st 10:39</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-21T10:38:24+00:00'>Feb 21st 10:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-21T10:38:19+00:00'>Feb 21st 10:38</span></td>
+<td>
+
+🔍 reviewed [#32: fix: ci & update deps](https://github.com/catppuccin/codemirror/pull/32)
+
+</td>
+<td>
+
+[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-21T08:54:38+00:00'>Feb 21st 08:54</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-21T08:53:17+00:00'>Feb 21st 08:53</span></td>
+<td>
+
+💬 commented on [#114: How to get the hex of a colour after running filters is unclear](https://github.com/catppuccin/whiskers/issues/114)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-02-21T08:47:52+00:00'>Feb 21st 08:47</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-21T08:47:20+00:00'>Feb 21st 08:47</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-18T14:34:02+00:00'>Feb 18th 14:34</span></td>
 <td>
 
@@ -72,13 +170,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-17T22:32:11+00:00'>Feb 17th 22:32</span></td>
 <td>
@@ -141,97 +232,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:22:11+00:00'>Feb 17th 22:22</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:19:25+00:00'>Feb 17th 22:19</span></td>
-<td>
-
-🚀 opened [#121: build: update dependencies](https://github.com/catppuccin/whiskers/pull/121)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:10:42+00:00'>Feb 17th 22:10</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:07:34+00:00'>Feb 17th 22:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/static-themes`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:06:57+00:00'>Feb 17th 22:06</span></td>
-<td>
-
-🚀 opened [#39: feat: add static theme option](https://github.com/catppuccin/fish/pull/39)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:06:03+00:00'>Feb 17th 22:06</span></td>
-<td>
-
-🚀 opened [#120: feat: add skip_if frontmatter var](https://github.com/catppuccin/whiskers/pull/120)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-11T16:15:59+00:00'>Feb 11th 16:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
 
 </td>
 </tr>
