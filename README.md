@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-21T23:31:44+00:00'>Feb 21st 23:31</span></td>
+<td>
+
+💬 commented on [#127: [FEAT] Define other frontmatter color_formats](https://github.com/catppuccin/whiskers/issues/127)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-21T23:04:01+00:00'>Feb 21st 23:04</span></td>
+<td>
+
+💬 commented on [#114: How to get the hex of a colour after running filters is unclear](https://github.com/catppuccin/whiskers/issues/114)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-21T10:39:32+00:00'>Feb 21st 10:39</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-21T08:54:38+00:00'>Feb 21st 08:54</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-21T08:47:52+00:00'>Feb 21st 08:47</span></td>
 <td>
