@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-23T15:15:01+00:00'>Feb 23rd 15:15</span></td>
+<td>
+
+💬 commented on [#114: How to get the hex of a colour after running filters is unclear](https://github.com/catppuccin/whiskers/issues/114)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-21T23:31:44+00:00'>Feb 21st 23:31</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-21T10:38:19+00:00'>Feb 21st 10:38</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-21T08:54:38+00:00'>Feb 21st 08:54</span></td>
 <td>
@@ -237,19 +250,6 @@
 </tr>
 <tr>
 <td><span title='2026-02-17T22:29:07+00:00'>Feb 17th 22:29</span></td>
-<td>
-
-🚢 pushed 1 commit to `release-please--branches--main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:28:23+00:00'>Feb 17th 22:28</span></td>
 <td>
 
 🚢 pushed 1 commit to `release-please--branches--main`
