@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-24T21:38:19+00:00'>Feb 24th 21:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/basestar-provisions](https://github.com/backwardspy/basestar-provisions)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-24T21:34:26+00:00'>Feb 24th 21:34</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/basestar-provisions](https://github.com/backwardspy/basestar-provisions)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-02-24T21:09:44+00:00'>Feb 24th 21:09</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/basestar-provisions](https://github.com/backwardspy/basestar-provisions)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-23T19:15:19+00:00'>Feb 23rd 19:15</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-21T23:31:44+00:00'>Feb 21st 23:31</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-21T10:38:24+00:00'>Feb 21st 10:38</span></td>
 <td>
@@ -232,32 +271,6 @@
 <td>
 
 [catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:31:57+00:00'>Feb 17th 22:31</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:31:01+00:00'>Feb 17th 22:31</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
