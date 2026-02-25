@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-02-25T09:27:17+00:00'>Feb 25th 09:27</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-24T21:38:19+00:00'>Feb 24th 21:38</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-02-23T15:15:01+00:00'>Feb 23rd 15:15</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-02-21T23:31:44+00:00'>Feb 21st 23:31</span></td>
 <td>
