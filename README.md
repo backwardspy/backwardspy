@@ -8,7 +8,7 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2026-02-25T09:27:17+00:00'>Feb 25th 09:27</span></td>
+<td><span title='2026-02-26T10:19:42+00:00'>Feb 26th 10:19</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -16,12 +16,12 @@
 </td>
 <td>
 
-[backwardspy/doppelgamer](https://github.com/backwardspy/doppelgamer)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-24T21:38:19+00:00'>Feb 24th 21:38</span></td>
+<td><span title='2026-02-26T10:18:35+00:00'>Feb 26th 10:18</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -29,12 +29,12 @@
 </td>
 <td>
 
-[backwardspy/basestar-provisions](https://github.com/backwardspy/basestar-provisions)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-24T21:34:26+00:00'>Feb 24th 21:34</span></td>
+<td><span title='2026-02-26T10:17:32+00:00'>Feb 26th 10:17</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -42,12 +42,12 @@
 </td>
 <td>
 
-[backwardspy/basestar-provisions](https://github.com/backwardspy/basestar-provisions)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-24T21:09:44+00:00'>Feb 24th 21:09</span></td>
+<td><span title='2026-02-26T10:17:11+00:00'>Feb 26th 10:17</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -55,12 +55,12 @@
 </td>
 <td>
 
-[backwardspy/basestar-provisions](https://github.com/backwardspy/basestar-provisions)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-23T19:15:19+00:00'>Feb 23rd 19:15</span></td>
+<td><span title='2026-02-26T10:16:48+00:00'>Feb 26th 10:16</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -68,7 +68,7 @@
 </td>
 <td>
 
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
@@ -80,10 +80,10 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2026-02-23T15:15:01+00:00'>Feb 23rd 15:15</span></td>
+<td><span title='2026-02-26T10:15:45+00:00'>Feb 26th 10:15</span></td>
 <td>
 
-💬 commented on [#114: How to get the hex of a colour after running filters is unclear](https://github.com/catppuccin/whiskers/issues/114)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
@@ -93,10 +93,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-21T23:31:44+00:00'>Feb 21st 23:31</span></td>
+<td><span title='2026-02-26T10:15:27+00:00'>Feb 26th 10:15</span></td>
 <td>
 
-💬 commented on [#127: [FEAT] Define other frontmatter color_formats](https://github.com/catppuccin/whiskers/issues/127)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
@@ -106,10 +106,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-21T23:04:01+00:00'>Feb 21st 23:04</span></td>
+<td><span title='2026-02-26T10:14:26+00:00'>Feb 26th 10:14</span></td>
 <td>
 
-💬 commented on [#114: How to get the hex of a colour after running filters is unclear](https://github.com/catppuccin/whiskers/issues/114)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
@@ -119,62 +119,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-21T10:39:32+00:00'>Feb 21st 10:39</span></td>
+<td><span title='2026-02-26T10:14:07+00:00'>Feb 26th 10:14</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-21T10:38:24+00:00'>Feb 21st 10:38</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-21T10:38:19+00:00'>Feb 21st 10:38</span></td>
-<td>
-
-🔍 reviewed [#32: fix: ci & update deps](https://github.com/catppuccin/codemirror/pull/32)
-
-</td>
-<td>
-
-[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-21T08:54:38+00:00'>Feb 21st 08:54</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-21T08:53:17+00:00'>Feb 21st 08:53</span></td>
-<td>
-
-💬 commented on [#114: How to get the hex of a colour after running filters is unclear](https://github.com/catppuccin/whiskers/issues/114)
 
 </td>
 <td>
@@ -184,7 +132,7 @@
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-21T08:47:52+00:00'>Feb 21st 08:47</span></td>
+<td><span title='2026-02-26T10:13:47+00:00'>Feb 26th 10:13</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -192,12 +140,12 @@
 </td>
 <td>
 
-[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-21T08:47:20+00:00'>Feb 21st 08:47</span></td>
+<td><span title='2026-02-26T10:11:05+00:00'>Feb 26th 10:11</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -205,25 +153,12 @@
 </td>
 <td>
 
-[catppuccin/codemirror](https://github.com/catppuccin/codemirror)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2026-02-18T14:34:02+00:00'>Feb 18th 14:34</span></td>
-<td>
-
-💬 commented on [#82: feat: add markup.strikethrough](https://github.com/catppuccin/helix/pull/82)
-
-</td>
-<td>
-
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-18T14:33:58+00:00'>Feb 18th 14:33</span></td>
+<td><span title='2026-02-26T10:10:28+00:00'>Feb 26th 10:10</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -231,59 +166,7 @@
 </td>
 <td>
 
-[catppuccin/helix](https://github.com/catppuccin/helix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:33:07+00:00'>Feb 17th 22:33</span></td>
-<td>
-
-✅ closed [#628: Less flashy appearance in VSC and derivatives compared to JetBrains](https://github.com/catppuccin/vscode/issues/628)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:33:05+00:00'>Feb 17th 22:33</span></td>
-<td>
-
-💬 commented on [#628: Less flashy appearance in VSC and derivatives compared to JetBrains](https://github.com/catppuccin/vscode/issues/628)
-
-</td>
-<td>
-
-[catppuccin/vscode](https://github.com/catppuccin/vscode)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:32:13+00:00'>Feb 17th 22:32</span></td>
-<td>
-
-✅ closed [#38: Remove [light] and [dark] sections from themes, add Latte theme](https://github.com/catppuccin/fish/issues/38)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-17T22:32:11+00:00'>Feb 17th 22:32</span></td>
-<td>
-
-💬 commented on [#38: Remove [light] and [dark] sections from themes, add Latte theme](https://github.com/catppuccin/fish/issues/38)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
