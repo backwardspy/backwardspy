@@ -8,6 +8,117 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-01T11:17:13+00:00'>Mar 1st 11:17</span></td>
+<td>
+
+🚀 opened [#135: feat: switch from css-colors to farver](https://github.com/catppuccin/whiskers/pull/135)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-01T11:13:19+00:00'>Mar 1st 11:13</span></td>
+<td>
+
+🚀 opened [#1: fix: avoid floating-point imprecision in HSLA saturation calculation](https://github.com/nyxkrage/farver/pull/1)
+
+</td>
+<td>
+
+[nyxkrage/farver](https://github.com/nyxkrage/farver)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-01T10:37:08+00:00'>Mar 1st 10:37</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-01T10:35:26+00:00'>Mar 1st 10:35</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-01T10:35:10+00:00'>Mar 1st 10:35</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-03-01T10:34:52+00:00'>Mar 1st 10:34</span></td>
+<td>
+
+✅ closed [#114: How to get the hex of a colour after running filters is unclear](https://github.com/catppuccin/whiskers/issues/114)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-01T10:34:51+00:00'>Mar 1st 10:34</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-01T10:32:58+00:00'>Mar 1st 10:32</span></td>
+<td>
+
+🚀 opened [#133: feat: add `hex` filter & filter pipelines documentation](https://github.com/catppuccin/whiskers/pull/133)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-02-26T10:19:42+00:00'>Feb 26th 10:19</span></td>
 <td>
 
@@ -48,117 +159,6 @@
 </tr>
 <tr>
 <td><span title='2026-02-26T10:17:11+00:00'>Feb 26th 10:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:16:48+00:00'>Feb 26th 10:16</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2026-02-26T10:15:45+00:00'>Feb 26th 10:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:15:27+00:00'>Feb 26th 10:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:14:26+00:00'>Feb 26th 10:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:14:07+00:00'>Feb 26th 10:14</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:13:47+00:00'>Feb 26th 10:13</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:11:05+00:00'>Feb 26th 10:11</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:10:28+00:00'>Feb 26th 10:10</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
