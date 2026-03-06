@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-05T22:38:04+00:00'>Mar 5th 22:38</span></td>
+<td>
+
+💬 commented on [#11: fix(template): misc](https://github.com/catppuccin/st/pull/11)
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-05T22:38:02+00:00'>Mar 5th 22:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/st](https://github.com/catppuccin/st)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-01T11:17:13+00:00'>Mar 1st 11:17</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-01T10:35:26+00:00'>Mar 1st 10:35</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-01T10:34:52+00:00'>Mar 1st 10:34</span></td>
 <td>
@@ -146,19 +172,6 @@
 </tr>
 <tr>
 <td><span title='2026-02-26T10:17:32+00:00'>Feb 26th 10:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:17:11+00:00'>Feb 26th 10:17</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
