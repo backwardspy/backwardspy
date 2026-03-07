@@ -8,6 +8,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-06T22:39:06+00:00'>Mar 6th 22:39</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-06T22:34:52+00:00'>Mar 6th 22:34</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-06T22:33:46+00:00'>Mar 6th 22:33</span></td>
+<td>
+
+💬 commented on [#32: Whiskers breaks on some specific color overrides](https://github.com/catppuccin/whiskers/issues/32)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-06T22:33:24+00:00'>Mar 6th 22:33</span></td>
+<td>
+
+✅ closed [#32: Whiskers breaks on some specific color overrides](https://github.com/catppuccin/whiskers/issues/32)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-06T22:33:23+00:00'>Mar 6th 22:33</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-03-06T22:30:07+00:00'>Mar 6th 22:30</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/switch-to-farver`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-06T22:27:50+00:00'>Mar 6th 22:27</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/switch-to-farver`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-06T21:58:41+00:00'>Mar 6th 21:58</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-06T21:57:38+00:00'>Mar 6th 21:57</span></td>
+<td>
+
+✅ closed [#123: Use Starlight for Docs](https://github.com/catppuccin/python/issues/123)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-06T21:57:29+00:00'>Mar 6th 21:57</span></td>
+<td>
+
+✅ closed [#123: Use Starlight for Docs](https://github.com/catppuccin/python/issues/123)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-06T21:57:28+00:00'>Mar 6th 21:57</span></td>
+<td>
+
+💬 commented on [#123: Use Starlight for Docs](https://github.com/catppuccin/python/issues/123)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-05T22:38:04+00:00'>Mar 5th 22:38</span></td>
 <td>
 
@@ -56,130 +206,6 @@
 <td>
 
 [nyxkrage/farver](https://github.com/nyxkrage/farver)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-01T10:37:08+00:00'>Mar 1st 10:37</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2026-03-01T10:35:26+00:00'>Mar 1st 10:35</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-01T10:35:10+00:00'>Mar 1st 10:35</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-01T10:34:52+00:00'>Mar 1st 10:34</span></td>
-<td>
-
-✅ closed [#114: How to get the hex of a colour after running filters is unclear](https://github.com/catppuccin/whiskers/issues/114)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-01T10:34:51+00:00'>Mar 1st 10:34</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-01T10:32:58+00:00'>Mar 1st 10:32</span></td>
-<td>
-
-🚀 opened [#133: feat: add `hex` filter & filter pipelines documentation](https://github.com/catppuccin/whiskers/pull/133)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:19:42+00:00'>Feb 26th 10:19</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:18:35+00:00'>Feb 26th 10:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-26T10:17:32+00:00'>Feb 26th 10:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
