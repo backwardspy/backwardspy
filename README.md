@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-09T15:05:00+00:00'>Mar 9th 15:05</span></td>
+<td>
+
+💬 commented on [#30: can't run anything at step 5a.17 (`this.logger is not a function`)](https://github.com/afska/emudevz/issues/30)
+
+</td>
+<td>
+
+[afska/emudevz](https://github.com/afska/emudevz)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-09T13:05:11+00:00'>Mar 9th 13:05</span></td>
+<td>
+
+💬 commented on [#30: can't run anything at step 5a.17 (`this.logger is not a function`)](https://github.com/afska/emudevz/issues/30)
+
+</td>
+<td>
+
+[afska/emudevz](https://github.com/afska/emudevz)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-09T12:10:46+00:00'>Mar 9th 12:10</span></td>
+<td>
+
+📢 opened [#30: can't run anything at step 5a.17 (`this.logger is not a function`)](https://github.com/afska/emudevz/issues/30)
+
+</td>
+<td>
+
+[afska/emudevz](https://github.com/afska/emudevz)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-06T22:39:06+00:00'>Mar 6th 22:39</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-06T22:33:46+00:00'>Mar 6th 22:33</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-06T22:30:07+00:00'>Mar 6th 22:30</span></td>
 <td>
@@ -180,32 +219,6 @@
 <td>
 
 [catppuccin/st](https://github.com/catppuccin/st)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-01T11:17:13+00:00'>Mar 1st 11:17</span></td>
-<td>
-
-🚀 opened [#135: feat: switch from css-colors to farver](https://github.com/catppuccin/whiskers/pull/135)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-01T11:13:19+00:00'>Mar 1st 11:13</span></td>
-<td>
-
-🚀 opened [#1: fix: avoid floating-point imprecision in HSLA saturation calculation](https://github.com/nyxkrage/farver/pull/1)
-
-</td>
-<td>
-
-[nyxkrage/farver](https://github.com/nyxkrage/farver)
 
 </td>
 </tr>
