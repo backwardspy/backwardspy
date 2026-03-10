@@ -179,6 +179,7 @@ if __name__ == "__main__":
 
     print("generate...")
     replace_readme_section("GITHUB", generate_github_section())
-    replace_readme_section("SPOTIFY", generate_spotify_section())
+    # TODO: replace
+    # replace_readme_section("SPOTIFY", generate_spotify_section())
 
     print("done!")
