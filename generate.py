@@ -62,10 +62,10 @@ def fetch_all():
     else:
         print(f" - skipping {GITHUB_DATA} - already exists")
 
-    if not SPOTIFY_DATA.exists():
-        write(spotify_recently_played(), SPOTIFY_DATA)
-    else:
-        print(f" - skipping {SPOTIFY_DATA} - already exists")
+    #if not SPOTIFY_DATA.exists():
+    #    write(spotify_recently_played(), SPOTIFY_DATA)
+    #else:
+    #    print(f" - skipping {SPOTIFY_DATA} - already exists")
 
 
 def replace_readme_section(key: str, contents: str):
