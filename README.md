@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-11T22:46:37+00:00'>Mar 11th 22:46</span></td>
+<td>
+
+🚀 opened [#289: docs: add missing catppuccin-mocha entry to themes list](https://github.com/zellij-org/zellij-org.github.io/pull/289)
+
+</td>
+<td>
+
+[zellij-org/zellij-org.github.io](https://github.com/zellij-org/zellij-org.github.io)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-11T09:01:08+00:00'>Mar 11th 09:01</span></td>
+<td>
+
+💬 commented on [#31: Chapter 5a.7 - No args in instructions.md](https://github.com/afska/emudevz/issues/31)
+
+</td>
+<td>
+
+[afska/emudevz](https://github.com/afska/emudevz)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-09T15:05:00+00:00'>Mar 9th 15:05</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-06T22:39:06+00:00'>Mar 6th 22:39</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-06T22:33:46+00:00'>Mar 6th 22:33</span></td>
 <td>
@@ -154,71 +180,6 @@
 <td>
 
 [catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-06T21:57:38+00:00'>Mar 6th 21:57</span></td>
-<td>
-
-✅ closed [#123: Use Starlight for Docs](https://github.com/catppuccin/python/issues/123)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-06T21:57:29+00:00'>Mar 6th 21:57</span></td>
-<td>
-
-✅ closed [#123: Use Starlight for Docs](https://github.com/catppuccin/python/issues/123)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-06T21:57:28+00:00'>Mar 6th 21:57</span></td>
-<td>
-
-💬 commented on [#123: Use Starlight for Docs](https://github.com/catppuccin/python/issues/123)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-05T22:38:04+00:00'>Mar 5th 22:38</span></td>
-<td>
-
-💬 commented on [#11: fix(template): misc](https://github.com/catppuccin/st/pull/11)
-
-</td>
-<td>
-
-[catppuccin/st](https://github.com/catppuccin/st)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-05T22:38:02+00:00'>Mar 5th 22:38</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/st](https://github.com/catppuccin/st)
 
 </td>
 </tr>
