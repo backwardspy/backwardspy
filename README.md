@@ -24,7 +24,7 @@
 <td><span title='2026-03-11T09:01:08+00:00'>Mar 11th 09:01</span></td>
 <td>
 
-💬 commented on [#31: Chapter 5a.7 - No args in instructions.md](https://github.com/afska/emudevz/issues/31)
+💬 commented on [#31: Include fallback emojis when the system doesn't support them](https://github.com/afska/emudevz/issues/31)
 
 </td>
 <td>
