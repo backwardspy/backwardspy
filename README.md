@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-13T13:55:43+00:00'>Mar 13th 13:55</span></td>
+<td>
+
+📢 opened [#865: fish theme files renamed](https://github.com/catppuccin/nix/issues/865)
+
+</td>
+<td>
+
+[catppuccin/nix](https://github.com/catppuccin/nix)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-13T13:54:07+00:00'>Mar 13th 13:54</span></td>
+<td>
+
+💬 commented on [#41: chore: Rename theme files to match the built-in Catppuccin themes in Fish 4.4+](https://github.com/catppuccin/fish/pull/41)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-13T13:54:04+00:00'>Mar 13th 13:54</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-13T13:54:04+00:00'>Mar 13th 13:54</span></td>
+<td>
+
+✅ closed [#40: Catppuccin themes are built-in since fish 4.4](https://github.com/catppuccin/fish/issues/40)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-13T13:53:23+00:00'>Mar 13th 13:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `chore/fish-4.4`
+
+</td>
+<td>
+
+[helenclx/catppuccin-fish](https://github.com/helenclx/catppuccin-fish)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-03-13T13:53:12+00:00'>Mar 13th 13:53</span></td>
+<td>
+
+🔍 reviewed [#41: chore: Rename theme files to match the built-in Catppuccin themes in Fish 4.4+](https://github.com/catppuccin/fish/pull/41)
+
+</td>
+<td>
+
+[catppuccin/fish](https://github.com/catppuccin/fish)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-11T22:46:37+00:00'>Mar 11th 22:46</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-06T22:39:06+00:00'>Mar 6th 22:39</span></td>
 <td>
@@ -141,45 +219,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-06T22:30:07+00:00'>Mar 6th 22:30</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/switch-to-farver`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-06T22:27:50+00:00'>Mar 6th 22:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/switch-to-farver`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-06T21:58:41+00:00'>Mar 6th 21:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
