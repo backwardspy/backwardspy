@@ -80,19 +80,6 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2026-03-13T13:53:23+00:00'>Mar 13th 13:53</span></td>
-<td>
-
-🚢 pushed 1 commit to `chore/fish-4.4`
-
-</td>
-<td>
-
-[helenclx/catppuccin-fish](https://github.com/helenclx/catppuccin-fish)
-
-</td>
-</tr>
-<tr>
 <td><span title='2026-03-13T13:53:12+00:00'>Mar 13th 13:53</span></td>
 <td>
 
