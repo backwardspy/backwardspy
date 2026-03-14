@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-14T10:38:14+00:00'>Mar 14th 10:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `master`
+
+</td>
+<td>
+
+[backwardspy/emudevz](https://github.com/backwardspy/emudevz)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-13T13:55:43+00:00'>Mar 13th 13:55</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-13T13:53:23+00:00'>Mar 13th 13:53</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-13T13:53:12+00:00'>Mar 13th 13:53</span></td>
 <td>
