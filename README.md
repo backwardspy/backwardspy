@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-18T09:00:12+00:00'>Mar 18th 09:00</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-16T22:07:54+00:00'>Mar 16th 22:07</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-13T13:54:04+00:00'>Mar 13th 13:54</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-13T13:54:04+00:00'>Mar 13th 13:54</span></td>
 <td>
@@ -214,19 +227,6 @@
 <td>
 
 ✅ closed [#32: Whiskers breaks on some specific color overrides](https://github.com/catppuccin/whiskers/issues/32)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-06T22:33:23+00:00'>Mar 6th 22:33</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
