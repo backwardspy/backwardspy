@@ -8,7 +8,33 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2026-03-18T09:00:12+00:00'>Mar 18th 09:00</span></td>
+<td><span title='2026-03-20T22:52:03+00:00'>Mar 20th 22:52</span></td>
+<td>
+
+💬 commented on [#134: feat: add oklch](https://github.com/catppuccin/palette/pull/134)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T22:41:32+00:00'>Mar 20th 22:41</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/oklch`
+
+</td>
+<td>
+
+[scarcekoi/palette](https://github.com/scarcekoi/palette)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T22:41:22+00:00'>Mar 20th 22:41</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -16,12 +42,12 @@
 </td>
 <td>
 
-[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+[catppuccin/palette](https://github.com/catppuccin/palette)
 
 </td>
 </tr>
 <tr>
-<td><span title='2026-03-16T22:07:54+00:00'>Mar 16th 22:07</span></td>
+<td><span title='2026-03-20T22:32:44+00:00'>Mar 20th 22:32</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -29,46 +55,20 @@
 </td>
 <td>
 
-[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2026-03-14T10:38:14+00:00'>Mar 14th 10:38</span></td>
+<td><span title='2026-03-20T22:31:19+00:00'>Mar 20th 22:31</span></td>
 <td>
 
-🚢 pushed 1 commit to `master`
+✅ closed [#71: centralise warnings & error output](https://github.com/catppuccin/whiskers/issues/71)
 
 </td>
 <td>
 
-[backwardspy/emudevz](https://github.com/backwardspy/emudevz)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-13T13:55:43+00:00'>Mar 13th 13:55</span></td>
-<td>
-
-📢 opened [#865: fish theme files renamed](https://github.com/catppuccin/nix/issues/865)
-
-</td>
-<td>
-
-[catppuccin/nix](https://github.com/catppuccin/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-13T13:54:07+00:00'>Mar 13th 13:54</span></td>
-<td>
-
-💬 commented on [#41: chore: Rename theme files to match the built-in Catppuccin themes in Fish 4.4+](https://github.com/catppuccin/fish/pull/41)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
@@ -80,111 +80,20 @@
 <table>
 <tbody>
 <tr>
-<td><span title='2026-03-13T13:54:04+00:00'>Mar 13th 13:54</span></td>
+<td><span title='2026-03-20T22:31:17+00:00'>Mar 20th 22:31</span></td>
 <td>
 
-🚢 pushed 1 commit to `main`
+💬 commented on [#71: centralise warnings & error output](https://github.com/catppuccin/whiskers/issues/71)
 
 </td>
 <td>
 
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-13T13:54:04+00:00'>Mar 13th 13:54</span></td>
-<td>
-
-✅ closed [#40: Catppuccin themes are built-in since fish 4.4](https://github.com/catppuccin/fish/issues/40)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
 <tr>
-<td><span title='2026-03-13T13:53:12+00:00'>Mar 13th 13:53</span></td>
-<td>
-
-🔍 reviewed [#41: chore: Rename theme files to match the built-in Catppuccin themes in Fish 4.4+](https://github.com/catppuccin/fish/pull/41)
-
-</td>
-<td>
-
-[catppuccin/fish](https://github.com/catppuccin/fish)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-11T22:46:37+00:00'>Mar 11th 22:46</span></td>
-<td>
-
-🚀 opened [#289: docs: add missing catppuccin-mocha entry to themes list](https://github.com/zellij-org/zellij-org.github.io/pull/289)
-
-</td>
-<td>
-
-[zellij-org/zellij-org.github.io](https://github.com/zellij-org/zellij-org.github.io)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-11T09:01:08+00:00'>Mar 11th 09:01</span></td>
-<td>
-
-💬 commented on [#31: Display a warning when some emojis aren't supported](https://github.com/afska/emudevz/issues/31)
-
-</td>
-<td>
-
-[afska/emudevz](https://github.com/afska/emudevz)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-09T15:05:00+00:00'>Mar 9th 15:05</span></td>
-<td>
-
-💬 commented on [#30: can't run anything at step 5a.17 (`this.logger is not a function`)](https://github.com/afska/emudevz/issues/30)
-
-</td>
-<td>
-
-[afska/emudevz](https://github.com/afska/emudevz)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-09T13:05:11+00:00'>Mar 9th 13:05</span></td>
-<td>
-
-💬 commented on [#30: can't run anything at step 5a.17 (`this.logger is not a function`)](https://github.com/afska/emudevz/issues/30)
-
-</td>
-<td>
-
-[afska/emudevz](https://github.com/afska/emudevz)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-09T12:10:46+00:00'>Mar 9th 12:10</span></td>
-<td>
-
-📢 opened [#30: can't run anything at step 5a.17 (`this.logger is not a function`)](https://github.com/afska/emudevz/issues/30)
-
-</td>
-<td>
-
-[afska/emudevz](https://github.com/afska/emudevz)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-06T22:39:06+00:00'>Mar 6th 22:39</span></td>
+<td><span title='2026-03-20T22:27:01+00:00'>Mar 20th 22:27</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -197,7 +106,59 @@
 </td>
 </tr>
 <tr>
-<td><span title='2026-03-06T22:34:52+00:00'>Mar 6th 22:34</span></td>
+<td><span title='2026-03-20T22:24:49+00:00'>Mar 20th 22:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `chore/miette`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T22:19:25+00:00'>Mar 20th 22:19</span></td>
+<td>
+
+🚢 pushed 1 commit to `chore/miette`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T22:18:29+00:00'>Mar 20th 22:18</span></td>
+<td>
+
+🚢 pushed 1 commit to `chore/miette`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T22:13:52+00:00'>Mar 20th 22:13</span></td>
+<td>
+
+🚀 opened [#161: feat: use miette for consistent error & warning diagnostics](https://github.com/catppuccin/whiskers/pull/161)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T22:12:51+00:00'>Mar 20th 22:12</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
@@ -210,10 +171,10 @@
 </td>
 </tr>
 <tr>
-<td><span title='2026-03-06T22:33:46+00:00'>Mar 6th 22:33</span></td>
+<td><span title='2026-03-20T22:12:31+00:00'>Mar 20th 22:12</span></td>
 <td>
 
-💬 commented on [#32: Whiskers breaks on some specific color overrides](https://github.com/catppuccin/whiskers/issues/32)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
@@ -223,15 +184,80 @@
 </td>
 </tr>
 <tr>
-<td><span title='2026-03-06T22:33:24+00:00'>Mar 6th 22:33</span></td>
+<td><span title='2026-03-20T21:08:38+00:00'>Mar 20th 21:08</span></td>
 <td>
 
-✅ closed [#32: Whiskers breaks on some specific color overrides](https://github.com/catppuccin/whiskers/issues/32)
+🚢 pushed 1 commit to `main`
 
 </td>
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T20:51:52+00:00'>Mar 20th 20:51</span></td>
+<td>
+
+💬 commented on [#155: docs: remove # from examples on filters page](https://github.com/catppuccin/whiskers/pull/155)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T20:51:47+00:00'>Mar 20th 20:51</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T20:40:41+00:00'>Mar 20th 20:40</span></td>
+<td>
+
+💬 commented on [#157: docs(filters): add attributes section](https://github.com/catppuccin/whiskers/pull/157)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-20T20:40:38+00:00'>Mar 20th 20:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-18T09:00:12+00:00'>Mar 18th 09:00</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
 
 </td>
 </tr>
