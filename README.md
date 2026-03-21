@@ -8,6 +8,91 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-21T09:26:19+00:00'>Mar 21st 09:26</span></td>
+<td>
+
+🔍 reviewed [#134: feat: add oklch](https://github.com/catppuccin/palette/pull/134)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-21T09:22:45+00:00'>Mar 21st 09:22</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/oklch`
+
+</td>
+<td>
+
+[scarcekoi/palette](https://github.com/scarcekoi/palette)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-21T09:22:30+00:00'>Mar 21st 09:22</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-21T09:19:04+00:00'>Mar 21st 09:19</span></td>
+<td>
+
+🚢 pushed 1 commit to `ci/versions`
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-03-21T09:10:43+00:00'>Mar 21st 09:10</span></td>
+<td>
+
+🚀 opened [#135: ci: update actions](https://github.com/catppuccin/palette/pull/135)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-03-21T08:35:11+00:00'>Mar 21st 08:35</span></td>
+<td>
+
+💬 commented on [#157: docs(filters): add attributes section](https://github.com/catppuccin/whiskers/pull/157)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-20T22:52:03+00:00'>Mar 20th 22:52</span></td>
 <td>
 
@@ -72,13 +157,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-20T22:31:17+00:00'>Mar 20th 22:31</span></td>
 <td>
@@ -180,84 +258,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T21:08:38+00:00'>Mar 20th 21:08</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T20:51:52+00:00'>Mar 20th 20:51</span></td>
-<td>
-
-💬 commented on [#155: docs: remove # from examples on filters page](https://github.com/catppuccin/whiskers/pull/155)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T20:51:47+00:00'>Mar 20th 20:51</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T20:40:41+00:00'>Mar 20th 20:40</span></td>
-<td>
-
-💬 commented on [#157: docs(filters): add attributes section](https://github.com/catppuccin/whiskers/pull/157)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T20:40:38+00:00'>Mar 20th 20:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-18T09:00:12+00:00'>Mar 18th 09:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/casper-cogs](https://github.com/backwardspy/casper-cogs)
 
 </td>
 </tr>
