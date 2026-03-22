@@ -8,10 +8,23 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-03-21T21:22:48+00:00'>Mar 21st 21:22</span></td>
+<td>
+
+🔍 reviewed [#124: docs(sass): update formatting of map command](https://github.com/catppuccin/palette/pull/124)
+
+</td>
+<td>
+
+[catppuccin/palette](https://github.com/catppuccin/palette)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-21T09:26:19+00:00'>Mar 21st 09:26</span></td>
 <td>
 
-🔍 reviewed [#134: feat: add oklch](https://github.com/catppuccin/palette/pull/134)
+🔍 reviewed [#134: feat: generate `oklch` values](https://github.com/catppuccin/palette/pull/134)
 
 </td>
 <td>
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-21T09:10:43+00:00'>Mar 21st 09:10</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-21T08:35:11+00:00'>Mar 21st 08:35</span></td>
 <td>
@@ -96,7 +109,7 @@
 <td><span title='2026-03-20T22:52:03+00:00'>Mar 20th 22:52</span></td>
 <td>
 
-💬 commented on [#134: feat: add oklch](https://github.com/catppuccin/palette/pull/134)
+💬 commented on [#134: feat: generate `oklch` values](https://github.com/catppuccin/palette/pull/134)
 
 </td>
 <td>
@@ -237,19 +250,6 @@
 </tr>
 <tr>
 <td><span title='2026-03-20T22:12:51+00:00'>Mar 20th 22:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T22:12:31+00:00'>Mar 20th 22:12</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
