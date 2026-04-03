@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-04-03T10:51:30+00:00'>Apr 3rd 10:51</span></td>
+<td>
+
+💬 commented on [#3025: docs(showcase): add Yaw Terminal](https://github.com/catppuccin/catppuccin/pull/3025)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-03-25T16:47:26+00:00'>Mar 25th 16:47</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-21T09:22:30+00:00'>Mar 21st 09:22</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-21T09:19:04+00:00'>Mar 21st 09:19</span></td>
 <td>
@@ -240,19 +253,6 @@
 <td>
 
 🚢 pushed 1 commit to `chore/miette`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T22:13:52+00:00'>Mar 20th 22:13</span></td>
-<td>
-
-🚀 opened [#161: feat: use miette for consistent error & warning diagnostics](https://github.com/catppuccin/whiskers/pull/161)
 
 </td>
 <td>
