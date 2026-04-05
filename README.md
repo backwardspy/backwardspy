@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-04-05T11:40:23+00:00'>Apr 5th 11:40</span></td>
+<td>
+
+💬 commented on [#169: docs: change `favourite` to `favorite` in quick-start](https://github.com/catppuccin/whiskers/pull/169)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-04-05T11:40:07+00:00'>Apr 5th 11:40</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-04-03T10:51:30+00:00'>Apr 3rd 10:51</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-21T09:26:19+00:00'>Mar 21st 09:26</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-21T09:22:30+00:00'>Mar 21st 09:22</span></td>
 <td>
@@ -224,32 +250,6 @@
 </tr>
 <tr>
 <td><span title='2026-03-20T22:24:49+00:00'>Mar 20th 22:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `chore/miette`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T22:19:25+00:00'>Mar 20th 22:19</span></td>
-<td>
-
-🚢 pushed 1 commit to `chore/miette`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T22:18:29+00:00'>Mar 20th 22:18</span></td>
 <td>
 
 🚢 pushed 1 commit to `chore/miette`
