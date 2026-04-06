@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-04-06T15:34:33+00:00'>Apr 6th 15:34</span></td>
+<td>
+
+🔍 reviewed [#257: feat: add `Islands` variants](https://github.com/catppuccin/jetbrains/pull/257)
+
+</td>
+<td>
+
+[catppuccin/jetbrains](https://github.com/catppuccin/jetbrains)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-04-05T11:40:23+00:00'>Apr 5th 11:40</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-21T21:22:48+00:00'>Mar 21st 21:22</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-21T09:26:19+00:00'>Mar 21st 09:26</span></td>
 <td>
@@ -240,19 +253,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T22:24:49+00:00'>Mar 20th 22:24</span></td>
-<td>
-
-🚢 pushed 1 commit to `chore/miette`
 
 </td>
 <td>
