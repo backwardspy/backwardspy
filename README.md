@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-04-08T14:17:20+00:00'>Apr 8th 14:17</span></td>
+<td>
+
+💬 commented on [#68: feat: add oklch](https://github.com/catppuccin/rust/pull/68)
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-04-08T14:17:20+00:00'>Apr 8th 14:17</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-04-08T12:01:11+00:00'>Apr 8th 12:01</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-04-05T11:40:07+00:00'>Apr 5th 11:40</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-25T16:47:26+00:00'>Mar 25th 16:47</span></td>
 <td>
@@ -240,19 +266,6 @@
 <td>
 
 ✅ closed [#71: centralise warnings & error output](https://github.com/catppuccin/whiskers/issues/71)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T22:31:17+00:00'>Mar 20th 22:31</span></td>
-<td>
-
-💬 commented on [#71: centralise warnings & error output](https://github.com/catppuccin/whiskers/issues/71)
 
 </td>
 <td>
