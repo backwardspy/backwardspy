@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-04-08T12:01:11+00:00'>Apr 8th 12:01</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-04-06T15:34:33+00:00'>Apr 6th 15:34</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-03-25T16:47:26+00:00'>Mar 25th 16:47</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-03-21T21:22:48+00:00'>Mar 21st 21:22</span></td>
 <td>
@@ -240,19 +253,6 @@
 <td>
 
 💬 commented on [#71: centralise warnings & error output](https://github.com/catppuccin/whiskers/issues/71)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-03-20T22:27:01+00:00'>Mar 20th 22:27</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
