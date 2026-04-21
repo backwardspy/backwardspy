@@ -118,19 +118,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-03-21T21:22:48+00:00'>Mar 21st 21:22</span></td>
-<td>
-
-🔍 reviewed [#124: docs(sass): update formatting of map command](https://github.com/catppuccin/palette/pull/124)
-
-</td>
-<td>
-
-[catppuccin/palette](https://github.com/catppuccin/palette)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
