@@ -105,19 +105,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-03-25T16:47:26+00:00'>Mar 25th 16:47</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/basestar-provisions](https://github.com/backwardspy/basestar-provisions)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
