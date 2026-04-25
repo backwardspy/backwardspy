@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-04-25T10:24:50+00:00'>Apr 25th 10:24</span></td>
+<td>
+
+💬 commented on [#26: feat: add support light/dark switching](https://github.com/catppuccin/foot/pull/26)
+
+</td>
+<td>
+
+[catppuccin/foot](https://github.com/catppuccin/foot)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-04-25T10:24:44+00:00'>Apr 25th 10:24</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/foot](https://github.com/catppuccin/foot)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-04-25T10:24:45+00:00'>Apr 25th 10:24</span></td>
+<td>
+
+✅ closed [#25: Colors config deprecated](https://github.com/catppuccin/foot/issues/25)
+
+</td>
+<td>
+
+[catppuccin/foot](https://github.com/catppuccin/foot)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-04-20T20:55:04+00:00'>Apr 20th 20:55</span></td>
+<td>
+
+🎉 closed [#24: fix: colors is now deprecated, use colors-dark instead.](https://github.com/catppuccin/foot/pull/24)
+
+</td>
+<td>
+
+[catppuccin/foot](https://github.com/catppuccin/foot)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-04-08T14:17:20+00:00'>Apr 8th 14:17</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-04-08T14:17:20+00:00'>Apr 8th 14:17</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-04-05T11:40:07+00:00'>Apr 5th 11:40</span></td>
 <td>
