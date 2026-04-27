@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-04-27T08:44:06+00:00'>Apr 27th 08:44</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/.github](https://github.com/catppuccin/.github)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-04-26T19:47:04+00:00'>Apr 26th 19:47</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-04-26T19:38:33+00:00'>Apr 26th 19:38</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-04-26T19:38:06+00:00'>Apr 26th 19:38</span></td>
 <td>
@@ -258,19 +271,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-03T10:51:30+00:00'>Apr 3rd 10:51</span></td>
-<td>
-
-💬 commented on [#3025: docs(showcase): add Yaw Terminal](https://github.com/catppuccin/catppuccin/pull/3025)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 
 </td>
 </tr>
