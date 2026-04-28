@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-04-28T11:15:18+00:00'>Apr 28th 11:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[backwardspy/basestar-provisions](https://github.com/backwardspy/basestar-provisions)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-04-27T08:44:06+00:00'>Apr 27th 08:44</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-04-26T19:44:35+00:00'>Apr 26th 19:44</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-04-26T19:38:33+00:00'>Apr 26th 19:38</span></td>
 <td>
@@ -253,19 +266,6 @@
 <td>
 
 💬 commented on [#169: docs: change `favourite` to `favorite` in quick-start](https://github.com/catppuccin/whiskers/pull/169)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-05T11:40:07+00:00'>Apr 5th 11:40</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
 
 </td>
 <td>
