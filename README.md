@@ -8,6 +8,182 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-05-02T12:08:48+00:00'>May 2nd 12:08</span></td>
+<td>
+
+💬 commented on [#1: Doesn't work on Windows](https://github.com/catppuccin/scrivener/issues/1)
+
+</td>
+<td>
+
+[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T12:08:49+00:00'>May 2nd 12:08</span></td>
+<td>
+
+✅ closed [#1: Doesn't work on Windows](https://github.com/catppuccin/scrivener/issues/1)
+
+</td>
+<td>
+
+[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T12:08:34+00:00'>May 2nd 12:08</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T12:06:41+00:00'>May 2nd 12:06</span></td>
+<td>
+
+🚀 opened [#3073: docs: update scrivener categories & platforms](https://github.com/catppuccin/catppuccin/pull/3073)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-04-06T17:47:45+00:00'>Apr 6th 17:47</span></td>
+<td>
+
+🎉 closed [#2: feat: add Windows support (.scrtheme format)](https://github.com/catppuccin/scrivener/pull/2)
+
+</td>
+<td>
+
+[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-05-02T12:01:29+00:00'>May 2nd 12:01</span></td>
+<td>
+
+💬 commented on [#2: feat: add Windows support (.scrtheme format)](https://github.com/catppuccin/scrivener/pull/2)
+
+</td>
+<td>
+
+[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T11:53:31+00:00'>May 2nd 11:53</span></td>
+<td>
+
+🚢 pushed 1 commit to `master`
+
+</td>
+<td>
+
+[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T11:53:11+00:00'>May 2nd 11:53</span></td>
+<td>
+
+💬 commented on [#3: feat: add windows support](https://github.com/catppuccin/scrivener/pull/3)
+
+</td>
+<td>
+
+[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T09:45:05+00:00'>May 2nd 09:45</span></td>
+<td>
+
+📢 opened [#637: npm publish failure](https://github.com/catppuccin/vscode/issues/637)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T09:33:35+00:00'>May 2nd 09:33</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T09:23:28+00:00'>May 2nd 09:23</span></td>
+<td>
+
+💬 commented on [#633: fix: use raw.githubusercontent.com for extension schemas](https://github.com/catppuccin/vscode/pull/633)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T09:23:27+00:00'>May 2nd 09:23</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-05-02T09:23:27+00:00'>May 2nd 09:23</span></td>
+<td>
+
+✅ closed [#632: JSON schema domain is not trusted](https://github.com/catppuccin/vscode/issues/632)
+
+</td>
+<td>
+
+[catppuccin/vscode](https://github.com/catppuccin/vscode)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-04-28T17:46:37+00:00'>Apr 28th 17:46</span></td>
 <td>
 
@@ -30,169 +206,6 @@
 <td>
 
 [catppuccin/nix](https://github.com/catppuccin/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-28T17:02:26+00:00'>Apr 28th 17:02</span></td>
-<td>
-
-🚀 opened [#902: ci: checkout with default token](https://github.com/catppuccin/nix/pull/902)
-
-</td>
-<td>
-
-[catppuccin/nix](https://github.com/catppuccin/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-28T11:15:18+00:00'>Apr 28th 11:15</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[backwardspy/basestar-provisions](https://github.com/backwardspy/basestar-provisions)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-27T08:44:06+00:00'>Apr 27th 08:44</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2026-04-26T19:47:04+00:00'>Apr 26th 19:47</span></td>
-<td>
-
-✅ closed [#55: Add a separate branch for iced 14](https://github.com/catppuccin/rust/issues/55)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-26T19:46:54+00:00'>Apr 26th 19:46</span></td>
-<td>
-
-✅ closed [#71: Update support for Bevy 0.18.1](https://github.com/catppuccin/rust/issues/71)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-26T19:46:53+00:00'>Apr 26th 19:46</span></td>
-<td>
-
-💬 commented on [#71: Update support for Bevy 0.18.1](https://github.com/catppuccin/rust/issues/71)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-26T19:44:35+00:00'>Apr 26th 19:44</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-26T19:38:33+00:00'>Apr 26th 19:38</span></td>
-<td>
-
-💬 commented on [#67: chore(iced): update to 0.14.0](https://github.com/catppuccin/rust/pull/67)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-26T19:38:06+00:00'>Apr 26th 19:38</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-26T19:38:06+00:00'>Apr 26th 19:38</span></td>
-<td>
-
-✅ closed [#59: Use iced 14](https://github.com/catppuccin/rust/issues/59)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-06T20:41:22+00:00'>Apr 6th 20:41</span></td>
-<td>
-
-🎉 closed [#67: chore(iced): update to 0.14.0](https://github.com/catppuccin/rust/pull/67)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-26T19:31:38+00:00'>Apr 26th 19:31</span></td>
-<td>
-
-🚀 opened [#72: feat: upgrade dependencies](https://github.com/catppuccin/rust/pull/72)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
