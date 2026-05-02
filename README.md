@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-05-02T15:27:54+00:00'>May 2nd 15:27</span></td>
+<td>
+
+💬 commented on [#4: Linux Support](https://github.com/catppuccin/scrivener/issues/4)
+
+</td>
+<td>
+
+[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-05-02T12:08:48+00:00'>May 2nd 12:08</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-04-06T17:47:45+00:00'>Apr 6th 17:47</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-05-02T12:01:29+00:00'>May 2nd 12:01</span></td>
 <td>
