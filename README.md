@@ -196,32 +196,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-04-28T17:46:37+00:00'>Apr 28th 17:46</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/nix](https://github.com/catppuccin/nix)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-04-28T17:46:27+00:00'>Apr 28th 17:46</span></td>
-<td>
-
-🚀 opened [#903: Revert "ci: checkout with default token"](https://github.com/catppuccin/nix/pull/903)
-
-</td>
-<td>
-
-[catppuccin/nix](https://github.com/catppuccin/nix)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
