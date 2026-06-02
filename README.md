@@ -7,19 +7,6 @@
 <!-- SCRIPT:REPLACE:GITHUB -->
 <table>
 <tbody>
-<tr>
-<td><span title='2026-05-02T15:27:54+00:00'>May 2nd 15:27</span></td>
-<td>
-
-💬 commented on [#4: Linux Support](https://github.com/catppuccin/scrivener/issues/4)
-
-</td>
-<td>
-
-[catppuccin/scrivener](https://github.com/catppuccin/scrivener)
-
-</td>
-</tr>
 </tbody>
 </table>
 
