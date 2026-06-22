@@ -7,6 +7,32 @@
 <!-- SCRIPT:REPLACE:GITHUB -->
 <table>
 <tbody>
+<tr>
+<td><span title='2026-06-22T18:51:55+00:00'>Jun 22nd 18:51</span></td>
+<td>
+
+💬 commented on [#179: fix(templating): fully remove rgb_array](https://github.com/catppuccin/whiskers/pull/179)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-06-22T18:51:52+00:00'>Jun 22nd 18:51</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
 </tbody>
 </table>
 
