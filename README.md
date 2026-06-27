@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-06-27T10:56:49+00:00'>Jun 27th 10:56</span></td>
+<td>
+
+📢 opened [#6: filter by f2p/member status](https://github.com/SFranciscoSouza/LogAdviser/issues/6)
+
+</td>
+<td>
+
+[SFranciscoSouza/LogAdviser](https://github.com/SFranciscoSouza/LogAdviser)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-06-26T19:12:43+00:00'>Jun 26th 19:12</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-06-22T18:51:55+00:00'>Jun 22nd 18:51</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-06-22T18:51:52+00:00'>Jun 22nd 18:51</span></td>
 <td>
