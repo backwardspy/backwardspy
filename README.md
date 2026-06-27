@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-06-26T19:12:43+00:00'>Jun 26th 19:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/kde](https://github.com/catppuccin/kde)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-06-22T19:06:33+00:00'>Jun 22nd 19:06</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-06-22T18:51:52+00:00'>Jun 22nd 18:51</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 </tbody>
 </table>
 </details>
