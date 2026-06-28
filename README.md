@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-06-28T11:52:26+00:00'>Jun 28th 11:52</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/fzf](https://github.com/catppuccin/fzf)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-06-27T10:56:49+00:00'>Jun 27th 10:56</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-06-22T19:05:17+00:00'>Jun 22nd 19:05</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-06-22T18:51:55+00:00'>Jun 22nd 18:51</span></td>
 <td>
