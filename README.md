@@ -92,58 +92,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-06-22T19:08:18+00:00'>Jun 22nd 19:08</span></td>
-<td>
-
-💬 commented on [#2747: minimap: use new high precision camera yaw](https://github.com/Zoinkwiz/quest-helper/pull/2747)
-
-</td>
-<td>
-
-[Zoinkwiz/quest-helper](https://github.com/Zoinkwiz/quest-helper)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-06-22T19:05:17+00:00'>Jun 22nd 19:05</span></td>
-<td>
-
-🚀 opened [#2747: minimap: use new high precision camera yaw](https://github.com/Zoinkwiz/quest-helper/pull/2747)
-
-</td>
-<td>
-
-[Zoinkwiz/quest-helper](https://github.com/Zoinkwiz/quest-helper)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-06-22T18:51:55+00:00'>Jun 22nd 18:51</span></td>
-<td>
-
-💬 commented on [#179: fix(templating): fully remove rgb_array](https://github.com/catppuccin/whiskers/pull/179)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-06-22T18:51:52+00:00'>Jun 22nd 18:51</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
