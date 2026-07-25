@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-07-25T11:34:48+00:00'>Jul 25th 11:34</span></td>
+<td>
+
+🔍 reviewed [#3099: docs: add catppuccin/wofi](https://github.com/catppuccin/catppuccin/pull/3099)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-07-25T11:23:51+00:00'>Jul 25th 11:23</span></td>
+<td>
+
+💬 commented on [#3092: Colour Palette Error](https://github.com/catppuccin/catppuccin/issues/3092)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-07-25T11:23:51+00:00'>Jul 25th 11:23</span></td>
+<td>
+
+✅ closed [#3092: Colour Palette Error](https://github.com/catppuccin/catppuccin/issues/3092)
+
+</td>
+<td>
+
+[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-07-22T10:37:22+00:00'>Jul 22nd 10:37</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-06-28T11:52:26+00:00'>Jun 28th 11:52</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-06-22T19:06:33+00:00'>Jun 22nd 19:06</span></td>
 <td>
