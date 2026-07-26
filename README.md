@@ -118,19 +118,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-06-22T19:06:33+00:00'>Jun 22nd 19:06</span></td>
-<td>
-
-🎉 closed [#2747: minimap: use new high precision camera yaw](https://github.com/Zoinkwiz/quest-helper/pull/2747)
-
-</td>
-<td>
-
-[Zoinkwiz/quest-helper](https://github.com/Zoinkwiz/quest-helper)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
