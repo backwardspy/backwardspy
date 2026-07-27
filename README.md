@@ -105,19 +105,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-06-26T19:12:43+00:00'>Jun 26th 19:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/kde](https://github.com/catppuccin/kde)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
