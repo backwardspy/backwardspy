@@ -92,19 +92,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-06-27T10:56:49+00:00'>Jun 27th 10:56</span></td>
-<td>
-
-📢 opened [#6: filter by f2p/member status](https://github.com/SFranciscoSouza/LogAdviser/issues/6)
-
-</td>
-<td>
-
-[SFranciscoSouza/LogAdviser](https://github.com/SFranciscoSouza/LogAdviser)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
