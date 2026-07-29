@@ -79,19 +79,6 @@
 <summary>show more...</summary>
 <table>
 <tbody>
-<tr>
-<td><span title='2026-06-28T11:52:26+00:00'>Jun 28th 11:52</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/fzf](https://github.com/catppuccin/fzf)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
