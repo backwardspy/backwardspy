@@ -46,19 +46,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-07-22T10:37:22+00:00'>Jul 22nd 10:37</span></td>
-<td>
-
-💬 commented on [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
 </tbody>
 </table>
 
