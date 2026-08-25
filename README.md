@@ -7,45 +7,6 @@
 <!-- SCRIPT:REPLACE:GITHUB -->
 <table>
 <tbody>
-<tr>
-<td><span title='2026-07-25T11:34:48+00:00'>Jul 25th 11:34</span></td>
-<td>
-
-🔍 reviewed [#3099: docs: add catppuccin/wofi](https://github.com/catppuccin/catppuccin/pull/3099)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-07-25T11:23:51+00:00'>Jul 25th 11:23</span></td>
-<td>
-
-💬 commented on [#3092: Colour Palette Error](https://github.com/catppuccin/catppuccin/issues/3092)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-07-25T11:23:51+00:00'>Jul 25th 11:23</span></td>
-<td>
-
-✅ closed [#3092: Colour Palette Error](https://github.com/catppuccin/catppuccin/issues/3092)
-
-</td>
-<td>
-
-[catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-
-</td>
-</tr>
 </tbody>
 </table>
 
