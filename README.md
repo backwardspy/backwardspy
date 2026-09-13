@@ -7,6 +7,45 @@
 <!-- SCRIPT:REPLACE:GITHUB -->
 <table>
 <tbody>
+<tr>
+<td><span title='2026-09-13T10:10:46+00:00'>Sep 13th 10:10</span></td>
+<td>
+
+💬 commented on [#7: docs(readme): update whiskers link](https://github.com/catppuccin/windows9x/pull/7)
+
+</td>
+<td>
+
+[catppuccin/windows9x](https://github.com/catppuccin/windows9x)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-09-13T09:59:12+00:00'>Sep 13th 09:59</span></td>
+<td>
+
+🔍 reviewed [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-09-13T09:59:10+00:00'>Sep 13th 09:59</span></td>
+<td>
+
+🔍 reviewed [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
 </tbody>
 </table>
 
