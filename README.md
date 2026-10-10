@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-10-10T11:58:50+00:00'>Oct 10th 11:58</span></td>
+<td>
+
+📢 opened [#4: plugin claims kastori is locked despite having imbued whistle & landing site](https://github.com/elzerma/farm-run-autopilot/issues/4)
+
+</td>
+<td>
+
+[elzerma/farm-run-autopilot](https://github.com/elzerma/farm-run-autopilot)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-09-25T18:40:10+00:00'>Sep 25th 18:40</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-09-13T09:59:10+00:00'>Sep 13th 09:59</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 </tbody>
 </table>
 </details>
