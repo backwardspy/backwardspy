@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-10-23T13:44:53+00:00'>Oct 23rd 13:44</span></td>
+<td>
+
+✅ closed [#24: Thunderbird 157 broke custom themes](https://github.com/catppuccin/thunderbird/issues/24)
+
+</td>
+<td>
+
+[catppuccin/thunderbird](https://github.com/catppuccin/thunderbird)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-10-10T14:08:10+00:00'>Oct 10th 14:08</span></td>
 <td>
 
