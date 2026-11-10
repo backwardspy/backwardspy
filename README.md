@@ -8,6 +8,182 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-10T14:55:05+00:00'>Nov 10th 14:55</span></td>
+<td>
+
+💬 commented on [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T14:57:00+00:00'>Nov 10th 14:57</span></td>
+<td>
+
+🔍 reviewed [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T14:50:55+00:00'>Nov 10th 14:50</span></td>
+<td>
+
+🔍 reviewed [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T14:17:56+00:00'>Nov 10th 14:17</span></td>
+<td>
+
+🔍 reviewed [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T14:02:20+00:00'>Nov 10th 14:02</span></td>
+<td>
+
+🎉 closed [#142: feat: auto-sync upstream palettes](https://github.com/catppuccin/python/pull/142)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-11-10T14:01:57+00:00'>Nov 10th 14:01</span></td>
+<td>
+
+🔍 reviewed [#138: chore(main): release 2.6.0](https://github.com/catppuccin/python/pull/138)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T13:33:50+00:00'>Nov 10th 13:33</span></td>
+<td>
+
+💬 commented on [#140: feat(ipython): use ipython 9.18's new theme system](https://github.com/catppuccin/python/pull/140)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T13:52:38+00:00'>Nov 10th 13:52</span></td>
+<td>
+
+✅ closed [#60: Remove italics in ipython](https://github.com/catppuccin/python/issues/60)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T13:51:46+00:00'>Nov 10th 13:51</span></td>
+<td>
+
+🚀 opened [#141: feat(ipython): add noitalic theme variants](https://github.com/catppuccin/python/pull/141)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T12:07:25+00:00'>Nov 10th 12:07</span></td>
+<td>
+
+💬 commented on [#134: feat: Add an ipython extension to load themes](https://github.com/catppuccin/python/pull/134)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-09-24T14:38:37+00:00'>Sep 24th 14:38</span></td>
+<td>
+
+🎉 closed [#134: feat: Add an ipython extension to load themes](https://github.com/catppuccin/python/pull/134)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T12:06:45+00:00'>Nov 10th 12:06</span></td>
+<td>
+
+✅ closed [#111: Using with IPython 9.x](https://github.com/catppuccin/python/issues/111)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T12:06:45+00:00'>Nov 10th 12:06</span></td>
+<td>
+
+✅ closed [#37: White text on yellow background is not visible](https://github.com/catppuccin/python/issues/37)
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-10T12:02:18+00:00'>Nov 10th 12:02</span></td>
 <td>
 
@@ -72,13 +248,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-10T10:50:29+00:00'>Nov 10th 10:50</span></td>
 <td>
@@ -128,19 +297,6 @@
 <td>
 
 [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-10-23T13:44:53+00:00'>Oct 23rd 13:44</span></td>
-<td>
-
-✅ closed [#24: Thunderbird 157 broke custom themes](https://github.com/catppuccin/thunderbird/issues/24)
-
-</td>
-<td>
-
-[catppuccin/thunderbird](https://github.com/catppuccin/thunderbird)
 
 </td>
 </tr>
