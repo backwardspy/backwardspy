@@ -287,19 +287,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-11-10T10:43:14+00:00'>Nov 10th 10:43</span></td>
-<td>
-
-🚀 opened [#476240: fix: user scope causing failed anki upgrades](https://github.com/microsoft/winget-pkgs/pull/476240)
-
-</td>
-<td>
-
-[microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
