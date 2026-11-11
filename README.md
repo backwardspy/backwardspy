@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-10T12:19:02+00:00'>Nov 10th 12:19</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T20:11:39+00:00'>Nov 10th 20:11</span></td>
+<td>
+
+🚢 pushed 1 commit to `colour-flavour-names`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-10T14:08:27+00:00'>Nov 10th 14:08</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-10T11:11:18+00:00'>Nov 10th 11:11</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-10T11:05:18+00:00'>Nov 10th 11:05</span></td>
 <td>
@@ -227,32 +253,6 @@
 <td>
 
 ✅ closed [#60: Remove italics in ipython](https://github.com/catppuccin/python/issues/60)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T13:51:46+00:00'>Nov 10th 13:51</span></td>
-<td>
-
-🚀 opened [#141: feat(ipython): add noitalic theme variants](https://github.com/catppuccin/python/pull/141)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T12:07:25+00:00'>Nov 10th 12:07</span></td>
-<td>
-
-💬 commented on [#134: feat: Add an ipython extension to load themes](https://github.com/catppuccin/python/pull/134)
 
 </td>
 <td>
