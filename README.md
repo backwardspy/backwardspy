@@ -222,19 +222,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-11-10T11:03:53+00:00'>Nov 10th 11:03</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
