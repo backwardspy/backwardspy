@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-10T13:58:46+00:00'>Nov 10th 13:58</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T11:13:46+00:00'>Nov 10th 11:13</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-10T20:18:59+00:00'>Nov 10th 20:18</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-10T14:02:02+00:00'>Nov 10th 14:02</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-10T20:11:39+00:00'>Nov 10th 20:11</span></td>
 <td>
@@ -201,32 +227,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T14:55:05+00:00'>Nov 10th 14:55</span></td>
-<td>
-
-💬 commented on [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T14:57:00+00:00'>Nov 10th 14:57</span></td>
-<td>
-
-🔍 reviewed [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
 
 </td>
 <td>
