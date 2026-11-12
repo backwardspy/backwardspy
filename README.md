@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-10T20:18:59+00:00'>Nov 10th 20:18</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T15:09:54+00:00'>Nov 10th 15:09</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T20:12:25+00:00'>Nov 10th 20:12</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-10T14:02:02+00:00'>Nov 10th 14:02</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/python](https://github.com/catppuccin/python)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-10T12:19:02+00:00'>Nov 10th 12:19</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-10T20:11:39+00:00'>Nov 10th 20:11</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-10T11:11:18+00:00'>Nov 10th 11:11</span></td>
 <td>
@@ -175,84 +227,6 @@
 <td>
 
 🔍 reviewed [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T14:50:55+00:00'>Nov 10th 14:50</span></td>
-<td>
-
-🔍 reviewed [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T14:17:56+00:00'>Nov 10th 14:17</span></td>
-<td>
-
-🔍 reviewed [#128: feat!: compatibility with `matplotlib` 3.11](https://github.com/catppuccin/python/pull/128)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T14:02:20+00:00'>Nov 10th 14:02</span></td>
-<td>
-
-🎉 closed [#142: feat: auto-sync upstream palettes](https://github.com/catppuccin/python/pull/142)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T14:01:57+00:00'>Nov 10th 14:01</span></td>
-<td>
-
-🔍 reviewed [#138: chore(main): release 2.6.0](https://github.com/catppuccin/python/pull/138)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T13:33:50+00:00'>Nov 10th 13:33</span></td>
-<td>
-
-💬 commented on [#140: feat(ipython): use ipython 9.18's new theme system](https://github.com/catppuccin/python/pull/140)
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T13:52:38+00:00'>Nov 10th 13:52</span></td>
-<td>
-
-✅ closed [#60: Remove italics in ipython](https://github.com/catppuccin/python/issues/60)
 
 </td>
 <td>
