@@ -8,6 +8,117 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-14T11:46:23+00:00'>Nov 14th 11:46</span></td>
+<td>
+
+💬 commented on [#9: Improve examples and documentation](https://github.com/catppuccin/whiskers/issues/9)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T11:44:38+00:00'>Nov 14th 11:44</span></td>
+<td>
+
+✅ closed [#9: Improve examples and documentation](https://github.com/catppuccin/whiskers/issues/9)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-13T22:43:59+00:00'>Nov 13th 22:43</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-13T13:11:28+00:00'>Nov 13th 13:11</span></td>
+<td>
+
+🎉 closed [#190: refactor: reduce Rust dependencies](https://github.com/catppuccin/whiskers/pull/190)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T10:39:00+00:00'>Nov 14th 10:39</span></td>
+<td>
+
+💬 commented on [#190: refactor: reduce Rust dependencies](https://github.com/catppuccin/whiskers/pull/190)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-11-14T10:30:06+00:00'>Nov 14th 10:30</span></td>
+<td>
+
+🔍 reviewed [#187: docs(quick-start): update wording](https://github.com/catppuccin/whiskers/pull/187)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T10:28:09+00:00'>Nov 14th 10:28</span></td>
+<td>
+
+💬 commented on [#165: docs(frontmatter): fix wording for the `hex_format` specification of `z`](https://github.com/catppuccin/whiskers/pull/165)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T10:15:05+00:00'>Nov 14th 10:15</span></td>
+<td>
+
+✅ closed [#181: Tera Built-Ins Link on Functions Reference Page is Broken](https://github.com/catppuccin/whiskers/issues/181)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-13T21:56:21+00:00'>Nov 13th 21:56</span></td>
 <td>
 
@@ -72,13 +183,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-13T20:38:28+00:00'>Nov 13th 20:38</span></td>
 <td>
@@ -162,84 +266,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T20:18:59+00:00'>Nov 10th 20:18</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T15:09:54+00:00'>Nov 10th 15:09</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T20:12:25+00:00'>Nov 10th 20:12</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T14:02:02+00:00'>Nov 10th 14:02</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T12:19:02+00:00'>Nov 10th 12:19</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T20:11:39+00:00'>Nov 10th 20:11</span></td>
-<td>
-
-🚢 pushed 1 commit to `colour-flavour-names`
 
 </td>
 <td>
