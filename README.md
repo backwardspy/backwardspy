@@ -8,6 +8,169 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-14T15:56:25+00:00'>Nov 14th 15:56</span></td>
+<td>
+
+🚀 opened [#53: feat: use palette ansi colours](https://github.com/catppuccin/alacritty/pull/53)
+
+</td>
+<td>
+
+[catppuccin/alacritty](https://github.com/catppuccin/alacritty)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T15:47:40+00:00'>Nov 14th 15:47</span></td>
+<td>
+
+🚀 opened [#41: feat: use palette ansi colours](https://github.com/catppuccin/kitty/pull/41)
+
+</td>
+<td>
+
+[catppuccin/kitty](https://github.com/catppuccin/kitty)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T15:40:53+00:00'>Nov 14th 15:40</span></td>
+<td>
+
+🚀 opened [#25: feat: use palette ansi colours](https://github.com/catppuccin/ghostty/pull/25)
+
+</td>
+<td>
+
+[catppuccin/ghostty](https://github.com/catppuccin/ghostty)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T15:00:02+00:00'>Nov 14th 15:00</span></td>
+<td>
+
+💬 commented on [#119: feat(ansiColors): merge main, docs, test](https://github.com/catppuccin/whiskers/pull/119)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T14:55:15+00:00'>Nov 14th 14:55</span></td>
+<td>
+
+🎉 closed [#119: feat(ansiColors): merge main, docs, test](https://github.com/catppuccin/whiskers/pull/119)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-11-14T14:58:59+00:00'>Nov 14th 14:58</span></td>
+<td>
+
+✅ closed [#55: Add aliases for ANSI/terminal colors](https://github.com/catppuccin/whiskers/issues/55)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T14:25:04+00:00'>Nov 14th 14:25</span></td>
+<td>
+
+💬 commented on [#187: docs(quick-start): update wording](https://github.com/catppuccin/whiskers/pull/187)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T14:11:55+00:00'>Nov 14th 14:11</span></td>
+<td>
+
+🔍 reviewed [#184: feat(read_file): add `start_line` and `end_line` parameters](https://github.com/catppuccin/whiskers/pull/184)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T14:09:51+00:00'>Nov 14th 14:09</span></td>
+<td>
+
+🔍 reviewed [#184: feat(read_file): add `start_line` and `end_line` parameters](https://github.com/catppuccin/whiskers/pull/184)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T14:09:07+00:00'>Nov 14th 14:09</span></td>
+<td>
+
+🔍 reviewed [#184: feat(read_file): add `start_line` and `end_line` parameters](https://github.com/catppuccin/whiskers/pull/184)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T14:09:07+00:00'>Nov 14th 14:09</span></td>
+<td>
+
+🔍 reviewed [#184: feat(read_file): add `start_line` and `end_line` parameters](https://github.com/catppuccin/whiskers/pull/184)
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T12:07:26+00:00'>Nov 14th 12:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-14T11:46:23+00:00'>Nov 14th 11:46</span></td>
 <td>
 
@@ -72,13 +235,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-14T10:30:06+00:00'>Nov 14th 10:30</span></td>
 <td>
@@ -89,188 +245,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T10:28:09+00:00'>Nov 14th 10:28</span></td>
-<td>
-
-💬 commented on [#165: docs(frontmatter): fix wording for the `hex_format` specification of `z`](https://github.com/catppuccin/whiskers/pull/165)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T10:15:05+00:00'>Nov 14th 10:15</span></td>
-<td>
-
-✅ closed [#181: Tera Built-Ins Link on Functions Reference Page is Broken](https://github.com/catppuccin/whiskers/issues/181)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T21:56:21+00:00'>Nov 13th 21:56</span></td>
-<td>
-
-✅ closed [#40: better grouping in generated code](https://github.com/catppuccin/rust/issues/40)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T21:51:21+00:00'>Nov 13th 21:51</span></td>
-<td>
-
-🚀 opened [#85: docs: group impl blocks and fix broken links](https://github.com/catppuccin/rust/pull/85)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T21:02:40+00:00'>Nov 13th 21:02</span></td>
-<td>
-
-💬 commented on [#66: feat(build.rs): AnsiColorPair.order: u32 => u8](https://github.com/catppuccin/rust/pull/66)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-02-03T19:27:02+00:00'>Feb 3rd 19:27</span></td>
-<td>
-
-🎉 closed [#66: feat(build.rs): AnsiColorPair.order: u32 => u8](https://github.com/catppuccin/rust/pull/66)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T20:46:37+00:00'>Nov 13th 20:46</span></td>
-<td>
-
-📢 opened [#83: remove bevy-full feature](https://github.com/catppuccin/rust/issues/83)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T20:38:28+00:00'>Nov 13th 20:38</span></td>
-<td>
-
-💬 commented on [#80: fix(deps): use iced_core for color conversions](https://github.com/catppuccin/rust/pull/80)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-07-27T01:38:13+00:00'>Jul 27th 01:38</span></td>
-<td>
-
-🎉 closed [#80: fix(deps): use iced_core for color conversions](https://github.com/catppuccin/rust/pull/80)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T20:37:54+00:00'>Nov 13th 20:37</span></td>
-<td>
-
-💬 commented on [#82: fix(deps): update dependencies and resolve all-features build conflict](https://github.com/catppuccin/rust/pull/82)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T20:37:23+00:00'>Nov 13th 20:37</span></td>
-<td>
-
-✅ closed [#77: Don't use default features in iced](https://github.com/catppuccin/rust/issues/77)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T20:37:23+00:00'>Nov 13th 20:37</span></td>
-<td>
-
-✅ closed [#76: Color conversion does not work](https://github.com/catppuccin/rust/issues/76)
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T13:58:46+00:00'>Nov 10th 13:58</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-10T11:13:46+00:00'>Nov 10th 11:13</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/python](https://github.com/catppuccin/python)
 
 </td>
 </tr>
