@@ -8,6 +8,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-14T10:28:06+00:00'>Nov 14th 10:28</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-15T10:43:17+00:00'>Nov 15th 10:43</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/warp](https://github.com/catppuccin/warp)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-15T10:53:19+00:00'>Nov 15th 10:53</span></td>
+<td>
+
+🚀 opened [#9: feat: use palette ansi colours](https://github.com/catppuccin/konsole/pull/9)
+
+</td>
+<td>
+
+[catppuccin/konsole](https://github.com/catppuccin/konsole)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-15T10:42:36+00:00'>Nov 15th 10:42</span></td>
+<td>
+
+🚀 opened [#18: feat: use palette ansi colours](https://github.com/catppuccin/warp/pull/18)
+
+</td>
+<td>
+
+[catppuccin/warp](https://github.com/catppuccin/warp)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-15T08:42:10+00:00'>Nov 15th 08:42</span></td>
+<td>
+
+🔍 reviewed [#32: docs: clarify AI policy](https://github.com/catppuccin/.github/pull/32)
+
+</td>
+<td>
+
+[catppuccin/.github](https://github.com/catppuccin/.github)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2026-11-13T22:00:40+00:00'>Nov 13th 22:00</span></td>
 <td>
 
@@ -72,13 +144,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-14T15:00:02+00:00'>Nov 14th 15:00</span></td>
 <td>
@@ -149,110 +214,6 @@
 <td>
 
 🔍 reviewed [#184: feat(read_file): add `start_line` and `end_line` parameters](https://github.com/catppuccin/whiskers/pull/184)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T14:09:07+00:00'>Nov 14th 14:09</span></td>
-<td>
-
-🔍 reviewed [#184: feat(read_file): add `start_line` and `end_line` parameters](https://github.com/catppuccin/whiskers/pull/184)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T14:09:07+00:00'>Nov 14th 14:09</span></td>
-<td>
-
-🔍 reviewed [#184: feat(read_file): add `start_line` and `end_line` parameters](https://github.com/catppuccin/whiskers/pull/184)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T12:07:26+00:00'>Nov 14th 12:07</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T11:46:23+00:00'>Nov 14th 11:46</span></td>
-<td>
-
-💬 commented on [#9: Improve examples and documentation](https://github.com/catppuccin/whiskers/issues/9)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T11:44:38+00:00'>Nov 14th 11:44</span></td>
-<td>
-
-✅ closed [#9: Improve examples and documentation](https://github.com/catppuccin/whiskers/issues/9)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T22:43:59+00:00'>Nov 13th 22:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T13:11:28+00:00'>Nov 13th 13:11</span></td>
-<td>
-
-🎉 closed [#190: refactor: reduce Rust dependencies](https://github.com/catppuccin/whiskers/pull/190)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T10:39:00+00:00'>Nov 14th 10:39</span></td>
-<td>
-
-💬 commented on [#190: refactor: reduce Rust dependencies](https://github.com/catppuccin/whiskers/pull/190)
 
 </td>
 <td>
