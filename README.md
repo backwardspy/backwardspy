@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-13T20:45:02+00:00'>Nov 13th 20:45</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-15T10:46:00+00:00'>Nov 15th 10:46</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-15T10:43:17+00:00'>Nov 15th 10:43</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-15T10:53:19+00:00'>Nov 15th 10:53</span></td>
 <td>
@@ -188,32 +201,6 @@
 <td>
 
 💬 commented on [#119: feat(ansiColors): merge main, docs, test](https://github.com/catppuccin/whiskers/pull/119)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T14:55:15+00:00'>Nov 14th 14:55</span></td>
-<td>
-
-🎉 closed [#119: feat(ansiColors): merge main, docs, test](https://github.com/catppuccin/whiskers/pull/119)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T14:58:59+00:00'>Nov 14th 14:58</span></td>
-<td>
-
-✅ closed [#55: Add aliases for ANSI/terminal colors](https://github.com/catppuccin/whiskers/issues/55)
 
 </td>
 <td>
