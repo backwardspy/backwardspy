@@ -8,6 +8,58 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-13T21:06:21+00:00'>Nov 13th 21:06</span></td>
+<td>
+
+🚢 pushed 1 commit to `release-plz-2026-11-13T20-48-52Z`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-13T21:56:20+00:00'>Nov 13th 21:56</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-13T20:31:43+00:00'>Nov 13th 20:31</span></td>
+<td>
+
+🚢 pushed 1 commit to `dep-updates`
+
+</td>
+<td>
+
+[TimeTravelPenguin/catppuccin-rust](https://github.com/TimeTravelPenguin/catppuccin-rust)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-13T21:17:05+00:00'>Nov 13th 21:17</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/rust](https://github.com/catppuccin/rust)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-13T20:45:02+00:00'>Nov 13th 20:45</span></td>
 <td>
 
@@ -20,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-15T10:46:00+00:00'>Nov 15th 10:46</span></td>
 <td>
@@ -72,13 +131,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-15T10:43:17+00:00'>Nov 15th 10:43</span></td>
 <td>
@@ -154,58 +206,6 @@
 <td>
 
 [catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T15:56:25+00:00'>Nov 14th 15:56</span></td>
-<td>
-
-🚀 opened [#53: feat: use palette ansi colours](https://github.com/catppuccin/alacritty/pull/53)
-
-</td>
-<td>
-
-[catppuccin/alacritty](https://github.com/catppuccin/alacritty)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T15:47:40+00:00'>Nov 14th 15:47</span></td>
-<td>
-
-🚀 opened [#41: feat: use palette ansi colours](https://github.com/catppuccin/kitty/pull/41)
-
-</td>
-<td>
-
-[catppuccin/kitty](https://github.com/catppuccin/kitty)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T15:40:53+00:00'>Nov 14th 15:40</span></td>
-<td>
-
-🚀 opened [#25: feat: use palette ansi colours](https://github.com/catppuccin/ghostty/pull/25)
-
-</td>
-<td>
-
-[catppuccin/ghostty](https://github.com/catppuccin/ghostty)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T15:00:02+00:00'>Nov 14th 15:00</span></td>
-<td>
-
-💬 commented on [#119: feat(ansiColors): merge main, docs, test](https://github.com/catppuccin/whiskers/pull/119)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
