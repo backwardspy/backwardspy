@@ -8,6 +8,32 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-13T22:38:11+00:00'>Nov 13th 22:38</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-13T22:26:35+00:00'>Nov 13th 22:26</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-13T21:06:21+00:00'>Nov 13th 21:06</span></td>
 <td>
 
@@ -46,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-13T21:17:05+00:00'>Nov 13th 21:17</span></td>
 <td>
@@ -72,13 +105,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-15T10:46:00+00:00'>Nov 15th 10:46</span></td>
 <td>
@@ -185,19 +211,6 @@
 </tr>
 <tr>
 <td><span title='2026-11-13T22:00:40+00:00'>Nov 13th 22:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T20:37:22+00:00'>Nov 13th 20:37</span></td>
 <td>
 
 🚢 pushed 1 commit to `main`
