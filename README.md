@@ -8,6 +8,45 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-15T10:46:00+00:00'>Nov 15th 10:46</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/kitty](https://github.com/catppuccin/kitty)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T14:55:14+00:00'>Nov 14th 14:55</span></td>
+<td>
+
+🚢 pushed 1 commit to `feat/ansi`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-14T15:11:28+00:00'>Nov 14th 15:11</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-14T10:28:06+00:00'>Nov 14th 10:28</span></td>
 <td>
 
@@ -33,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-15T10:53:19+00:00'>Nov 15th 10:53</span></td>
 <td>
@@ -72,13 +118,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-13T22:00:40+00:00'>Nov 13th 22:00</span></td>
 <td>
@@ -175,45 +214,6 @@
 <td>
 
 ✅ closed [#55: Add aliases for ANSI/terminal colors](https://github.com/catppuccin/whiskers/issues/55)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T14:25:04+00:00'>Nov 14th 14:25</span></td>
-<td>
-
-💬 commented on [#187: docs(quick-start): update wording](https://github.com/catppuccin/whiskers/pull/187)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T14:11:55+00:00'>Nov 14th 14:11</span></td>
-<td>
-
-🔍 reviewed [#184: feat(read_file): add `start_line` and `end_line` parameters](https://github.com/catppuccin/whiskers/pull/184)
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T14:09:51+00:00'>Nov 14th 14:09</span></td>
-<td>
-
-🔍 reviewed [#184: feat(read_file): add `start_line` and `end_line` parameters](https://github.com/catppuccin/whiskers/pull/184)
 
 </td>
 <td>
