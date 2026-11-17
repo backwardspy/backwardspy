@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-16T18:59:04+00:00'>Nov 16th 18:59</span></td>
+<td>
+
+📦 released v1.0.0
+
+</td>
+<td>
+
+[backwardspy/vg-frame-cap](https://github.com/backwardspy/vg-frame-cap)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-13T22:38:11+00:00'>Nov 13th 22:38</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-13T20:31:43+00:00'>Nov 13th 20:31</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-13T21:17:05+00:00'>Nov 13th 21:17</span></td>
 <td>
@@ -180,45 +193,6 @@
 <td>
 
 [catppuccin/konsole](https://github.com/catppuccin/konsole)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-15T10:42:36+00:00'>Nov 15th 10:42</span></td>
-<td>
-
-🚀 opened [#18: feat: use palette ansi colours](https://github.com/catppuccin/warp/pull/18)
-
-</td>
-<td>
-
-[catppuccin/warp](https://github.com/catppuccin/warp)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-15T08:42:10+00:00'>Nov 15th 08:42</span></td>
-<td>
-
-🔍 reviewed [#32: docs: clarify AI policy](https://github.com/catppuccin/.github/pull/32)
-
-</td>
-<td>
-
-[catppuccin/.github](https://github.com/catppuccin/.github)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T22:00:40+00:00'>Nov 13th 22:00</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
 
 </td>
 </tr>
