@@ -183,19 +183,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-11-15T10:53:19+00:00'>Nov 15th 10:53</span></td>
-<td>
-
-🚀 opened [#9: feat: use palette ansi colours](https://github.com/catppuccin/konsole/pull/9)
-
-</td>
-<td>
-
-[catppuccin/konsole](https://github.com/catppuccin/konsole)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
