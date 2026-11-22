@@ -8,6 +8,156 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-22T17:38:40+00:00'>Nov 22nd 17:38</span></td>
+<td>
+
+💬 commented on [#99: feat: support Visual Studio 2026 and its Fluent UI](https://github.com/catppuccin/visual-studio/pull/99)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T17:35:38+00:00'>Nov 22nd 17:35</span></td>
+<td>
+
+💬 commented on [#97: Add tokens for Visual Studio 2026 support](https://github.com/catppuccin/visual-studio/pull/97)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-10-18T20:48:39+00:00'>Oct 18th 20:48</span></td>
+<td>
+
+🎉 closed [#97: Add tokens for Visual Studio 2026 support](https://github.com/catppuccin/visual-studio/pull/97)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T17:34:32+00:00'>Nov 22nd 17:34</span></td>
+<td>
+
+💬 commented on [#99: feat: support Visual Studio 2026 and its Fluent UI](https://github.com/catppuccin/visual-studio/pull/99)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T17:32:33+00:00'>Nov 22nd 17:32</span></td>
+<td>
+
+✅ closed [#98: Inconsistency in theme color application in Visual Studio 2026](https://github.com/catppuccin/visual-studio/issues/98)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
+<td><span title='2026-11-22T17:32:32+00:00'>Nov 22nd 17:32</span></td>
+<td>
+
+✅ closed [#96: Visual Studio 2026 white and low contrast text](https://github.com/catppuccin/visual-studio/issues/96)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T17:32:30+00:00'>Nov 22nd 17:32</span></td>
+<td>
+
+✅ closed [#94: Not working in Visual Studio 2026](https://github.com/catppuccin/visual-studio/issues/94)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T17:32:29+00:00'>Nov 22nd 17:32</span></td>
+<td>
+
+✅ closed [#90: Support for Visual Studio 2026?](https://github.com/catppuccin/visual-studio/issues/90)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T17:32:28+00:00'>Nov 22nd 17:32</span></td>
+<td>
+
+✅ closed [#89: Theme not displaying correctly in Visual Studio 2026](https://github.com/catppuccin/visual-studio/issues/89)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T17:32:26+00:00'>Nov 22nd 17:32</span></td>
+<td>
+
+✅ closed [#95: Unable to update to 1.6.3 from 1.6.2 in Visual Studio 2026](https://github.com/catppuccin/visual-studio/issues/95)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-19T22:47:09+00:00'>Nov 19th 22:47</span></td>
+<td>
+
+🎉 closed [#99: feat: support Visual Studio 2026 and its Fluent UI](https://github.com/catppuccin/visual-studio/pull/99)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-21T19:13:19+00:00'>Nov 21st 19:13</span></td>
 <td>
 
@@ -38,117 +188,6 @@
 <td>
 
 🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T22:26:35+00:00'>Nov 13th 22:26</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T21:06:21+00:00'>Nov 13th 21:06</span></td>
-<td>
-
-🚢 pushed 1 commit to `release-plz-2026-11-13T20-48-52Z`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
-<tr>
-<td><span title='2026-11-13T21:56:20+00:00'>Nov 13th 21:56</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T20:31:43+00:00'>Nov 13th 20:31</span></td>
-<td>
-
-🚢 pushed 1 commit to `dep-updates`
-
-</td>
-<td>
-
-[TimeTravelPenguin/catppuccin-rust](https://github.com/TimeTravelPenguin/catppuccin-rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T21:17:05+00:00'>Nov 13th 21:17</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T20:45:02+00:00'>Nov 13th 20:45</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/rust](https://github.com/catppuccin/rust)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-15T10:46:00+00:00'>Nov 15th 10:46</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/kitty](https://github.com/catppuccin/kitty)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T14:55:14+00:00'>Nov 14th 14:55</span></td>
-<td>
-
-🚢 pushed 1 commit to `feat/ansi`
 
 </td>
 <td>
