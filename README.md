@@ -157,32 +157,6 @@
 
 </td>
 </tr>
-<tr>
-<td><span title='2026-11-14T15:11:28+00:00'>Nov 14th 15:11</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-14T10:28:06+00:00'>Nov 14th 10:28</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
 </tbody>
 </table>
 </details>
