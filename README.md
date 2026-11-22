@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-21T19:13:19+00:00'>Nov 21st 19:13</span></td>
+<td>
+
+🚢 pushed 1 commit to `windows`
+
+</td>
+<td>
+
+[cpressland/tpw-recomp](https://github.com/cpressland/tpw-recomp)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-16T18:59:04+00:00'>Nov 16th 18:59</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-13T21:56:20+00:00'>Nov 13th 21:56</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-13T20:31:43+00:00'>Nov 13th 20:31</span></td>
 <td>
@@ -167,19 +180,6 @@
 <td>
 
 [catppuccin/whiskers](https://github.com/catppuccin/whiskers)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-15T10:43:17+00:00'>Nov 15th 10:43</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/warp](https://github.com/catppuccin/warp)
 
 </td>
 </tr>
