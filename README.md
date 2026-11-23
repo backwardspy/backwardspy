@@ -8,6 +8,19 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-22T17:37:46+00:00'>Nov 22nd 17:37</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
 <td><span title='2026-11-21T19:07:30+00:00'>Nov 21st 19:07</span></td>
 <td>
 
@@ -59,6 +72,13 @@
 
 </td>
 </tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
 <tr>
 <td><span title='2026-11-22T17:32:25+00:00'>Nov 22nd 17:32</span></td>
 <td>
@@ -72,13 +92,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-22T17:38:40+00:00'>Nov 22nd 17:38</span></td>
 <td>
