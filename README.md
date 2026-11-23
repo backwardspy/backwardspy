@@ -8,6 +8,78 @@
 <table>
 <tbody>
 <tr>
+<td><span title='2026-11-21T19:07:30+00:00'>Nov 21st 19:07</span></td>
+<td>
+
+🚢 pushed 1 commit to `windows`
+
+</td>
+<td>
+
+[cpressland/tpw-recomp](https://github.com/cpressland/tpw-recomp)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T19:16:36+00:00'>Nov 22nd 19:16</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T19:15:17+00:00'>Nov 22nd 19:15</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T19:21:53+00:00'>Nov 22nd 19:21</span></td>
+<td>
+
+💬 commented on [#99: feat: support Visual Studio 2026 and its Fluent UI](https://github.com/catppuccin/visual-studio/pull/99)
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+<tr>
+<td><span title='2026-11-22T17:32:25+00:00'>Nov 22nd 17:32</span></td>
+<td>
+
+🚢 pushed 1 commit to `main`
+
+</td>
+<td>
+
+[catppuccin/visual-studio](https://github.com/catppuccin/visual-studio)
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary>show more...</summary>
+<table>
+<tbody>
+<tr>
 <td><span title='2026-11-22T17:38:40+00:00'>Nov 22nd 17:38</span></td>
 <td>
 
@@ -72,13 +144,6 @@
 
 </td>
 </tr>
-</tbody>
-</table>
-
-<details>
-<summary>show more...</summary>
-<table>
-<tbody>
 <tr>
 <td><span title='2026-11-22T17:32:32+00:00'>Nov 22nd 17:32</span></td>
 <td>
@@ -167,32 +232,6 @@
 <td>
 
 [cpressland/tpw-recomp](https://github.com/cpressland/tpw-recomp)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-16T18:59:04+00:00'>Nov 16th 18:59</span></td>
-<td>
-
-📦 released v1.0.0
-
-</td>
-<td>
-
-[backwardspy/vg-frame-cap](https://github.com/backwardspy/vg-frame-cap)
-
-</td>
-</tr>
-<tr>
-<td><span title='2026-11-13T22:38:11+00:00'>Nov 13th 22:38</span></td>
-<td>
-
-🚢 pushed 1 commit to `main`
-
-</td>
-<td>
-
-[catppuccin/whiskers](https://github.com/catppuccin/whiskers)
 
 </td>
 </tr>
